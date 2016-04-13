@@ -114,6 +114,7 @@ then the syllable is long by position.
 
 Ex: 
 - *crŭcīfīxus* → *crucifíxus*
+- *alicúius*
 - *thēsaurizō* → *thesaurízo*
 - *exstinguō* → *exstínguo*
 - *călăthus* → *cálathus*
