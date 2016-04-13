@@ -20,7 +20,9 @@ Following W.S. Allen and R. Morisset, we distinguish the length of a vowels from
 
 #### General considerations
 
-Placing accents on a text is not an easy task. It depends on syllable quantities, depending on vowel length; and vowel length are not the same accross regions and periods. So a particular text may use vowel length differing from those one can find in a dictionnary such as the *Dictionnaire Illustré Latin-Français* by Félix Gaffiot or the Lewis & Short *A Latin Dictionary*. As an example of such discrepancy, the word *Moyses* is given with a diphtongue *oy* in *L&S*, while in liturgical texts it is a long *o* followed by a short *y* in two different syllables.
+Placing accents on a text is not an easy task. It depends on syllable quantities, depending on vowel length; and vowel length are not the same accross regions and periods. So a particular text may use vowel length differing from those one can find in a dictionnary such as the *Dictionnaire Illustré Latin-Français* by Félix Gaffiot or the Lewis & Short *A Latin Dictionary*. 
+
+As an example of such discrepancy, the word *Moyses* is given with a diphtongue *oy* in *L&S*, while in liturgical texts it is a long *o* followed by a short *y* in two different syllables. In this case, there would be no accents according to *L&S* (because the word is two syllables only), and it would be accented *Móyses* in a liturgical book.
 
 #### The case of liturgic hymns
 
