@@ -64,7 +64,7 @@ Ex: *excélsis*.
 
 #### Rule 4
 
-If the penultimate syllable is not long by natue or by position, the antepenultimate syllable carries the accent.
+If the penultimate syllable is not long by nature or by position, the antepenultimate syllable carries the accent.
 
 Ex: *desídero*.
 
