@@ -25,4 +25,4 @@ This work would not have been possible without the following persons/institution
 
 ## Licence
 
-All the documents and resources in this repository are under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) licence.
+Documentation is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) licence, liturgical texts of the corpus are in the Public Domain.
