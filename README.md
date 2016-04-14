@@ -2,35 +2,26 @@
 
 This repository contains resources for ecclesiastic accentuation.
 
-The goal is to have the largest possible list of accentuated words with the ecclesiastic rules, allowing a text to be accentuated (almost) automatically.
+The goal is to have some documentation about accentuation for prose, and a corpus of accentuated hymns, as these cannot be accented automatically.
 
-## Orthography
 
-When relevant, the words in the list should use *j*, *v*, *æ*, *œ* (not *i*, *u*, *ae*, *oe*), allowing easy translation towards another system.
+## Resources
 
-## Rules
+- [doc/accentuation-rules.md](doc/accentuation-rules.md) contains the rules for accentuating prose
+- [corpus/](corpus) contains a corpus of accentuated texts
 
-The rules for accentuation are extremly simple at first sight:
-
-- at most one acute accent per word
-- only words of 3 syllables or more are accentuated
-- the accent is on the penultimate syllable if it is strong
-- the accent is on the antepenultimate syllable if the penultimate is not strong
-
-Knowing the vowels strenght, one must determine the syllable boundaries and strength, but we're not sure yet how to do so... An interesting starting point is chapter 6 of *Vox Latina, A Guide to the Pronunciation of Classical Latin* by W.S. Allen.
-
-## Files
-
-- [verbs.txt](verbs.txt) was provided by M. Philippe Verkerk, it was automatically built and thus may contain errors
 
 ## Thanks
 
 This work would not have been possible without the following persons/institutions:
 
 - the Abbey of Flavigny (FR), for having the project started
+- the Abbey of Solesmes (FR), for advises and providing the accentuated proofread psalms
 - M. Gérard Gréco and the whole team behind the 2016 Edition of the Gaffiot Latin-French dictionnary, whose help was fundamental
 - M. Philippe Verkerk and M. Yves Ouvrard, for helping us directly and through [collatinus](http://outils.biblissima.fr/collatinus/)
+- Jakub Jelinek, for his great help on corpus treatment
 - the Abbey of Le Barroux (FR)
+
 
 ## Licence
 
