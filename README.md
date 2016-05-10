@@ -11,6 +11,12 @@ The goal is to have some documentation about accentuation for prose, and a corpu
 - [corpus/](corpus) contains a corpus of accentuated texts
 
 
+## Bibliography
+
+- *Te Decet Hymnus* by Anselmo Lentini, 1984, which is the primary and official source for post-Vatican II hymns
+- *The Hymns of the Breviary and Missal* by Matthew Britt, 1922, availble on [archive.org](https://archive.org/details/HymnsOfTheBreviaryAndMissal)
+
+
 ## Thanks
 
 This work would not have been possible without the following persons/institutions:
