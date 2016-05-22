@@ -400,7 +400,7 @@ Ut nos laváret crímine,
 Manávit unda et sánguine.
 3. Impléta sunt quæ cóncinit
 David fidéli cármine
-Dicens: In nationibus
+Dicens: In natiónibus
 Regnávit a ligno Deus.
 4. Arbor decóra et fúlgida,
 Ornáta Regis púrpura,
@@ -488,7 +488,7 @@ Fámulos, qui te díligunt.
 Insidiántes réprime,
 Gubérna tuos fámulos,
 Quos Sánguine mercátus es.
-6. Meménto nostri, Domine,
+6. Meménto nostri, Dómine,
 In gravi isto córpore:
 Qui es defénsor ánimæ,
 Adésto nobis, Dómine.
@@ -3841,7 +3841,7 @@ Lapis cadúcus vértice
 Ac mole terras óccupans.
 4. Diro tyránno súbdita,
 Damnáta stirps mortálium,
-Per te refrégit vincula
+Per te refrégit víncula
 Sibíque cælum víndicat.
 5. Doctor, Sacérdos, Légifer
 Præfers notátum sánguine
