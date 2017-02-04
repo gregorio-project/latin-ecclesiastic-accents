@@ -3,6 +3,7 @@
 This directory contains texts with what should be correct accents. They are whether proofread by Solesmes or from Vatican editions, which should be the reference.
 
 - [hymns](hymns) contains one hymn per file
+- [missal](missal) contains texts of the holy mass
 - [psalms](psalms) contains all the psalms
 
 
