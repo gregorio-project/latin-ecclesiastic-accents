@@ -122,7 +122,7 @@ Mt	5	31	Dictum est autem : Quicúmque dimíserit uxórem suam, det ei libéllum 
 Mt	5	32	Ego autem dico vobis : quia omnis qui dimíserit uxórem suam, excépta fornicatiónis causa, facit eam mœchári : et qui dimíssam dúxerit, adúlterat.
 Mt	5	33	Iterum audístis quia dictum est antíquis : Non periurábis : reddes autem Dómino iuraménta tua.
 Mt	5	34	Ego autem dico vobis, non iuráre omníno, neque per cælum, quia thronus Dei est :
-Mt	5	35	neque per terram, quia scabéllum est pedum eius : neque per <em>Ierosólymam</em>, quia cívitas est magni regis :
+Mt	5	35	neque per terram, quia scabéllum est pedum eius : neque per Ierosólymam, quia cívitas est magni regis :
 Mt	5	36	neque per caput tuum iuráveris, quia non potes unum capíllum album fácere, aut nigrum.
 Mt	5	37	Sit autem sermo vester, est, est : non, non : quod autem his abundántius est, a malo est.
 Mt	5	38	Audístis quia dictum est : Oculum pro óculo, et dentem pro dente.
@@ -297,7 +297,7 @@ Mt	10	23	Cum autem persequéntur vos in civitáte ista, fúgite in áliam. Amen 
 Mt	10	24	Non est discípulus super magístrum, nec servus super dóminum suum :
 Mt	10	25	súfficit discípulo ut sit sicut magíster eius, et servo, sicut dóminus eius. Si patremfamílias Beélzebub vocavérunt, quanto magis domésticos eius ?
 Mt	10	26	Ne ergo timuéritis eos. Nihil enim est opértum, quod non revelábitur : et occúltum, quod non sciétur.
-Mt	10	27	Quod dico vobis in ténebris, dícite in lúmine : et quod in aure audítis (áuditis), prædicáte super tecta.
+Mt	10	27	Quod dico vobis in ténebris, dícite in lúmine : et quod in aure audítis, prædicáte super tecta.
 Mt	10	28	Et nólite timére eos qui occídunt corpus, ánimam autem non possunt occídere : sed pótius timéte eum, qui potest et ánimam et corpus pérdere in gehénnam.
 Mt	10	29	Nonne duo pásseres asse véneunt ? et unus ex illis non cadet super terram sine Patre vestro.
 Mt	10	30	Vestri autem capílli cápitis omnes numeráti sunt.
@@ -447,7 +447,7 @@ Mt	13	51	Intellexístis hæc ómnia ? Dicunt ei : Etiam.
 Mt	13	52	Ait illis : Ideo omnis scriba doctus in regno cælórum, símilis est hómini patrifamílias, qui profert de thesáuro suo nova et vétera.
 Mt	13	53	Et factum est, cum consummásset Iesus parábolas istas, tránsiit inde.
 Mt	13	54	Et véniens in pátriam suam, docébat eos in synagógis eórum, ita ut miraréntur, et dícerent : Unde huic sapiéntia hæc, et virtútes ?
-Mt	13	55	Nonne hic est fabri fílius ? nonne mater eius dícitur María, et fratres eius, Iacóbus, et Ioseph (Ióseph), et Simon, et Iudas ?
+Mt	13	55	Nonne hic est fabri fílius ? nonne mater eius dícitur María, et fratres eius, Iacóbus, et Ioseph, et Simon, et Iudas ?
 Mt	13	56	et soróres eius, nonne omnes apud nos sunt ? unde ergo huic ómnia ista ?
 Mt	13	57	Et scandalizabántur in eo. Iesus autem dixit eis : Non est prophéta sine honóre, nisi in pátria sua, et in domo sua.
 Mt	13	58	Et non fecit ibi virtútes multas propter incredulitátem illórum.
@@ -1046,7 +1046,7 @@ Mt	27	61	Erant autem ibi María Magdaléne, et áltera María, sedéntes contra 
 Mt	27	62	Altera autem die, quæ est post Parascéven, convenérunt príncipes sacerdótum et Pharisǽi ad Pilátum,
 Mt	27	63	dicéntes : Dómine, recordáti sumus, quia sedúctor ille dixit adhuc vivens : Post tres dies resúrgam.
 Mt	27	64	Iube ergo custodíri sepúlchrum usque in diem tértium : ne forte véniant discípuli eius, et furéntur eum, et dicant plebi : Surréxit a mórtuis : et erit novíssimus error peior prióre.
-Mt	27	65	Ait illis Pilátus : Habétis custódiam, ite, custodíte (custódite) sicut scitis.
+Mt	27	65	Ait illis Pilátus : Habétis custódiam, ite, custodíte sicut scitis.
 Mt	27	66	Illi autem abeúntes, muniérunt sepúlchrum, signántes lápidem, cum custódibus.
 Mt	28	1	Véspere autem sábbati, quæ lucéscit in prima sábbati, venit María Magdaléne, et áltera María, vidére sepúlchrum.
 Mt	28	2	Et ecce terrǽmotus factus est magnus. Angelus enim Dómini descéndit de cælo : et accédens revólvit lápidem, et sedébat super eum :
@@ -1138,7 +1138,7 @@ Mc	2	22	Et nemo mittit vinum novum in utres véteres : alióquin dirúmpet vinum
 Mc	2	23	Et factum est íterum Dóminus sábbatis ambuláret per sata, et discípuli eius cœpérunt prógredi, et véllere spicas.
 Mc	2	24	Pharisǽi autem dicébant ei : Ecce, quid fáciunt sábbatis quod non licet ?
 Mc	2	25	Et ait illis : Numquam legístis quid fécerit David, quando necessitátem hábuit, et esúriit ipse, et qui cum eo erant ?
-Mc	2	26	quómodo introíbit in domum Dei sub <em>Abiathar</em> príncipe sacerdótum, et panes propositiónis manducávit, quos non licébat manducáre, nisi sacerdótibus, et dedit eis qui cum eo erant ?
+Mc	2	26	quómodo introíbit in domum Dei sub Abíathar príncipe sacerdótum, et panes propositiónis manducávit, quos non licébat manducáre, nisi sacerdótibus, et dedit eis qui cum eo erant ?
 Mc	2	27	Et dicébat eis : Sábbatum propter hóminem factum est, et non homo propter sábbatum.
 Mc	2	28	Itaque Dóminus est Fílius hóminis, étiam sábbati.
 Mc	3	1	Et introívit íterum in synagógam : et erat ibi homo habens manum áridam.
@@ -1220,7 +1220,7 @@ Mc	5	1	Et venérunt trans fretum maris in regiónem Gerasenórum.
 Mc	5	2	Et exeúnti ei de navi, statim occúrrit de monuméntis homo in spíritu immúndo,
 Mc	5	3	qui domicílium habébat in monuméntis, et neque caténis iam quisquam póterat eum ligáre :
 Mc	5	4	quóniam sæpe compédibus et caténis vinctus, dirupísset caténas, et cómpedes comminuísset, et nemo póterat eum domáre :
-Mc	5	5	et semper die ac nocte in monuméntis, et in móntibus erat, clamans, et cóncidens (concídens) se lapídibus.
+Mc	5	5	et semper die ac nocte in monuméntis, et in móntibus erat, clamans, et concídens se lapídibus.
 Mc	5	6	Videns autem Iesum a longe, cucúrrit, et adorávit eum :
 Mc	5	7	et clamans voce magna dixit : Quid mihi et tibi, Iesu Fili Dei altíssimi ? adiúro te per Deum, ne me tórqueas.
 Mc	5	8	Dicébat enim illi : Exi spíritus immúnde ab hómine.
@@ -1410,7 +1410,7 @@ Mc	9	16	Et respóndens unus de turba, dixit : Magíster, áttuli fílium meum ad
 Mc	9	17	qui ubicúmque eum apprehénderit, allídit illum, et spumat, et stridet déntibus, et aréscit : et dixi discípulis tuis ut eiícerent illum, et non potuérunt.
 Mc	9	18	Qui respóndens eis, dixit : O generátio incrédula, quámdiu apud vos ero ? quámdiu vos pátiar ? afférte illum ad me.
 Mc	9	19	Et attulérunt eum. Et cum vidísset eum, statim spíritus conturbávit illum : et elísus in terram, volutabátur spumans.
-Mc	9	20	Et interrogávit patrem eius : Quantum témporis est ex quo ei hoc áccidit (accídit) ? At ille ait : Ab infántia :
+Mc	9	20	Et interrogávit patrem eius : Quantum témporis est ex quo ei hoc áccidit ? At ille ait : Ab infántia :
 Mc	9	21	et frequénter eum in ignem, et in aquas misit ut eum pérderet : sed si quid potes, ádiuva nos, misértus nostri.
 Mc	9	22	Iesus autem ait illi : Si potes crédere, ómnia possibília sunt credénti.
 Mc	9	23	Et contínuo exclámans pater púeri, cum lácrimis aiébat : Credo, Dómine ; ádiuva incredulitátem meam.
@@ -1485,7 +1485,7 @@ Mc	10	42	Iesus autem vocans eos, ait illis : Scitis quia hi, qui vidéntur princ
 Mc	10	43	Non ita est autem in vobis, sed quicúmque volúerit fíeri maior, erit vester miníster :
 Mc	10	44	et quicúmque volúerit in vobis primus esse, erit ómnium servus.
 Mc	10	45	Nam et Fílius hóminis non venit ut ministrarétur ei, sed ut ministráret, et daret ánimam suam redemptiónem pro multis.
-Mc	10	46	Et véniunt Iéricho : et proficiscénte eo de Iéricho, et discípulis eius, et plúrima multitúdine, fílius Timæ <em>Bartimæus</em> cæcus, sedébat iuxta viam mendícans.
+Mc	10	46	Et véniunt Iéricho : et proficiscénte eo de Iéricho, et discípulis eius, et plúrima multitúdine, fílius Timǽi Bartimǽus cæcus, sedébat iuxta viam mendícans.
 Mc	10	47	Qui cum audísset quia Iesus Nazarénus est, cœpit clamáre, et dícere : Iesu fili David, miserére mei.
 Mc	10	48	Et comminabántur ei multi ut tacéret. At ille multo magis clamábat : Fili David, miserére mei.
 Mc	10	49	Et stans Iesus præcépit illum vocári. Et vocant cæcum, dicéntes ei : Animǽquior esto : surge, vocat te.
@@ -1550,14 +1550,14 @@ Mc	12	22	Et accepérunt eam simíliter septem : et non reliquérunt semen. Noví
 Mc	12	23	In resurrectióne ergo cum resurréxerint, cuius de his erit uxor ? septem enim habuérunt eam uxórem.
 Mc	12	24	Et respóndens Iesus, ait illis : Nonne ídeo errátis, non sciéntes Scriptúras, neque virtútem Dei ?
 Mc	12	25	Cum enim a mórtuis resurréxerint, neque nubent, neque nubéntur, sed sunt sicut ángeli in cælis.
-Mc	12	26	De mórtuis autem quod resúrgant, non legístis in libro Moýsi, super rubum, quómodo díxerit illi Deus, <em>inquiens</em> : Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob ?
+Mc	12	26	De mórtuis autem quod resúrgant, non legístis in libro Moýsi, super rubum, quómodo díxerit illi Deus, ínquiens : Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob ?
 Mc	12	27	Non est Deus mortuórum, sed vivórum. Vos ergo multum errátis.
 Mc	12	28	Et accéssit unus de scribis, qui audíerat illos conquiréntes, et videns quóniam bene illis respónderit, interrogávit eum quod esset primum ómnium mandátum.
-Mc	12	29	Iesus autem respóndit ei : Quia primum ómnium mandátum est : Audi <em>Israe</em> <em>̈l</em>, Dóminus Deus tuus, Deus unus est :
+Mc	12	29	Iesus autem respóndit ei : Quia primum ómnium mandátum est : Audi Israel, Dóminus Deus tuus, Deus unus est :
 Mc	12	30	et díliges Dóminum Deum tuum ex tota corde tuo, et ex tota ánima tua, et ex tota mente tua, et ex tota virtúte tua. Hoc est primum mandátum.
-Mc	12	31	Secúndum autem símile est illi : Díliges próximum tuum tamquam teípsum. Maius (Máius) horum aliud mandátum non est.
-Mc	12	32	Et ait illi scriba : Bene, Magíster, in veritáte dixísti, quia unus est Deus, et non est álius (alíus) præter eum.
-Mc	12	33	Et ut diligátur ex toto corde, et ex toto intelléctu, et ex tota ánima, et ex tota fortitúdine, et dilígere (diligére) próximum tamquam seípsum, maius est ómnibus holocautomátibus, et sacrifíciis.
+Mc	12	31	Secúndum autem símile est illi : Díliges próximum tuum tamquam teípsum. Maius horum aliud mandátum non est.
+Mc	12	32	Et ait illi scriba : Bene, Magíster, in veritáte dixísti, quia unus est Deus, et non est álius præter eum.
+Mc	12	33	Et ut diligátur ex toto corde, et ex toto intelléctu, et ex tota ánima, et ex tota fortitúdine, et dilígere próximum tamquam seípsum, maius est ómnibus holocautomátibus, et sacrifíciis.
 Mc	12	34	Iesus autem videns quod sapiénter respondísset, dixit illi : Non es longe a regno Dei. Et nemo iam audébat eum interrogáre.
 Mc	12	35	Et respóndens Iesus dicébat, docens in templo : Quómodo dicunt scribæ Christum fílium esse David ?
 Mc	12	36	Ipse enim David dicit in Spíritu Sancto : Dixit Dóminus Dómino meo : Sede a dextris meis, donec ponam inimícos tuos scabéllum pedum tuórum.
@@ -1565,7 +1565,7 @@ Mc	12	37	Ipse ergo David dicit eum Dóminum, et unde est fílius eius ? Et multa
 Mc	12	38	Et dicébat eis in doctrína sua : Cavéte a scribis, qui volunt in stolis ambuláre, et salutári in foro,
 Mc	12	39	et in primis cáthedris sedére in synagógis, et primos discúbitus in cœnis :
 Mc	12	40	qui dévorant domos viduárum sub obténtu prolíxæ oratiónis : hi accípient prolíxius iudícium.
-Mc	12	41	Et sedens Iesus contra gazophylácium, aspiciébat quómodo turba iactáret <em>æs</em> in gazophylácium, et multi dívites iactábant multa.
+Mc	12	41	Et sedens Iesus contra gazophylácium, aspiciébat quómodo turba iactáret æs in gazophylácium, et multi dívites iactábant multa.
 Mc	12	42	Cum venísset autem vídua una pauper, misit duo minúta, quod est quadrans,
 Mc	12	43	et cónvocans discípulos suos, ait illis : Amen dico vobis, quóniam vídua hæc pauper plus ómnibus misit, qui misérunt in gazophylácium.
 Mc	12	44	Omnes enim ex eo, quod abundábat illis, misérunt : hæc vero de penúria sua ómnia quæ hábuit misit totum victum suum.
@@ -1573,7 +1573,7 @@ Mc	13	1	Et cum egrederétur de templo, ait illi unus ex discípulis suis : Magí
 Mc	13	2	Et respóndens Iesus, ait illi : Vides has omnes magnas ædificatiónes ? Non relinquétur lapis super lápidem, qui non destruátur.
 Mc	13	3	Et cum sedéret in monte Olivárum contra templum, interrogábant eum separátim Petrus, et Iacóbus, et Ioánnes, et Andrǽas :
 Mc	13	4	Dic nobis, quando ista fient ? et quod signum erit, quando hæc ómnia incípient consummári ?
-Mc	13	5	Et respóndens Iesus cœpit dícere (dicére) illis : Vidéte ne quid vos sedúcat :
+Mc	13	5	Et respóndens Iesus cœpit dícere illis : Vidéte ne quid vos sedúcat :
 Mc	13	6	multi enim vénient in nómine meo, dicéntes quia ego sum : et multos sedúcent.
 Mc	13	7	Cum audiéritis autem bella, et opiniónes bellórum, ne timuéritis : opórtet enim hæc fíeri : sed nondum finis.
 Mc	13	8	Exsúrget enim gens contra gentem, et regnum super regnum, et erunt terrǽmotus per loca, et fames. Inítium dolórum hæc.
@@ -1581,10 +1581,10 @@ Mc	13	9	Vidéte autem vosmetípsos. Tradent enim vos in consíliis, et in synag�
 Mc	13	10	Et in omnes gentes primum opórtet prædicári Evangélium.
 Mc	13	11	Et cum dúxerint vos tradéntes, nólite præcogitáre quid loquámini : sed quod datum vobis fúerit in illa hora, id loquímini : non enim vos estis loquéntes, sed Spíritus Sanctus.
 Mc	13	12	Tradet autem frater fratrem in mortem, et pater fílium : et consúrgent fílii in paréntes, et morte affícient eos.
-Mc	13	13	Et éritis ódio (odío) ómnibus propter nomen meum. Qui autem sustinúerit in finem, hic salvus erit.
+Mc	13	13	Et éritis ódio ómnibus propter nomen meum. Qui autem sustinúerit in finem, hic salvus erit.
 Mc	13	14	Cum autem vidéritis abominatiónem desolatiónis stantem, ubi non debet, qui legit, intélligat : tunc qui in Iudǽa sunt, fúgiant in montes :
-Mc	13	15	et qui super tectum, ne descéndat in domum, nec <em>introe</em> <em>̈at</em> ut tollat quid de domo sua :
-Mc	13	16	et qui in agro erit, non revertátur retro tóllere (tollére) vestiméntum suum.
+Mc	13	15	et qui super tectum, ne descéndat in domum, nec introeat ut tollat quid de domo sua :
+Mc	13	16	et qui in agro erit, non revertátur retro tóllere vestiméntum suum.
 Mc	13	17	Væ autem prægnántibus et nutriéntibus in illis diébus.
 Mc	13	18	Oráte vero ut híeme non fiant.
 Mc	13	19	Erunt enim dies illi tribulatiónes tales quales non fuérunt ab inítio creatúræ, quam cóndidit Deus usque nunc, neque fient.
@@ -1606,25 +1606,25 @@ Mc	13	34	Sicut homo qui péregre proféctus relíquit domum suam, et dedit servi
 Mc	13	35	vigiláte ergo (nescítis enim quando dóminus domus véniat : sero, an média nocte, an galli cantu, an mane),
 Mc	13	36	ne, cum vénerit repénte, invéniat vos dormiéntes.
 Mc	13	37	Quod autem vobis dico, ómnibus dico : Vigiláte.
-Mc	14	1	Erat autem Pascha et azýma (ázyma) post bíduum : et quærébant summi sacerdótes et scribæ quómodo eum dolo tenérent, et occíderent.
+Mc	14	1	Erat autem Pascha et ázyma post bíduum : et quærébant summi sacerdótes et scribæ quómodo eum dolo tenérent, et occíderent.
 Mc	14	2	Dicébant autem : Non in die festo, ne forte tumúltus fíeret in pópulo.
 Mc	14	3	Et cum esset Bethániæ in domo Simónis leprósi, et recúmberet, venit múlier habens alabástrum unguénti nardi spicáti pretiósi : et fracto alabástro, effúdit super caput eius.
 Mc	14	4	Erant autem quidam indígne feréntes intra semetípsos, et dicéntes : Ut quid perdítio ista unguénti facta est ?
 Mc	14	5	póterat enim unguéntum istud venundári plus quam trecéntis denáriis, et dari paupéribus. Et fremébant in eam.
 Mc	14	6	Iesus autem dixit : Sínite eam, quid illi molésti estis ? Bonum opus operáta est in me :
 Mc	14	7	semper enim páuperes habétis vobíscum : et cum voluéritis, potéstis illis benefácere : me autem non semper habétis.
-Mc	14	8	Quod hábuit hæc, fecit : prǽvenit (prævénit) úngere (ungére) corpus meum in sepultúram.
+Mc	14	8	Quod hábuit hæc, fecit : prævénit úngere corpus meum in sepultúram.
 Mc	14	9	Amen dico vobis : Ubicúmque prædicátum fúerit Evangélium istud in univérso mundo, et quod fecit hæc, narrábitur in memóriam eius.
 Mc	14	10	Et Iudas Iscariótes, unus de duódecim, ábiit ad summos sacerdótes, ut próderet eum illis.
-Mc	14	11	Qui audiéntes gávisi (gavísi) sunt : et promisérunt ei pecúniam se datúros. Et quærébat quómodo illum opportúne tráderet.
+Mc	14	11	Qui audiéntes gavísi sunt : et promisérunt ei pecúniam se datúros. Et quærébat quómodo illum opportúne tráderet.
 Mc	14	12	Et primo die azymórum quando Pascha immolábant, dicunt ei discípuli : Quo vis eámus, et parémus tibi ut mandúces Pascha ?
-Mc	14	13	Et mittit duos ex discípulis suis, et dicit eis : Ite in civitátem, et occúrret vobis homo lagénam aquæ báiulans (baíulans) : sequímini eum,
+Mc	14	13	Et mittit duos ex discípulis suis, et dicit eis : Ite in civitátem, et occúrret vobis homo lagénam aquæ báiulans : sequímini eum,
 Mc	14	14	et quocúmque introíerit, dícite dómino domus, quia magíster dicit : Ubi est reféctio mea, ubi Pascha cum discípulis meis mandúcem ?
 Mc	14	15	Et ipse vobis demonstrábit cœnáculum grande, stratum : et illic paráte nobis.
 Mc	14	16	Et abiérunt discípuli eius, et venérunt in civitátem : et invenérunt sicut díxerat illis, et paravérunt Pascha.
 Mc	14	17	Véspere autem facto, venit cum duódecim.
 Mc	14	18	Et discumbéntibus eis, et manducántibus, ait Iesus : Amen dico vobis, quia unus ex vobis tradet me, qui mandúcat mecum.
-Mc	14	19	At illi cœpérunt contristári, et dícere (dicére) ei singulátim : Numquid ego ?
+Mc	14	19	At illi cœpérunt contristári, et dícere ei singulátim : Numquid ego ?
 Mc	14	20	Qui ait illis : Unus ex duódecim, qui intíngit mecum manum in catíno.
 Mc	14	21	Et Fílius quidem hóminis vadit sicut scriptum est de eo : væ autem hómini illi per quem Fílius hóminis tradétur ! bonum erat ei, si non esset natus homo ille.
 Mc	14	22	Et manducántibus illis, accépit Iesus panem : et benedícens fregit, et dedit eis, et ait : Súmite, hoc est corpus meum.
@@ -1638,26 +1638,26 @@ Mc	14	29	Petrus autem ait illi : Et si omnes scandalizáti fúerint in te, sed n
 Mc	14	30	Et ait illi Iesus : Amen dico tibi, quia tu hódie in nocte hac, priúsquam gallus vocem bis déderit, ter me es negatúrus.
 Mc	14	31	At ille ámplius loquebátur : Et si oportúerit me simul cómmori tibi, non te negábo. Simíliter autem et omnes dicébant.
 Mc	14	32	Et véniunt in prǽdium, cui nomen Gethsémani. Et ait discípulis suis : Sedéte hic donec orem.
-Mc	14	33	Et assúmit Petrum, et Iacóbum, et Ioánnem secum : et cœpit pavére et <em>tædere</em>.
+Mc	14	33	Et assúmit Petrum, et Iacóbum, et Ioánnem secum : et cœpit pavére et tædére.
 Mc	14	34	Et ait illis : Tristis est ánima mea usque ad mortem : sustinéte hic, et vigiláte.
-Mc	14	35	Et cum processísset páululum, prócidit (procídit) super terram, et orábat ut, si fíeri posset, transíret ab eo hora.
+Mc	14	35	Et cum processísset páululum, prócidit super terram, et orábat ut, si fíeri posset, transíret ab eo hora.
 Mc	14	36	Et dixit : Abba pater, ómnia tibi possibília sunt : transfer cálicem hunc a me : sed non quod ego volo, sed quod tu.
-Mc	14	37	Et venit, et ínvenit (invénit) eos dormiéntes. Et ait Petro : Simon, dormis ? non potuísti una hora vigiláre ?
+Mc	14	37	Et venit, et invénit eos dormiéntes. Et ait Petro : Simon, dormis ? non potuísti una hora vigiláre ?
 Mc	14	38	vigiláte et oráte, ut non intrétis in tentatiónem. Spíritus quidem promptus est, caro vero infírma.
 Mc	14	39	Et íterum ábiens orávit, eúmdem sermónem dicens.
-Mc	14	40	Et revérsus, dénuo ínvenit (invénit) eos dormiéntes (erant enim óculi eórum graváti), et ignorábant quid respondérent ei.
+Mc	14	40	Et revérsus, dénuo invénit eos dormiéntes (erant enim óculi eórum graváti), et ignorábant quid respondérent ei.
 Mc	14	41	Et venit tértio, et ait illis : Dormíte iam, et requiéscite. Súfficit : venit hora : ecce Fílius hóminis tradétur in manus peccatórum.
 Mc	14	42	Súrgite, eámus : ecce qui me tradet, prope est.
 Mc	14	43	Et, adhuc eo loquénte, venit Iudas Iscariótes unus de duódecim, et cum eo turba multa cum gládiis et lignis, a summis sacerdótibus, et scribis, et senióribus.
 Mc	14	44	Déderat autem tráditor eius signum eis, dicens : Quemcúmque osculátus fúero, ipse est, tenéte eum, et dúcite caute.
 Mc	14	45	Et cum venísset, statim accédens ad eum, ait : Ave Rabbi : et osculátus est eum.
-Mc	14	46	At illi manus iniecérunt (iniecérunt) in eum, et tenuérunt eum.
+Mc	14	46	At illi manus iniecérunt in eum, et tenuérunt eum.
 Mc	14	47	Unus autem quidam de circumstántibus edúcens gládium, percússit servum summi sacerdótis, et amputávit illi aurículam.
-Mc	14	48	Et respóndens Iesus, ait illis : Tamquam ad latrónem exístis cum gládiis et lignis comprehéndere (comprehendére) me ?
+Mc	14	48	Et respóndens Iesus, ait illis : Tamquam ad latrónem exístis cum gládiis et lignis comprehéndere me ?
 Mc	14	49	quotídie eram apud vos in templo docens, et non me tenuístis. Sed ut impleántur Scriptúræ.
 Mc	14	50	Tunc discípuli eius relinquéntes eum, omnes fugérunt.
 Mc	14	51	Adoléscens autem quidam sequebátur eum amíctus síndone super nudo : et tenuérunt eum.
-Mc	14	52	At ille reiécta síndone, nudus prófugit (profúgit) ab eis.
+Mc	14	52	At ille reiécta síndone, nudus profúgit ab eis.
 Mc	14	53	Et adduxérunt Iesum ad summum sacerdótem : et convenérunt omnes sacerdótes, et scribæ, et senióres.
 Mc	14	54	Petrus autem a longe secútus est eum usque intro in átrium summi sacerdótis : et sedébat cum minístris ad ignem, et calefaciébat se.
 Mc	14	55	Summi vero sacerdótes et omne concílium quærébant advérsus Iesum testimónium ut eum morti tráderent : nec inveniébant.
@@ -1670,11 +1670,11 @@ Mc	14	61	Ille autem tacébat, et nihil respóndit. Rursum summus sacérdos inter
 Mc	14	62	Iesus autem dixit illi : Ego sum : et vidébitis Fílium hóminis sedéntem a dextris virtútis Dei, et veniéntem cum núbibus cæli.
 Mc	14	63	Summus autem sacérdos scindens vestiménta sua, ait : Quid adhuc desiderámus testes ?
 Mc	14	64	Audístis blasphémiam : quid vobis vidétur ? Qui omnes condemnavérunt eum esse reum mortis.
-Mc	14	65	Et cœpérunt quidam conspúere (conspuére) eum, et veláre fáciem eius, et cólaphis eum cǽdere (cædére), et dícere (dicére) ei : Prophetíza : et minístri álapis eum cædébant.
+Mc	14	65	Et cœpérunt quidam conspúere eum, et veláre fáciem eius, et cólaphis eum cǽdere, et dícere ei : Prophetíza : et minístri álapis eum cædébant.
 Mc	14	66	Et cum esset Petrus in átrio deórsum, venit una ex ancíllis summi sacerdótis :
 Mc	14	67	et cum vidísset Petrum calefaciéntem se, aspíciens illum, ait : Et tu cum Iesu Nazaréno eras.
 Mc	14	68	At ille negávit, dicens : Neque scio, neque novi quid dicas. Et éxiit foras ante átrium, et gallus cantávit.
-Mc	14	69	Rursus autem cum vidísset illum ancílla, cœpit dícere (dicére) circumstántibus : Quia hic ex illis est.
+Mc	14	69	Rursus autem cum vidísset illum ancílla, cœpit dícere circumstántibus : Quia hic ex illis est.
 Mc	14	70	At ille íterum negávit. Et post pusíllum rursus qui asstábant, dicébant Petro : Vere ex illis es : nam et Galilǽus es.
 Mc	14	71	Ille autem cœpit anathematizáre et iuráre : Quia néscio hóminem istum, quem dícitis.
 Mc	14	72	Et statim gallus íterum cantávit. Et recordátus est Petrus verbi quod díxerat ei Iesus : Priúsquam gallus cantet bis, ter me negábis. Et cœpit flere.
@@ -1683,8 +1683,8 @@ Mc	15	2	Et interrogávit eum Pilátus : Tu es rex Iudæórum ? At ille respónde
 Mc	15	3	Et accusábant eum summi sacerdótes in multis.
 Mc	15	4	Pilátus autem rursum interrogávit eum, dicens : Non respóndes quidquam ? vide in quantis te accúsant.
 Mc	15	5	Iesus autem ámplius nihil respóndit, ita ut mirarétur Pilátus.
-Mc	15	6	Per diem autem festum solébat dimíttere (dimittére) illis unum ex vinctis, quemcúmque petíssent.
-Mc	15	7	Erat autem qui dicebátur <em>Barrabas</em>, qui cum seditiósis erat vinctus, qui in seditióne fécerat homicídium.
+Mc	15	6	Per diem autem festum solébat dimíttere illis unum ex vinctis, quemcúmque petíssent.
+Mc	15	7	Erat autem qui dicebátur Barábbas, qui cum seditiósis erat vinctus, qui in seditióne fécerat homicídium.
 Mc	15	8	Et cum ascendísset turba, cœpit rogáre, sicut semper faciébat illis.
 Mc	15	9	Pilátus autem respóndit eis, et dixit : Vultis dimíttam vobis regem Iudæórum ?
 Mc	15	10	Sciébat enim quod per invídiam tradidíssent eum summi sacerdótes.
@@ -1700,13 +1700,13 @@ Mc	15	19	Et percutiébant caput eius arúndine : et conspuébant eum, et ponént
 Mc	15	20	Et postquam illusérunt ei, exuérunt illum púrpura, et induérunt eum vestiméntis suis : et edúcunt illum ut crucifígerent eum.
 Mc	15	21	Et angariavérunt prætereúntem quémpiam, Simónem Cyrenǽum veniéntem de villa, patrem Alexándri et Rufi, ut tólleret crucem eius.
 Mc	15	22	Et perdúcunt illum in Gólgotha locum : quod est interpretátum Calváriæ locus.
-Mc	15	23	Et dabant ei bíbere (bibére) myrrhátum vinum : et non accépit.
+Mc	15	23	Et dabant ei bíbere myrrhátum vinum : et non accépit.
 Mc	15	24	Et crucifigéntes eum, divisérunt vestiménta eius, mitténtes sortem super eis, quis quid tólleret.
 Mc	15	25	Erat autem hora tértia : et crucifixérunt eum.
 Mc	15	26	Et erat títulus causæ eius inscríptus : Rex Iudæórum.
 Mc	15	27	Et cum eo crucifígunt duos latrónes : unum a dextris, et álium a sinístris eius.
 Mc	15	28	Et impléta est Scriptúra, quæ dicit : Et cum iníquis reputátus est.
-Mc	15	29	Et prætereúntes blasphemábant eum, movéntes cápita (capíta) sua, et dicéntes : Vah ! qui déstruis templum Dei, et in tribus diébus reædíficas,
+Mc	15	29	Et prætereúntes blasphemábant eum, movéntes cápita sua, et dicéntes : Vah ! qui déstruis templum Dei, et in tribus diébus reædíficas,
 Mc	15	30	salvum fac temetípsum descéndens de cruce.
 Mc	15	31	Simíliter et summi sacerdótes illudéntes, ad altérutrum cum scribis dicébant : Alios salvos fecit ; seípsum non potest salvum fácere.
 Mc	15	32	Christus rex Israel descéndat nunc de cruce, ut videámus, et credámus. Et qui cum eo crucifíxi erant, convitiabántur ei.
