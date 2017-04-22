@@ -12,6 +12,4 @@ https://github.com/biblissima/collatinus
 
 At this date (2017-04-18), these Books are available :
 
-Mt
-
-Mc
+Mt, Mc

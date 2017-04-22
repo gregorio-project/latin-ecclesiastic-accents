@@ -1717,7 +1717,7 @@ Mc	15	36	Currens autem unus, et implens spóngiam acéto, circumponénsque cála
 Mc	15	37	Iesus autem emíssa voce magna expirávit.
 Mc	15	38	Et velum templi scissum est in duo, a summo usque deórsum.
 Mc	15	39	Videns autem centúrio, qui ex advérso stabat, quia sic clamans expirásset, ait : Vere hic homo Fílius Dei erat.
-Mc	15	40	Erant autem et mulíeres de longe aspiciéntes : inter quas erat María Magdaléne, et María Iacóbi minóris, et Ioseph mater, et Sálome :
+Mc	15	40	Erant autem et mulíeres de longe aspiciéntes : inter quas erat María Magdaléne, et María Iacóbi minóris, et Ioseph mater, et Salóme :
 Mc	15	41	et cum esset in Galilǽa, sequebántur eum, et ministrábant ei, et áliæ multæ, quæ simul cum eo ascénderant Ierosólymam.
 Mc	15	42	Et cum iam sero esset factum (quia erat parascéve, quod est ante sábbatum),
 Mc	15	43	venit Ioseph ab Arimathǽa nóbilis decúrio, qui et ipse erat exspéctans regnum Dei, et audácter introívit ad Pilátum, et pétiit corpus Iesu.
@@ -1725,7 +1725,7 @@ Mc	15	44	Pilátus autem mirabátur si iam obiísset. Et accersíto centurióne, 
 Mc	15	45	Et cum cognovísset a centurióne, donávit corpus Ioseph.
 Mc	15	46	Ioseph autem mercátus síndonem, et depónens eum invólvit síndone, et pósuit eum in monuménto quod erat excísum de petra, et advólvit lápidem ad óstium monuménti.
 Mc	15	47	María autem Magdaléne et María Ioseph aspiciébant ubi ponerétur.
-Mc	16	1	Et cum transísset sábbatum, María Magdaléne, et María Iacóbi, et Sálome emérunt arómata ut veniéntes úngerent Iesum.
+Mc	16	1	Et cum transísset sábbatum, María Magdaléne, et María Iacóbi, et Salóme emérunt arómata ut veniéntes úngerent Iesum.
 Mc	16	2	Et valde mane una sabbatórum, véniunt ad monuméntum, orto iam sole.
 Mc	16	3	Et dicébant ad ínvicem : Quis revólvet nobis lápidem ab óstio monuménti ?
 Mc	16	4	Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde.
