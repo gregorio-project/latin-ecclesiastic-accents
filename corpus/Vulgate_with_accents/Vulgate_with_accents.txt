@@ -28,7 +28,7 @@ Mt	2	2	dicéntes : Ubi est qui natus est rex Iudæórum ? vídimus enim stellam 
 Mt	2	3	Audiens autem Heródes rex, turbátus est, et omnis Ierosólyma cum illo.
 Mt	2	4	Et cóngregans omnes príncipes sacerdótum, et scribas pópuli, sciscitabátur ab eis ubi Christus nascerétur.
 Mt	2	5	At illi dixérunt : In Béthlehem Iudæ : sic enim scriptum est per prophétam :
-Mt	2	6 	Et tu Béthlehem terra Iuda, nequáquam mínima es in princípibus Iuda : ex te enim éxiet dux, qui regat pópulum meum Israel.
+Mt	2	6	Et tu Béthlehem terra Iuda, nequáquam mínima es in princípibus Iuda : ex te enim éxiet dux, qui regat pópulum meum Israel.
 Mt	2	7	Tunc Heródes clam vocátis magis diligénter dídicit ab eis tempus stellæ, quæ appáruit eis :
 Mt	2	8	et mittens illos in Béthlehem, dixit : Ite, et interrogáte diligénter de púero : et cum invenéritis, renuntiáte mihi, ut et ego véniens adórem eum.
 Mt	2	9	Qui cum audíssent regem, abiérunt, et ecce stella, quam víderant in oriénte, antecedébat eos, usque dum véniens staret supra, ubi erat puer.
