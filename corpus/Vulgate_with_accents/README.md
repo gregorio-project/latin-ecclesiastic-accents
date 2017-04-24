@@ -10,6 +10,16 @@ http://outils.biblissima.fr/fr/collatinus/
 
 https://github.com/biblissima/collatinus
 
-At this date (2017-04-18), these Books are available :
+And the accents have been checked with the Polyglotte of Vigouroux :
 
-Mt, Mc
+https://archive.org/details/lasaintebiblepol00vigo
+
+------------
+
+At this date (2017-04-24), these Books are available :
+
+Mt, Mc, Lc
+
+------------
+
+A monk of Saint-Joseph Abbey, Flavigny-sur-Ozerain, Burgundy, France (www.clairval.com)
