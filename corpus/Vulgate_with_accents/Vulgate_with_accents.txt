@@ -202,7 +202,7 @@ Mt	7	29	Erat enim docens eos sicut potestátem habens, et non sicut scribæ eór
 Mt	8	1	Cum autem descendísset de monte, secútæ sunt eum turbæ multæ :
 Mt	8	2	et ecce leprósus véniens, adorábat eum, dicens : Dómine, si vis, potes me mundáre.
 Mt	8	3	Et exténdens Iesus manum, tétigit eum, dicens : Volo. Mundáre. Et conféstim mundáta est lepra eius.
-Mt	8	4	Et ait illi Iesus : Vide, némini díxeris : sed vade, osténde te sacerdóti, et offer munus, quod præcépit Moýses, in testimónium illis.
+Mt	8	4	Et ait illi Iesus : Vide, némini díxeris : sed vade, osténde te sacerdóti, et offer munus, quod præcépit Móyses, in testimónium illis.
 Mt	8	5	Cum autem introísset Caphárnaum, accéssit ad eum centúrio, rogans eum,
 Mt	8	6	et dicens : Dómine, puer meus iacet in domo paralýticus, et male torquétur.
 Mt	8	7	Et ait illi Iesus : Ego véniam, et curábo eum.
@@ -556,8 +556,8 @@ Mt	16	27	Fílius enim hóminis ventúrus est in glória Patris sui cum ángelis 
 Mt	16	28	Amen dico vobis, sunt quidam de hic stántibus, qui non gustábunt mortem, donec vídeant Fílium hóminis veniéntem in regno suo.
 Mt	17	1	Et post dies sex assúmit Iesus Petrum, et Iacóbum, et Ioánnem fratrem eius, et ducit illos in montem excélsum seórsum :
 Mt	17	2	et transfigurátus est ante eos. Et resplénduit fácies eius sicut sol : vestiménta autem eius facta sunt alba sicut nix.
-Mt	17	3	Et ecce apparuérunt illis Moýses et Elías cum eo loquéntes.
-Mt	17	4	Respóndens autem Petrus, dixit ad Iesum : Dómine, bonum est nos hic esse : si vis, faciámus tria tabernácula, tibi unum, Moýsi unum, et Elíæ unum.
+Mt	17	3	Et ecce apparuérunt illis Móyses et Elías cum eo loquéntes.
+Mt	17	4	Respóndens autem Petrus, dixit ad Iesum : Dómine, bonum est nos hic esse : si vis, faciámus tria tabernácula, tibi unum, Móysi unum, et Elíæ unum.
 Mt	17	5	Adhuc eo loquénte, ecce nubes lúcida obumbrávit eos. Et ecce vox de nube, dicens : Hic est Fílius meus diléctus, in quo mihi bene complácui : ipsum audíte.
 Mt	17	6	Et audiéntes discípuli cecidérunt in fáciem suam, et timuérunt valde.
 Mt	17	7	Et accéssit Iesus, et tétigit eos : dixítque eis : Súrgite, et nólite timére.
@@ -621,8 +621,8 @@ Mt	19	3	Et accessérunt ad eum Pharisǽi tentántes eum, et dicéntes : Si licet
 Mt	19	4	Qui respóndens, ait eis : Non legístis, quia qui fecit hóminem ab inítio, másculum et féminam fecit eos ? Et dixit :
 Mt	19	5	Propter hoc dimíttet homo patrem, et matrem, et adhærébit uxóri suæ, et erunt duo in carne una.
 Mt	19	6	Itaque iam non sunt duo, sed una caro. Quod ergo Deus coniúnxit, homo non séparet.
-Mt	19	7	Dicunt illi : Quid ergo Moýses mandávit dare libéllum repúdii, et dimíttere ?
-Mt	19	8	Ait illis : Quóniam Moýses ad durítiam cordis vestri permísit vobis dimíttere uxóres vestras : ab inítio autem non fuit sic.
+Mt	19	7	Dicunt illi : Quid ergo Móyses mandávit dare libéllum repúdii, et dimíttere ?
+Mt	19	8	Ait illis : Quóniam Móyses ad durítiam cordis vestri permísit vobis dimíttere uxóres vestras : ab inítio autem non fuit sic.
 Mt	19	9	Dico autem vobis, quia quicúmque dimíserit uxórem suam, nisi ob fornicatiónem, et áliam dúxerit, mœchátur : et qui dimíssam dúxerit, mœchátur.
 Mt	19	10	Dicunt ei discípuli eius : Si ita est causa hóminis cum uxóre, non éxpedit nubére.
 Mt	19	11	Qui dixit illis : Non omnes cápiunt verbum istud, sed quibus datum est.
@@ -748,7 +748,7 @@ Mt	22	20	Et ait illis Iesus : Cuius est imágo hæc, et superscríptio ?
 Mt	22	21	Dicunt ei : Cǽsaris. Tunc ait illis : Réddite ergo quæ sunt Cǽsaris, Cǽsari : et quæ sunt Dei, Deo.
 Mt	22	22	Et audiéntes miráti sunt, et relícto eo abiérunt.
 Mt	22	23	In illo die accessérunt ad eum Sadducǽi, qui dicunt non esse resurrectiónem : et interrogavérunt eum,
-Mt	22	24	dicéntes : Magíster, Moýses dixit : Si quis mórtuus fúerit non habens fílium, ut ducat frater eius uxórem illíus, et súscitet semen fratri suo.
+Mt	22	24	dicéntes : Magíster, Móyses dixit : Si quis mórtuus fúerit non habens fílium, ut ducat frater eius uxórem illíus, et súscitet semen fratri suo.
 Mt	22	25	Erant autem apud nos septem fratres : et primus, uxóre ducta, defúnctus est : et non habens semen, relíquit uxórem suam fratri suo.
 Mt	22	26	Simíliter secúndus, et tértius usque ad séptimum.
 Mt	22	27	Novíssime autem ómnium et múlier defúncta est.
@@ -772,7 +772,7 @@ Mt	22	44	Dixit Dóminus Dómino meo : Sede a dextris meis, donec ponam inimícos
 Mt	22	45	Si ergo David vocat eum Dóminum, quómodo fílius eius est ?
 Mt	22	46	Et nemo póterat ei respondére verbum : neque ausus fuit quisquam ex illa die eum ámplius interrogáre.
 Mt	23	1	Tunc Iesus locútus est ad turbas, et ad discípulos suos,
-Mt	23	2	dicens : Super cáthedram Moýsi sedérunt scribæ et Pharisǽi.
+Mt	23	2	dicens : Super cáthedram Móysi sedérunt scribæ et Pharisǽi.
 Mt	23	3	Omnia ergo quæcúmque díxerint vobis, serváte, et fácite : secúndum ópera vero eórum nólite fácere : dicunt enim, et non fáciunt.
 Mt	23	4	Alligant enim ónera grávia, et importabília, et impónunt in húmeros hóminum : dígito autem suo nolunt ea movére.
 Mt	23	5	Omnia vero ópera sua fáciunt ut videántur ab homínibus : dilátant enim phylactéria sua, et magníficant fímbrias.
@@ -1111,7 +1111,7 @@ Mc	1	40	Et venit ad eum leprósus déprecans eum : et genu flexo dixit ei : Si v
 Mc	1	41	Iesus autem misértus eius, exténdit manum suam : et tangens eum, ait illi : Volo : mundáre.
 Mc	1	42	Et cum dixísset, statim discéssit ab eo lepra, et mundátus est.
 Mc	1	43	Et comminátus est ei, statímque eiécit illum,
-Mc	1	44	et dicit ei : Vide némini díxeris : sed vade, osténde te príncipi sacerdótum, et offer pro emundatióne tua, quæ præcépit Moýses in testimónium illis.
+Mc	1	44	et dicit ei : Vide némini díxeris : sed vade, osténde te príncipi sacerdótum, et offer pro emundatióne tua, quæ præcépit Móyses in testimónium illis.
 Mc	1	45	At ille egréssus cœpit prædicáre, et diffamáre sermónem, ita ut iam non posset maniféste introíre in civitátem, sed foris in desértis locis esset, et conveniébant ad eum úndique.
 Mc	2	1	Et íterum intrávit Caphárnaum post dies,
 Mc	2	2	et audítum est quod in domo esset, et convenérunt multi, ita ut non cáperet neque ad iánuam, et loquebátur eis verbum.
@@ -1324,7 +1324,7 @@ Mc	7	6	At ille respóndens, dixit eis : Bene prophetávit Isaías de vobis hypó
 Mc	7	7	in vanum autem me colunt, docéntes doctrínas, et præcépta hóminum.
 Mc	7	8	Relinquéntes enim mandátum Dei, tenétis traditiónem hóminum, baptísmata urceórum et cálicum : et ália simília his fácitis multa.
 Mc	7	9	Et dicébat illis : Bene írritum fácitis præcéptum Dei, ut traditiónem vestram servétis.
-Mc	7	10	Moýses enim dixit : Honóra patrem tuum, et matrem tuam. Et : Qui maledíxerit patri, vel matri, morte moriátur.
+Mc	7	10	Móyses enim dixit : Honóra patrem tuum, et matrem tuam. Et : Qui maledíxerit patri, vel matri, morte moriátur.
 Mc	7	11	Vos autem dícitis : Si díxerit homo patri, aut matri, Corban (quod est donum) quodcúmque ex me, tibi profúerit :
 Mc	7	12	et ultra non dimíttitis eum quidquam fácere patri suo, aut matri,
 Mc	7	13	rescindéntes verbum Dei per traditiónem vestram, quam tradidístis : et simília huiúsmodi multa fácitis.
@@ -1393,8 +1393,8 @@ Mc	8	38	Qui enim me confúsus fúerit, et verba mea in generatióne ista adúlte
 Mc	8	39	Et dicébat illis : Amen dico vobis, quia sunt quidam de hic stántibus, qui non gustábunt mortem donec vídeant regnum Dei véniens in virtúte.
 Mc	9	1	Et post dies sex assúmit Iesus Petrum, et Iacóbum, et Ioánnem, et ducit illos in montem excélsum seórsum solos, et transfigurátus est coram ipsis.
 Mc	9	2	Et vestiménta eius facta sunt splendéntia, et cándida nimis velut nix, quália fullo non potest super terram cándida fácere.
-Mc	9	3	Et appáruit illis Elías cum Moýse : et erant loquéntes cum Iesu.
-Mc	9	4	Et respóndens Petrus, ait Iesu : Rabbi, bonum est nos hic esse : et faciámus tria tabernácula, tibi unum, et Moýsi unum, et Elíæ unum.
+Mc	9	3	Et appáruit illis Elías cum Móyse : et erant loquéntes cum Iesu.
+Mc	9	4	Et respóndens Petrus, ait Iesu : Rabbi, bonum est nos hic esse : et faciámus tria tabernácula, tibi unum, et Móysi unum, et Elíæ unum.
 Mc	9	5	Non enim sciébat quid díceret : erant enim timóre extérriti.
 Mc	9	6	Et facta est nubes obúmbrans eos : et venit vox de nube, dicens : Hic est Fílius meus caríssimus : audíte illum.
 Mc	9	7	Et statim circumspiciéntes, néminem ámplius vidérunt, nisi Iesum tantum secum.
@@ -1442,8 +1442,8 @@ Mc	9	48	Omnis enim igne saliétur, et omnis víctima sale saliétur.
 Mc	9	49	Bonum est sal : quod si sal insúlsum fúerit, in quo illud condiétis ? Habéte in vobis sal, et pacem habéte inter vos.
 Mc	10	1	Et inde exsúrgens venit in fines Iudǽæ ultra Iordánem : et convéniunt íterum turbæ ad eum : et sicut consuéverat, íterum docébat illos.
 Mc	10	2	Et accedéntes Pharisǽi interrogábant eum : Si licet vero uxórem dimíttere : tentántes eum.
-Mc	10	3	At ille respóndens, dixit eis : Quid vobis præcépit Moýses ?
-Mc	10	4	Qui dixérunt : Moýses permísit libéllum repúdii scríbere, et dimíttere.
+Mc	10	3	At ille respóndens, dixit eis : Quid vobis præcépit Móyses ?
+Mc	10	4	Qui dixérunt : Móyses permísit libéllum repúdii scríbere, et dimíttere.
 Mc	10	5	Quibus respóndens Iesus, ait : Ad durítiam cordis vestri scripsit vobis præcéptum istud :
 Mc	10	6	ab inítio autem creatúræ másculum et féminam fecit eos Deus.
 Mc	10	7	Propter hoc relínquet homo patrem suum et matrem, et adhærébit ad uxórem suam :
@@ -1543,14 +1543,14 @@ Mc	12	15	Qui sciens versútiam illórum, ait illos : Quid me tentátis ? affért
 Mc	12	16	At illi attulérunt ei. Et ait illis : Cuius est imágo hæc, et inscríptio ? Dicunt ei : Cǽsaris.
 Mc	12	17	Respóndens autem Iesus dixit illis : Réddite ígitur quæ sunt Cǽsaris, Cǽsari : et quæ sunt Dei, Deo. Et mirabántur super eo.
 Mc	12	18	Et venérunt ad eum Sadducǽi, qui dicunt resurrectiónem non esse : et interrogábant eum, dicéntes :
-Mc	12	19	Magíster, Moýses nobis scripsit, ut si cuius frater mórtuus fúerit, et dimíserit uxórem, et fílios non relíquerit, accípiat frater eius uxórem ipsíus, et resúscitet semen fratri suo.
+Mc	12	19	Magíster, Móyses nobis scripsit, ut si cuius frater mórtuus fúerit, et dimíserit uxórem, et fílios non relíquerit, accípiat frater eius uxórem ipsíus, et resúscitet semen fratri suo.
 Mc	12	20	Septem ergo fratres erant : et primus accépit uxórem, et mórtuus est non relícto sémine.
 Mc	12	21	Et secúndus accépit eam, et mórtuus est : et nec iste relíquit semen. Et tértius simíliter.
 Mc	12	22	Et accepérunt eam simíliter septem : et non reliquérunt semen. Novíssima ómnium defúncta est et múlier.
 Mc	12	23	In resurrectióne ergo cum resurréxerint, cuius de his erit uxor ? septem enim habuérunt eam uxórem.
 Mc	12	24	Et respóndens Iesus, ait illis : Nonne ídeo errátis, non sciéntes Scriptúras, neque virtútem Dei ?
 Mc	12	25	Cum enim a mórtuis resurréxerint, neque nubent, neque nubéntur, sed sunt sicut ángeli in cælis.
-Mc	12	26	De mórtuis autem quod resúrgant, non legístis in libro Moýsi, super rubum, quómodo díxerit illi Deus, ínquiens : Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob ?
+Mc	12	26	De mórtuis autem quod resúrgant, non legístis in libro Móysi, super rubum, quómodo díxerit illi Deus, ínquiens : Ego sum Deus Abraham, et Deus Isaac, et Deus Iacob ?
 Mc	12	27	Non est Deus mortuórum, sed vivórum. Vos ergo multum errátis.
 Mc	12	28	Et accéssit unus de scribis, qui audíerat illos conquiréntes, et videns quóniam bene illis respónderit, interrogávit eum quod esset primum ómnium mandátum.
 Mc	12	29	Iesus autem respóndit ei : Quia primum ómnium mandátum est : Audi Israel, Dóminus Deus tuus, Deus unus est :
@@ -1846,7 +1846,7 @@ Lc	2	18	Et omnes qui audiérunt, miráti sunt : et de his quæ dicta erant a pas
 Lc	2	19	María autem conservábat ómnia verba hæc, cónferens in corde suo.
 Lc	2	20	Et revérsi sunt pastóres glorificántes et laudántes Deum in ómnibus quæ audíerant et víderant, sicut dictum est ad illos.
 Lc	2	21	Et postquam consummáti sunt dies octo, ut circumciderétur puer, vocátum est nomen eius Iesus, quod vocátum est ab ángelo priúsquam in útero conciperétur.
-Lc	2	22	Et postquam impléti sunt dies purgatiónis eius secúndum legem Moýsi, tulérunt illum in Ierúsalem, ut sísterent eum Dómino,
+Lc	2	22	Et postquam impléti sunt dies purgatiónis eius secúndum legem Móysi, tulérunt illum in Ierúsalem, ut sísterent eum Dómino,
 Lc	2	23	sicut scriptum est in lege Dómini : Quia omne masculínum adapériens vulvam, sanctum Dómino vocábitur :
 Lc	2	24	et ut darent hóstiam secúndum quod dictum est in lege Dómini, par túrturum, aut duos pullos columbárum.
 Lc	2	25	Et ecce homo erat in Ierúsalem, cui nomen Símeon, et homo iste iustus, et timorátus, exspéctans consolatiónem Israel : et Spíritus Sanctus erat in eo.
@@ -1972,7 +1972,7 @@ Lc	5	10	simíliter autem Iacóbum et Ioánnem, fílios Zebedǽi, qui erant sóci
 Lc	5	11	Et subdúctis ad terram návibus, relíctis ómnibus, secúti sunt eum.
 Lc	5	12	Et factum est, cum esset in una civitátum, et ecce vir plenus lepra, et videns Iesum, et prócidens in fáciem, rogávit eum, dicens : Dómine, si vis, potes me mundáre.
 Lc	5	13	Et exténdens manum, tétigit eum dicens : Volo : mundáre. Et conféstim lepra discéssit ab illo.
-Lc	5	14	Et ipse præcépit illi ut némini díceret : sed, Vade, osténde te sacerdóti, et offer pro emundatióne tua, sicut præcépit Moýses, in testimónium illis.
+Lc	5	14	Et ipse præcépit illi ut némini díceret : sed, Vade, osténde te sacerdóti, et offer pro emundatióne tua, sicut præcépit Móyses, in testimónium illis.
 Lc	5	15	Perambulábat autem magis sermo de illo : et conveniébant turbæ multæ ut audírent, et curaréntur ab infirmitátibus suis.
 Lc	5	16	Ipse autem secedébat in desértum, et orábat.
 Lc	5	17	Et factum est in una diérum, et ipse sedébat docens. Et erant Pharisǽi sedéntes, et legis doctóres, qui vénerant ex omni castéllo Galilǽæ, et Iudǽæ, et Ierúsalem : et virtus Dómini erat ad sanándum eos.
@@ -2182,10 +2182,10 @@ Lc	9	26	Nam qui me erubúerit, et meos sermónes : hunc Fílius hóminis erubés
 Lc	9	27	Dico autem vobis vere : sunt áliqui hic stantes, qui non gustábunt mortem donec vídeant regnum Dei.
 Lc	9	28	Factum est autem post hæc verba fere dies octo, et assúmpsit Petrum, et Iacóbum, et Ioánnem, et ascéndit in montem ut oráret.
 Lc	9	29	Et facta est, dum oráret, spécies vultus eius áltera : et vestítus eius albus et refúlgens.
-Lc	9	30	Et ecce duo viri loquebántur cum illo. Erant autem Moýses et Elías,
+Lc	9	30	Et ecce duo viri loquebántur cum illo. Erant autem Móyses et Elías,
 Lc	9	31	visi in maiestáte : et dicébant excéssum eius, quem completúrus erat in Ierúsalem.
 Lc	9	32	Petrus vero, et qui cum illo erant, graváti erant somno. Et evigilántes vidérunt maiestátem eius, et duos viros qui stabant cum illo.
-Lc	9	33	Et factum est cum discéderent ab illo, ait Petrus ad Iesum : Præcéptor, bonum est nos hic esse : et faciámus tria tabernácula, unum tibi, et unum Moýsi, et unum Elíæ : nésciens quid díceret.
+Lc	9	33	Et factum est cum discéderent ab illo, ait Petrus ad Iesum : Præcéptor, bonum est nos hic esse : et faciámus tria tabernácula, unum tibi, et unum Móysi, et unum Elíæ : nésciens quid díceret.
 Lc	9	34	Hæc autem illo loquénte, facta est nubes, et obumbrávit eos : et timuérunt, intrántibus illis in nubem.
 Lc	9	35	Et vox facta est de nube, dicens : Hic est Fílius meus diléctus, ipsum audíte.
 Lc	9	36	Et dum fíeret vox, invéntus est Iesus solus. Et ipsi tacuérunt, et némini dixérunt in illis diébus quidquam ex his quæ víderant.
@@ -2500,9 +2500,9 @@ Lc	16	25	Et dixit illi Abraham : Fili, recordáre quia recepísti bona in vita t
 Lc	16	26	et in his ómnibus inter nos et vos chaos magnum firmátum est : ut hi qui volunt hinc transíre ad vos, non possint, neque inde huc transmeáre.
 Lc	16	27	Et ait : Rogo ergo te, pater, ut mittas eum in domum patris mei :
 Lc	16	28	hábeo enim quinque fratres : ut testétur illis, ne et ipsi véniant in hunc locum tormentórum.
-Lc	16	29	Et ait illi Abraham : Habent Moýsen et prophétas : áudiant illos.
+Lc	16	29	Et ait illi Abraham : Habent Móysen et prophétas : áudiant illos.
 Lc	16	30	At ille dixit : Non, pater Abraham : sed si quis ex mórtuis íerit ad eos, pœniténtiam agent.
-Lc	16	31	Ait autem illi : Si Moýsen et prophétas non áudiunt, neque si quis ex mórtuis resurréxerit, credent.
+Lc	16	31	Ait autem illi : Si Móysen et prophétas non áudiunt, neque si quis ex mórtuis resurréxerit, credent.
 Lc	17	1	Et ait ad discípulos suos : Impossíbile est ut non véniant scándala : væ autem illi per quem véniunt.
 Lc	17	2	Utílius est illi si lapis moláris imponátur circa collum eius, et proiiciátur in mare quam ut scandalízet unum de pusíllis istis.
 Lc	17	3	Atténdite vobis : Si peccáverit in te frater tuus, íncrepa illum : et si pœniténtiam égerit, dimítte illi.
@@ -2658,7 +2658,7 @@ Lc	20	24	osténdite mihi denárium. Cuius habet imáginem et inscriptiónem ? Re
 Lc	20	25	Et ait illis : Réddite ergo quæ sunt Cǽsaris, Cǽsari : et quæ sunt Dei, Deo.
 Lc	20	26	Et non potuérunt verbum eius reprehéndere coram plebe : et miráti in respónso eius, tacuérunt.
 Lc	20	27	Accessérunt autem quidam Sadducæórum, qui negant esse resurrectiónem, et interrogavérunt eum,
-Lc	20	28	dicéntes : Magíster, Moýses scripsit nobis : Si frater alicúius mórtuus fúerit habens uxórem, et hic sine líberis fúerit, ut accípiat eam frater eius uxórem, et súscitet semen fratri suo.
+Lc	20	28	dicéntes : Magíster, Móyses scripsit nobis : Si frater alicúius mórtuus fúerit habens uxórem, et hic sine líberis fúerit, ut accípiat eam frater eius uxórem, et súscitet semen fratri suo.
 Lc	20	29	Septem ergo fratres erant : et primus accépit uxórem, et mórtuus est sine fíliis.
 Lc	20	30	Et sequens accépit illam, et ipse mórtuus est sine fílio.
 Lc	20	31	Et tértius accépit illam. Simíliter et omnes septem, et non reliquérunt semen, et mórtui sunt.
@@ -2667,7 +2667,7 @@ Lc	20	33	In resurrectióne ergo, cuius eórum erit uxor ? síquidem septem habu�
 Lc	20	34	Et ait illis Iesus : Fílii huius sǽculi nubunt, et tradúntur ad núptias :
 Lc	20	35	illi vero qui digni habebúntur sǽculo illo, et resurrectióne ex mórtuis, neque nubent, neque ducent uxóres :
 Lc	20	36	neque enim ultra mori potuérunt : æquáles enim ángelis sunt, et fílii sunt Dei, cum sint fílii resurrectiónis.
-Lc	20	37	Quia vero resúrgant mórtui, et Moýses osténdit secus rubum, sicut dicit Dóminum, Deum Abraham, et Deum Isaac, et Deum Iacob.
+Lc	20	37	Quia vero resúrgant mórtui, et Móyses osténdit secus rubum, sicut dicit Dóminum, Deum Abraham, et Deum Isaac, et Deum Iacob.
 Lc	20	38	Deus autem non est mortuórum, sed vivórum : omnes enim vivunt ei.
 Lc	20	39	Respondéntes autem quidam scribárum, dixérunt ei : Magíster, bene dixísti.
 Lc	20	40	Et ámplius non audébant eum quidquam interrogáre.
@@ -2869,7 +2869,7 @@ Lc	24	23	et non invénto córpore eius, venérunt, dicéntes se étiam visiónem
 Lc	24	24	Et abiérunt quidam ex nostris ad monuméntum : et ita invenérunt sicut mulíeres dixérunt, ipsum vero non invenérunt.
 Lc	24	25	Et ipse dixit ad eos : O stulti, et tardi corde ad credéndum in ómnibus quæ locúti sunt prophétæ !
 Lc	24	26	Nonne hæc opórtuit pati Christum, et ita intráre in glóriam suam ?
-Lc	24	27	Et incípiens a Moýse, et ómnibus prophétis, interpretabátur illis in ómnibus scriptúris quæ de ipso erant.
+Lc	24	27	Et incípiens a Móyse, et ómnibus prophétis, interpretabátur illis in ómnibus scriptúris quæ de ipso erant.
 Lc	4	28	Et appropinquavérunt castéllo quo ibant : et ipse se finxit lóngius ire.
 Lc	24	29	Et Coegérunt illum, dicéntes : Mane nobíscum, quóniam advesperáscit, et inclináta est iam dies. Et intrávit cum illis.
 Lc	24	30	Et factum est, dum recúmberet cum eis, accépit panem, et benedíxit, ac fregit, et porrigébat illis.
@@ -2886,7 +2886,7 @@ Lc	24	40	Et cum hoc dixísset, osténdit eis manus et pedes.
 Lc	24	41	Adhuc autem illis non credéntibus, et mirántibus præ gáudio, dixit : Habétis hic áliquid quod manducétur ?
 Lc	24	42	At illi obtulérunt ei partem piscis assi et favum mellis.
 Lc	24	43	Et cum manducásset coram eis, sumens relíquias dedit eis.
-Lc	24	44	Et dixit ad eos : Hæc sunt verba quæ locútus sum ad vos cum adhuc essem vobíscum, quóniam necésse est impléri ómnia quæ scripta sunt in lege Moýsi, et prophétis, et Psalmis de me.
+Lc	24	44	Et dixit ad eos : Hæc sunt verba quæ locútus sum ad vos cum adhuc essem vobíscum, quóniam necésse est impléri ómnia quæ scripta sunt in lege Móysi, et prophétis, et Psalmis de me.
 Lc	24	45	Tunc apéruit illis sensum ut intellígerent Scriptúras,
 Lc	24	46	et dixit eis : Quóniam sic scriptum est, et sic oportébat Christum pati, et resúrgere a mórtuis tértia die :
 Lc	24	47	et prædicári in nómine eius pœniténtiam, et remissiónem peccatórum in omnes gentes, incipiéntibus ab Ierosólyma.
@@ -2896,3 +2896,883 @@ Lc	24	50	Edúxit autem eos foras in Bethániam, et elevátis mánibus suis bened
 Lc	24	51	Et factum est, dum benedíceret illis, recéssit ab eis, et ferebátur in cælum.
 Lc	24	52	Et ipsi adorántes regréssi sunt in Ierúsalem cum gáudio magno :
 Lc	24	53	et erant semper in templo, laudántes et benedicéntes Deum. Amen. 
+Jn	1	1	In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.
+Jn	1	2	Hoc erat in princípio apud Deum.
+Jn	1	3	Omnia per ipsum facta sunt : et sine ipso factum est nihil, quod factum est.
+Jn	1	4	In ipso vita erat, et vita erat lux hóminum :
+Jn	1	5	et lux in ténebris lucet, et ténebræ eam non comprehendérunt.
+Jn	1	6	Fuit homo missus a Deo, cui nomen erat Ioánnes.
+Jn	1	7	Hic venit in testimónium ut testimónium perhibéret de lúmine, ut omnes créderent per illum.
+Jn	1	8	Non erat ille lux, sed ut testimónium perhibéret de lúmine.
+Jn	1	9	Erat lux vera, quæ illúminat omnem hóminem veniéntem in hunc mundum.
+Jn	1	10	In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit.
+Jn	1	11	In própria venit, et sui eum non recepérunt.
+Jn	1	12	Quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri, his qui credunt in nómine eius :
+Jn	1	13	qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.
+Jn	1	14	Et Verbum caro factum est, et habitávit in nobis : et vídimus glóriam eius, glóriam quasi unigéniti a Patre plenum grátiæ et veritátis.
+Jn	1	15	Ioánnes testimónium pérhibet de ipso, et clamat dicens : Hic erat quem dixi : Qui post me ventúrus est, ante me factus est : quia prior me erat.
+Jn	1	16	Et de plenitúdine eius nos omnes accépimus, et grátiam pro grátia :
+Jn	1	17	quia lex per Móysen data est, Ioánnes grátia et véritas per Iesum Christum facta est.
+Jn	1	18	Deum nemo vidit umquam : unigénitus Fílius, qui est in sinu Patris, ipse enarrávit.
+Jn	1	19	Et hoc est testimónium Ioánnis, quando misérunt Iudǽi ab Ierosólymis sacerdótes et Levítas ad eum ut interrogárent eum : Tu quis es ?
+Jn	1	20	Et conféssus est, et non negávit, et conféssus est : Quia non sum ego Christus.
+Jn	1	21	Et interrogavérunt eum : Quid ergo ? Elías es tu ? Et dixit : Non sum. Prophéta es tu ? Et respóndit : Non.
+Jn	1	22	Dixérunt ergo ei : Quis es ut respónsum demus his qui misérunt nos ? quid dicis de teípso ?
+Jn	1	23	Ait : Ego vox clamántis in desérto : Dirígite viam Dómini, sicut dixit Isaías prophéta.
+Jn	1	24	Et qui missi fúerant, erant ex Pharisǽis.
+Jn	1	25	Et interrogavérunt eum, et dixérunt ei : Quid ergo baptízas, si tu non es Christus, neque Elías, neque prophéta ?
+Jn	1	26	Respóndit eis Ioánnes, dicens : Ego baptízo in aqua : médius autem vestrum stetit, quem vos nescítis.
+Jn	1	27	Ipse est qui post me ventúrus est, qui ante me factus est : cuius ego non sum dignus ut solvam eius corrígiam calceaménti.
+Jn	1	28	Hæc in Bethánia facta sunt trans Iordánem, ubi erat Ioánnes baptízans.
+Jn	1	29	Altera die vidit Ioánnes Iesum veniéntem ad se, et ait : Ecce agnus Dei, ecce qui tollit peccátum mundi.
+Jn	1	30	Hic est de quo dixi : Post me venit vir qui ante me factus est : quia prior me erat :
+Jn	1	31	et ego nesciébam eum, sed ut manifestétur in Israel, proptérea veni ego in aqua baptízans.
+Jn	1	32	Et testimónium perhíbuit Ioánnes, dicens : Quia vidi Spíritum descendéntem quasi colúmbam de cælo, et mansit super eum.
+Jn	1	33	Et ego nesciébam eum : sed qui misit me baptizáre in aqua, ille mihi dixit : Super quem víderis Spíritum descendéntem, et manéntem super eum, hic est qui baptízat in Spíritu Sancto.
+Jn	1	34	Et ego vidi : et testimónium perhíbui quia hic est Fílius Dei.
+Jn	1	35	Altera die íterum stabat Ioánnes, et ex discípulis eius duo.
+Jn	1	36	Et respíciens Iesum ambulántem, dicit : Ecce agnus Dei.
+Jn	1	37	Et audiérunt eum duo discípuli loquéntem, et secúti sunt Iesum.
+Jn	1	38	Convérsus autem Iesus, et videns eos sequéntes se, dicit eis : Quid quǽritis ? Qui dixérunt ei : Rabbi (quod dícitur interpretátum Magíster), ubi hábitas ?
+Jn	1	39	Dicit eis : Veníte et vidéte. Venérunt, et vidérunt ubi manéret, et apud eum mansérunt die illo : hora autem erat quasi décima.
+Jn	1	40	Erat autem Andréas, frater Simónis Petri, unus ex duóbus qui audíerant a Ioánne, et secúti fúerant eum.
+Jn	1	41	Invenit hic primum fratrem suum Simónem, et dicit ei : Invénimus Messíam (quod est interpretátum Christus).
+Jn	1	42	Et addúxit eum ad Iesum. Intúitus autem eum Iesus, dixit : Tu es Simon, fílius Iona ; tu vocáberis Cephas, quod interpretátur Petrus.
+Jn	1	43	In crástinum vóluit exíre in Galilǽam, et ínvenit Philíppum. Et dicit ei Iesus : Séquere me.
+Jn	1	44	Erat autem Philíppus a Bethsáida, civitáte Andréæ et Petri.
+Jn	1	45	Invenit Philíppus Nathánael, et dicit ei : Quem scripsit Móyses in lege, et prophétæ, invénimus Iesum fílium Ioseph a Názareth.
+Jn	1	46	Et dixit ei Nathánael : A Názareth potest áliquid boni esse ? Dicit ei Philíppus : Veni et vide.
+Jn	1	47	Vidit Iesus Nathánael veniéntem ad se, et dicit de eo : Ecce vere Israelíta, in quo dolus non est.
+Jn	1	48	Dicit ei Nathánael : Unde me nosti ? Respóndit Iesus, et dixit ei : Priúsquam te Philíppus vocávit, cum esses sub ficu, vidi te.
+Jn	1	49	Respóndit ei Nathánael, et ait : Rabbi, tu es Fílius Dei, tu es rex Israel.
+Jn	1	50	Respóndit Iesus, et dixit ei : Quia dixi tibi : Vidi te sub ficu, credis ; maius his vidébis.
+Jn	1	51	Et dicit ei : Amen, amen dico vobis, vidébitis cælum apértum, et ángelos Dei ascendéntes, et descendéntes supra Fílium hóminis.
+Jn	2	1	Et die tértia núptiæ factæ sunt in Cana Galilǽæ, et erat mater Iesu ibi.
+Jn	2	2	Vocátus est autem et Iesus, et discípuli eius, ad núptias.
+Jn	2	3	Et deficiénte vino, dicit mater Iesu ad eum : Vinum non habent.
+Jn	2	4	Et dicit ei Iesus : Quid mihi et tibi est, múlier ? nondum venit hora mea.
+Jn	2	5	Dicit mater eius minístris : Quodcúmque díxerit vobis, fácite.
+Jn	2	6	Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Iudæórum, capiéntes síngulæ metrétas binas vel ternas.
+Jn	2	7	Dicit eis Iesus : Impléte hýdrias aqua. Et implevérunt eas usque ad summum.
+Jn	2	8	Et dicit eis Iesus : Hauríte nunc, et ferte architriclíno. Et tulérunt.
+Jn	2	9	Ut autem gustávit architriclínus aquam vinum factam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam : vocat sponsum architriclínus,
+Jn	2	10	et dicit ei : Omnis homo primum bonum vinum ponit et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc.
+Jn	2	11	Hoc fecit inítium signórum Iesus in Cana Galilǽæ ; et manifestávit glóriam suam, et credidérunt in eum discípuli eius.
+Jn	2	12	Post hoc descéndit Caphárnaum ipse, et mater eius, et fratres eius, et discípuli eius : et ibi mansérunt non multis diébus.
+Jn	2	13	Et prope erat Pascha Iudæórum, et ascéndit Iesus Ierosólymam :
+Jn	2	14	et invénit in templo vendéntes boves, et oves, et colúmbas, et numulários sedéntes.
+Jn	2	15	Et cum fecísset quasi flagéllum de funículis, omnes eiécit de templo, oves quoque, et boves, et numulariórum effúdit æs, et mensas subvértit.
+Jn	2	16	Et his qui colúmbas vendébant, dixit : Auférte ista hinc, et nólite fácere domum patris mei, domum negotiatiónis.
+Jn	2	17	Recordáti sunt vero discípuli eius quia scriptum est : Zelus domus tuæ comédit me.
+Jn	2	18	Respondérunt ergo Iudǽi, et dixérunt ei : Quod signum osténdis nobis, quia hæc facis ?
+Jn	2	19	Respóndit Iesus, et dixit eis : Sólvite templum hoc, et in tribus diébus excitábo illud.
+Jn	2	20	Dixérunt ergo Iudǽi : Quadragínta et sex annis ædificátum est templum hoc, et tu in tribus diébus excitábis illud ?
+Jn	2	21	Ille autem dicébat de templo córporis sui.
+Jn	2	22	Cum ergo resurrexísset a mórtuis, recordáti sunt discípuli eius, quia hoc dicébat, et credidérunt scriptúræ et sermóni quem dixit Iesus.
+Jn	2	23	Cum autem esset Ierosólymis in Pascha in die festo, multi credidérunt in nómine eius, vidéntes signa eius, quæ faciébat.
+Jn	2	24	Ipse autem Iesus non credébat semetípsum eis, eo quod ipse nosset omnes,
+Jn	2	25	et quia opus ei non erat ut quis testimónium perhibéret de hómine : ipse enim sciébat quid esset in hómine.
+Jn	3	1	Erat autem homo ex Pharisǽis, Nicodémus nómine, princeps Iudæórum.
+Jn	3	2	Hic venit ad Iesum nocte, et dixit ei : Rabbi, scimus quia a Deo venísti magíster, nemo enim potest hæc signa fácere, quæ tu facis, nisi fúerit Deus cum eo.
+Jn	3	3	Respóndit Iesus, et dixit ei : Amen, amen dico tibi, nisi quis renátus fúerit dénuo, non potest vidére regnum Dei.
+Jn	3	4	Dicit ad eum Nicodémus : Quómodo potest homo nasci, cum sit senex ? numquid potest in ventrem matris suæ iteráto introíre et renásci ?
+Jn	3	5	Respóndit Iesus : Amen, amen dico tibi, nisi quis renátus fúerit ex aqua, et Spíritu Sancto, non potest introíre in regnum Dei.
+Jn	3	6	Quod natum est ex carne, caro est : et quod natum est ex spíritu, spíritus est.
+Jn	3	7	Non miréris quia dixi tibi : opórtet vos nasci dénuo.
+Jn	3	8	Spíritus ubi vult spirat, et vocem eius audis, sed nescis unde véniat, aut quo vadat : sic est omnis qui natus est ex spíritu.
+Jn	3	9	Respóndit Nicodémus, et dixit ei : Quómodo possunt hæc fíeri ?
+Jn	3	10	Respóndit Iesus, et dixit ei : Tu es magíster in Israel, et hæc ignóras ?
+Jn	3	11	amen, amen dico tibi, quia quod scimus lóquimur, et quod vídimus testámur, et testimónium nostrum non accípitis.
+Jn	3	12	Si terréna dixi vobis, et non créditis : quómodo, si díxero vobis cæléstia, credétis ?
+Jn	3	13	Et nemo ascéndit in cælum, nisi qui descéndit de cælo, Fílius hóminis, qui est in cælo.
+Jn	3	14	Et sicut Móyses exaltávit serpéntem in desérto, ita exaltári opórtet Fílium hóminis :
+Jn	3	15	ut omnis qui credit in ipsum, non péreat, sed hábeat vitam ætérnam.
+Jn	3	16	Sic enim Deus diléxit mundum, ut Fílium suum unigénitum daret : ut omnis qui credit in eum, non péreat, sed hábeat vitam ætérnam.
+Jn	3	17	Non enim misit Deus Fílium suum in mundum, ut iúdicet mundum, sed ut salvétur mundus per ipsum.
+Jn	3	18	Qui credit in eum, non iudicátur ; qui autem non credit, iam iudicátus est : quia non credit in nómine unigéniti Fílii Dei.
+Jn	3	19	Hoc est autem iudícium : quia lux venit in mundum, et dilexérunt hómines magis ténebras quam lucem : erant enim eórum mala ópera.
+Jn	3	20	Omnis enim qui male agit, odit lucem, et non venit ad lucem, ut non arguántur ópera eius :
+Jn	3	21	qui autem facit veritátem, venit ad lucem, ut manifesténtur ópera eius, quia in Deo sunt facta.
+Jn	3	22	Post hæc venit Iesus et discípuli eius in terram Iudǽam : et illic demorabátur cum eis, et baptizábat.
+Jn	3	23	Erat autem et Ioánnes baptízans, in Ænnon, iuxta Salim : quia aquæ multæ erant illic, et veniébant et baptizabántur.
+Jn	3	24	Nondum enim missus fúerat Ioánnes in cárcerem.
+Jn	3	25	Facta est autem quǽstio ex discípulis Ioánnis cum Iudǽis de purificatióne.
+Jn	3	26	Et venérunt ad Ioánnem, et dixérunt ei : Rabbi, qui erat tecum trans Iordánem, cui tu testimónium perhibuísti, ecce hic baptízat, et omnes véniunt ad eum.
+Jn	3	27	Respóndit Ioánnes, et dixit : Non potest homo accípere quidquam, nisi fúerit ei datum de cælo.
+Jn	3	28	Ipsi vos mihi testimónium perhibétis, quod díxerim : Non sum ego Christus : sed quia missus sum ante illum.
+Jn	3	29	Qui habet sponsam, sponsus est : amícus autem sponsi, qui stat, et audit eum, gáudio gaudet propter vocem sponsi. Hoc ergo gáudium meum implétum est.
+Jn	3	30	Illum opórtet créscere, me autem mínui.
+Jn	3	31	Qui desúrsum venit, super omnes est. Qui est de terra, de terra est, et de terra lóquitur. Qui de cælo venit, super omnes est.
+Jn	3	32	Et quod vidit, et audívit, hoc testátur : et testimónium eius nemo áccipit.
+Jn	3	33	Qui accépit eius testimónium signávit, quia Deus verax est.
+Jn	3	34	Quem enim misit Deus, verba Dei lóquitur : non enim ad mensúram dat Deus spíritum.
+Jn	3	35	Pater díligit Fílium et ómnia dedit in manu eius.
+Jn	3	36	Qui credit in Fílium, habet vitam ætérnam ; qui autem incrédulus est Fílio, non vidébit vitam, sed ira Dei manet super eum.
+Jn	4	1	Ut ergo cognóvit Iesus quia audiérunt Pharisǽi quod Iesus plures discípulos facit, et baptízat, quam Ioánnes
+Jn	4	2	(quamquam Iesus non baptizáret, sed discípuli eius),
+Jn	4	3	relíquit Iudǽam, et ábiit íterum in Galilǽam.
+Jn	4	4	Oportébat autem eum transíre per Samaríam.
+Jn	4	5	Venit ergo in civitátem Samaríæ, quæ dícitur Sichar, iuxta prǽdium quod dedit Iacob Ioseph fílio suo.
+Jn	4	6	Erat autem ibi fons Iacob. Iesus ergo fatigátus ex itínere, sedébat sic supra fontem. Hora erat quasi sexta.
+Jn	4	7	Venit múlier de Samaría hauríre aquam. Dicit ei Iesus : Da mihi bíbere.
+Jn	4	8	(Discípuli enim eius abíerant in civitátem ut cibos émerent.)
+Jn	4	9	Dicit ergo ei múlier illa Samaritána : Quómodo tu, Iudǽus cum sis, bíbere a me poscis, quæ sum múlier Samaritána ? non enim coutúntur Iudǽi Samaritánis.
+Jn	4	10	Respóndit Iesus, et dixit ei : Si scires donum Dei, et quis est qui dicit tibi : Da mihi bíbere, tu fórsitan petísses ab eo, et dedísset tibi aquam vivam.
+Jn	4	11	Dicit ei múlier : Dómine, neque in quo háurias habes, et púteus altus est : unde ergo habes aquam vivam ?
+Jn	4	12	Numquid tu maior es patre nostro Iacob, qui dedit nobis púteum, et ipse ex eo bibit, et fílii eius, et pécora eius ?
+Jn	4	13	Respóndit Iesus, et dixit ei : Omnis qui bibit ex aqua hac, sítiet íterum ; qui autem bíberit ex aqua quam ego dabo ei, non sítiet in ætérnum :
+Jn	4	14	sed aqua quam ego dabo ei, fiet in eo fons aquæ saliéntis in vitam ætérnam.
+Jn	4	15	Dicit ad eum múlier : Dómine, da mihi hanc aquam, ut non sítiam, neque véniam huc hauríre.
+Jn	4	16	Dicit ei Iesus : Vade, voca virum tuum, et veni huc.
+Jn	4	17	Respóndit múlier, et dixit : Non hábeo virum. Dicit ei Iesus : Bene dixísti, quia non hábeo virum ;
+Jn	4	18	quinque enim viros habuísti, et nunc, quem habes, non est tuus vir : hoc vere dixísti.
+Jn	4	19	Dicit ei múlier : Dómine, vídeo quia prophéta es tu.
+Jn	4	20	Patres nostri in monte hoc adoravérunt, et vos dícitis, quia Ierosólymis est locus ubi adoráre opórtet.
+Jn	4	21	Dicit ei Iesus : Múlier, crede mihi, quia venit hora, quando neque in monte hoc, neque in Ierosólymis adorábitis Patrem.
+Jn	4	22	Vos adorátis quod nescítis : nos adorámus quod scimus, quia salus ex Iudǽis est.
+Jn	4	23	Sed venit hora, et nunc est, quando veri adorátores adorábunt Patrem in spíritu et veritáte. Nam et Pater tales quærit, qui adórent eum.
+Jn	4	24	Spíritus est Deus : et eos qui adórant eum, in spíritu et veritáte opórtet adoráre.
+Jn	4	25	Dicit ei múlier : Scio quia Messías venit (qui dícitur Christus) : cum ergo vénerit ille, nobis annuntiábit ómnia.
+Jn	4	26	Dicit ei Iesus : Ego sum, qui loquor tecum.
+Jn	4	27	Et contínuo venérunt discípuli eius, et mirabántur quia cum mulíere loquebátur. Nemo tamen dixit : Quid quæris ? aut, Quid lóqueris cum ea ?
+Jn	4	28	Relíquit ergo hýdriam suam múlier, et ábiit in civitátem, et dicit illis homínibus :
+Jn	4	29	Veníte, et vidéte hóminem qui dixit mihi ómnia quæcúmque feci : numquid ipse est Christus ?
+Jn	4	30	Exiérunt ergo de civitáte et veniébant ad eum.
+Jn	4	31	Intérea rogábant eum discípuli, dicéntes : Rabbi, mandúca.
+Jn	4	32	Ille autem dicit eis : Ego cibum hábeo manducáre, quem vos nescítis.
+Jn	4	33	Dicébant ergo discípuli ad ínvicem : Numquid áliquis áttulit ei manducáre ?
+Jn	4	34	Dicit eis Iesus : Meus cibus est ut fáciam voluntátem eius qui misit me, ut perfíciam opus eius.
+Jn	4	35	Nonne vos dícitis quod adhuc quátuor menses sunt, et messis venit ? Ecce dico vobis : leváte óculos vestros, et vidéte regiónes, quia albæ sunt iam ad messem.
+Jn	4	36	Et qui metit, mercédem áccipit, et cóngregat fructum in vitam ætérnam : ut et qui séminat, simul gáudeat, et qui metit.
+Jn	4	37	In hoc enim est verbum verum : quia álius est qui séminat, et álius est qui metit.
+Jn	4	38	Ego misi vos métere quod vos non laborástis : álii laboravérunt, et vos in labóres eórum introístis.
+Jn	4	39	Ex civitáte autem illa multi credidérunt in eum Samaritanórum, propter verbum mulíeris testimónium perhibéntis : Quia dixit mihi ómnia quæcúmque feci.
+Jn	4	40	Cum veníssent ergo ad illum Samaritáni, rogavérunt eum ut ibi manéret. Et mansit ibi duos dies.
+Jn	4	41	Et multo plures credidérunt in eum propter sermónem eius.
+Jn	4	42	Et mulíeri dicébant : Quia iam non propter tuam loquélam crédimus : ipsi enim audívimus, et scimus quia hic est vere Salvátor mundi.
+Jn	4	43	Post duos autem dies éxiit inde, et ábiit in Galilǽam.
+Jn	4	44	Ipse enim Iesus testimónium perhíbuit, quia prophéta in sua pátria honórem non habet.
+Jn	4	45	Cum ergo venísset in Galilǽam, excepérunt eum Galilǽi, cum ómnia vidíssent quæ fécerat Ierosólymis in die festo : et ipsi enim vénerant ad diem festum.
+Jn	4	46	Venit ergo íterum in Cana Galilǽæ, ubi fecit aquam vinum. Et erat quidam régulus, cuius fílius infirmabátur Caphárnaum.
+Jn	4	47	Hic cum audísset quia Iesus adveníret a Iudǽa in Galilǽam, ábiit ad eum, et rogábat eum ut descénderet, et sanáret fílium eius : incipiébat enim mori.
+Jn	4	48	Dixit ergo Iesus ad eum : Nisi signa et prodígia vidéritis, non créditis.
+Jn	4	49	Dicit ad eum régulus : Dómine, descénde priúsquam moriátur fílius meus.
+Jn	4	50	Dicit ei Iesus : Vade, fílius tuus vivit. Crédidit homo sermóni quem dixit ei Iesus, et ibat.
+Jn	4	51	Iam autem eo descendénte, servi occurrérunt ei, et nuntiavérunt dicéntes, quia fílius eius víveret.
+Jn	4	52	Interrogábat ergo horam ab eis in qua mélius habúerit. Et dixérunt ei : Quia heri hora séptima relíquit eum febris.
+Jn	4	53	Cognóvit ergo pater, quia illa hora erat in qua dixit ei Iesus : Fílius tuus vivit ; et crédidit ipse et domus eius tota.
+Jn	4	54	Hoc íterum secúndum signum fecit Iesus, cum venísset a Iudǽa in Galilǽam.
+Jn	5	1	Post hæc erat dies festus Iudæórum, et ascéndit Iesus Ierosólymam.
+Jn	5	2	Est autem Ierosólymis probática piscína, quæ cognominátur Hebráice Bethsáida, quinque pórticus habens.
+Jn	5	3	In his iacébat multitúdo magna languéntium, cæcórum, claudórum, aridórum, exspectántium aquæ motum.
+Jn	5	4	Angelus autem Dómini descendébat secúndum tempus in piscínam, et movebátur aqua. Et qui prior descendísset in piscínam post motiónem aquæ, sanus fiébat a quacúmque detinebátur infirmitáte.
+Jn	5	5	Erat autem quidam homo ibi trigínta et octo annos habens in infirmitáte sua.
+Jn	5	6	Hunc autem cum vidísset Iesus iacéntem, et cognovísset quia iam multum tempus habéret, dicit ei : Vis sanus fíeri ?
+Jn	5	7	Respóndit ei lánguidus : Dómine, hóminem non hábeo, ut, cum turbáta fúerit aqua, mittat me in piscínam : dum vénio enim ego, álius ante me descéndit.
+Jn	5	8	Dicit ei Iesus : Surge, tolle grabátum tuum et ámbula.
+Jn	5	9	Et statim sanus factus est homo ille : et sústulit grabátum suum, et ambulábat. Erat autem sábbatum in die illo.
+Jn	5	10	Dicébant ergo Iudǽi illi qui sanátus fúerat : Sábbatum est, non licet tibi tóllere grabátum tuum.
+Jn	5	11	Respóndit eis : Qui me sanum fecit, ille mihi dixit : Tolle grabátum tuum et ámbula.
+Jn	5	12	Interrogavérunt ergo eum : Quis est ille homo qui dixit tibi : Tolle grabátum tuum et ámbula ?
+Jn	5	13	Is autem qui sanus fúerat efféctus, nesciébat quis esset. Iesus enim declinávit a turba constitúta in loco.
+Jn	5	14	Póstea ínvenit eum Iesus in templo, et dixit illi : Ecce sanus factus es ; iam noli peccáre, ne detérius tibi áliquid contíngat.
+Jn	5	15	Abiit ille homo, et nuntiávit Iudǽis quia Iesus esset, qui fecit eum sanum.
+Jn	5	16	Proptérea persequebántur Iudǽi Iesum, quia hæc faciébat in sábbato.
+Jn	5	17	Iesus autem respóndit eis : Pater meus usque modo operátur, et ego óperor.
+Jn	5	18	Proptérea ergo magis quærébant eum Iudǽi interfícere : quia non solum solvébat sábbatum, sed et patrem suum dicébat Deum, æquálem se fáciens Deo. Respóndit ítaque Iesus, et dixit eis :
+Jn	5	19	Amen, amen dico vobis : non potest Fílius a se fácere quidquam, nisi quod víderit Patrem faciéntem : quæcúmque enim ille fécerit, hæc et Fílius simíliter facit.
+Jn	5	20	Pater enim díligit Fílium, et ómnia demónstrat ei quæ ipse facit : et maióra his demonstrábit ei ópera, ut vos mirémini.
+Jn	5	21	Sicut enim Pater súscitat mórtuos, et vivíficat, sic et Fílius, quos vult, vivíficat.
+Jn	5	22	Neque enim Pater iúdicat quemquam : sed omne iudícium dedit Fílio,
+Jn	5	23	ut omnes honoríficent Fílium, sicut honoríficant Patrem ; qui non honoríficat Fílium, non honoríficat Patrem, qui misit illum.
+Jn	5	24	Amen, amen dico vobis, quia qui verbum meum audit, et credit ei qui misit me, habet vitam ætérnam, et in iudícium non venit, sed tránsiit a morte in vitam.
+Jn	5	25	Amen, amen dico vobis, quia venit hora, et nunc est, quando mórtui áudient vocem Fílii Dei : et qui audíerint, vivent.
+Jn	5	26	Sicut enim Pater habet vitam in semetípso, sic dedit et Fílio habére vitam in semetípso :
+Jn	5	27	et potestátem dedit ei iudícium fácere, quia Fílius hóminis est.
+Jn	5	28	Nólite mirári hoc, quia venit hora in qua omnes qui in monuméntis sunt áudient vocem Fílii Dei :
+Jn	5	29	et procédent qui bona fecérunt, in resurrectiónem vitæ ; qui vero mala egérunt, in resurrectiónem iudícii.
+Jn	5	30	Non possum ego a meípso fácere quidquam. Sicut áudio, iúdico : et iudícium meum iustum est, quia non quæro voluntátem meam, sed voluntátem eius qui misit me.
+Jn	5	31	Si ego testimónium perhíbeo de meípso, testimónium meum non est verum.
+Jn	5	32	Alius est qui testimónium pérhibet de me : et scio quia verum est testimónium, quod pérhibet de me.
+Jn	5	33	Vos misístis ad Ioánnem, et testimónium perhíbuit veritáti.
+Jn	5	34	Ego autem non ab hómine testimónium accípio : sed hæc dico ut vos salvi sitis.
+Jn	5	35	Ille erat lucérna ardens et lucens : vos autem voluístis ad horam exsultáre in luce eius.
+Jn	5	36	Ego autem hábeo testimónium maius Ioánne. Opera enim quæ dedit mihi Pater ut perfíciam ea : ipsa ópera, quæ ego fácio, testimónium pérhibent de me, quia Pater misit me :
+Jn	5	37	et qui misit me Pater, ipse testimónium perhíbuit de me : neque vocem eius umquam audístis, neque spéciem eius vidístis :
+Jn	5	38	et verbum eius non habétis in vobis manens : quia quem misit ille, huic vos non créditis.
+Jn	5	39	Scrutámini Scriptúras, quia vos putátis in ipsis vitam ætérnam habére : et illæ sunt quæ testimónium pérhibent de me :
+Jn	5	40	et non vultis veníre ad me ut vitam habeátis.
+Jn	5	41	Claritátem ab homínibus non accípio.
+Jn	5	42	Sed cognóvi vos, quia dilectiónem Dei non habétis in vobis.
+Jn	5	43	Ego veni in nómine Patris mei, et non accípitis me ; si álius vénerit in nómine suo, illum accipiétis.
+Jn	5	44	Quómodo vos potéstis crédere, qui glóriam ab ínvicem accípitis, et glóriam quæ a solo Deo est, non quǽritis ?
+Jn	5	45	Nólite putáre quia ego accusatúrus sim vos apud Patrem : est qui accúsat vos Móyses, in quo vos sperátis.
+Jn	5	46	Si enim crederétis Móysi, crederétis fórsitan et mihi : de me enim ille scripsit.
+Jn	5	47	Si autem illíus lítteris non créditis, quómodo verbis meis credétis ?
+Jn	6	1	Post hæc ábiit Iesus trans mare Galilǽæ, quod est Tiberíadis :
+Jn	6	2	et sequebátur eum multitúdo magna, quia vidébant signa quæ faciébat super his qui infirmabántur.
+Jn	6	3	Súbiit ergo in montem Iesus et ibi sedébat cum discípulis suis.
+Jn	6	4	Erat autem próximum Pascha dies festus Iudæórum.
+Jn	6	5	Cum sublevásset ergo óculos Iesus, et vidísset quia multitúdo máxima venit ad eum, dixit ad Philíppum : Unde emémus panes, ut mandúcent hi ?
+Jn	6	6	Hoc autem dicébat tentans eum : ipse enim sciébat quid esset factúrus.
+Jn	6	7	Respóndit ei Philíppus : Ducentórum denariórum panes non suffíciunt eis, ut unusquísque módicum quid accípiat.
+Jn	6	8	Dicit ei unus ex discípulis eius, Andréas, frater Simónis Petri :
+Jn	6	9	Est puer unus hic qui habet quinque panes hordeáceos et duos pisces : sed hæc quid sunt inter tantos ?
+Jn	6	10	Dixit ergo Iesus : Fácite hómines discúmbere. Erat autem fœnum multum in loco. Discubuérunt ergo viri, número quasi quinque míllia.
+Jn	6	11	Accépit ergo Iesus panes : et cum grátias egísset, distríbuit discumbéntibus : simíliter et ex píscibus quantum volébant.
+Jn	6	12	Ut autem impléti sunt, dixit discípulis suis : Collígite quæ superavérunt fragménta, ne péreant.
+Jn	6	13	Collegérunt ergo, et implevérunt duódecim cóphinos fragmentórum ex quinque pánibus hordeáceis, quæ superfuérunt his qui manducáverant.
+Jn	6	14	Illi ergo hómines cum vidíssent quod Iesus fécerat signum, dicébant : Quia hic est vere prophéta, qui ventúrus est in mundum.
+Jn	6	15	Iesus ergo cum cognovísset quia ventúri essent ut ráperent eum, et fácerent eum regem, fugit íterum in montem ipse solus.
+Jn	6	16	Ut autem sero factum est, descendérunt discípuli eius ad mare.
+Jn	6	17	Et cum ascendíssent navim, venérunt trans mare in Caphárnaum : et ténebræ iam factæ erant et non vénerat ad eos Iesus.
+Jn	6	18	Mare autem, vento magno flante, exsurgébat.
+Jn	6	19	Cum remigássent ergo quasi stádia vigínti quinque aut trigínta, vident Iesum ambulántem supra mare, et próximum navi fíeri, et timuérunt.
+Jn	6	20	Ille autem dicit eis : Ego sum, nólite timére.
+Jn	6	21	Voluérunt ergo accípere eum in navim et statim navis fuit ad terram, in quam ibant.
+Jn	6	22	Altera die, turba, quæ stabat trans mare, vidit quia navícula ália non erat ibi nisi una, et quia non introísset cum discípulis suis Iesus in navim, sed soli discípuli eius abiíssent :
+Jn	6	23	áliæ vero supervenérunt naves a Tiberíade iuxta locum ubi manducavérunt panem, grátias agénte Dómino.
+Jn	6	24	Cum ergo vidísset turba quia Iesus non esset ibi, neque discípuli eius, ascendérunt in navículas, et venérunt Caphárnaum quæréntes Iesum.
+Jn	6	25	Et cum inveníssent eum trans mare, dixérunt ei : Rabbi, quando huc venísti ?
+Jn	6	26	Respóndit eis Iesus, et dixit : Amen, amen dico vobis : quǽritis me non quia vidístis signa, sed quia manducástis ex pánibus et saturáti estis.
+Jn	6	27	Operámini non cibum, qui perit, sed qui pérmanet in vitam ætérnam, quem Fílius hóminis dabit vobis. Hunc enim Pater signávit Deus.
+Jn	6	28	Dixérunt ergo ad eum : Quid faciémus ut operémur ópera Dei ?
+Jn	6	29	Respóndit Iesus, et dixit eis : Hoc est opus Dei, ut credátis in eum quem misit ille.
+Jn	6	30	Dixérunt ergo ei : Quod ergo tu facis signum ut videámus et credámus tibi ? quid operáris ?
+Jn	6	31	Patres nostri manducavérunt manna in desérto, sicut scriptum est : Panem de cælo dedit eis manducáre.
+Jn	6	32	Dixit ergo eis Iesus : Amen, amen dico vobis : non Móyses dedit vobis panem de cælo, sed Pater meus dat vobis panem de cælo verum.
+Jn	6	33	Panis enim Dei est, qui de cælo descéndit, et dat vitam mundo.
+Jn	6	34	Dixérunt ergo ad eum : Dómine, semper da nobis panem hunc.
+Jn	6	35	Dixit autem eis Iesus : Ego sum panis vitæ : qui venit ad me, non esúriet, et qui credit in me, non sítiet umquam.
+Jn	6	36	Sed dixi vobis quia et vidístis me, et non créditis.
+Jn	6	37	Omne quod dat mihi Pater, ad me véniet : et eum qui venit ad me, non eiíciam foras :
+Jn	6	38	quia descéndi de cælo, non ut fáciam voluntátem meam, sed voluntátem eius qui misit me.
+Jn	6	39	Hæc est autem volúntas eius qui misit me, Patris : ut omne quod dedit mihi, non perdam ex eo, sed resúscitem illud in novíssimo die.
+Jn	6	40	Hæc est autem volúntas Patris mei, qui misit me : ut omnis qui videt Fílium et credit in eum, hábeat vitam ætérnam, et ego resuscitábo eum in novíssimo die.
+Jn	6	41	Murmurábant ergo Iudǽi de illo, quia dixísset : Ego sum panis vivus, qui de cælo descéndi,
+Jn	6	42	et dicébant : Nonne hic est Iesus fílius Ioseph, cuius nos nóvimus patrem et matrem ? quómodo ergo dicit hic : Quia de cælo descéndi ?
+Jn	6	43	Respóndit ergo Iesus, et dixit eis : Nólite murmuráre in ínvicem :
+Jn	6	44	nemo potest veníre ad me, nisi Pater, qui misit me, tráxerit eum ; et ego resuscitábo eum in novíssimo die.
+Jn	6	45	Est scriptum in prophétis : Et erunt omnes docíbiles Dei. Omnis qui audívit a Patre, et dídicit, venit ad me.
+Jn	6	46	Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic vidit Patrem.
+Jn	6	47	Amen, amen dico vobis : qui credit in me, habet vitam ætérnam.
+Jn	6	48	Ego sum panis vitæ.
+Jn	6	49	Patres vestri manducavérunt manna in desérto, et mórtui sunt.
+Jn	6	50	Hic est panis de cælo descéndens : ut si quis ex ipso manducáverit, non moriátur.
+Jn	6	51	Ego sum panis vivus, qui de cælo descéndi.
+Jn	6	52	Si quis manducáverit ex hoc pane, vivet in ætérnum : et panis quem ego dabo, caro mea est pro mundi vita.
+Jn	6	53	Litigábant ergo Iudǽi ad ínvicem, dicéntes : Quómodo potest hic nobis carnem suam dare ad manducándum ?
+Jn	6	54	Dixit ergo eis Iesus : Amen, amen dico vobis : nisi manducavéritis carnem Fílii hóminis, et bibéritis eius sánguinem, non habébitis vitam in vobis.
+Jn	6	55	Qui mandúcat meam carnem, et bibit meum sánguinem, habet vitam ætérnam : et ego resuscitábo eum in novíssimo die.
+Jn	6	56	Caro enim mea vere est cibus : et sanguis meus, vere est potus ;
+Jn	6	57	qui mandúcat meam carnem et bibit meum sánguinem, in me manet, et ego in illo.
+Jn	6	58	Sicut misit me vivens Pater, et ego vivo propter Patrem : et qui mandúcat me, et ipse vivet propter me.
+Jn	6	59	Hic est panis qui de cælo descéndit. Non sicut manducavérunt patres vestri manna, et mórtui sunt. Qui mandúcat hunc panem, vivet in ætérnum.
+Jn	6	60	Hæc dixit in synagóga docens, in Caphárnaum.
+Jn	6	61	Multi ergo audiéntes ex discípulis eius, dixérunt : Durus est hic sermo, et quis potest eum audíre ?
+Jn	6	62	Sciens autem Iesus apud semetípsum quia murmurárent de hoc discípuli eius, dixit eis : Hoc vos scandalízat ?
+Jn	6	63	si ergo vidéritis Fílium hóminis ascendéntem ubi erat prius ?
+Jn	6	64	Spíritus est qui vivíficat : caro non prodest quidquam : verba quæ ego locútus sum vobis, spíritus et vita sunt.
+Jn	6	65	Sed sunt quidam ex vobis qui non credunt. Sciébat enim ab inítio Iesus qui essent non credéntes, et quis traditúrus esset eum.
+Jn	6	66	Et dicébat : Proptérea dixi vobis, quia nemo potest veníre ad me, nisi fúerit ei datum a Patre meo.
+Jn	6	67	Ex hoc multi discipulórum eius abiérunt retro : et iam non cum illo ambulábant.
+Jn	6	68	Dixit ergo Iesus ad duódecim : Numquid et vos vultis abíre ?
+Jn	6	69	Respóndit ergo ei Simon Petrus : Dómine, ad quem íbimus ? verba vitæ ætérnæ habes :
+Jn	6	70	et nos credídimus, et cognóvimus quia tu es Christus Fílius Dei.
+Jn	6	71	Respóndit eis Iesus : Nonne ego vos duódecim elégi : et ex vobis unus diábolus est ?
+Jn	6	72	Dicébat autem Iudam Simónis Iscariótem : hic enim erat traditúrus eum, cum esset unus ex duódecim.
+Jn	7	1	Post hæc autem ambulábat Iesus in Galilǽam : non enim volébat in Iudǽam ambuláre, quia quærébant eum Iudǽi interfícere.
+Jn	7	2	Erat autem in próximo dies festus Iudæórum, Scenopégia.
+Jn	7	3	Dixérunt autem ad eum fratres eius : Transi hinc, et vade in Iudǽam, ut et discípuli tui vídeant ópera tua, quæ facis.
+Jn	7	4	Nemo quippe in occúlto quid facit, et quærit ipse in palam esse : si hæc facis, manifésta teípsum mundo.
+Jn	7	5	Neque enim fratres eius credébant in eum.
+Jn	7	6	Dicit ergo eis Iesus : Tempus meum nondum ádvenit : tempus autem vestrum semper est parátum.
+Jn	7	7	Non potest mundus odísse vos : me autem odit, quia ego testimónium perhíbeo de illo quod ópera eius mala sunt.
+Jn	7	8	Vos ascéndite ad diem festum hunc, ego autem non ascéndo ad diem festum istum : quia meum tempus nondum implétum est.
+Jn	7	9	Hæc cum dixísset, ipse mansit in Galilǽa.
+Jn	7	10	Ut autem ascendérunt fratres eius, tunc et ipse ascéndit ad diem festum non maniféste, sed quasi in occúlto.
+Jn	7	11	Iudǽi ergo quærébant eum in die festo, et dicébant : Ubi est ille ?
+Jn	7	12	Et murmur multum erat in turba de eo. Quidam enim dicébant : Quia bonus est. Alii autem dicébant : Non, sed sedúcit turbas.
+Jn	7	13	Nemo tamen palam loquebátur de illo propter metum Iudæórum.
+Jn	7	14	Iam autem die festo mediánte, ascéndit Iesus in templum, et docébat.
+Jn	7	15	Et mirabántur Iudǽi, dicéntes : Quómodo hic lítteras scit, cum non didícerit ?
+Jn	7	16	Respóndit eis Iesus, et dixit : Mea doctrína non est mea, sed eius qui misit me.
+Jn	7	17	Si quis volúerit voluntátem eius fácere, cognóscet de doctrína, utrum ex Deo sit, an ego a meípso loquar.
+Jn	7	18	Qui a semetípso lóquitur, glóriam própriam quærit ; qui autem quærit glóriam eius qui misit eum, hic verax est, et iniustítia in illo non est.
+Jn	7	19	Nonne Móyses dedit vobis legem : et nemo ex vobis facit legem ?
+Jn	7	20	Quid me quǽritis interfícere ? Respóndit turba, et dixit : Dæmónium habes : quis te quæret interfícere ?
+Jn	7	21	Respóndit Iesus et dixit eis : Unum opus feci, et omnes mirámini :
+Jn	7	22	proptérea Móyses dedit vobis circumcisiónem (non quia ex Móyse est, sed ex pátribus), et in sábbato circumcíditis hóminem.
+Jn	7	23	Si circumcisiónem áccipit homo in sábbato, ut non solvátur lex Móysi : mihi indignámini quia totum hóminem sanum feci in sábbato ?
+Jn	7	24	Nólite iudicáre secúndum fáciem, sed iustum iudícium iudicáte.
+Jn	7	25	Dicébant ergo quidam ex Ierosólymis : Nonne hic est, quem quærunt interfícere ?
+Jn	7	26	et ecce palam lóquitur, et nihil ei dicunt. Numquid vere cognovérunt príncipes quia hic est Christus ?
+Jn	7	27	Sed hunc scimus unde sit : Christus autem cum vénerit, nemo scit unde sit.
+Jn	7	28	Clamábat ergo Iesus in templo docens, et dicens : Et me scitis, et unde sim scitis : et a meípso non veni, sed est verus qui misit me, quem vos nescítis.
+Jn	7	29	Ego scio eum : quia ab ipso sum, et ipse me misit.
+Jn	7	30	Quærébant ergo eum apprehéndere : et nemo misit in illum manus, quia nondum vénerat hora eius.
+Jn	7	31	De turba autem multi credidérunt in eum, et dicébant : Christus cum vénerit, numquid plura signa fáciet quam quæ hic facit ?
+Jn	7	32	Audiérunt Pharisǽi turbam murmurántem de illo hæc : et misérunt príncipes et Pharisǽi minístros ut apprehénderent eum.
+Jn	7	33	Dixit ergo eis Iesus : Adhuc módicum tempus vobíscum sum : et vado ad eum qui me misit.
+Jn	7	34	Quærétis me, et non inveniétis : et ubi ego sum, vos non potéstis veníre.
+Jn	7	35	Dixérunt ergo Iudǽi ad semetípsos : Quo hic itúrus est, quia non inveniémus eum ? numquid in dispersiónem géntium itúrus est, et doctúrus gentes ?
+Jn	7	36	quis est hic sermo, quem dixit : Quærétis me, et non inveniétis : et ubi sum ego, vos non potéstis veníre ?
+Jn	7	37	In novíssimo autem die magno festivitátis stabat Iesus, et clamábat dicens : Si quis sitit, véniat ad me et bibat.
+Jn	7	38	Qui credit in me, sicut dicit Scriptúra, flúmina de ventre eius fluent aquæ vivæ.
+Jn	7	39	Hoc autem dixit de Spíritu, quem acceptúri erant credéntes in eum : nondum enim erat Spíritus datus, quia Iesus nondum erat glorificátus.
+Jn	7	40	Ex illa ergo turba cum audíssent hos sermónes eius, dicébant : Hic est vere prophéta.
+Jn	7	41	Alii dicébant : Hic est Christus. Quidam autem dicébant : Numquid a Galilǽa venit Christus ?
+Jn	7	42	nonne Scriptúra dicit : Quia ex sémine David, et de Béthlehem castéllo, ubi erat David, venit Christus ?
+Jn	7	43	Dissénsio ítaque facta est in turba propter eum.
+Jn	7	44	Quidam autem ex ipsis volébant apprehéndere eum : sed nemo misit super eum manus.
+Jn	7	45	Venérunt ergo minístri ad pontífices et Pharisǽos. Et dixérunt eis illi : Quare non adduxístis illum ?
+Jn	7	46	Respondérunt minístri : Numquam sic locútus est homo, sicut hic homo.
+Jn	7	47	Respondérunt ergo eis Pharisǽi : Numquid et vos sedúcti estis ?
+Jn	7	48	numquid ex princípibus áliquis crédidit in eum, aut ex Pharisǽis ?
+Jn	7	49	sed turba hæc, quæ non novit legem, maledícti sunt.
+Jn	7	50	Dixit Nicodémus ad eos, ille qui venit ad eum nocte, qui unus erat ex ipsis :
+Jn	7	51	Numquid lex nostra iúdicat hóminem, nisi prius audíerit ab ipso, et cognóverit quid fáciat ?
+Jn	7	52	Respondérunt, et dixérunt ei : Numquid et tu Galilǽus es ? scrutáre Scriptúras, et vide quia a Galilǽa prophéta non surgit.
+Jn	7	53	Et revérsi sunt unusquísque in domum suam.
+Jn	8	1	Iesus autem perréxit in montem Olivéti :
+Jn	8	2	et dilúculo íterum venit in templum, et omnis pópulus venit ad eum, et sedens docébat eos.
+Jn	8	3	Addúcunt autem scribæ et Pharisǽi mulíerem in adultério deprehénsam : et statuérunt eam in médio,
+Jn	8	4	et dixérunt ei : Magíster, hæc múlier modo deprehénsa est in adultério.
+Jn	8	5	In lege autem Móyses mandávit nobis huiúsmodi lapidáre. Tu ergo quid dicis ?
+Jn	8	6	Hoc autem dicébant tentántes eum, ut possent accusáre eum. Iesus autem inclínans se deórsum, dígito scribébat in terra.
+Jn	8	7	Cum ergo perseverárent interrogántes eum, eréxit se, et dixit eis : Qui sine peccáto est vestrum, primus in illam lápidem mittat.
+Jn	8	8	Et íterum se inclínans, scribébat in terra.
+Jn	8	9	Audiéntes autem unus post unum exíbant, incipiéntes a senióribus : et remánsit solus Iesus, et múlier in médio stans.
+Jn	8	10	Erigens autem se Iesus, dixit ei : Múlier, ubi sunt qui te accusábant ? nemo te condemnávit ?
+Jn	8	11	Quæ dixit : Nemo, Dómine. Dixit autem Iesus : Nec ego te condemnábo : vade, et iam ámplius noli peccáre.
+Jn	8	12	Iterum ergo locútus est eis Iesus, dicens : Ego sum lux mundi : qui séquitur me, non ámbulat in ténebris, sed habébit lumen vitæ.
+Jn	8	13	Dixérunt ergo ei Pharisǽi : Tu de teípso testimónium pérhibes ; testimónium tuum non est verum.
+Jn	8	14	Respóndit Iesus, et dixit eis : Et si ego testimónium perhíbeo de meípso, verum est testimónium meum : quia scio unde veni et quo vado ; vos autem nescítis unde vénio aut quo vado.
+Jn	8	15	Vos secúndum carnem iudicátis : ego non iúdico quemquam ;
+Jn	8	16	et si iúdico ego, iudícium meum verum est, quia solus non sum : sed ego et qui misit me, Pater.
+Jn	8	17	Et in lege vestra scriptum est, quia duórum hóminum testimónium verum est.
+Jn	8	18	Ego sum qui testimónium perhíbeo de meípso, et testimónium pérhibet de me qui misit me, Pater.
+Jn	8	19	Dicébant ergo ei : Ubi est Pater tuus ? Respóndit Iesus : Neque me scitis, neque Patrem meum : si me scirétis, fórsitan et Patrem meum scirétis.
+Jn	8	20	Hæc verba locútus est Iesus in gazophylácio, docens in templo : et nemo apprehéndit eum, quia necdum vénerat hora eius.
+Jn	8	21	Dixit ergo íterum eis Iesus : Ego vado, et quærétis me, et in peccáto vestro moriémini. Quo ego vado, vos non potéstis veníre.
+Jn	8	22	Dicébant ergo Iudǽi : Numquid interfíciet semetípsum, quia dixit : Quo ego vado, vos non potéstis veníre ?
+Jn	8	23	Et dicébat eis : Vos de deórsum estis, ego de supérnis sum. Vos de mundo hoc estis, ego non sum de hoc mundo.
+Jn	8	24	Dixi ergo vobis quia moriémini in peccátis vestris : si enim non credidéritis quia ego sum, moriémini in peccáto vestro.
+Jn	8	25	Dicébant ergo ei : Tu quis es ? Dixit eis Iesus : Princípium, qui et loquor vobis.
+Jn	8	26	Multa hábeo de vobis loqui, et iudicáre ; sed qui me misit, verax est ; et ego quæ audívi ab eo, hæc loquor in mundo.
+Jn	8	27	Et non cognovérunt quia Patrem eius dicébat Deum.
+Jn	8	28	Dixit ergo eis Iesus : Cum exaltavéritis Fílium hóminis, tunc cognoscétis quia ego sum, et a meípso fácio nihil, sed sicut dócuit me Pater, hæc loquor :
+Jn	8	29	et qui me misit, mecum est, et non relíquit me solum : quia ego quæ plácita sunt ei, fácio semper.
+Jn	8	30	Hæc illo loquénte, multi credidérunt in eum.
+Jn	8	31	Dicébat ergo Iesus ad eos, qui credidérunt ei, Iudǽos : Si vos manséritis in sermóne meo, vere discípuli mei éritis,
+Jn	8	32	et cognoscétis veritátem, et véritas liberábit vos.
+Jn	8	33	Respondérunt ei : Semen Abrahæ sumus, et némini servívimus umquam : quómodo tu dicis : Líberi éritis ?
+Jn	8	34	Respóndit eis Iesus : Amen, amen dico vobis : quia omnis qui facit peccátum, servus est peccáti.
+Jn	8	35	Servus autem non manet in domo in ætérnum : fílius autem manet in ætérnum.
+Jn	8	36	Si ergo vos fílius liberáverit, vere líberi éritis.
+Jn	8	37	Scio quia fílii Abrahæ estis : sed quǽritis me interfícere, quia sermo meus non capit in vobis.
+Jn	8	38	Ego quod vidi apud Patrem meum, loquor : et vos quæ vidístis apud patrem vestrum, fácitis.
+Jn	8	39	Respondérunt, et dixérunt ei : Pater noster Abraham est. Dicit eis Iesus : Si fílii Abrahæ estis, ópera Abrahæ fácite.
+Jn	8	40	Nunc autem quǽritis me interfícere, hóminem, qui veritátem vobis locútus sum, quam audívi a Deo : hoc Abraham non fecit.
+Jn	8	41	Vos fácitis ópera patris vestri. Dixérunt ítaque ei : Nos ex fornicatióne non sumus nati : unum patrem habémus Deum.
+Jn	8	42	Dixit ergo eis Iesus : Si Deus pater vester esset, diligerétis útique et me ; ego enim ex Deo procéssi, et veni : neque enim a meípso veni, sed ille me misit.
+Jn	8	43	Quare loquélam meam non cognóscitis ? Quia non potéstis audíre sermónem meum.
+Jn	8	44	Vos ex patre diábolo estis : et desidéria patris vestri vultis fácere. Ille homicída erat ab inítio, et in veritáte non stetit : quia non est véritas in eo : cum lóquitur mendácium, ex própriis lóquitur, quia mendax est, et pater eius.
+Jn	8	45	Ego autem si veritátem dico, non créditis mihi.
+Jn	8	46	Quis ex vobis árguet me de peccáto ? si veritátem dico vobis, quare non créditis mihi ?
+Jn	8	47	Qui ex Deo est, verba Dei audit. Proptérea vos non audítis, quia ex Deo non estis.
+Jn	8	48	Respondérunt ergo Iudǽi, et dixérunt ei : Nonne bene dícimus nos quia Samaritánus es tu, et dæmónium habes ?
+Jn	8	49	Respóndit Iesus : Ego dæmónium non hábeo : sed honorífico Patrem meum, et vos inhonorástis me.
+Jn	8	50	Ego autem non quæro glóriam meam : est qui quærat, et iúdicet.
+Jn	8	51	Amen, amen dico vobis : si quis sermónem meum serváverit, mortem non vidébit in ætérnum.
+Jn	8	52	Dixérunt ergo Iudǽi : Nunc cognóvimus quia dæmónium habes. Abraham mórtuus est, et prophétæ ; et tu dicis : Si quis sermónem meum serváverit, non gustábit mortem in ætérnum.
+Jn	8	53	Numquid tu maior es patre nostro Abraham, qui mórtuus est ? et prophétæ mórtui sunt. Quem teípsum facis ?
+Jn	8	54	Respóndit Iesus : Si ego glorífico meípsum, glória mea nihil est : est Pater meus, qui gloríficat me, quem vos dícitis quia Deus vester est,
+Jn	8	55	et non cognovístis eum : ego autem novi eum. Et si díxero quia non scio eum, ero símilis vobis, mendax. Sed scio eum, et sermónem eius servo.
+Jn	8	56	Abraham pater vester exsultávit ut vidéret diem meum : vidit, et gávisus est.
+Jn	8	57	Dixérunt ergo Iudǽi ad eum : Quinquagínta annos nondum habes, et Abraham vidísti ?
+Jn	8	58	Dixit eis Iesus : Amen, amen dico vobis, ántequam Abraham fíeret, ego sum.
+Jn	8	59	Tulérunt ergo lápides, ut iácerent in eum : Iesus autem abscóndit se, et exívit de templo.
+Jn	9	1	Et prætériens Iesus vidit hóminem cæcum a nativitáte :
+Jn	9	2	et interrogavérunt eum discípuli eius : Rabbi, quis peccávit, hic, aut paréntes eius, ut cæcus nascerétur ?
+Jn	9	3	Respóndit Iesus : Neque hic peccávit, neque paréntes eius : sed ut manifesténtur ópera Dei in illo.
+Jn	9	4	Me opórtet operári ópera eius qui misit me, donec dies est : venit nox, quando nemo potest operári :
+Jn	9	5	quámdiu sum in mundo, lux sum mundi.
+Jn	9	6	Hæc cum dixísset, éxspuit in terram, et fecit lutum ex sputo, et linívit lutum super óculos eius,
+Jn	9	7	et dixit ei : Vade, lava in natatória Síloe (quod interpretátur Missus). Abiit ergo, et lavit, et venit videns.
+Jn	9	8	Itaque vicíni, et qui víderant eum prius quia mendícus erat, dicébant : Nonne hic est qui sedébat, et mendicábat ? Alii dicébant : Quia hic est.
+Jn	9	9	Alii autem : Nequáquam, sed símilis est ei. Ille vero dicébat : Quia ego sum.
+Jn	9	10	Dicébant ergo ei : Quómodo apérti sunt tibi óculi ?
+Jn	9	11	Respóndit : Ille homo qui dícitur Iesus, lutum fecit : et unxit óculos meos, et dixit mihi : Vade ad natatória Síloe, et lava. Et ábii, et lavi, et vídeo.
+Jn	9	12	Et dixérunt ei : Ubi est ille ? Ait : Néscio.
+Jn	9	13	Addúcunt eum ad Pharisǽos, qui cæcus fúerat.
+Jn	9	14	Erat autem sábbatum quando lutum fecit Iesus, et apéruit óculos eius.
+Jn	9	15	Iterum ergo interrogábant eum Pharisǽi quómodo vidísset. Ille autem dixit eis : Lutum mihi pósuit super óculos, et lavi, et vídeo.
+Jn	9	16	Dicébant ergo ex Pharisǽis quidam : Non est hic homo a Deo, qui sábbatum non custódit. Alii autem dicébant : Quómodo potest homo peccátor hæc signa fácere ? Et schisma erat inter eos.
+Jn	9	17	Dicunt ergo cæco íterum : Tu quid dicis de illo qui apéruit óculos tuos ? Ille autem dixit : Quia prophéta est.
+Jn	9	18	Non credidérunt ergo Iudǽi de illo, quia cæcus fuísset et vidísset, donec vocavérunt paréntes eius, qui víderat :
+Jn	9	19	et interrogavérunt eos, dicéntes : Hic est fílius vester, quem vos dícitis quia cæcus natus est ? quómodo ergo nunc videt ?
+Jn	9	20	Respondérunt eis paréntes eius, et dixérunt : Scimus quia hic est fílius noster, et quia cæcus natus est :
+Jn	9	21	quómodo autem nunc vídeat, nescímus : aut quis eius apéruit óculos, nos nescímus ; ipsum interrogáte : ætátem habet, ipse de se loquátur.
+Jn	9	22	Hæc dixérunt paréntes eius, quóniam timébant Iudǽos : iam enim conspiravérunt Iudǽi, ut si quis eum confiterétur esse Christum, extra synagógam fíeret.
+Jn	9	23	Proptérea paréntes eius dixérunt : Quia ætátem habet, ipsum interrogáte.
+Jn	9	24	Vocavérunt ergo rursum hóminem qui fúerat cæcus, et dixérunt ei : Da glóriam Deo : nos scimus quia hic homo peccátor est.
+Jn	9	25	Dixit ergo eis ille : Si peccátor est, néscio ; unum scio, quia cæcus cum essem, modo vídeo.
+Jn	9	26	Dixérunt ergo illi : Quid fecit tibi ? quómodo apéruit tibi óculos ?
+Jn	9	27	Respóndit eis : Dixi vobis iam, et audístis : quod íterum vultis audíre ? numquid et vos vultis discípuli eius fíeri ?
+Jn	9	28	Maledixérunt ergo ei, et dixérunt : Tu discípulus illíus sis : nos autem Móysi discípuli sumus.
+Jn	9	29	Nos scimus quia Móysi locútus est Deus ; hunc autem nescímus unde sit.
+Jn	9	30	Respóndit ille homo, et dixit eis : In hoc enim mirábile est quia vos nescítis unde sit, et apéruit meos óculos :
+Jn	9	31	scimus autem quia peccatóres Deus non audit : sed si quis Dei cultor est, et voluntátem eius facit, hunc exáudit.
+Jn	9	32	A sǽculo non est audítum quia quis apéruit óculos cæci nati.
+Jn	9	33	Nisi esset hic a Deo, non póterat fácere quidquam.
+Jn	9	34	Respondérunt, et dixérunt ei : In peccátis natus es totus, et tu doces nos ? Et eiecérunt eum foras.
+Jn	9	35	Audívit Iesus quia eiecérunt eum foras : et cum invenísset eum, dixit ei : Tu credis in Fílium Dei ?
+Jn	9	36	Respóndit ille, et dixit : Quis est, Dómine, ut credam in eum ?
+Jn	9	37	Et dixit ei Iesus : Et vidísti eum, et qui lóquitur tecum, ipse est.
+Jn	9	38	At ille ait : Credo, Dómine. Et prócidens adorávit eum.
+Jn	9	39	Et dixit Iesus : In iudícium ego in hunc mundum veni : ut qui non vident vídeant, et qui vident cæci fiant.
+Jn	9	40	Et audiérunt quidam ex Pharisǽis qui cum ipso erant, et dixérunt ei : Numquid et nos cæci sumus ?
+Jn	9	41	Dixit eis Iesus : Si cæci essétis, non haberétis peccátum. Nunc vero dícitis, Quia vidémus : peccátum vestrum manet.
+Jn	10	1	Amen, amen dico vobis : qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro.
+Jn	10	2	Qui autem intrat per óstium, pastor est óvium.
+Jn	10	3	Huic ostiárius áperit, et oves vocem eius áudiunt, et próprias ovas vocat nominátim, et edúcit eas.
+Jn	10	4	Et cum próprias oves emíserit, ante eas vadit : et oves illum sequúntur, quia sciunt vocem eius.
+Jn	10	5	Aliénum autem non sequúntur, sed fúgiunt ab eo : quia non novérunt vocem alienórum.
+Jn	10	6	Hoc provérbium dixit eis Iesus : illi autem non cognovérunt quid loquerétur eis.
+Jn	10	7	Dixit ergo eis íterum Iesus : Amen, amen dico vobis, quia ego sum óstium óvium.
+Jn	10	8	Omnes quotquot venérunt, fures sunt, et latrónes, et non audiérunt eos oves.
+Jn	10	9	Ego sum óstium. Per me si quis introíerit, salvábitur : et ingrediétur, et egrediétur, et páscua invéniet.
+Jn	10	10	Fur non venit nisi ut furétur, et mactet, et perdat. Ego veni ut vitam hábeant, et abundántius hábeant.
+Jn	10	11	Ego sum pastor bonus. Bonus pastor ánimam suam dat pro óvibus suis.
+Jn	10	12	Mercenárius autem, et qui non est pastor, cuius non sunt oves própriæ, videt lupum veniéntem, et dimíttit oves, et fugit : et lupus rapit, et dispérgit oves ;
+Jn	10	13	mercenárius autem fugit, quia mercenárius est, et non pértinet ad eum de óvibus.
+Jn	10	14	Ego sum pastor bonus : et cognósco meas, et cognóscunt me meæ.
+Jn	10	15	Sicut novit me Pater, et ego agnósco Patrem : et ánimam meam pono pro óvibus meis.
+Jn	10	16	Et álias oves hábeo, quæ non sunt ex hoc ovíli : et illas opórtet me addúcere, et vocem meam áudient, et fiet unum ovíle et unus pastor.
+Jn	10	17	Proptérea me díligit Pater : quia ego pono ánimam meam, ut íterum sumam eam.
+Jn	10	18	Nemo tollit eam a me : sed ego pono eam a meípso, et potestátem hábeo ponéndi eam, et potestátem hábeo íterum suméndi eam. Hoc mandátum accépi a Patre meo.
+Jn	10	19	Dissénsio íterum facta est inter Iudǽos propter sermónes hos.
+Jn	10	20	Dicébant autem multi ex ipsis : Dæmónium habet, et insánit : quid eum audítis ?
+Jn	10	21	Alii dicébant : Hæc verba non sunt dæmónium habéntis : numquid dæmónium potest cæcórum óculos aperíre ?
+Jn	10	22	Facta sunt autem Encǽnia in Ierosólymis, et hiems erat.
+Jn	10	23	Et ambulábat Iesus in templo, in pórticu Salomónis.
+Jn	10	24	Circumdedérunt ergo eum Iudǽi, et dicébant ei : Quoúsque ánimam nostram tollis ? si tu es Christus, dic nobis palam.
+Jn	10	25	Respóndit eis Iesus : Loquor vobis, et non créditis : ópera quæ ego fácio in nómine Patris mei, hæc testimónium pérhibent de me :
+Jn	10	26	sed vos non créditis, quia non estis ex óvibus meis.
+Jn	10	27	Oves meæ vocem meam áudiunt, et ego cognósco eas, et sequúntur me :
+Jn	10	28	et ego vitam ætérnam do eis, et non períbunt in ætérnum, et non rápiet eas quisquam de manu mea.
+Jn	10	29	Pater meus quod dedit mihi, maius ómnibus est : et nemo potest rápere de manu Patris mei.
+Jn	10	30	Ego et Pater unum sumus.
+Jn	10	31	Sustulérunt ergo lápides Iudǽi, ut lapidárent eum.
+Jn	10	32	Respóndit eis Iesus : Multa bona ópera osténdi vobis ex Patre meo : propter quod eórum opus me lapidátis ?
+Jn	10	33	Respondérunt ei Iudǽi : De bono ópere non lapidámus te, sed de blasphémia ; et quia tu homo cum sis, facis teípsum Deum.
+Jn	10	34	Respóndit eis Iesus : Nonne scriptum est in lege vestra, Quia ego dixi : Dii estis ?
+Jn	10	35	Si illos dixit deos, ad quos sermo Dei factus est, et non potest solvi Scriptúra :
+Jn	10	36	quem Pater sanctificávit, et misit in mundum vos dícitis : Quia blasphémas, quia dixi : Fílius Dei sum ?
+Jn	10	37	Si non fácio ópera Patris mei, nólite crédere mihi.
+Jn	10	38	Si autem fácio : etsi mihi non vultis crédere, opéribus crédite, ut cognoscátis, et credátis quia Pater in me est, et ego in Patre.
+Jn	10	39	Quærébant ergo eum apprehéndere : et exívit de mánibus eórum.
+Jn	10	40	Et ábiit íterum trans Iordánem, in eum locum ubi erat Ioánnes baptízans primum, et mansit illic ;
+Jn	10	41	et multi venérunt ad eum, et dicébant : Quia Ioánnes quidem signum fecit nullum.
+Jn	10	42	Omnia autem quæcúmque dixit Ioánnes de hoc, vera erant. Et multi credidérunt in eum.
+Jn	11	1	Erat autem quidam languens Lázarus a Bethánia, de castéllo Maríæ et Marthæ soróris eius.
+Jn	11	2	(María autem erat quæ unxit Dóminum unguénto, et extérsit pedes eius capíllis suis : cuius frater Lázarus infirmabátur.)
+Jn	11	3	Misérunt ergo soróres eius ad eum dicéntes : Dómine, ecce quem amas infirmátur.
+Jn	11	4	Audiens autem Iesus dixit eis : Infírmitas hæc non est ad mortem, sed pro glória Dei, ut glorificétur Fílius Dei per eam.
+Jn	11	5	Diligébat autem Iesus Martham, et sorórem eius Maríam, et Lázarum.
+Jn	11	6	Ut ergo audívit quia infirmabátur, tunc quidem mansit in eódem loco duóbus diébus ;
+Jn	11	7	deínde post hæc dixit discípulis suis : Eámus in Iudǽam íterum.
+Jn	11	8	Dicunt ei discípuli : Rabbi, nunc quærébant te Iudǽi lapidáre, et íterum vadis illuc ?
+Jn	11	9	Respóndit Iesus : Nonne duódecim sunt horæ díei ? Si quis ambuláverit in die, non offéndit, quia lucem huius mundi videt :
+Jn	11	10	si autem ambuláverit in nocte, offéndit, quia lux non est in eo.
+Jn	11	11	Hæc ait, et post hæc dixit eis : Lázarus amícus noster dormit : sed vado ut a somno éxcitem eum.
+Jn	11	12	Dixérunt ergo discípuli eius : Dómine, si dormit, salvus erit.
+Jn	11	13	Díxerat autem Iesus de morte eius : illi autem putavérunt quia de dormitióne somni díceret.
+Jn	11	14	Tunc ergo Iesus dixit eis maniféste : Lázarus mórtuus est :
+Jn	11	15	et gáudeo propter vos, ut credátis, quóniam non eram ibi, sed eámus ad eum.
+Jn	11	16	Dixit ergo Thomas, qui dícitur Dídymus, ad condiscípulos : Eámus et nos, ut moriámur cum eo.
+Jn	11	17	Venit ítaque Iesus : et invénit eum quátuor dies iam in monuménto habéntem.
+Jn	11	18	(Erat autem Bethánia iuxta Ierosólymam quasi stádiis quíndecim.)
+Jn	11	19	Multi autem ex Iudǽis vénerant ad Martham et Maríam, ut consolaréntur eas de fratre suo.
+Jn	11	20	Martha ergo ut audívit quia Iesus venit, occúrrit illi : María autem domi sedébat.
+Jn	11	21	Dixit ergo Martha ad Iesum : Dómine, si fuísses hic, frater meus non fuísset mórtuus :
+Jn	11	22	sed et nunc scio quia quæcúmque popósceris a Deo, dabit tibi Deus.
+Jn	11	23	Dicit illi Iesus : Resúrget frater tuus.
+Jn	11	24	Dicit ei Martha : Scio quia resúrget in resurrectióne in novíssimo die.
+Jn	11	25	Dixit ei Iesus : Ego sum resurréctio et vita : qui credit in me, étiam si mórtuus fúerit, vivet :
+Jn	11	26	et omnis qui vivit et credit in me, non moriétur in ætérnum. Credis hoc ?
+Jn	11	27	Ait illi : Utique Dómine, ego crédidi quia tu es Christus, Fílius Dei vivi, qui in hunc mundum venísti.
+Jn	11	28	Et cum hæc dixísset, ábiit, et vocávit Maríam sorórem suam siléntio, dicens : Magíster adest, et vocat te.
+Jn	11	29	Illa ut audívit, surgit cito, et venit ad eum ;
+Jn	11	30	nondum enim vénerat Iesus in castéllum : sed erat adhuc in illo loco, ubi occúrrerat ei Martha.
+Jn	11	31	Iudǽi ergo, qui erant cum ea in domo, et consolabántur eam, cum vidíssent Maríam quia cito surréxit, et éxiit, secúti sunt eam dicéntes : Quia vadit ad monuméntum, ut ploret ibi.
+Jn	11	32	María ergo, cum venísset ubi erat Iesus, videns eum, cécidit ad pedes eius, et dicit ei : Dómine, si fuísses hic, non esset mórtuus frater meus.
+Jn	11	33	Iesus ergo, ut vidit eam plorántem, et Iudǽos, qui vénerant cum ea, plorántes, infrémuit spíritu, et turbávit seípsum,
+Jn	11	34	et dixit : Ubi posuístis eum ? Dicunt ei : Dómine, veni, et vide.
+Jn	11	35	Et lacrimátus est Iesus.
+Jn	11	36	Dixérunt ergo Iudǽi : Ecce quómodo amábat eum.
+Jn	11	37	Quidam autem ex ipsis dixérunt : Non póterat hic, qui apéruit óculos cæci nati, fácere ut hic non morerétur ?
+Jn	11	38	Iesus ergo rursum fremens in semetípso, venit ad monuméntum. Erat autem spelúnca, et lapis superpósitus erat ei.
+Jn	11	39	Ait Iesus : Tóllite lápidem. Dicit ei Martha, soror eius qui mórtuus fúerat : Dómine, iam fœtet, quatriduánus est enim.
+Jn	11	40	Dicit ei Iesus : Nonne dixi tibi quóniam si credíderis, vidébis glóriam Dei ?
+Jn	11	41	Tulérunt ergo lápidem : Iesus autem, elevátis sursum óculis, dixit : Pater, grátias ago tibi quóniam audísti me.
+Jn	11	42	Ego autem sciébam quia semper me audis, sed propter pópulum qui circúmstat, dixi : ut credant quia tu me misísti.
+Jn	11	43	Hæc cum dixísset, voce magna clamávit : Lázare, veni foras.
+Jn	11	44	Et statim pródiit qui fúerat mórtuus, ligátus pedes, et manus ínstitis, et fácies illíus sudário erat ligáta. Dixit eis Iesus : Sólvite eum et sínite abíre.
+Jn	11	45	Multi ergo ex Iudǽis, qui vénerant ad Maríam, et Martham, et víderant quæ fecit Iesus, credidérunt in eum.
+Jn	11	46	Quidam autem ex ipsis abiérunt ad Pharisǽos, et dixérunt eis quæ fecit Iesus.
+Jn	11	47	Collegérunt ergo pontífices et Pharisǽi concílium, et dicébant : Quid faciámus, quia hic homo multa signa facit ?
+Jn	11	48	Si dimíttimus eum sic, omnes credent in eum, et vénient Románi, et tollent nostrum locum, et gentem.
+Jn	11	49	Unus autem ex ipsis, Caíphas nómine, cum esset póntifex anni illíus, dixit eis : Vos nescítis quidquam,
+Jn	11	50	nec cogitátis quia éxpedit vobis ut unus moriátur homo pro pópulo, et non tota gens péreat.
+Jn	11	51	Hoc autem a semetípso non dixit : sed cum esset póntifex anni illíus, prophetávit, quod Iesus moritúrus erat pro gente,
+Jn	11	52	et non tantum pro gente, sed ut fílios Dei, qui erant dispérsi, congregáret in unum.
+Jn	11	53	Ab illo ergo die cogitavérunt ut interfícerent eum.
+Jn	11	54	Iesus ergo iam non in palam ambulábat apud Iudǽos, sed ábiit in regiónem iuxta desértum, in civitátem quæ dícitur Ephrem, et ibi morabátur cum discípulis suis.
+Jn	11	55	Próximum autem erat Pascha Iudæórum, et ascendérunt multi Ierosólymam de regióne ante Pascha, ut sanctificárent seípsos.
+Jn	11	56	Quærébant ergo Iesum, et colloquebántur ad ínvicem, in templo stantes : Quid putátis, quia non venit ad diem festum ?
+Jn	11	57	Déderant autem pontífices et Pharisǽi mandátum ut si quis cognóverit ubi sit, índicet, ut apprehéndant eum.
+Jn	12	1	Iesus ergo ante sex dies Paschæ venit Bethániam, ubi Lázarus fúerat mórtuus, quem suscitávit Iesus.
+Jn	12	2	Fecérunt autem ei cœnam ibi, et Martha ministrábat, Lázarus vero unus erat ex discumbéntibus cum eo.
+Jn	12	3	María ergo accépit libram unguénti nardi pístici pretiósi, et unxit pedes Iesu, et extérsit pedes eius capíllis suis : et domus impléta est ex odóre unguénti.
+Jn	12	4	Dixit ergo unus ex discípulis eius, Iudas Iscariótes, qui erat eum traditúrus :
+Jn	12	5	Quare hoc unguéntum non véniit trecéntis denáriis, et datum est egénis ?
+Jn	12	6	Dixit autem hoc, non quia de egénis pertinébat ad eum, sed quia fur erat, et lóculos habens, ea quæ mittebántur, portábat.
+Jn	12	7	Dixit ergo Iesus : Sínite illam ut in diem sepultúræ meæ servet illud.
+Jn	12	8	Páuperes enim semper habétis vobíscum : me autem non semper habétis.
+Jn	12	9	Cognóvit ergo turba multa ex Iudǽis quia illic est, et venérunt, non propter Iesum tantum, sed ut Lázarum vidérent, quem suscitávit a mórtuis.
+Jn	12	10	Cogitavérunt autem príncipes sacerdótum ut et Lázarum interfícerent :
+Jn	12	11	quia multi propter illum abíbant ex Iudǽis, et credébant in Iesum.
+Jn	12	12	In crástinum autem, turba multa quæ vénerat ad diem festum, cum audíssent quia venit Iesus Ierosólymam,
+Jn	12	13	accepérunt ramos palmárum, et processérunt óbviam ei, et clamábant : Hosánna, benedíctus qui venit in nómine Dómini, rex Israel.
+Jn	12	14	Et invénit Iesus aséllum, et sedit super eum, sicut scriptum est :
+Jn	12	15	Noli timére, fília Sion : ecce rex tuus venit sedens super pullum ásinæ.
+Jn	12	16	Hæc non cognovérunt discípuli eius primum : sed quando glorificátus est Iesus, tunc recordáti sunt quia hæc erant scripta de eo, et hæc fecérunt ei.
+Jn	12	17	Testimónium ergo perhibébat turba, quæ erat cum eo quando Lázarum vocávit de monuménto, et suscitávit eum a mórtuis.
+Jn	12	18	Proptérea et óbviam venit ei turba : quia audiérunt fecísse hoc signum.
+Jn	12	19	Pharisǽi ergo dixérunt ad semetípsos : Vidétis quia nihil profícimus ? ecce mundus totus post eum ábiit.
+Jn	12	20	Erant autem quidam gentíles, ex his qui ascénderant ut adorárent in die festo.
+Jn	12	21	Hi ergo accessérunt ad Philíppum, qui erat a Bethsáida Galilǽæ, et rogábant eum, dicéntes : Dómine, vólumus Iesum vidére.
+Jn	12	22	Venit Philíppus, et dicit Andréæ ; Andréas rursum et Philíppus dixérunt Iesu.
+Jn	12	23	Iesus autem respóndit eis, dicens : Venit hora, ut clarificétur Fílius hóminis.
+Jn	12	24	Amen, amen dico vobis, nisi granum fruménti cadens in terram, mórtuum fúerit,
+Jn	12	25	ipsum solum manet : si autem mórtuum fúerit, multum fructum affert. Qui amat ánimam suam, perdet eam ; et qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.
+Jn	12	26	Si quis mihi minístrat, me sequátur, et ubi sum ego, illic et miníster meus erit. Si quis mihi ministráverit, honorificábit eum Pater meus.
+Jn	12	27	Nunc ánima mea turbáta est. Et quid dicam ? Pater, salvífica me ex hac hora. Sed proptérea veni in horam hanc :
+Jn	12	28	Pater, clarífica nomen tuum. Venit ergo vox de cælo : Et clarificávi, et íterum clarificábo.
+Jn	12	29	Turba ergo, quæ stabat, et audíerat, dicébat tonítruum esse factum. Alii dicébant : Angelus ei locútus est.
+Jn	12	30	Respóndit Iesus, et dixit : Non propter me hæc vox venit, sed propter vos.
+Jn	12	31	Nunc iudícium est mundi : nunc princeps huius mundi eiiciétur foras.
+Jn	12	32	Et ego, si exaltátus fúero a terra, ómnia traham ad meípsum.
+Jn	12	33	(Hoc autem dicébat, signíficans qua morte esset moritúrus.)
+Jn	12	34	Respóndit ei turba : Nos audívimus ex lege, quia Christus manet in ætérnum : et quómodo tu dicis : Opórtet exaltári Fílium hóminis ? quis est iste Fílius hóminis ?
+Jn	12	35	Dixit ergo eis Iesus : Adhuc módicum, lumen in vobis est. Ambuláte dum lucem habétis, ut non vos ténebræ comprehéndant ; et qui ámbulat in ténebris, nescit quo vadat.
+Jn	12	36	Dum lucem habétis, crédite in lucem, ut fílii lucis sitis. Hæc locútus est Iesus, et ábiit et abscóndit se ab eis.
+Jn	12	37	Cum autem tanta signa fecísset coram eis, non credébant in eum ;
+Jn	12	38	ut sermo Isaíæ prophétæ implerétur, quem dixit : Dómine, quis crédidit audítui nostro ? et bráchium Dómini cui revelátum est ?
+Jn	12	39	Proptérea non póterant crédere, quia íterum dixit Isaías :
+Jn	12	40	Excæcávit óculos eórum, et indurávit cor eórum ut non vídeant óculis, et non intélligant corde, et convertántur, et sanem eos.
+Jn	12	41	Hæc dixit Isaías, quando vidit glóriam eius, et locútus est de eo.
+Jn	12	42	Verúmtamen et ex princípibus multi credidérunt in eum : sed propter Pharisǽos non confitebántur, ut e synagóga non eiiceréntur.
+Jn	12	43	Dilexérunt enim glóriam hóminum magis quam glóriam Dei.
+Jn	12	44	Iesus autem clamávit, et dixit : Qui credit in me, non credit in me, sed in eum qui misit me.
+Jn	12	45	Et qui videt me, videt eum qui misit me.
+Jn	12	46	Ego lux in mundum veni, ut omnis qui credit in me, in ténebris non máneat.
+Jn	12	47	Et si quis audíerit verba mea, et non custodíerit, ego non iúdico eum ; non enim veni ut iúdicem mundum, sed ut salvíficem mundum.
+Jn	12	48	Qui spernit me et non áccipit verba mea, habet qui iúdicet eum. Sermo quem locútus sum, ille iudicábit eum in novíssimo die.
+Jn	12	49	Quia ego ex meípso non sum locútus, sed qui misit me, Pater, ipse mihi mandátum dedit quid dicam et quid loquar.
+Jn	12	50	Et scio quia mandátum eius vita ætérna est : quæ ergo ego loquor, sicut dixit mihi Pater, sic loquor.
+Jn	13	1	Ante diem festum Paschæ, sciens Iesus quia venit hora eius ut tránseat ex hoc mundo ad Patrem : cum dilexísset suos, qui erant in mundo, in finem diléxit eos.
+Jn	13	2	Et cœna facta, cum diábolus iam misísset in cor ut tráderet eum Iudas Simónis Iscariótæ :
+Jn	13	3	sciens quia ómnia dedit ei Pater in manus, et quia a Deo exívit, et ad Deum vadit :
+Jn	13	4	surgit a cœna, et ponit vestiménta sua, et cum accepísset línteum, præcínxit se.
+Jn	13	5	Deínde mittit aquam in pelvim, et cœpit laváre pedes discipulórum, et extérgere línteo, quo erat præcínctus.
+Jn	13	6	Venit ergo ad Simónem Petrum. Et dicit ei Petrus : Dómine, tu mihi lavas pedes ?
+Jn	13	7	Respóndit Iesus, et dixit ei : Quod ego fácio, tu nescis modo : scies autem póstea.
+Jn	13	8	Dicit ei Petrus : Non lavábis mihi pedes in ætérnum. Respóndit ei Iesus : Si non lávero te, non habébis partem mecum.
+Jn	13	9	Dicit ei Simon Petrus : Dómine, non tantum pedes meos, sed et manus, et caput.
+Jn	13	10	Dicit ei Iesus : Qui lotus est, non índiget nisi ut pedes lavet, sed est mundus totus. Et vos mundi estis, sed non omnes.
+Jn	13	11	Sciébat enim quisnam esset qui tráderet eum ; proptérea dixit : Non estis mundi omnes.
+Jn	13	12	Postquam ergo lavit pedes eórum, et accépit vestiménta sua, cum recubuísset íterum, dixit eis : Scitis quid fécerim vobis ?
+Jn	13	13	Vos vocátis me Magíster et Dómine, et bene dícitis : sum étenim.
+Jn	13	14	Si ergo ego lavi pedes vestros, Dóminus et Magíster, et vos debétis alter alteríus laváre pedes.
+Jn	13	15	Exémplum enim dedi vobis, ut quemádmodum ego feci vobis, ita et vos faciátis.
+Jn	13	16	Amen, amen dico vobis : non est servus maior dómino suo : neque apóstolus maior est eo qui misit illum.
+Jn	13	17	Si hæc scitis, beáti éritis si fecéritis ea.
+Jn	13	18	Non de ómnibus vobis dico : ego scio quos elégerim ; sed ut adimpleátur Scriptúra : Qui mandúcat mecum panem, levábit contra me calcáneum suum.
+Jn	13	19	Amodo dico vobis, priúsquam fiat : ut cum factum fúerit, credátis quia ego sum.
+Jn	13	20	Amen, amen dico vobis : qui áccipit si quem mísero, me áccipit ; qui autem me áccipit, áccipit eum qui me misit.
+Jn	13	21	Cum hæc dixísset Iesus, turbátus est spíritu : et protestátus est, et dixit : Amen, amen dico vobis, quia unus ex vobis tradet me.
+Jn	13	22	Aspiciébant ergo ad ínvicem discípuli, hæsitántes de quo díceret.
+Jn	13	23	Erat ergo recúmbens unus ex discípulis eius in sinu Iesu, quem diligébat Iesus.
+Jn	13	24	Innuit ergo huic Simon Petrus, et dixit ei : Quis est, de quo dicit ?
+Jn	13	25	Itaque cum recubuísset ille supra pectus Iesu, dicit ei : Dómine, quis est ?
+Jn	13	26	Respóndit Iesus : Ille est cui ego intínctum panem porréxero. Et cum intinxísset panem, dedit Iudæ Simónis Iscariótæ.
+Jn	13	27	Et post buccéllam, introívit in eum Sátanas. Et dixit ei Iesus : Quod facis, fac cítius.
+Jn	13	28	Hoc autem nemo scivit discumbéntium ad quid díxerit ei.
+Jn	13	29	Quidam enim putábant, quia lóculos habébat Iudas, quod dixísset ei Iesus : Eme ea quæ opus sunt nobis ad diem festum : aut egénis ut áliquid daret.
+Jn	13	30	Cum ergo accepísset ille buccéllam, exívit contínuo. Erat autem nox.
+Jn	13	31	Cum ergo exísset, dixit Iesus : Nunc clarificátus est Fílius hóminis, et Deus clarificátus est in eo.
+Jn	13	32	Si Deus clarificátus est in eo, et Deus clarificábit eum in semetípso : et contínuo clarificábit eum.
+Jn	13	33	Filíoli, adhuc módicum vobíscum sum. Quærétis me ; et sicut dixi Iudǽis, quo ego vado, vos non potéstis veníre : et vobis dico modo.
+Jn	13	34	Mandátum novum do vobis : ut diligátis ínvicem : sicut diléxi vos, ut et vos diligátis ínvicem.
+Jn	13	35	In hoc cognóscent omnes quia discípuli mei estis, si dilectiónem habuéritis ad ínvicem.
+Jn	13	36	Dicit ei Simon Petrus : Dómine, quo vadis ? Respóndit Iesus : Quo ego vado non potes me modo sequi : sequéris autem póstea.
+Jn	13	37	Dicit ei Petrus : Quare non possum te sequi modo ? ánimam meam pro te ponam.
+Jn	13	38	Respóndit ei Iesus : Animam tuam pro me pones ? amen, amen dico tibi : non cantábit gallus, donec ter me neges.
+Jn	14	1	Non turbétur cor vestrum. Créditis in Deum, et in me crédite.
+Jn	14	2	In domo Patris mei mansiónes multæ sunt ; si quóminus dixíssem vobis : quia vado paráre vobis locum.
+Jn	14	3	Et si abíero, et præparávero vobis locum, íterum vénio, et accípiam vos ad meípsum : ut ubi sum ego, et vos sitis.
+Jn	14	4	Et quo ego vado scitis, et viam scitis.
+Jn	14	5	Dicit ei Thomas : Dómine, nescímus quo vadis : et quómodo póssumus viam scire ?
+Jn	14	6	Dicit ei Iesus : Ego sum via, et véritas, et vita. Nemo venit ad Patrem, nisi per me.
+Jn	14	7	Si cognovissétis me, et Patrem meum útique cognovissétis : et ámodo cognoscétis eum, et vidístis eum.
+Jn	14	8	Dicit ei Philíppus : Dómine, osténde nobis Patrem, et súfficit nobis.
+Jn	14	9	Dicit ei Iesus : Tanto témpore vobíscum sum, et non cognovístis me ? Philíppe, qui videt me, videt et Patrem. Quómodo tu dicis : Osténde nobis Patrem ?
+Jn	14	10	Non créditis quia ego in Patre, et Pater in me est ? Verba quæ ego loquor vobis, a meípso non loquor. Pater autem in me manens, ipse fecit ópera.
+Jn	14	11	Non créditis quia ego in Patre, et Pater in me est ?
+Jn	14	12	alióquin propter ópera ipsa crédite. Amen, amen dico vobis, qui credit in me, ópera quæ ego fácio, et ipse fáciet, et maióra horum fáciet : quia ego ad Patrem vado.
+Jn	14	13	Et quodcúmque petiéritis Patrem in nómine meo, hoc fáciam : ut glorificétur Pater in Fílio.
+Jn	14	14	Si quid petiéritis me in nómine meo, hoc fáciam.
+Jn	14	15	Si dilígitis me, mandáta mea serváte :
+Jn	14	16	et ego rogábo Patrem, et álium Paraclítum dabit vobis, ut máneat vobíscum in ætérnum,
+Jn	14	17	Spíritum veritátis, quem mundus non potest accípere, quia non videt eum, nec scit eum : vos autem cognoscétis eum, quia apud vos manébit, et in vobis erit.
+Jn	14	18	Non relínquam vos órphanos : véniam ad vos.
+Jn	14	19	Adhuc módicum, et mundus me iam non videt. Vos autem vidétis me : quia ego vivo, et vos vivétis.
+Jn	14	20	In illo die vos cognoscétis quia ego sum in Patre meo, et vos in me, et ego in vobis.
+Jn	14	21	Qui habet mandáta mea, et servat ea : ille est qui díligit me. Qui autem díligit me, diligétur a Patre meo : et ego díligam eum, et manifestábo ei meípsum.
+Jn	14	22	Dicit ei Iudas, non ille Iscariótes : Dómine, quid factum est, quia manifestatúrus es nobis teípsum, et non mundo ?
+Jn	14	23	Respóndit Iesus, et dixit ei : Si quis díligit me, sermónem meum servábit, et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciémus ;
+Jn	14	24	qui non díligit me, sermónes meos non servat. Et sermónem, quem audístis, non est meus : sed eius qui misit me, Patris.
+Jn	14	25	Hæc locútus sum vobis apud vos manens.
+Jn	14	26	Paraclítus autem Spíritus Sanctus, quem mittet Pater in nómine meo, ille vos docébit ómnia, et súggeret vobis ómnia quæcúmque díxero vobis.
+Jn	14	27	Pacem relínquo vobis, pacem meam do vobis : non quómodo mundus dat, ego do vobis. Non turbétur cor vestrum, neque formídet.
+Jn	14	28	Audístis quia ego dixi vobis : Vado, et vénio ad vos. Si diligerétis me, gauderétis útique, quia vado ad Patrem : quia Pater maior me est.
+Jn	14	29	Et nunc dixi vobis priúsquam fiat : ut cum factum fúerit, credátis.
+Jn	14	30	Iam non multa loquar vobíscum : venit enim princeps mundi huius, et in me non habet quidquam.
+Jn	14	31	Sed ut cognóscat mundus quia díligo Patrem, et sicut mandátum dedit mihi Pater, sic fácio. Súrgite, eámus hinc.
+Jn	15	1	Ego sum vitis vera, et Pater meus agrícola est.
+Jn	15	2	Omnem pálmitem in me non feréntem fructum, tollet eum, et omnem qui fert fructum, purgábit eum, ut fructum plus áfferat.
+Jn	15	3	Iam vos mundi estis propter sermónem quem locútus sum vobis.
+Jn	15	4	Manéte in me, et ego in vobis. Sicut palmes non potest fere fructum a semetípso, nisi mánserit in vite, sic nec vos, nisi in me manséritis.
+Jn	15	5	Ego sum vitis, vos pálmites : qui manet in me, et ego in eo, hic fert fructum multum, quia sine me nihil potéstis fácere.
+Jn	15	6	Si quis in me non mánserit, mittétur foras sicut palmes, et aréscet, et cólligent eum, et in ignem mittent, et ardet.
+Jn	15	7	Si manséritis in me, et verba mea in vobis mánserint, quodcúmque voluéritis petétis, et fiet vobis.
+Jn	15	8	In hoc clarificátus est Pater meus, ut fructum plúrimum afferátis, et efficiámini mei discípuli.
+Jn	15	9	Sicut diléxit me Pater, et ego diléxi vos. Manéte in dilectióne mea.
+Jn	15	10	Si præcépta mea servavéritis, manébitis in dilectióne mea, sicut et ego Patris mei præcépta servávi, et máneo in eius dilectióne.
+Jn	15	11	Hæc locútus sum vobis : ut gáudium meum in vobis sit, et gáudium vestrum impleátur.
+Jn	15	12	Hoc est præcéptum meum, ut diligátis ínvicem, sicut diléxi vos.
+Jn	15	13	Maiórem hac dilectiónem nemo habet, ut ánimam suam ponat qui pro amícis suis.
+Jn	15	14	Vos amíci mei estis, si fecéritis quæ ego præcípio vobis.
+Jn	15	15	Iam non dicam vos servos : quia servus nescit quid fáciat dóminus eius. Vos autem dixi amícos : quia ómnia quæcúmque audívi a Patre meo, nota feci vobis.
+Jn	15	16	Non vos me elegístis, sed ego elégi vos, et pósui vos ut eátis, et fructum afferátis, et fructus vester máneat : ut quodcúmque petiéritis Patrem in nómine meo, det vobis.
+Jn	15	17	Hæc mando vobis : ut diligátis ínvicem.
+Jn	15	18	Si mundus vos odit, scitóte quia me priórem vobis ódio hábuit.
+Jn	15	19	Si de mundo fuissétis, mundus quod suum erat dilígeret : quia vero de mundo non estis, sed ego elégi vos de mundo, proptérea odit vos mundus.
+Jn	15	20	Mementóte sermónis mei, quem ego dixi vobis : non est servus maior dómino suo. Si me persecúti sunt, et vos persequéntur ; si sermónem meum servavérunt, et vestrum servábunt.
+Jn	15	21	Sed hæc ómnia fácient vobis propter nomen meum : quia nésciunt eum qui misit me.
+Jn	15	22	Si non veníssem, et locútus fuíssem eis, peccátum non habérent : nunc autem excusatiónem non habent de peccáto suo.
+Jn	15	23	Qui me odit, et Patrem meum odit.
+Jn	15	24	Si ópera non fecíssem in eis quæ nemo álius fecit, peccátum non habérent : nunc autem et vidérunt, et odérunt et me, et Patrem meum.
+Jn	15	25	Sed ut adimpleátur sermo, qui in lege eórum scriptus est : Quia ódio habuérunt me gratis.
+Jn	15	26	Cum autem vénerit Paraclítus, quem ego mittam vobis a Patre, Spíritum veritátis, qui a Patre procédit, ille testimónium perhibébit de me ;
+Jn	15	27	et vos testimónium perhibébitis, quia ab inítio mecum estis.
+Jn	16	1	Hæc locútus sum vobis, ut non scandalizémini.
+Jn	16	2	Absque synagógis fácient vos : sed venit hora, ut omnis qui intérficit vos arbitrétur obséquium se præstáre Deo.
+Jn	16	3	Et hæc fácient vobis, quia non novérunt Patrem, neque me.
+Jn	16	4	Sed hæc locútus sum vobis, ut cum vénerit hora eórum, reminiscámini quia ego dixi vobis.
+Jn	16	5	Hæc autem vobis ab inítio non dixi, quia vobíscum eram. Et nunc vado ad eum qui misit me ; et nemo ex vobis intérrogat me : Quo vadis ?
+Jn	16	6	sed quia hæc locútus sum vobis, tristítia implévit cor vestrum.
+Jn	16	7	Sed ego veritátem dico vobis : éxpedit vobis ut ego vadam : si enim non abíero, Paraclítus non véniet ad vos ; si autem abíero, mittam eum ad vos.
+Jn	16	8	Et cum vénerit ille, árguet mundum de peccáto, et de iustítia, et de iudício.
+Jn	16	9	De peccáto quidem, quia non credidérunt in me.
+Jn	16	10	De iustítia vero, quia ad Patrem vado, et iam non vidébitis me.
+Jn	16	11	De iudício autem, quia princeps huius mundi iam iudicátus est.
+Jn	16	12	Adhuc multa hábeo vobis dícere, sed non potéstis portáre modo.
+Jn	16	13	Cum autem vénerit ille Spíritus veritátis, docébit vos omnem veritátem : non enim loquétur a semetípso, sed quæcúmque áudiet loquétur, et quæ ventúra sunt annuntiábit vobis.
+Jn	16	14	Ille me clarificábit, quia de meo accípiet, et annuntiábit vobis.
+Jn	16	15	Omnia quæcúmque habet Pater, mea sunt. Proptérea dixi : quia de meo accípiet, et annuntiábit vobis.
+Jn	16	16	Módicum, et iam non vidébitis me ; et íterum módicum, et vidébitis me : quia vado ad Patrem.
+Jn	16	17	Dixérunt ergo ex discípulis eius ad ínvicem : Quid est hoc quod dicit nobis : Módicum, et non vidébitis me ; et íterum módicum, et vidébitis me, et quia vado ad Patrem ?
+Jn	16	18	Dicébant ergo : Quid est hoc quod dicit : Módicum ? nescímus quid lóquitur.
+Jn	16	19	Cognóvit autem Iesus, quia volébant eum interrogáre, et dixit eis : De hoc quǽritis inter vos quia dixi : Módicum, et non vidébitis me ; et íterum módicum, et vidébitis me.
+Jn	16	20	Amen, amen dico vobis : quia plorábitis, et flébitis vos, mundus autem gaudébit ; vos autem contristabímini, sed tristítia vestra vertétur in gáudium.
+Jn	16	21	Múlier cum parit, tristítiam habet, quia venit hora eius ; cum autem pepérerit púerum, iam non méminit pressúræ propter gáudium, quia natus est homo in mundum.
+Jn	16	22	Et vos ígitur nunc quidem tristítiam habétis, íterum autem vidébo vos, et gaudébit cor vestrum : et gáudium vestrum nemo tollet a vobis.
+Jn	16	23	Et in illo die me non rogábitis quidquam. Amen, amen dico vobis : si quid petiéritis Patrem in nómine meo, dabit vobis.
+Jn	16	24	Usque modo non petístis quidquam in nómine meo : pétite, et accipiétis, ut gáudium vestrum sit plenum.
+Jn	16	25	Hæc in provérbiis locútus sum vobis. Venit hora cum iam non in provérbiis loquar vobis, sed palam de Patre annuntiábo vobis :
+Jn	16	26	in illo die in nómine meo petétis : et non dico vobis quia ego rogábo Patrem de vobis :
+Jn	16	27	ipse enim Pater amat vos, quia vos me amástis, et credidístis, quia ego a Deo exívi.
+Jn	16	28	Exívi a Patre, et veni in mundum : íterum relínquo mundum, et vado ad Patrem.
+Jn	16	29	Dicunt ei discípuli eius : Ecce nunc palam lóqueris, et provérbium nullum dicis :
+Jn	16	30	nunc scimus quia scis ómnia, et non opus est tibi ut quis te intérroget : in hoc crédimus quia a Deo exísti.
+Jn	16	31	Respóndit eis Iesus : Modo créditis ?
+Jn	16	32	ecce venit hora, et iam venit, ut dispergámini unusquísque in própria, et me solum relinquátis : et non sum solus, quia Pater mecum est.
+Jn	16	33	Hæc locútus sum vobis, ut in me pacem habeátis. In mundo pressúram habébitis : sed confídite, ego vici mundum. 
+Jn	17	1	Hæc locútus est Iesus : et sublevátis óculis in cælum, dixit : Pater, venit hora : clarífica Fílium tuum, ut Fílius tuus claríficet te :
+Jn	17	2	sicut dedísti ei potestátem omnis carnis, ut omne, quod dedísti ei, det eis vitam ætérnam.
+Jn	17	3	Hæc est autem vita ætérna : ut cognóscant te, solum Deum verum, et quem misísti Iesum Christum.
+Jn	17	4	Ego te clarificávi super terram : opus consummávi, quod dedísti mihi ut fáciam :
+Jn	17	5	et nunc clarífica me tu, Pater, apud temetípsum, claritáte quam hábui, priúsquam mundus esset, apud te.
+Jn	17	6	Manifestávi nomen tuum homínibus, quos dedísti mihi de mundo : tui erant, et mihi eos dedísti : et sermónem tuum servavérunt.
+Jn	17	7	Nunc cognovérunt quia ómnia quæ dedísti mihi, abs te sunt :
+Jn	17	8	quia verba quæ dedísti mihi, dedi eis : et ipsi accepérunt, et cognovérunt vere quia a te exívi, et credidérunt quia tu me misísti.
+Jn	17	9	Ego pro eis rogo ; non pro mundo rogo, sed pro his quos dedísti mihi : quia tui sunt :
+Jn	17	10	et mea ómnia tua sunt, et tua mea sunt : et clarificátus sum in eis.
+Jn	17	11	Et iam non sum in mundo, et hi in mundo sunt, et ego ad te vénio. Pater sancte, serva eos in nómine tuo, quos dedísti mihi : ut sint unum, sicut et nos.
+Jn	17	12	Cum essem cum eis, ego servábam eos in nómine tuo. Quos dedísti mihi, custodívi : et nemo ex eis périit, nisi fílius perditiónis, ut Scriptúra impleátur.
+Jn	17	13	Nunc autem ad te vénio : et hæc loquor in mundo, ut hábeant gáudium meum implétum in semetípsis.
+Jn	17	14	Ego dedi eis sermónem tuum, et mundus eos ódio hábuit, quia non sunt de mundo, sicut et ego non sum de mundo.
+Jn	17	15	Non rogo ut tollas eos de mundo, sed ut serves eos a malo.
+Jn	17	16	De mundo non sunt, sicut et ego non sum de mundo.
+Jn	17	17	Sanctífica eos in veritáte. Sermo tuus véritas est.
+Jn	17	18	Sicut tu me misísti in mundum, et ego misi eos in mundum :
+Jn	17	19	et pro eis ego sanctífico meípsum : ut sint et ipsi sanctificáti in veritáte.
+Jn	17	20	Non pro eis autem rogo tantum, sed et pro eis qui creditúri sunt per verbum eórum in me :
+Jn	17	21	ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint : ut credat mundus, quia tu me misísti.
+Jn	17	22	Et ego claritátem, quam dedísti mihi, dedi eis : ut sint unum, sicut et nos unum sumus.
+Jn	17	23	Ego in eis, et tu in me : ut sint consummáti in unum : et cognóscat mundus quia tu me misísti, et dilexísti eos, sicut et me dilexísti.
+Jn	17	24	Pater, quos dedísti mihi, volo ut ubi sum ego, et illi sint mecum : ut vídeant claritátem meam, quam dedísti mihi : quia dilexísti me ante constitutiónem mundi.
+Jn	17	25	Pater iuste, mundus te non cognóvit, ego autem te cognóvi : et hi cognovérunt, quia tu me misísti.
+Jn	17	26	Et notum feci eis nomen tuum, et notum fáciam : ut diléctio, qua dilexísti me, in ipsis sit, et ego in ipsis.
+Jn	18	1	Hæc cum dixísset Iesus, egréssus est cum discípulis suis trans torréntem Cedron, ubi erat hortus, in quem introívit ipse, et discípuli eius.
+Jn	18	2	Sciébat autem et Iudas, qui tradébat eum, locum : quia frequénter Iesus convénerat illuc cum discípulis suis.
+Jn	18	3	Iudas ergo cum accepísset cohórtem, et a pontifícibus et Pharisǽis minístros, venit illuc cum latérnis, et fácibus, et armis.
+Jn	18	4	Iesus ítaque sciens ómnia quæ ventúra erant super eum, procéssit, et dixit eis : Quem quǽritis ?
+Jn	18	5	Respondérunt ei : Iesum Nazarénum. Dicit eis Iesus : Ego sum. Stabat autem et Iudas, qui tradébat eum, cum ipsis.
+Jn	18	6	Ut ergo dixit eis : Ego sum : abiérunt retrórsum, et cecidérunt in terram.
+Jn	18	7	Iterum ergo interrogávit eos : Quem quǽritis ? Illi autem dixérunt : Iesum Nazarénum.
+Jn	18	8	Respóndit Iesus : Dixi vobis, quia ego sum : si ergo me quǽritis, sínite hos abíre.
+Jn	18	9	Ut implerétur sermo, quem dixit : Quia quos dedísti mihi, non pérdidi ex eis quemquam.
+Jn	18	10	Simon ergo Petrus habens gládium edúxit eum : et percússit pontíficis servum, et abscídit aurículam eius déxteram. Erat autem nomen servo Malchus.
+Jn	18	11	Dixit ergo Iesus Petro : Mitte gládium tuum in vagínam. Cálicem, quem dedit mihi Pater, non bibam illum ?
+Jn	18	12	Cohors ergo, et tribúnus, et minístri Iudæórum comprehendérunt Iesum, et ligavérunt eum.
+Jn	18	13	Et adduxérunt eum ad Annam primum : erat enim socer Caíphæ, qui erat póntifex anni illíus.
+Jn	18	14	Erat autem Caíphas, qui consílium déderat Iudǽis : Quia éxpedit unum hóminem mori pro pópulo.
+Jn	18	15	Sequebátur autem Iesum Simon Petrus, et álius discípulus. Discípulus autem ille erat notus pontífici, et introívit cum Iesu in átrium pontíficis.
+Jn	18	16	Petrus autem stabat ad óstium foris. Exívit ergo discípulus álius, qui erat notus pontífici, et dixit ostiáriæ : et introdúxit Petrum.
+Jn	18	17	Dicit ergo Petro ancílla ostiária : Numquid et tu ex discípulis es hóminis istíus ? Dicit ille : Non sum.
+Jn	18	18	Stabant autem servi et minístri ad prunas, quia frigus erat, et calefaciébant se : erat autem cum eis et Petrus stans, et calefáciens se.
+Jn	18	19	Póntifex ergo interrogávit Iesum de discípulis suis, et de doctrína eius.
+Jn	18	20	Respóndit ei Iesus : Ego palam locútus sum mundo : ego semper dócui in synagóga, et in templo, quo omnes Iudǽi convéniunt, et in occúlto locútus sum nihil.
+Jn	18	21	Quid me intérrogas ? intérroga eos qui audiérunt quid locútus sim ipsis : ecce hi sciunt quæ díxerim ego.
+Jn	18	22	Hæc autem cum dixísset, unus assístens ministrórum dedit álapam Iesu, dicens : Sic respóndes pontífici ?
+Jn	18	23	Respóndit ei Iesus : Si male locútus sum, testimónium pérhibe de malo : si autem bene, quid me cædis ?
+Jn	18	24	Et misit eum Annas ligátum ad Caípham pontíficem.
+Jn	18	25	Erat autem Simon Petrus stans, et calefáciens se. Dixérunt ergo ei : Numquid et tu ex discípulis eius es ? Negávit ille, et dixit : Non sum.
+Jn	18	26	Dicit ei unus ex servis pontíficis, cognátus eius, cuius abscídit Petrus aurículam : Nonne ego te vidi in horto cum illo ?
+Jn	18	27	Iterum ergo negávit Petrus : et statim gallus cantávit.
+Jn	18	28	Addúcunt ergo Iesum a Caípha in prætórium. Erat autem mane : et ipsi non introiérunt in prætórium, ut non contaminaréntur, sed ut manducárent Pascha.
+Jn	18	29	Exívit ergo Pilátus ad eos foras, et dixit : Quam accusatiónem affértis advérsus hóminem hunc ?
+Jn	18	30	Respondérunt, et dixérunt ei : Si non esset hic malefáctor, non tibi tradidissémus eum.
+Jn	18	31	Dixit ergo eis Pilátus : Accípite eum vos, et secúndum legem vestram iudicáte eum. Dixérunt ergo ei Iudǽi : Nobis non licet interfícere quemquam.
+Jn	18	32	Ut sermo Iesu implerétur, quem dixit, signíficans qua morte esset moritúrus.
+Jn	18	33	Introívit ergo íterum in prætórium Pilátus : et vocávit Iesum, et dixit ei : Tu es rex Iudæórum ?
+Jn	18	34	Respóndit Iesus : A temetípso hoc dicis, an álii dixérunt tibi de me ?
+Jn	18	35	Respóndit Pilátus : Numquid ego Iudǽus sum ? gens tua et pontífices tradidérunt te mihi : quid fecísti ?
+Jn	18	36	Respóndit Iesus : Regnum meum non est de hoc mundo. Si ex hoc mundo esset regnum meum, minístri mei útique decertárent ut non tráderer Iudǽis : nunc autem regnum meum non est hinc.
+Jn	18	37	Dixit ítaque ei Pilátus : Ergo rex es tu ? Respóndit Iesus : Tu dicis quia rex sum ego. Ego in hoc natus sum, et ad hoc veni in mundum, ut testimónium perhíbeam veritáti : omnis qui est ex veritáte, audit vocem meam.
+Jn	18	38	Dicit ei Pilátus : Quid est véritas ? Et cum hoc dixísset, íterum exívit ad Iudǽos, et dicit eis : Ego nullam invénio in eo causam.
+Jn	18	39	Est autem consuetúdo vobis ut unum dimíttam vobis in Pascha : vultis ergo dimíttam vobis regem Iudæórum ?
+Jn	18	40	Clamavérunt ergo rursum omnes, dicéntes : Non hunc, sed Barábbam. Erat autem Barábbas latro.
+Jn	19	1	Tunc ergo apprehéndit Pilátus Iesum, et flagellávit.
+Jn	19	2	Et mílites plecténtes corónam de spinis, imposuérunt cápiti eius : et veste purpúrea circumdedérunt eum.
+Jn	19	3	Et veniébant ad eum, et dicébant : Ave, rex Iudæórum : et dabant ei álapas.
+Jn	19	4	Exívit ergo íterum Pilátus foras, et dicit eis : Ecce addúco vobis eum foras, ut cognoscátis quia nullam invénio in eo causam.
+Jn	19	5	(Exívit ergo Iesus portans corónam spíneam, et purpúreum vestiméntum.) Et dicit eis : Ecce homo.
+Jn	19	6	Cum ergo vidíssent eum pontífices et minístri, clamábant, dicéntes : Crucifíge, crucifíge eum. Dicit eis Pilátus : Accípite eum vos, et crucifígite : ego enim non invénio in eo causam.
+Jn	19	7	Respondérunt ei Iudǽi : Nos legem habémus, et secúndum legem debet mori, quia Fílium Dei se fecit.
+Jn	19	8	Cum ergo audísset Pilátus hunc sermónem, magis tímuit.
+Jn	19	9	Et ingréssus est prætórium íterum : et dixit ad Iesum : Unde es tu ? Iesus autem respónsum non dedit ei.
+Jn	19	10	Dicit ergo ei Pilátus : Mihi non lóqueris ? nescis quia potestátem hábeo crucifígere te, et potestátem hábeo dimíttere te ?
+Jn	19	11	Respóndit Iesus : Non habéres potestátem advérsum me ullam, nisi tibi datum esset désuper. Proptérea qui me trádidit tibi, maius peccátum habet.
+Jn	19	12	Et exínde quærébat Pilátus dimíttere eum. Iudǽi autem clamábant dicéntes : Si hunc dimíttis, non es amícus Cǽsaris. Omnis enim qui se regem facit, contradícit Cǽsari.
+Jn	19	13	Pilátus autem cum audísset hos sermónes, addúxit foras Iesum : et sedit pro tribunáli, in loco qui dícitur Lithóstrotos, Hebráice autem Gábbatha.
+Jn	19	14	Erat autem parascéve Paschæ, hora quasi sexta, et dicit Iudǽis : Ecce rex vester.
+Jn	19	15	Illi autem clamábant : Tolle, tolle, crucifíge eum. Dicit eis Pilátus : Regem vestrum crucifígam ? Respondérunt pontífices : Non habémus regem, nisi Cǽsarem.
+Jn	19	16	Tunc ergo trádidit eis illum ut crucifigerétur. Suscepérunt autem Iesum, et eduxérunt.
+Jn	19	17	Et báiulans sibi crucem exívit in eum, qui dícitur Calváriæ locum, Hebráice autem Gólgotha :
+Jn	19	18	ubi crucifixérunt eum, et cum eo álios duos hinc et hinc, médium autem Iesum.
+Jn	19	19	Scripsit autem et títulum Pilátus, et pósuit super crucem. Erat autem scriptum : Iesus Nazarénus, Rex Iudæórum.
+Jn	19	20	Hunc ergo títulum multi Iudæórum legérunt : quia prope civitátem erat locus, ubi crucifíxus est Iesus, et erat scriptum Hebráice, græce, et latíne.
+Jn	19	21	Dicébant ergo Piláto pontífices Iudæórum : Noli scríbere : Rex Iudæórum : sed quia ipse dixit : Rex sum Iudæórum.
+Jn	19	22	Respóndit Pilátus : Quod scripsi, scripsi.
+Jn	19	23	Mílites ergo cum crucifixíssent eum, accepérunt vestiménta eius (et fecérunt quátuor partes, unicuíque míliti partem) et túnicam. Erat autem túnica inconsútilis, désuper contéxta per totum.
+Jn	19	24	Dixérunt ergo ad ínvicem : Non scindámus eam, sed sortiámur de illa cuius sit. Ut Scriptúra implerétur, dicens : Partíti sunt vestiménta mea sibi : et in vestem meam misérunt sortem. Et mílites quidem hæc fecérunt.
+Jn	19	25	Stabant autem iuxta crucem Iesu mater eius, et soror matris eius, María Cléophæ, et María Magdaléne.
+Jn	19	26	Cum vidísset ergo Iesus matrem, et discípulum stantem, quem diligébat, dicit matri suæ : Múlier, ecce fílius tuus.
+Jn	19	27	Deínde dicit discípulo : Ecce mater tua. Et ex illa hora accépit eam discípulus in sua.
+Jn	19	28	Póstea sciens Iesus quia ómnia consummáta sunt, ut consummarétur Scriptúra, dixit : Sítio.
+Jn	19	29	Vas ergo erat pósitum acéto plenum. Illi autem spóngiam plenam acéto, hyssópo circumponéntes, obtulérunt ori eius.
+Jn	19	30	Cum ergo accepísset Iesus acétum, dixit : Consummátum est. Et inclináto cápite trádidit spíritum.
+Jn	19	31	Iudǽi ergo (quóniam parascéve erat) ut non remanérent in cruce córpora sábbato (erat enim magnus dies ille sábbati), rogavérunt Pilátum ut frangeréntur eórum crura, et tolleréntur.
+Jn	19	32	Venérunt ergo mílites : et primi quidem fregérunt crura, et alteríus, qui crucifíxus est cum eo.
+Jn	19	33	Ad Iesum autem cum veníssent, ut vidérunt eum iam mórtuum, non fregérunt eius crura,
+Jn	19	34	sed unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua.
+Jn	19	35	Et qui vidit, testimónium perhíbuit : et verum est testimónium eius. Et ille scit quia vera dicit : ut et vos credátis.
+Jn	19	36	Facta sunt enim hæc ut Scriptúra implerétur : Os non comminuétis ex eo.
+Jn	19	37	Et íterum ália Scriptúra dicit : Vidébunt in quem transfixérunt.
+Jn	19	38	Post hæc autem rogávit Pilátum Ioseph ab Arimathǽa (eo quod esset discípulus Iesu, occúltus autem propter metum Iudæórum), ut tólleret corpus Iesu. Et permísit Pilátus. Venit ergo, et tulit corpus Iesu.
+Jn	19	39	Venit autem et Nicodémus, qui vénerat ad Iesum nocte primum, ferens mixtúram myrrhæ et áloes, quasi libras centum.
+Jn	19	40	Accepérunt ergo corpus Iesu, et ligavérunt illud línteis cum aromátibus, sicut mos est Iudǽis sepelíre.
+Jn	19	41	Erat autem in loco, ubi crucifíxus est, hortus : et in horto monuméntum novum, in quo nondum quisquam pósitus erat.
+Jn	19	42	Ibi ergo propter parascéven Iudæórum, quia iuxta erat monuméntum, posuérunt Iesum.
+Jn	20	1	Una autem sábbati, María Magdaléne venit mane, cum adhuc ténebræ essent, ad monuméntum : et vidit lápidem sublátum a monuménto.
+Jn	20	2	Cucúrrit ergo, et venit ad Simónem Petrum, et ad álium discípulum, quem amábat Iesus, et dicit illis : Tulérunt Dóminum de monuménto, et nescímus ubi posuérunt eum.
+Jn	20	3	Exiit ergo Petrus, et ille álius discípulus, et venérunt ad monuméntum.
+Jn	20	4	Currébant autem duo simul, et ille álius discípulus præcucúrrit cítius Petro, et venit primus ad monuméntum.
+Jn	20	5	Et cum se inclinásset, vidit pósita linteámina : non tamen introívit.
+Jn	20	6	Venit ergo Simon Petrus sequens eum, et introívit in monuméntum, et vidit linteámina pósita,
+Jn	20	7	et sudárium, quod fúerat super caput eius, non cum linteamínibus pósitum, sed separátim involútum in unum locum.
+Jn	20	8	Tunc ergo introívit et ille discípulus qui vénerat primus ad monuméntum : et vidit, et crédidit :
+Jn	20	9	nondum enim sciébant Scriptúram, quia oportébat eum a mórtuis resúrgere.
+Jn	20	10	Abiérunt ergo íterum discípuli ad semetípsos.
+Jn	20	11	María autem stabat ad monuméntum foris, plorans. Dum ergo fleret, inclinávit se, et prospéxit in monuméntum :
+Jn	20	12	et vidit duos ángelos in albis sedéntes, unum ad caput, et unum ad pedes, ubi pósitum fúerat corpus Iesu.
+Jn	20	13	Dicunt ei illi : Múlier, quid ploras ? Dicit eis : Quia tulérunt Dóminum meum : et néscio ubi posuérunt eum.
+Jn	20	14	Hæc cum dixísset, convérsa est retrórsum, et vidit Iesum stantem : et non sciébat quia Iesus est.
+Jn	20	15	Dicit ei Iesus : Múlier, quid ploras ? quem quæris ? Illa exístimans quia hortulánus esset, dicit ei : Dómine, si tu sustulísti eum, dícito mihi ubi posuísti eum, et ego eum tollam.
+Jn	20	16	Dicit ei Iesus : María. Convérsa illa, dicit ei : Rabbóni (quod dícitur Magíster).
+Jn	20	17	Dicit ei Iesus : Noli me tángere, nondum enim ascéndi ad Patrem meum : vade autem ad fratres meos, et dic eis : Ascéndo ad Patrem meum, et Patrem vestrum, Deum meum, et Deum vestrum.
+Jn	20	18	Venit María Magdaléne annúntians discípulis : Quia vidi Dóminum, et hæc dixit mihi.
+Jn	20	19	Cum ergo sero esset die illo, una sabbatórum, et fores essent clausæ, ubi erant discípuli congregáti propter metum Iudæórum : venit Iesus, et stetit in médio, et dixit eis : Pax vobis.
+Jn	20	20	Et cum hoc dixísset, osténdit eis manus et latus. Gavísi sunt ergo discípuli, viso Dómino.
+Jn	20	21	Dixit ergo eis íterum : Pax vobis. Sicut misit me Pater, et ego mitto vos.
+Jn	20	22	Hæc cum dixísset, insufflávit, et dixit eis : Accípite Spíritum Sanctum :
+Jn	20	23	quorum remiséritis peccáta, remittúntur eis : et quorum retinuéritis, reténta sunt.
+Jn	20	24	Thomas autem unus ex duódecim, qui dícitur Dídymus, non erat cum eis quando venit Iesus.
+Jn	20	25	Dixérunt ergo ei álii discípuli : Vídimus Dóminum. Ille autem dixit eis : Nisi vídero in mánibus eius fixúram clavórum, et mittam dígitum meum in locum clavórum, et mittam manum meam in latus eius, non credam.
+Jn	20	26	Et post dies octo, íterum erant discípuli eius intus, et Thomas cum eis. Venit Iesus iánuis clausis, et stetit in médio, et dixit : Pax vobis.
+Jn	20	27	Deínde dicit Thomæ : Infer dígitum tuum huc, et vide manus meas, et affer manum tuam, et mitte in latus meum : et noli esse incrédulus, sed fidélis.
+Jn	20	28	Respóndit Thomas, et dixit ei : Dóminus meus et Deus meus.
+Jn	20	29	Dixit ei Iesus : Quia vidísti me, Thoma, credidísti : beáti qui non vidérunt, et credidérunt.
+Jn	20	30	Multa quidem et ália signa fecit Iesus in conspéctu discipulórum suórum, quæ non sunt scripta in libro hoc.
+Jn	20	31	Hæc autem scripta sunt ut credátis, quia Iesus est Christus Fílius Dei : et ut credéntes, vitam habeátis in nómine eius.
+Jn	21	1	Póstea manifestávit se íterum Iesus discípulis ad mare Tiberíadis. Manifestávit autem sic :
+Jn	21	2	erant simul Simon Petrus, et Thomas, qui dícitur Dídymus, et Nathánael, qui erat a Cana Galilǽæ, et fílii Zebedǽi, et álii ex discípulis eius duo.
+Jn	21	3	Dicit eis Simon Petrus : Vado piscári. Dicunt ei : Vénimus et nos tecum. Et exiérunt, et ascendérunt in navim : et illa nocte nihil prendidérunt.
+Jn	21	4	Mane autem facto stetit Iesus in líttore : non tamen cognovérunt discípuli quia Iesus est.
+Jn	21	5	Dixit ergo eis Iesus : Púeri, numquid pulmentárium habétis ? Respondérunt ei : Non.
+Jn	21	6	Dicit eis : Míttite in déxteram navígii rete, et inveniétis. Misérunt ergo : et iam non valébant illud tráhere præ multitúdine píscium.
+Jn	21	7	Dixit ergo discípulus ille, quem diligébat Iesus, Petro : Dóminus est. Simon Petrus cum audísset quia Dóminus est, túnica succínxit se (erat enim nudus) et misit se in mare.
+Jn	21	8	Alii autem discípuli navígio venérunt (non enim longe erant a terra, sed quasi cúbitis ducéntis), trahéntes rete píscium.
+Jn	21	9	Ut ergo descendérunt in terram, vidérunt prunas pósitas, et piscem superpósitum, et panem.
+Jn	21	10	Dicit eis Iesus : Afférte de píscibus, quos prendidístis nunc.
+Jn	21	11	Ascéndit Simon Petrus et traxit rete in terram, plenum magnis píscibus centum quinquagínta tribus. Et cum tanti essent, non est scissum rete.
+Jn	21	12	Dicit eis Iesus : Veníte, prandéte. Et nemo audébat discumbéntium interrogáre eum : Tu quis es ? sciéntes, quia Dóminus est.
+Jn	21	13	Et venit Iesus, et áccipit panem, et dat eis, et piscem simíliter.
+Jn	21	14	Hoc iam tértio manifestátus est Iesus discípulis suis cum resurrexísset a mórtuis.
+Jn	21	15	Cum ergo prandíssent, dicit Simóni Petro Iesus : Simon Ioánnis, díligis me plus his ? Dicit ei : Etiam Dómine, tu scis quia amo te. Dicit ei : Pasce agnos meos.
+Jn	21	16	Dicit ei íterum : Simon Ioánnis, díligis me ? Ait illi : Etiam Dómine, tu scis quia amo te. Dicit ei : Pasce agnos meos.
+Jn	21	17	Dicit ei tértio : Simon Ioánnis, amas me ? Contristátus est Petrus, quia dixit ei tértio : Amas me ? et dixit ei : Dómine, tu ómnia nosti, tu scis quia amo te. Dixit ei : Pasce oves meas.
+Jn	21	18	Amen, amen dico tibi : cum esses iúnior, cingébas te, et ambulábas ubi volébas : cum autem senúeris, exténdes manus tuas, et álius te cinget, et ducet quo tu non vis.
+Jn	21	19	Hoc autem dixit signíficans qua morte clarificatúrus esset Deum. Et cum hoc dixísset, dicit ei : Séquere me.
+Jn	21	20	Convérsus Petrus vidit illum discípulum, quem diligébat Iesus, sequéntem, qui et recúbuit in cœna super pectus eius, et dixit : Dómine, quis est qui tradet te ?
+Jn	21	21	Hunc ergo cum vidísset Petrus, dixit Iesu : Dómine, hic autem quid ?
+Jn	21	22	Dicit ei Iesus : Sic eum volo manére donec véniam, quid ad te ? tu me séquere.
+Jn	21	23	Exiit ergo sermo iste inter fratres quia discípulus ille non móritur. Et non dixit ei Iesus : Non móritur, sed : Sic eum volo manére donec véniam, quid ad te ?
+Jn	21	24	Hic est discípulus ille qui testimónium pérhibet de his, et scripsit hæc : et scimus quia verum est testimónium eius.
+Jn	21	25	Sunt autem et ália multa quæ fecit Iesus : quæ si scribántur per síngula, nec ipsum árbitror mundum cápere posse eos, qui scribéndi sunt, libros.
