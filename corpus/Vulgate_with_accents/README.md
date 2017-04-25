@@ -14,11 +14,13 @@ And the accents have been checked with the Polyglotte of Vigouroux :
 
 https://archive.org/details/lasaintebiblepol00vigo
 
+Every feedback will be welcome.
+
 ------------
 
-At this date (2017-04-24), these Books are available :
+At this date (2017-04-25), these Books are available :
 
-Mt, Mc, Lc
+Mt, Mc, Lc, Jn
 
 ------------
 
