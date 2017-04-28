@@ -1,8 +1,8 @@
 Here you have an accented version of the Sixto-Clementine Vulgate.
 
-At this date (2017-04-27), these Books are available :
+At this date (2017-04-28), these Books are available :
 
-Mt, Mc, Lc, Jn, Ac, Rm
+Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep
 
 ------------
 
