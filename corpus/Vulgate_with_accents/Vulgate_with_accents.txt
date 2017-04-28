@@ -3496,7 +3496,7 @@ Jn	13	10	Dicit ei Iesus : Qui lotus est, non índiget nisi ut pedes lavet, sed e
 Jn	13	11	Sciébat enim quisnam esset qui tráderet eum ; proptérea dixit : Non estis mundi omnes.
 Jn	13	12	Postquam ergo lavit pedes eórum, et accépit vestiménta sua, cum recubuísset íterum, dixit eis : Scitis quid fécerim vobis ?
 Jn	13	13	Vos vocátis me Magíster et Dómine, et bene dícitis : sum étenim.
-Jn	13	14	Si ergo ego lavi pedes vestros, Dóminus et Magíster, et vos debétis alter alteríus laváre pedes.
+Jn	13	14	Si ergo ego lavi pedes vestros, Dóminus et Magíster, et vos debétis alter altérius laváre pedes.
 Jn	13	15	Exémplum enim dedi vobis, ut quemádmodum ego feci vobis, ita et vos faciátis.
 Jn	13	16	Amen, amen dico vobis : non est servus maior dómino suo : neque apóstolus maior est eo qui misit illum.
 Jn	13	17	Si hæc scitis, beáti éritis si fecéritis ea.
@@ -3709,7 +3709,7 @@ Jn	19	28	Póstea sciens Iesus quia ómnia consummáta sunt, ut consummarétur Sc
 Jn	19	29	Vas ergo erat pósitum acéto plenum. Illi autem spóngiam plenam acéto, hyssópo circumponéntes, obtulérunt ori eius.
 Jn	19	30	Cum ergo accepísset Iesus acétum, dixit : Consummátum est. Et inclináto cápite trádidit spíritum.
 Jn	19	31	Iudǽi ergo (quóniam parascéve erat) ut non remanérent in cruce córpora sábbato (erat enim magnus dies ille sábbati), rogavérunt Pilátum ut frangeréntur eórum crura, et tolleréntur.
-Jn	19	32	Venérunt ergo mílites : et primi quidem fregérunt crura, et alteríus, qui crucifíxus est cum eo.
+Jn	19	32	Venérunt ergo mílites : et primi quidem fregérunt crura, et altérius, qui crucifíxus est cum eo.
 Jn	19	33	Ad Iesum autem cum veníssent, ut vidérunt eum iam mórtuum, non fregérunt eius crura,
 Jn	19	34	sed unus mílitum láncea latus eius apéruit, et contínuo exívit sanguis et aqua.
 Jn	19	35	Et qui vidit, testimónium perhíbuit : et verum est testimónium eius. Et ille scit quia vera dicit : ut et vos credátis.
@@ -4474,7 +4474,7 @@ Ac	19	35	Et cum sedásset scriba turbas, dixit : Viri Ephésii, quis enim est h�
 Ac	19	36	Cum ergo his contradíci non possit, opórtet vos sedátos esse, et nihil témere ágere.
 Ac	19	37	Adduxístis enim hómines istos, neque sacrílegos, neque blasphemántes deam vestram.
 Ac	19	38	Quod si Demétrius et qui cum eo sunt artífices, habent advérsus áliquem causam, convéntus forénses agúntur, et procónsules sunt : accúsent ínvicem.
-Ac	19	39	Si quid autem alteríus rei quǽritis, in legítima ecclésia póterit absólvi.
+Ac	19	39	Si quid autem altérius rei quǽritis, in legítima ecclésia póterit absólvi.
 Ac	19	40	Nam et periclitámur árgui seditiónis hodiérnæ, cum nullus obnóxius sit de quo possímus réddere ratiónem concúrsus istíus. Et cum hæc dixísset, dimísit ecclésiam.
 Ac	20	1	Postquam autem cessávit tumúltus, vocátis Paulus discípulis, et exhortátus eos, valedíxit, et proféctus est ut iret in Macedóniam.
 Ac	20	2	Cum autem perambulásset partes illas, et exhortátus eos fuísset multo sermóne, venit ad Grǽciam :
@@ -4944,7 +4944,7 @@ Rm	6	23	Stipéndia enim peccáti, mors. Grátia autem Dei, vita ætérna, in Chr
 Rm	7	1	An ignorátis, fratres (sciéntibus enim legem loquor), quia lex in hómine dominátur quanto témpore vivit ?
 Rm	7	2	Nam quæ sub viro est múlier, vivénte viro, alligáta est legi : si autem mórtuus fúerit vir eius, solúta est a lege viri.
 Rm	7	3	Igitur, vivénte viro, vocábitur adúltera si fúerit cum álio viro : si autem mórtuus fúerit vir eius, liberáta est a lege viri, ut non sit adúltera si fúerit cum álio viro.
-Rm	7	4	Itaque fratres mei, et vos mortificáti estis legi per corpus Christi : ut sitis alteríus, qui ex mórtuis resurréxit, ut fructificémus Deo.
+Rm	7	4	Itaque fratres mei, et vos mortificáti estis legi per corpus Christi : ut sitis altérius, qui ex mórtuis resurréxit, ut fructificémus Deo.
 Rm	7	5	Cum enim essémus in carne, passiónes peccatórum, quæ per legem erant, operabántur in membris nostris, ut fructificárent morti.
 Rm	7	6	Nunc autem solúti sumus a lege mortis, in qua detinebámur, ita ut serviámus in novitáte spíritus, et non in vetustáte lítteræ.
 Rm	7	7	Quid ergo dicémus ? lex peccátum est ? Absit. Sed peccátum non cognóvi, nisi per legem : nam concupiscéntiam nesciébam, nisi lex díceret : Non concupísces.
@@ -5099,7 +5099,7 @@ Rm	12	1	Obsecro ítaque vos fratres per misericórdiam Dei, ut exhibeátis córp
 Rm	12	2	Et nólite conformári huic sǽculo, sed reformámini in novitáte sensus vestri : ut probétis quæ sit volúntas Dei bona, et benéplacens, et perfécta.
 Rm	12	3	Dico enim per grátiam quæ data est mihi, ómnibus qui sunt inter vos, non plus sápere quam opórtet sápere, sed sápere ad sobrietátem : et unicuíque sicut Deus divísit mensúram fídei.
 Rm	12	4	Sicut enim in uno córpore multa membra habémus, ómnia autem membra non eúmdem actum habent :
-Rm	12	5	ita multi unum corpus sumus in Christo, sínguli autem alter alteríus membra.
+Rm	12	5	ita multi unum corpus sumus in Christo, sínguli autem alter altérius membra.
 Rm	12	6	Habéntes autem donatiónes secúndum grátiam, quæ data est nobis, differéntes : sive prophetíam secúndum ratiónem fídei,
 Rm	12	7	sive ministérium in ministrándo, sive qui docet in doctrína,
 Rm	12	8	qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte.
@@ -5440,12 +5440,12 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	10	21	non potéstis cálicem Dómini bíbere, et cálicem dæmoniórum ; non potéstis mensæ Dómini partícipes esse, et mensæ dæmoniórum.
 1 Co	10	22	An æmulámur Dóminum ? numquid fortióres illo sumus ? Omnia mihi licent, sed non ómnia expédiunt.
 1 Co	10	23	Omnia mihi licent, sed non ómnia ædíficat.
-1 Co	10	24	Nemo quod suum est quærat, sed quod alteríus.
+1 Co	10	24	Nemo quod suum est quærat, sed quod altérius.
 1 Co	10	25	Omne quod in macéllo venit, manducáte, nihil interrogántes propter consciéntiam.
 1 Co	10	26	Dómini est terra, et plenitúdo eius.
 1 Co	10	27	Si quis vocat vos infidélium, et vultis ire : omne quod vobis appónitur, manducáte, nihil interrogántes propter consciéntiam.
 1 Co	10	28	Si quis autem díxerit : Hoc immolátum est idólis : nólite manducáre propter illum qui indicávit, et propter consciéntiam :
-1 Co	10	29	consciéntiam autem dico non tuam, sed alteríus. Ut quid enim libértas mea iudicátur ab aliéna consciéntia ?
+1 Co	10	29	consciéntiam autem dico non tuam, sed altérius. Ut quid enim libértas mea iudicátur ab aliéna consciéntia ?
 1 Co	10	30	Si ego cum grátia partícipo, quid blasphémor pro eo quod grátias ago ?
 1 Co	10	31	Sive ergo manducátis, sive bíbitis, sive aliud quid fácitis : ómnia in glóriam Dei fácite.
 1 Co	10	32	Sine offensióne estóte Iudǽis, et géntibus, et ecclésiæ Dei :
@@ -5650,3 +5650,408 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	16	22	Si quis non amat Dóminum nostrum Iesum Christum, sit anáthema, Maran Atha.
 1 Co	16	23	Grátia Dómini nostri Iesu Christi vobíscum.
 1 Co	16	24	Cáritas mea cum ómnibus vobis in Christo Iesu. Amen.
+2 Co	1	1	Paulus, Apóstolus Iesu Christi per voluntátem Dei, et Timótheus frater, ecclésiæ Dei, quæ est Corínthi cum ómnibus sanctis, qui sunt in univérsa Acháia.
+2 Co	1	2	Grátia vobis, et pax a Deo Patre nostro, et Dómino Iesu Christo.
+2 Co	1	3	Benedíctus Deus et Pater Dómini nostri Iesu Christi, Pater misericordiárum, et Deus totíus consolatiónis,
+2 Co	1	4	qui consolátur nos in omni tribulatióne nostra : ut possímus et ipsi consolári eos qui in omni pressúra sunt, per exhortatiónem, qua exhortámur et ipsi a Deo.
+2 Co	1	5	Quóniam sicut abúndant passiónes Christi in nobis : ita et per Christum abúndat consolátio nostra.
+2 Co	1	6	Sive autem tribulámur pro vestra exhortatióne et salúte, sive consolámur pro vestra consolatióne, sive exhortámur pro vestra exhortatióne et salúte, quæ operátur tolerántiam earúmdem passiónum, quas et nos pátimur :
+2 Co	1	7	ut spes nostra firma sit pro vobis : sciéntes quod sicut sócii passiónum estis, sic éritis et consolatiónis.
+2 Co	1	8	Non enim vólumus ignoráre vos, fratres, de tribulatióne nostra, quæ facta est in Asia, quóniam supra modum graváti sumus supra virtútem, ita ut tædéret nos étiam vívere.
+2 Co	1	9	Sed ipsi in nobismetípsis respónsum mortis habúimus, ut non simus fidéntes in nobis, sed in Deo, qui súscitat mórtuos :
+2 Co	1	10	qui de tantis perículis nos erípuit, et éruit : in quem sperámus quóniam et adhuc erípiet,
+2 Co	1	11	adiuvántibus et vobis in oratióne pro nobis : ut ex multórum persónis, eius quæ in nobis est donatiónis, per multos grátiæ agántur pro nobis.
+2 Co	1	12	Nam glória nostra hæc est : testimónium consciéntiæ nostræ, quod in simplicitáte cordis et sinceritáte Dei, et non in sapiéntia carnáli, sed in grátia Dei, conversáti sumus in hoc mundo : abundántius autem ad vos.
+2 Co	1	13	Non enim ália scríbimus vobis, quam quæ legístis, et cognovístis. Spero autem quod usque in finem cognoscétis,
+2 Co	1	14	sicut et cognovístis nos ex parte, quod glória vestra sumus, sicut et vos nostra, in die Dómini nostri Iesu Christi.
+2 Co	1	15	Et hac confidéntia vólui prius veníre ad vos, ut secúndum grátiam haberétis :
+2 Co	1	16	et per vos transíre in Macedóniam, et íterum a Macedónia veníre ad vos, et a vobis dedúci in Iudǽam.
+2 Co	1	17	Cum ergo hoc voluíssem, numquid levitáte usus sum ? aut quæ cógito, secúndum carnem cógito, ut sit apud me Est et Non ?
+2 Co	1	18	Fidélis autem Deus, quia sermo noster, qui fuit apud vos, non est in illo Est et Non.
+2 Co	1	19	Dei enim Fílius Iesus Christus, qui in vobis per nos prædicátus est, per me, et Silvánum, et Timótheum, non fuit Est et Non, sed Est in illo fuit.
+2 Co	1	20	Quotquot enim promissiónes Dei sunt, in illo Est : ídeo et per ipsum Amen Deo ad glóriam nostram.
+2 Co	1	21	Qui autem confírmat nos vobíscum in Christo, et qui unxit nos Deus :
+2 Co	1	22	qui et signávit nos, et dedit pignus Spíritus in córdibus nostris.
+2 Co	1	23	Ego autem testem Deum ínvoco in ánimam meam, quod parcens vobis, non veni ultra Corínthum :
+2 Co	1	24	non quia dominámur fídei Vestæ, sed adiutóres sumus gáudii vestri : nam fide statis.
+2 Co	2	1	Státui autem hoc ipsum apud me, ne íterum in tristítia venírem ad vos.
+2 Co	2	2	Si enim ego contrísto vos : et quis est, qui me lætíficet, nisi qui contristátur ex me ?
+2 Co	2	3	Et hoc ipsum scripsi vobis, ut non cum vénero, tristítiam super tristítiam hábeam, de quibus oportúerat me gaudére : confídens in ómnibus vobis, quia meum gáudium, ómnium vestrum est.
+2 Co	2	4	Nam ex multa tribulatióne et angústia cordis scripsi vobis per multas lácrimas : non ut contristémini, sed ut sciátis, quam caritátem hábeam abundántius in vobis.
+2 Co	2	5	Si quis autem contristávit, non me contristávit : sed ex parte, ut non ónerem omnes vos.
+2 Co	2	6	Súfficit illi, qui eiúsmodi est, obiurgátio hæc, quæ fit a plúribus :
+2 Co	2	7	ita ut e contrário magis donétis, et consolémini, ne forte abundantióri tristítia absorbeátur qui eiúsmodi est.
+2 Co	2	8	Propter quod óbsecro vos, ut confirmétis in illum caritátem.
+2 Co	2	9	Ideo enim et scripsi, ut cognóscam experiméntum vestrum, an in ómnibus obediéntes sitis.
+2 Co	2	10	Cui autem áliquid donástis, et ego : nam et ego quod donávi, si quid donávi, propter vos in persóna Christi,
+2 Co	2	11	ut non circumveniámur a Sátana : non enim ignorámus cogitatiónes eius.
+2 Co	2	12	Cum veníssem autem Tróadem propter Evangélium Christi, et óstium mihi apértum esset in Dómino,
+2 Co	2	13	non hábui réquiem spirítui meo, eo quod non invénerim Titum fratrem meum, sed valefáciens eis, proféctus sum in Macedóniam.
+2 Co	2	14	Deo autem grátias, qui semper triúmphat nos in Christo Iesu, et odórem notítiæ suæ maniféstat per nos in omni loco :
+2 Co	2	15	quia Christi bonus odor sumus Deo in iis qui salvi fiunt, et in iis qui péreunt :
+2 Co	2	16	áliis quidem odor mortis in mortem : áliis autem odor vitæ in vitam. Et ad hæc quis tam idóneus ?
+2 Co	2	17	non enim sumus sicut plúrimi, adulterántes verbum Dei, sed ex sinceritáte, sed sicut ex Deo, coram Deo, in Christo lóquimur.
+2 Co	3	1	Incípimus íterum nosmetípsos commendáre ? aut numquid egémus (sicut quidam) commendatítiis epístolis ad vos, aut ex vobis ?
+2 Co	3	2	Epístola nostra vos estis, scripta in córdibus nostris, quæ scitur, et légitur ab ómnibus homínibus :
+2 Co	3	3	manifestáti quod epístola estis Christi, ministráta a nobis, et scripta non atraménto, sed Spíritu Dei vivi : non in tábulis lapídeis, sed in tábulis cordis carnálibus.
+2 Co	3	4	Fidúciam autem talem habémus per Christum ad Deum :
+2 Co	3	5	non quod sufficiéntes simus cogitáre áliquid a nobis, quasi ex nobis : sed sufficiéntia nostra ex Deo est :
+2 Co	3	6	qui et idóneos nos fecit minístros novi testaménti : non líttera, sed Spíritu : líttera enim occídit, Spíritus autem vivíficat.
+2 Co	3	7	Quod si ministrátio mortis lítteris deformáta in lapídibus fuit in glória, ita ut non possent inténdere fílii Israel in fáciem Móysi propter glóriam vultus eius, quæ evacuátur :
+2 Co	3	8	quómodo non magis ministrátio Spíritus erit in glória ?
+2 Co	3	9	Nam si ministrátio damnatiónis glória est : multo magis abúndat ministérium iustítiæ in glória.
+2 Co	3	10	Nam nec glorificátum est, quod cláruit in hac parte, propter excelléntem glóriam.
+2 Co	3	11	Si enim quod evacuátur, per glóriam est : multo magis quod manet, in glória est.
+2 Co	3	12	Habéntes ígitur talem spem, multa fidúcia útimur :
+2 Co	3	13	et non sicut Móyses ponébat velámen super fáciem suam, ut non inténderent fílii Israel in fáciem eius, quod evacuátur,
+2 Co	3	14	sed obtúsi sunt sensus eórum. Usque in hodiérnum enim diem, idípsum velámen in lectióne véteris testaménti manet non revelátum (quóniam in Christo evacuátur),
+2 Co	3	15	sed usque in hodiérnum diem, cum légitur Móyses, velámen pósitum est super cor eórum.
+2 Co	3	16	Cum autem convérsus fúerit ad Dóminum, auferétur velámen.
+2 Co	3	17	Dóminus autem Spíritus est : ubi autem Spíritus Dómini, ibi libértas.
+2 Co	3	18	Nos vero omnes, reveláta fácie glóriam Dómini speculántes, in eámdem imáginem transformámur a claritáte in claritátem, tamquam a Dómini Spíritu.
+2 Co	4	1	Ideo habéntes administratiónem, iuxta quod misericórdiam consecúti sumus, non defícimus,
+2 Co	4	2	sed abdicámus occúlta dedécoris, non ambulántes in astútia, neque adulterántes verbum Dei, sed in manifestatióne veritátis commendántes nosmetípsos ad omnem consciéntiam hóminum coram Deo.
+2 Co	4	3	Quod si étiam opértum est Evangélium nostrum, in iis, qui péreunt, est opértum :
+2 Co	4	4	in quibus Deus huius sǽculi excæcávit mentes infidélium, ut non fúlgeat illis illuminátio Evangélii glóriæ Christi, qui est imágo Dei.
+2 Co	4	5	Non enim nosmetípsos prædicámus, sed Iesum Christum Dóminum nostrum : nos autem servos vestros per Iesum :
+2 Co	4	6	quóniam Deus, qui dixit de ténebris lucem splendéscere, ipse illúxit in córdibus nostris ad illuminatiónem sciéntiæ claritátis Dei, in fácie Christi Iesu.
+2 Co	4	7	Habémus autem thesáurum istum in vasis fictílibus : ut sublímitas sit virtútis Dei, et non ex nobis.
+2 Co	4	8	In ómnibus tribulatiónem pátimur, sed non angustiámur : aporiámur, sed non destitúimur :
+2 Co	4	9	persecutiónem pátimur, sed non derelínquimur : deiícimur, sed non perímus :
+2 Co	4	10	semper mortificatiónem Iesu in córpore nostro circumferéntes, ut et vita Iesu manifestétur in corpóribus nostris.
+2 Co	4	11	Semper enim nos, qui vívimus, in mortem trádimur propter Iesum : ut et vita Iesu manifestétur in carne nostra mortáli.
+2 Co	4	12	Ergo mors in nobis operátur, vita autem in vobis.
+2 Co	4	13	Habéntes autem eúmdem spíritum fídei, sicut scriptum est : Crédidi, propter quod locútus sum : et nos crédimus, propter quod et lóquimur :
+2 Co	4	14	sciéntes quóniam qui suscitávit Iesum, et nos cum Iesu suscitábit, et constítuet vobíscum.
+2 Co	4	15	Omnia enim propter vos : ut grátia abúndans, per multos in gratiárum actióne, abúndet in glóriam Dei.
+2 Co	4	16	Propter quod non defícimus : sed licet is, qui foris est, noster homo corrumpátur, tamen is, qui intus est, renovátur de die in diem.
+2 Co	4	17	Id enim, quod in præsénti est momentáneum et leve tribulatiónis nostræ, supra modum in sublimitáte ætérnum glóriæ pondus operátur in nobis,
+2 Co	4	18	non contemplántibus nobis quæ vidéntur, sed quæ non vidéntur. Quæ enim vidéntur, temporália sunt : quæ autem non vidéntur, ætérna sunt.
+2 Co	5	1	Scimus enim quóniam si terréstris domus nostra huius habitatiónis dissolvátur, quod ædificatiónem ex Deo habémus, domum non manufáctam, ætérnam in cælis.
+2 Co	5	2	Nam et in hoc ingemíscimus, habitatiónem nostram, quæ de cælo est, superíndui cupiéntes :
+2 Co	5	3	si tamen vestíti, non nudi inveniámur.
+2 Co	5	4	Nam et qui sumus in hoc tabernáculo, ingemíscimus graváti : eo quod nólumus expoliári, sed supervestíri, ut absorbeátur quod mortále est, a vita.
+2 Co	5	5	Qui autem éfficit nos in hoc ipsum, Deus, qui dedit nobis pignus Spíritus.
+2 Co	5	6	Audéntes ígitur semper, sciéntes quóniam dum sumus in córpore, peregrinámur a Dómino
+2 Co	5	7	(per fidem enim ambulámus, et non per spéciem) :
+2 Co	5	8	audémus autem, et bonam voluntátem habémus magis peregrinári a córpore, et præséntes esse ad Dóminum.
+2 Co	5	9	Et ídeo conténdimus, sive abséntes, sive præséntes, placére illi.
+2 Co	5	10	Omnes enim nos manifestári opórtet ante tribúnal Christi, ut réferat unusquísque própria córporis, prout gessit, sive bonum, sive malum.
+2 Co	5	11	Sciéntes ergo timórem Dómini, homínibus suadémus, Deo autem manifésti sumus. Spero autem et in consciéntiis vestris maniféstos nos esse.
+2 Co	5	12	Non íterum commendámus nos vobis, sed occasiónem damus vobis gloriándi pro nobis : ut habeátis ad eos qui in fácie gloriántur, et non in corde.
+2 Co	5	13	Sive enim mente excédimus Deo : sive sóbrii sumus, vobis.
+2 Co	5	14	Cáritas enim Christi urget nos : æstimántes hoc, quóniam si unus pro ómnibus mórtuus est, ergo omnes mórtui sunt :
+2 Co	5	15	et pro ómnibus mórtuus est Christus : ut, et qui vivunt, iam non sibi vivant, sed ei qui pro ipsis mórtuus est et resurréxit.
+2 Co	5	16	Itaque nos ex hoc néminem nóvimus secúndum carnem. Et si cognóvimus secúndum carnem Christum, sed nunc iam non nóvimus.
+2 Co	5	17	Si qua ergo in Christo nova creatúra, vétera transiérunt : ecce facta sunt ómnia nova.
+2 Co	5	18	Omnia autem ex Deo, qui nos reconciliávit sibi per Christum : et dedit nobis ministérium reconciliatiónis,
+2 Co	5	19	quóniam quidem Deus erat in Christo mundum reconcílians sibi, non réputans illis delícta ipsórum, et pósuit in nobis verbum reconciliatiónis.
+2 Co	5	20	Pro Christo ergo legatióne fúngimur, tamquam Deo exhortánte per nos. Obsecrámus pro Christo, reconciliámini Deo.
+2 Co	5	21	Eum, qui non nóverat peccátum, pro nobis peccátum fecit, ut nos efficerémur iustítia Dei in ipso.
+2 Co	6	1	Adiuvántes autem exhortámur ne in vácuum grátiam Dei recipiátis.
+2 Co	6	2	Ait enim : Témpore accépto exaudívi te, et in die salútis adiúvi te. Ecce nunc tempus acceptábile, ecce nunc dies salútis.
+2 Co	6	3	Némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum :
+2 Co	6	4	sed in ómnibus exhibeámus nosmetípsos sicut Dei minístros in multa patiéntia, in tribulatiónibus, in necessitátibus, in angústiis,
+2 Co	6	5	in plagis, in carcéribus, in seditiónibus, in labóribus, in vigíliis, in ieiúniis,
+2 Co	6	6	in castitáte, in sciéntia, in longanimitáte, in suavitáte, in Spíritu Sancto, in caritáte non ficta,
+2 Co	6	7	in verbo veritátis, in virtúte Dei, per arma iustítiæ a dextris et a sinístris,
+2 Co	6	8	per glóriam, et ignobilitátem, per infámiam, et bonam famam : ut seductóres, et veráces, sicut qui ignóti, et cógniti :
+2 Co	6	9	quasi moriéntes, et ecce vívimus : ut castigáti, et non mortificáti :
+2 Co	6	10	quasi tristes, semper autem gaudéntes : sicut egéntes, multos autem locupletántes : tamquam nihil habéntes, et ómnia possidéntes.
+2 Co	6	11	Os nostrum patet ad vos, o Corínthii ; cor nostrum dilatátum est.
+2 Co	6	12	Non angustiámini in nobis : angustiámini autem in viscéribus vestris :
+2 Co	6	13	eámdem autem habéntes remuneratiónem, tamquam fíliis dico, dilatámini et vos.
+2 Co	6	14	Nólite iugum dúcere cum infidélibus. Quæ enim participátio iustítiæ cum iniquitáte ? aut quæ socíetas luci ad ténebras ?
+2 Co	6	15	quæ autem convéntio Christi ad Bélial ? aut quæ pars fidéli cum infidéli ?
+2 Co	6	16	qui autem consénsus templo Dei cum idólis ? vos enim estis templum Dei vivi, sicut dicit Deus : Quóniam inhabitábo in illis, et inambulábo inter eos, et ero illórum Deus, et ipsi erunt mihi pópulus.
+2 Co	6	17	Propter quod exíte de médio eórum, et separámini, dicit Dóminus, et immúndum ne tetigéritis :
+2 Co	6	18	et ego recípiam vos : et ero vobis in patrem, et vos éritis mihi in fílios et fílias, dicit Dóminus omnípotens.
+2 Co	7	1	Has ergo habéntes promissiónes, caríssimi, mundémus nos ab omni inquinaménto carnis et spíritus, perficiéntes sanctificatiónem in timóre Dei.
+2 Co	7	2	Cápite nos. Néminem lǽsimus, néminem corrúpimus, néminem circumvénimus.
+2 Co	7	3	Non ad condemnatiónem vestram dico : prædíximus enim quod in córdibus nostris estis ad commoriéndum et ad convivéndum.
+2 Co	7	4	Multa mihi fidúcia est apud vos, multa mihi gloriátio pro vobis : replétus sum consolatióne ; superabúndo gáudio in omni tribulatióne nostra.
+2 Co	7	5	Nam et cum venissémus in Macedóniam, nullam réquiem hábuit caro nostra, sed omnem tribulatiónem passi sumus : foris pugnæ, intus timóres.
+2 Co	7	6	Sed qui consolátur húmiles, consolátus est nos Deus in advéntu Titi.
+2 Co	7	7	Non solum autem in advéntu eius, sed étiam in consolatióne, qua consolátus est in vobis, réferens nobis vestrum desidérium, vestrum fletum, vestram æmulatiónem pro me, ita ut magis gaudérem.
+2 Co	7	8	Quóniam etsi contristávi vos in epístola, non me pœ́nitet : etsi pœnitéret, videns quod epístola illa (etsi ad horam) vos contristávit,
+2 Co	7	9	nunc gáudeo : non quia contristáti estis, sed quia contristáti estis ad pœniténtiam. Contristáti enim estis ad Deum, ut in nullo detriméntum patiámini ex nobis.
+2 Co	7	10	Quæ enim secúndum Deum tristítia est, pœniténtiam in salútem stábilem operátur : sǽculi autem tristítia mortem operátur.
+2 Co	7	11	Ecce enim hoc ipsum, secúndum Deum contristári vos, quantam in vobis operátur sollicitúdinem : sed defensiónem, sed indignatiónem, sed timórem, sed desidérium, sed æmulatiónem, sed vindíctam : in ómnibus exhibuístis vos incontaminátos esse negótio.
+2 Co	7	12	Igitur, etsi scripsi vobis, non propter eum qui fecit iniúriam, nec propter eum qui passus est : sed ad manifestándam sollicitúdinem nostram, quam habémus pro vobis
+2 Co	7	13	coram Deo : ídeo consoláti sumus. In consolatióne autem nostra, abundántius magis gavísi sumus super gáudio Titi, quia reféctus est spíritus eius ab ómnibus vobis :
+2 Co	7	14	et si quid apud illum de vobis gloriátus sum, non sum confúsus : sed sicut ómnia vobis in veritáte locúti sumus, ita et gloriátio nostra, quæ fuit ad Titum, véritas facta est,
+2 Co	7	15	et víscera eius abundántius in vobis sunt, reminiscéntis ómnium vestrum obediéntiam : quómodo cum timóre et tremóre excepístis illum.
+2 Co	7	16	Gáudeo quod in ómnibus confído in vobis.
+2 Co	8	1	Notam autem fácimus vobis, fratres, grátiam Dei, quæ data est in ecclésiis Macedóniæ :
+2 Co	8	2	quod in multo experiménto tribulatiónis abundántia gáudii ipsórum fuit, et altíssima paupértas eórum, abundávit in divítias simplicitátis eórum :
+2 Co	8	3	quia secúndum virtútem testimónium illis reddo, et supra virtútem voluntárii fuérunt,
+2 Co	8	4	cum multa exhortatióne obsecrántes nos grátiam, et communicatiónem ministérii, quod fit in sanctos.
+2 Co	8	5	Et non sicut sperávimus, sed semetípsos dedérunt primum Dómino, deínde nobis per voluntátem Dei,
+2 Co	8	6	ita ut rogarémus Titum, ut quemádmodum cœpit, ita et perfíciat in vobis étiam grátiam istam.
+2 Co	8	7	Sed sicut in ómnibus abundátis fide, et sermóne, et sciéntia, et omni sollicitúdine, ínsuper et caritáte vestra in nos, ut et in hac grátia abundétis.
+2 Co	8	8	Non quasi ímperans dico : sed per aliórum sollicitúdinem, étiam vestræ caritátis ingénium bonum cómprobans.
+2 Co	8	9	Scitis enim grátiam Dómini nostri Iesu Christi, quóniam propter vos egénus factus est, cum esset dives, ut illíus inópia vos dívites essétis.
+2 Co	8	10	Et consílium in hoc do : hoc enim vobis útile est, qui non solum fácere, sed et velle cœpístis ab anno prióre :
+2 Co	8	11	nunc vero et facto perfícite : ut quemádmodum promptus est ánimus voluntátis, ita sit et perficiéndi ex eo quod habétis.
+2 Co	8	12	Si enim volúntas prompta est, secúndum id quod habet, accépta est, non secúndum id quod non habet.
+2 Co	8	13	Non enim ut áliis sit remíssio, vobis autem tribulátio, sed ex æqualitáte.
+2 Co	8	14	In præsénti témpore vestra abundántia illórum inópiam súppleat : ut et illórum abundántia vestræ inópiæ sit suppleméntum, ut fiat æquálitas, sicut scriptum est :
+2 Co	8	15	Qui multum, non abundávit : et qui módicum, non minorávit.
+2 Co	8	16	Grátias autem Deo, qui dedit eámdem sollicitúdinem pro vobis in corde Titi,
+2 Co	8	17	quóniam exhortatiónem quidem suscépit : sed cum sollicítior esset, sua voluntáte proféctus est ad vos.
+2 Co	8	18	Mísimus étiam cum illo fratrem, cuius laus est in Evangélio per omnes ecclésias :
+2 Co	8	19	non solum autem, sed et ordinátus est ab ecclésiis comes peregrinatiónis nostræ in hanc grátiam, quæ ministrátur a nobis ad Dómini glóriam, et destinátam voluntátem nostram :
+2 Co	8	20	devitántes hoc, ne quis nos vitúperet in hac plenitúdine, quæ ministrátur a nobis.
+2 Co	8	21	Providémus enim bona non solum coram Deo, sed étiam coram homínibus.
+2 Co	8	22	Mísimus autem cum illis et fratrem nostrum, quem probávimus in multis sæpe sollícitum esse : nunc autem multo sollicitiórem, confidéntia multa in vos,
+2 Co	8	23	sive pro Tito, qui est sócius meus, et in vos adiútor, sive fratres nostri, Apóstoli ecclesiárum, glória Christi.
+2 Co	8	24	Ostensiónem ergo, quæ est caritátis vestræ, et nostræ glóriæ pro vobis, in illos osténdite in fáciem ecclesiárum.
+2 Co	9	1	Nam de ministério, quod fit in sanctos ex abundánti est mihi scríbere vobis.
+2 Co	9	2	Scio enim promptum ánimum vestrum : pro quo de vobis glórior apud Macédones. Quóniam et Acháia paráta est ab anno prætérito, et vestra æmulátio provocávit plúrimos.
+2 Co	9	3	Misi autem fratres : ut ne quod gloriámur de vobis, evacuétur in hac parte, ut (quemádmodum dixi) paráti sitis :
+2 Co	9	4	ne cum vénerint Macédones mecum, et invénerint vos imparátos, erubescámus nos (ut non dicámus vos) in hac substántia.
+2 Co	9	5	Necessárium ergo existimávi rogáre fratres, ut prævéniant ad vos, et prǽparent repromíssam benedictiónem hanc parátam esse sic, quasi benedictiónem, non tamquam avarítiam.
+2 Co	9	6	Hoc autem dico : qui parce séminat, parce et metet : et qui séminat in benedictiónibus, de benedictiónibus et metet.
+2 Co	9	7	Unusquísque, prout destinávit in corde suo, non ex tristítia, aut ex necessitáte : hílarem enim datórem díligit Deus.
+2 Co	9	8	Potens est autem Deus omnem grátiam abundáre fácere in vobis : ut in ómnibus semper omnem sufficiéntiam habéntes, abundétis in omne opus bonum,
+2 Co	9	9	sicut scriptum est : Dispérsit, dedit paupéribus : iustítia eius manet in sǽculum sǽculi.
+2 Co	9	10	Qui autem adminístrat semen seminánti : et panem ad manducándum præstábit, et multiplicábit semen vestrum, et augébit increménta frugum iustítiæ vestræ :
+2 Co	9	11	ut in ómnibus locupletáti abundétis in omnem simplicitátem, quæ operátur per nos gratiárum actiónem Deo.
+2 Co	9	12	Quóniam ministérium huius offícii non solum supplet ea quæ desunt sanctis, sed étiam abúndat per multas gratiárum actiónes in Dómino,
+2 Co	9	13	per probatiónem ministérii huius, glorificántes Deum in obediéntia confessiónis vestræ, in Evangélium Christi, et simplicitáte communicatiónis in illos, et in omnes,
+2 Co	9	14	et in ipsórum obsecratióne pro vobis, desiderántium vos propter eminéntem grátiam Dei in vobis.
+2 Co	9	15	Grátias Deo super inenarrábili dono eius.
+2 Co	10	1	Ipse autem ego Paulus óbsecro vos per mansuetúdinem et modéstiam Christi, qui in fácie quidem húmilis sum inter vos, absens autem confído in vos.
+2 Co	10	2	Rogo autem vos ne præsens áudeam per eam confidéntiam, qua exístimor audére in quosdam, qui arbitrántur nos tamquam secúndum carnem ambulémus.
+2 Co	10	3	In carne enim ambulántes, non secúndum carnem militámus.
+2 Co	10	4	Nam arma milítiæ nostræ non carnália sunt, sed poténtia Deo ad destructiónem munitiónum, consília destruéntes,
+2 Co	10	5	et omnem altitúdinem extolléntem se advérsus sciéntiam Dei, et in captivitátem redigéntes omnem intelléctum in obséquium Christi,
+2 Co	10	6	et in promptu habéntes ulcísci omnem inobediéntiam, cum impléta fúerit vestra obediéntia.
+2 Co	10	7	Quæ secúndum fáciem sunt, vidéte. Si quis confídit sibi Christi se esse, hoc cógitet íterum apud se : quia sicut ipse Christi est, ita et nos.
+2 Co	10	8	Nam etsi ámplius áliquid gloriátus fúero de potestáte nostra, quam dedit nobis Dóminus in ædificatiónem, et non in destructiónem vestram, non erubéscam.
+2 Co	10	9	Ut autem non exístimer tamquam terrére vos per epístolas :
+2 Co	10	10	quóniam quidem epístolæ, ínquiunt, graves sunt et fortes : præséntia autem córporis infírma, et sermo contemptíbilis :
+2 Co	10	11	hoc cógitet qui eiúsmodi est, quia quales sumus verbo per epístolas abséntes, tales et præséntes in facto.
+2 Co	10	12	Non enim audémus insérere, aut comparáre nos quibúsdam, qui seípsos comméndant : sed ipsi in nobis nosmetípsos metiéntes, et comparántes nosmetípsos nobis.
+2 Co	10	13	Nos autem non in imménsum gloriábimur, sed secúndum mensúram régulæ, qua mensus est nobis Deus, mensúram pertingéndi usque ad vos.
+2 Co	10	14	Non enim quasi non pertingéntes ad vos, superexténdimus nos : usque ad vos enim pervénimus in Evangélio Christi.
+2 Co	10	15	Non in imménsum gloriántes in aliénis labóribus : spem autem habéntes crescéntis fídei vestræ, in vobis magnificári secúndum régulam nostram in abundántiam,
+2 Co	10	16	étiam in illa, quæ ultra vos sunt, evangelizáre, non in aliéna régula in iis quæ præparáta sunt gloriári.
+2 Co	10	17	Qui autem gloriátur, in Dómino gloriétur.
+2 Co	10	18	Non enim qui seípsum comméndat, ille probátus est : sed quem Deus comméndat.
+2 Co	11	1	Utinam sustinerétis módicum quid insipiéntiæ meæ, sed et supportáre me :
+2 Co	11	2	ǽmulor enim vos Dei æmulatióne. Despóndi enim vos uni viro, vírginem castam exhibére Christo.
+2 Co	11	3	Tímeo autem ne sicut serpens Hevam sedúxit astútia sua, ita corrumpántur sensus vestri, et éxcidant a simplicitáte, quæ est in Christo.
+2 Co	11	4	Nam si is qui venit, álium Christum prǽdicat, quem non prædicávimus, aut álium spíritum accípitis, quem non accepístis : aut aliud Evangélium, quod non recepístis : recte paterémini.
+2 Co	11	5	Exístimo enim nihil me minus fecísse a magnis Apóstolis.
+2 Co	11	6	Nam etsi imperítus sermóne, sed non sciéntia, in ómnibus autem manifestáti sumus vobis.
+2 Co	11	7	Aut numquid peccátum feci, meípsum humílians, ut vos exaltémini ? quóniam gratis Evangélium Dei evangelizávi vobis ?
+2 Co	11	8	Alias ecclésias expoliávi, accípiens stipéndium ad ministérium vestrum.
+2 Co	11	9	Et cum essem apud vos, et egérem, nulli onerósus fui : nam quod mihi déerat, supplevérunt fratres, qui venérunt a Macedónia : et in ómnibus sine ónere me vobis servávi, et servábo.
+2 Co	11	10	Est véritas Christi in me, quóniam hæc gloriátio non infringétur in me in regiónibus Acháiæ.
+2 Co	11	11	Quare ? quia non díligo vos ? Deus scit.
+2 Co	11	12	Quod autem fácio, et fáciam : ut ámputem occasiónem eórum qui volunt occasiónem, ut in quo gloriántur, inveniántur sicut et nos.
+2 Co	11	13	Nam eiúsmodi pseudoapóstoli sunt operárii súbdoli, transfigurántes se in apóstolos Christi.
+2 Co	11	14	Et non mirum : ipse enim Sátanas transfigúrat se in ángelum lucis.
+2 Co	11	15	Non est ergo magnum, si minístri eius transfiguréntur velut minístri iustítiæ : quorum finis erit secúndum ópera ipsórum.
+2 Co	11	16	Iterum dico (ne quis me putet insipiéntem esse, alióquin velut insipiéntem accípite me, ut et ego módicum quid glórier),
+2 Co	11	17	quod loquor, non loquor secúndum Deum, sed quasi in insipiéntia, in hac substántia glóriæ.
+2 Co	11	18	Quóniam multi gloriántur secúndum carnem : et ego gloriábor.
+2 Co	11	19	Libénter enim suffértis insipiéntes, cum sitis ipsi sapiéntes.
+2 Co	11	20	Sustinétis enim si quis vos in servitútem rédigit, si quis dévorat, si quis áccipit, si quis extóllitur, si quis in fáciem vos cædit.
+2 Co	11	21	Secúndum ignobilitátem dico, quasi nos infírmi fuérimus in hac parte. In quo quis audet (in insipiéntia dico) áudeo et ego :
+2 Co	11	22	Hebrǽi sunt, et ego : Israelítæ sunt, et ego : semen Abrahæ sunt, et ego.
+2 Co	11	23	Minístri Christi sunt (ut minus sápiens dico), plus ego : in labóribus plúrimis, in carcéribus abundántius, in plagis supra modum, in mórtibus frequénter.
+2 Co	11	24	A Iudǽis quínquies, quadragénas, una minus, accépi.
+2 Co	11	25	Ter virgis cæsus sum, semel lapidátus sum : ter naufrágium feci, nocte et die in profúndo maris fui,
+2 Co	11	26	in itinéribus sæpe, perículis flúminum, perículis latrónum, perículis ex génere, perículis ex géntibus, perículis in civitáte, perículis in solitúdine, perículis in mari, perículis in falsis frátribus :
+2 Co	11	27	in labóre et ærúmna, in vigíliis multis, in fame et siti, in ieiúniis multis, in frígore et nuditáte,
+2 Co	11	28	præter illa quæ extrínsecus sunt, instántia mea quotidiána, sollicitúdo ómnium ecclesiárum.
+2 Co	11	29	Quis infirmátur, et ego non infírmor ? quis scandalizátur, et ego non uror ?
+2 Co	11	30	Si gloriári opórtet, quæ infirmitátis meæ sunt, gloriábor.
+2 Co	11	31	Deus et Pater Dómini nostri Iesu Christi, qui est benedíctus in sǽcula, scit quod non méntior.
+2 Co	11	32	Damásci præpósitus gentis Arétæ regis custodiébat civitátem Damascenórum ut me comprehénderet :
+2 Co	11	33	et per fenéstram in sporta dimíssus sum per murum, et sic effúgi manus eius.
+2 Co	12	1	Si gloriári opórtet (non éxpedit quidem), véniam autem ad visiónes et revelatiónes Dómini.
+2 Co	12	2	Scio hóminem in Christo ante annos quatuórdecim, sive in córpore néscio, sive extra corpus néscio, Deus scit, raptum huiúsmodi usque ad tértium cælum.
+2 Co	12	3	Et scio huiúsmodi hóminem sive in córpore, sive extra corpus néscio, Deus scit :
+2 Co	12	4	quóniam raptus est in paradísum : et audívit arcána verba, quæ non licet hómini loqui.
+2 Co	12	5	Pro huiúsmodi gloriábor : pro me autem nihil gloriábor nisi in infirmitátibus meis.
+2 Co	12	6	Nam etsi volúero gloriári, non ero insípiens : veritátem enim dicam : parco autem, ne quis me exístimet supra id quod videt in me, aut áliquid audit ex me.
+2 Co	12	7	Et ne magnitúdo revelatiónum extóllat me, datus est mihi stímulus carnis meæ ángelus Sátanæ, qui me colaphízet.
+2 Co	12	8	Propter quod ter Dóminum rogávi ut discéderet a me :
+2 Co	12	9	et dixit mihi : Súfficit tibi grátia mea : nam virtus in infirmitáte perfícitur. Libénter ígitur gloriábor in infirmitátibus meis, ut inhábitet in me virtus Christi.
+2 Co	12	10	Propter quod pláceo mihi in infirmitátibus meis, in contuméliis, in necessitátibus, in persecutiónibus, in angústiis pro Christo : cum enim infírmor, tunc potens sum.
+2 Co	12	11	Factus sum insípiens, vos me coegístis. Ego enim a vobis débui commendári : nihil enim minus fui ab iis, qui sunt supra modum Apóstoli : tamétsi nihil sum :
+2 Co	12	12	signa tamen apostolátus mei facta sunt super vos in omni patiéntia, in signis, et prodígiis, et virtútibus.
+2 Co	12	13	Quid est enim, quod minus habuístis præ céteris ecclésiis, nisi quod ego ipse non gravávi vos ? donáte mihi hanc iniúriam.
+2 Co	12	14	Ecce tértio hoc parátus sum veníre ad vos : et non ero gravis vobis. Non enim quæro quæ vestra sunt, sed vos. Nec enim debent fílii paréntibus thesaurizáre, sed paréntes fíliis.
+2 Co	12	15	Ego autem libentíssime impéndam, et super impéndar ipse pro ánimabus vestris : licet plus vos díligens, minus díligar.
+2 Co	12	16	Sed esto : ego vos non gravávi : sed cum essem astútus, dolo vos cepi.
+2 Co	12	17	Numquid per áliquem eórum, quod misi ad vos, circumvéni vos ?
+2 Co	12	18	Rogávi Titum, et misi cum illo fratrem. Numquid Titus vos circumvénit ? nonne eódem spíritu ambulávimus ? nonne iísdem vestígiis ?
+2 Co	12	19	Olim putátis quod excusémus nos apud vos ? coram Deo in Christo lóquimur : ómnia autem, caríssimi, propter ædificatiónem vestram.
+2 Co	12	20	Tímeo enim ne forte cum vénero, non quales volo, invéniam vos : et ego invéniar a vobis, qualem non vultis : ne forte contentiónes, æmulatiónes, animositátes, dissensiónes, detractiónes, susurratiónes, inflatiónes, seditiónes sint inter vos :
+2 Co	12	21	ne íterum cum vénero, humíliet me Deus apud vos, et lúgeam multos ex iis qui ante peccavérunt, et non egérunt pœniténtiam super immundítia, et fornicatióne, et impudicítia, quam gessérunt.
+2 Co	13	1	Ecce tértio hoc vénio ad vos : in ore duórum vel trium téstium stabit omne verbum.
+2 Co	13	2	Prædíxi, et prædíco, ut præsens, et nunc absens iis qui ante peccavérunt, et céteris ómnibus, quóniam si vénero íterum, non parcam.
+2 Co	13	3	An experiméntum quǽritis eius, qui in me lóquitur Christus, qui in vobis non infirmátur, sed potens est in vobis ?
+2 Co	13	4	Nam etsi crucifíxus est ex infirmitáte : sed vivit ex virtúte Dei. Nam et nos infírmi sumus in illo : sed vivémus cum eo ex virtúte Dei in vobis.
+2 Co	13	5	Vosmetípsos tentáte si estis in fide : ipsi vos probáte. An non cognóscitis vosmetípsos quia Christus Iesus in vobis est ? nisi forte réprobi estis.
+2 Co	13	6	Spero autem quod cognoscétis, quia nos non sumus réprobi.
+2 Co	13	7	Orámus autem Deum ut nihil mali faciátis, non ut nos probáti appareámus, sed ut vos quod bonum est faciátis : nos autem ut réprobi simus.
+2 Co	13	8	Non enim póssumus áliquid advérsus veritátem, sed pro veritáte.
+2 Co	13	9	Gaudémus enim, quóniam nos infírmi sumus, vos autem poténtes estis. Hoc et orámus, vestram consummatiónem.
+2 Co	13	10	Ideo hæc absens scribo, ut non præsens dúrius agam secúndum potestátem, quam Dóminus dedit mihi in ædificatiónem, et non in destructiónem.
+2 Co	13	11	De cétero, fratres, gaudéte, perfécti estóte, exhortámini, idem sápite, pacem habéte, et Deus pacis et dilectiónis erit vobíscum.
+2 Co	13	12	Salutáte ínvicem in ósculo sancto. Salútant vos omnes sancti.
+2 Co	13	13	Grátia Dómini nostri Iesu Christi, et cáritas Dei, et communicátio Sancti Spíritus sit cum ómnibus vobis. Amen.
+Ga	1	1	Paulus, Apóstolus non ab homínibus, neque per hóminem, sed per Iesum Christum, et Deum Patrem, qui suscitávit eum a mórtuis :
+Ga	1	2	et qui mecum sunt omnes fratres, ecclésiis Galátiæ.
+Ga	1	3	Grátia vobis, et pax a Deo Patre, et Dómino nostro Iesu Christo,
+Ga	1	4	qui dedit semetípsum pro peccátis nostris, ut eríperet nos de præsénti sǽculo nequam, secúndum voluntátem Dei et Patris nostri,
+Ga	1	5	cui est glória in sǽcula sæculórum. Amen.
+Ga	1	6	Miror quod sic tam cito transferímini ab eo qui vos vocávit in grátiam Christi in aliud Evangélium :
+Ga	1	7	quod non est aliud, nisi sunt áliqui qui vos contúrbant, et volunt convértere Evangélium Christi.
+Ga	1	8	Sed licet nos aut ángelus de cælo evangelízet vobis prætérquam quod evangelizávimus vobis, anáthema sit.
+Ga	1	9	Sicut prædíximus, et nunc íterum dico : si quis vobis evangelizáverit præter id quod accepístis, anáthema sit.
+Ga	1	10	Modo enim homínibus suádeo, an Deo ? an quæro homínibus placére ? si adhuc homínibus placérem, Christi servus non essem.
+Ga	1	11	Notum enim vobis fácio, fratres, Evangélium, quod evangelizátum est a me, quia non est secúndum hóminem :
+Ga	1	12	neque enim ego ab hómine accépi illud, neque dídici, sed per revelatiónem Iesu Christi.
+Ga	1	13	Audístis enim conversatiónem meam aliquándo in Iudaísmo : quóniam supra modum persequébar Ecclésiam Dei, et expugnábam illam,
+Ga	1	14	et proficiébam in Iudaísmo supra multos coætáneos meos in génere meo, abundántius æmulátor exístens paternárum meárum traditiónum.
+Ga	1	15	Cum autem plácuit ei, qui me segregávit ex útero matris meæ, et vocávit per grátiam suam,
+Ga	1	16	ut reveláret Fílium suum in me, ut evangelizárem illum in géntibus : contínuo non acquiévi carni et sánguini,
+Ga	1	17	neque veni Ierosólymam ad antecessóres meos Apóstolos : sed ábii in Arábiam, et íterum revérsus sum Damáscum :
+Ga	1	18	deínde post annos tres veni Ierosólymam vidére Petrum, et mansi apud eum diébus quíndecim :
+Ga	1	19	álium autem Apostolórum vidi néminem, nisi Iacóbum fratrem Dómini.
+Ga	1	20	Quæ autem scribo vobis, ecce coram Deo, quia non méntior.
+Ga	1	21	Deínde veni in partes Sýriæ, et Cilíciæ.
+Ga	1	22	Eram autem ignótus fácie ecclésiis Iudǽæ, quæ erant in Christo :
+Ga	1	23	tantum autem audítum habébant quóniam qui persequebátur nos aliquándo, nunc evangelízat fidem, quam aliquándo expugnábat :
+Ga	1	24	et in me clarificábant Deum.
+Ga	2	1	Deínde post annos quatuórdecim, íterum ascéndi Ierosólymam cum Bárnaba, assúmpto et Tito.
+Ga	2	2	Ascéndi autem secúndum revelatiónem : et cóntuli cum illis Evangélium, quod prǽdico in géntibus, seórsum autem iis qui videbántur áliquid esse : ne forte in vácuum cúrrerem, aut cucurríssem.
+Ga	2	3	Sed neque Titus, qui mecum erat, cum esset gentílis, compúlsus est circumcídi :
+Ga	2	4	sed propter subintrodúctos falsos fratres, qui subintroiérunt exploráre libertátem nostram, quam habémus in Christo Iesu, ut nos in servitútem redígerent.
+Ga	2	5	Quibus neque ad horam céssimus subiectióne, ut véritas Evangélii permáneat apud vos :
+Ga	2	6	ab iis autem, qui videbántur esse áliquid (quales aliquándo fúerint, nihil mea ínterest : Deus persónam hóminis non áccipit) : mihi enim qui videbántur esse áliquid, nihil contulérunt.
+Ga	2	7	Sed e contra cum vidíssent quod créditum est mihi Evangélium præpútii, sicut et Petro circumcisiónis
+Ga	2	8	(qui enim operátus est Petro in apostolátum circumcisiónis, operátus est et mihi inter gentes) :
+Ga	2	9	et cum cognovíssent grátiam, quæ data est mihi, Iacóbus, et Cephas, et Ioánnes, qui videbántur colúmnæ esse, dextras dedérunt mihi, et Bárnabæ societátis : ut nos in gentes, ipsi autem in circumcisiónem :
+Ga	2	10	tantum ut páuperum mémores essémus, quod étiam sollícitus fui hoc ipsum fácere.
+Ga	2	11	Cum autem venísset Cephas Antiochíam, in fáciem ei réstiti, quia reprehensíbilis erat.
+Ga	2	12	Prius enim quam venírent quidam a Iacóbo, cum géntibus edébat : cum autem veníssent, subtrahébat, et segregábat se, timens eos qui ex circumcisióne erant.
+Ga	2	13	Et simulatióni eius consensérunt céteri Iudǽi, ita ut et Bárnabas ducerétur ab eis in illam simulatiónem.
+Ga	2	14	Sed cum vidíssem quod non recte ambulárent ad veritátem Evangélii, dixi Cephæ coram ómnibus : Si tu, cum Iudǽus sis, gentíliter vivis, et non Iudáice : quómodo gentes cogis Iudaizáre ?
+Ga	2	15	Nos natúra Iudǽi, et non ex géntibus peccatóres.
+Ga	2	16	Sciéntes autem quod non iustificátur homo ex opéribus legis, nisi per fidem Iesu Christi : et nos in Christo Iesu crédimus, ut iustificémur ex fide Christi, et non ex opéribus legis : propter quod ex opéribus legis non iustificábitur omnis caro.
+Ga	2	17	Quod si quæréntes iustificári in Christo, invénti sumus et ipsi peccatóres, numquid Christus peccáti miníster est ? Absit.
+Ga	2	18	Si enim quæ destrúxi, íterum hæc ædífico : prævaricatórem me constítuo.
+Ga	2	19	Ego enim per legem, legi mórtuus sum, ut Deo vivam : Christo confíxus sum cruci.
+Ga	2	20	Vivo autem, iam non ego : vivit vero in me Christus. Quod autem nunc vivo in carne : in fide vivo Fílii Dei, qui diléxit me, et trádidit semetípsum pro me.
+Ga	2	21	Non abiício grátiam Dei. Si enim per legem iustítia, ergo gratis Christus mórtuus est.
+Ga	3	1	O insensáti Gálatæ, quis vos fascinávit non obedíre veritáti, ante quorum óculos Iesus Christus præscríptus est, in vobis crucifíxus ?
+Ga	3	2	Hoc solum a vobis volo díscere : ex opéribus legis Spíritum accepístis, an ex audítu fídei ?
+Ga	3	3	sic stulti estis, ut cum Spíritu cœpéritis, nunc carne consummémini ?
+Ga	3	4	tanta passi estis sine causa ? si tamen sine causa.
+Ga	3	5	Qui ergo tríbuit vobis Spíritum, et operátur virtútes in vobis : ex opéribus legis, an ex audítu fídei ?
+Ga	3	6	Sicut scriptum est : Abraham crédidit Deo, et reputátum est illi ad iustítiam :
+Ga	3	7	cognóscite ergo quia qui ex fide sunt, ii sunt fílii Abrahæ.
+Ga	3	8	Próvidens autem Scriptúra quia ex fide iustíficat gentes Deus, prænuntiávit Abrahæ : Quia benedicéntur in te omnes gentes.
+Ga	3	9	Igitur qui ex fide sunt, benedicéntur cum fidéli Abraham.
+Ga	3	10	Quicúmque enim ex opéribus legis sunt, sub maledícto sunt. Scriptum est enim : Maledíctus omnis qui non permánserit in ómnibus quæ scripta sunt in libro legis ut fáciat ea.
+Ga	3	11	Quóniam autem in lege nemo iustificátur apud Deum, maniféstum est : quia iustus ex fide vivit.
+Ga	3	12	Lex autem non est ex fide, sed : Qui fécerit ea, vivet in illis.
+Ga	3	13	Christus nos redémit de maledícto legis, factus pro nobis maledíctum : quia scriptum est : Maledíctus omnis qui pendet in ligno :
+Ga	3	14	ut in géntibus benedíctio Abrahæ fíeret in Christo Iesu, ut pollicitatiónem Spíritus accipiámus per fidem.
+Ga	3	15	Fratres (secúndum hóminem dico) tamen hóminis confirmátum testaméntum nemo spernit, aut superórdinat.
+Ga	3	16	Abrahæ dictæ sunt promissiónes, et sémini eius. Non dicit : Et semínibus, quasi in multis : sed quasi in uno : Et sémini tuo, qui est Christus.
+Ga	3	17	Hoc autem dico, testaméntum confirmátum a Deo : quæ post quadringéntos et trigínta annos facta est lex, non írritum facit ad evacuándam promissiónem.
+Ga	3	18	Nam si ex lege hæréditas, iam non ex promissióne. Abrahæ autem per repromissiónem donávit Deus.
+Ga	3	19	Quid ígitur lex ? Propter transgressiónes pósita est donec veníret semen, cui promíserat, ordináta per ángelos in manu mediatóris.
+Ga	3	20	Mediátor autem uníus non est : Deus autem unus est.
+Ga	3	21	Lex ergo advérsus promíssa Dei ? Absit. Si enim data esset lex, quæ posset vivificáre, vere ex lege esset iustítia.
+Ga	3	22	Sed conclúsit Scriptúra ómnia sub peccáto, ut promíssio ex fide Iesu Christi darétur credéntibus.
+Ga	3	23	Prius autem quam veníret fides, sub lege custodiebámur conclúsi in eam fidem quæ revelánda erat.
+Ga	3	24	Itaque lex pædagógus noster fuit in Christo, ut ex fide iustificémur.
+Ga	3	25	At ubi venit fides, iam non sumus sub pædagógo.
+Ga	3	26	Omnes enim fílii Dei estis per fidem, quæ est in Christo Iesu.
+Ga	3	27	Quicúmque enim in Christo baptizáti estis, Christum induístis.
+Ga	3	28	Non est Iudǽus, neque Græcus : non est servus, neque liber : non est másculus, neque fémina. Omnes enim vos unum estis in Christo Iesu.
+Ga	3	29	Si autem vos Christi, ergo semen Abrahæ estis, secúndum promissiónem hærédes.
+Ga	4	1	Dico autem : quanto témpore hæres párvulus est, nihil differt a servo, cum sit dóminus ómnium :
+Ga	4	2	sed sub tutóribus et actóribus est usque ad præfinítum tempus a patre :
+Ga	4	3	ita et nos cum essémus párvuli, sub eleméntis mundi erámus serviéntes.
+Ga	4	4	At ubi venit plenitúdo témporis, misit Deus Fílium suum factum ex mulíere, factum sub lege,
+Ga	4	5	ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus.
+Ga	4	6	Quóniam autem estis fílii, misit Deus Spíritum Fílii sui in corda vestra, clamántem : Abba, Pater.
+Ga	4	7	Itaque iam non est servus, sed fílius : quod si fílius, et hæres per Deum.
+Ga	4	8	Sed tunc quidem ignorántes Deum, iis, qui natúra non sunt dii, serviebátis.
+Ga	4	9	Nunc autem cum cognovéritis Deum, immo cógniti sitis a Deo : quómodo convertímini íterum ad infírma et egéna eleménta, quibus dénuo servíre vultis ?
+Ga	4	10	Dies observátis, et menses, et témpora, et annos.
+Ga	4	11	Tímeo vos, ne forte sine causa laboráverim in vobis.
+Ga	4	12	Estóte sicut ego, quia et ego sicut vos : fratres, óbsecro vos. Nihil me læsístis.
+Ga	4	13	Scitis autem quia per infirmitátem carnis evangelizávi vobis iamprídem : et tentatiónem vestram in carne mea
+Ga	4	14	non sprevístis, neque respuístis : sed sicut ángelum Dei excepístis me, sicut Christum Iesum.
+Ga	4	15	Ubi est ergo beatitúdo vestra ? testimónium enim perhíbeo vobis, quia, si fíeri posset, óculos vestros eruissétis, et dedissétis mihi.
+Ga	4	16	Ergo inimícus vobis factus sum, verum dicens vobis ?
+Ga	4	17	Æmulántur vos non bene : sed exclúdere vos volunt, ut illos æmulémini.
+Ga	4	18	Bonum autem æmulámini in bono semper : et non tantum cum præsens sum apud vos.
+Ga	4	19	Filíoli mei, quos íterum partúrio, donec formétur Christus in vobis :
+Ga	4	20	vellem autem esse apud vos modo, et mutáre vocem meam : quóniam confúndor in vobis.
+Ga	4	21	Dícite mihi qui sub lege vultis esse : legem non legístis ?
+Ga	4	22	Scriptum est enim : Quóniam Abraham duos fílios hábuit : unum de ancílla, et unum de líbera.
+Ga	4	23	Sed qui de ancílla, secúndum carnem natus est : qui autem de líbera, per repromissiónem :
+Ga	4	24	quæ sunt per allegóriam dicta. Hæc enim sunt duo testaménta. Unum quidem in monte Sina, in servitútem génerans, quæ est Agar :
+Ga	4	25	Sina enim mons est in Arábia, qui coniúnctus est ei quæ nunc est Ierúsalem, et servit cum fíliis suis.
+Ga	4	26	Illa autem, quæ sursum est Ierúsalem, líbera est, quæ est mater nostra.
+Ga	4	27	Scriptum est enim : Lætáre, stérilis, quæ non paris ; erúmpe et clama, quæ non párturis : quia multi fílii desértæ, magis quam eius quæ habet virum.
+Ga	4	28	Nos autem, fratres, secúndum Isaac promissiónis fílii sumus.
+Ga	4	29	Sed quómodo tunc is, qui secúndum carnem natus fúerat, persequebátur eum qui secúndum spíritum : ita et nunc.
+Ga	4	30	Sed quid dicit Scriptúra ? Eiice ancíllam, et fílium eius : non enim hæres erit fílius ancíllæ cum fílio líberæ.
+Ga	4	31	Itaque, fratres, non sumus ancíllæ fílii, sed líberæ : qua libertáte Christus nos liberávit.
+Ga	5	1	State, et nólite íterum iugo servitútis continéri.
+Ga	5	2	Ecce ego Paulus dico vobis : quóniam si circumcidámini, Christus vobis nihil próderit.
+Ga	5	3	Testíficor autem rursus omni hómini circumcidénti se, quóniam débitor est univérsæ legis faciéndæ.
+Ga	5	4	Evacuáti estis a Christo, qui in lege iustificámini : a grátia excidístis.
+Ga	5	5	Nos enim spíritu ex fide, spem iustítiæ exspectámus.
+Ga	5	6	Nam in Christo Iesu neque circumcísio áliquid valet, neque præpútium : sed fides, quæ per caritátem operátur.
+Ga	5	7	Currebátis bene : quis vos impedívit veritáti non obedíre ?
+Ga	5	8	persuásio hæc non est ex eo, qui vocat vos.
+Ga	5	9	Módicum ferméntum totam massam corrúmpit.
+Ga	5	10	Ego confído in vobis in Dómino, quod nihil aliud sapiétis : qui autem contúrbat vos, portábit iudícium, quicúmque est ille.
+Ga	5	11	Ego autem, fratres, si circumcisiónem adhuc prǽdico : quid adhuc persecutiónem pátior ? ergo evacuátum est scándalum crucis.
+Ga	5	12	Utinam et abscindántur qui vos contúrbant.
+Ga	5	13	Vos enim in libertátem vocáti estis, fratres : tantum ne libertátem in occasiónem detis carnis, sed per caritátem Spíritus servíte ínvicem.
+Ga	5	14	Omnis enim lex in uno sermóne implétur : Díliges próximum tuum sicut teípsum.
+Ga	5	15	Quod si ínvicem mordétis, et coméditis : vidéte ne ab ínvicem consumámini.
+Ga	5	16	Dico autem : Spíritu ambuláte, et desidéria carnis non perficiétis.
+Ga	5	17	Caro enim concupíscit advérsus spíritum, spíritus autem advérsus carnem : hæc enim sibi ínvicem adversántur, ut non quæcúmque vultis, illa faciátis.
+Ga	5	18	Quod si Spíritu ducímini, non estis sub lege.
+Ga	5	19	Manifésta sunt autem ópera carnis, quæ sunt fornicátio, immundítia, impudicítia, luxúria,
+Ga	5	20	idolórum sérvitus, venefícia, inimicítiæ, contentiónes, æmulatiónes, iræ, rixæ, dissensiónes, sectæ,
+Ga	5	21	invídiæ, homicídia, ebrietátes, comessatiónes, et his simília, quæ prædíco vobis, sicut prædíxi : quóniam qui tália agunt, regnum Dei non consequéntur.
+Ga	5	22	Fructus autem Spíritus est cáritas, gáudium, pax, patiéntia, benígnitas, bónitas, longanímitas,
+Ga	5	23	mansuetúdo, fides, modéstia, continéntia, cástitas. Advérsus huiúsmodi non est lex.
+Ga	5	24	Qui autem sunt Christi, carnem suam crucifixérunt cum vítiis et concupiscéntiis.
+Ga	5	25	Si Spíritu vívimus, Spíritu et ambulémus.
+Ga	5	26	Non efficiámur inánis glóriæ cúpidi, ínvicem provocántes, ínvicem invidéntes.
+Ga	6	1	Fratres, etsi præoccupátus fúerit homo in áliquo delícto, vos, qui spirituáles estis, huiúsmodi instrúite in spíritu lenitátis, consíderans teípsum, ne et tu tentéris.
+Ga	6	2	Alter altérius ónera portáte, et sic adimplébitis legem Christi.
+Ga	6	3	Nam si quis exístimat se áliquid esse, cum nihil sit, ipse se sedúcit.
+Ga	6	4	Opus autem suum probet unusquísque, et sic in semetípso tantum glóriam habébit, et non in áltero.
+Ga	6	5	Unusquísque enim onus suum portábit.
+Ga	6	6	Commúnicet autem is qui catechizátur verbo, ei qui se catechízat, in ómnibus bonis.
+Ga	6	7	Nólite erráre : Deus non irridétur.
+Ga	6	8	Quæ enim semináverit homo, hæc et metet. Quóniam qui séminat in carne sua, de carne et metet corruptiónem : qui autem séminat in spíritu, de spíritu metet vitam ætérnam.
+Ga	6	9	Bonum autem faciéntes, non deficiámus : témpore enim suo metémus non deficiéntes.
+Ga	6	10	Ergo dum tempus habémus, operémur bonum ad omnes, máxime autem ad domésticos fídei.
+Ga	6	11	Vidéte quálibus lítteris scripsi vobis mea manu.
+Ga	6	12	Quicúmque enim volunt placére in carne, hi cogunt vos circumcídi, tantum ut crucis Christi persecutiónem non patiántur.
+Ga	6	13	Neque enim qui circumcidúntur, legem custódiunt : sed volunt vos circumcídi, ut in carne vestra gloriéntur.
+Ga	6	14	Mihi autem absit gloriári, nisi in cruce Dómini nostri Iesu Christi : per quem mihi mundus crucifíxus est, et ego mundo.
+Ga	6	15	In Christo enim Iesu neque circumcísio áliquid valet, neque præpútium, sed nova creatúra.
+Ga	6	16	Et quicúmque hanc régulam secúti fúerint, pax super illos, et misericórdia, et super Israel Dei.
+Ga	6	17	De cétero, nemo mihi moléstus sit : ego enim stígmata Dómini Iesu in córpore meo porto.
+Ga	6	18	Grátia Dómini nostri Iesu Christi cum spíritu vestro, fratres. Amen.
