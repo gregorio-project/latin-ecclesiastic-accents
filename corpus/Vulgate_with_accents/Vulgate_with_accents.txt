@@ -104,7 +104,7 @@ Mt	5	13	Vos estis sal terræ. Quod si sal evanúerit, in quo saliétur ? ad níh
 Mt	5	14	Vos estis lux mundi. Non potest cívitas abscóndi supra montem pósita,
 Mt	5	15	neque accédunt lucérnam, et ponunt eam sub módio, sed super candelábrum, ut lúceat ómnibus qui in domo sunt.
 Mt	5	16	Sic lúceat lux vestra coram homínibus : ut vídeant ópera vestra bona, et gloríficent Patrem vestrum, qui in cælis est.
-Mt	5	17	Nólite putáre quóniam veni sólvere legem aut prophétas : non veni sólvere sed adimplére.
+Mt	5	17	Nolíte putáre quóniam veni sólvere legem aut prophétas : non veni sólvere sed adimplére.
 Mt	5	18	Amen quippe dico vobis, donec tránseat cælum et terra, ióta unum aut unus apex non præteríbit a lege, donec ómnia fiant.
 Mt	5	19	Qui ergo sólverit unum de mandátis istis mínimis, et docúerit sic hómines, mínimus vocábitur in regno cælórum : qui autem fécerit et docúerit, hic magnus vocábitur in regno cælórum.
 Mt	5	20	Dico enim vobis, quia nisi abundáverit iustítia vestra plus quam scribárum et Pharisæórum, non intrábitis in regnum cælórum.
@@ -142,8 +142,8 @@ Mt	6	3	Te autem faciénte eleemósynam, nésciat sinístra tua quid fáciat déx
 Mt	6	4	ut sit eleemósyna tua in abscóndito, et Pater tuus, qui videt in abscóndito, reddet tibi.
 Mt	6	5	Et cum orátis, non éritis sicut hypócritæ qui amant in synagógis et in ángulis plateárum stantes oráre, ut videántur ab homínibus : amen dico vobis, recepérunt mercédem suam.
 Mt	6	6	Tu autem cum oráveris, intra in cubículum tuum, et clauso óstio, ora Patrem tuum in abscóndito : et Pater tuus, qui videt in abscóndito, reddet tibi.
-Mt	6	7	Orántes autem, nólite multum loqui, sicut éthnici, putant enim quod in multilóquio suo exaudiántur.
-Mt	6	8	Nólite ergo assimilári eis : scit enim Pater vester, quid opus sit vobis, ántequam petátis eum.
+Mt	6	7	Orántes autem, nolíte multum loqui, sicut éthnici, putant enim quod in multilóquio suo exaudiántur.
+Mt	6	8	Nolíte ergo assimilári eis : scit enim Pater vester, quid opus sit vobis, ántequam petátis eum.
 Mt	6	9	Sic ergo vos orábitis : Pater noster, qui es in cælis, sanctificétur nomen tuum.
 Mt	6	10	Advéniat regnum tuum ; fiat volúntas tua, sicut in cælo et in terra.
 Mt	6	11	Panem nostrum supersubstantiálem da nobis hódie,
@@ -151,10 +151,10 @@ Mt	6	12	et dimítte nobis débita nostra,sicut et nos dimíttimus debitóribus n
 Mt	6	13	Et ne nos indúcas in tentatiónem, sed líbera nos a malo. Amen.
 Mt	6	14	Si enim dimiséritis homínibus peccáta eórum : dimíttet et vobis Pater vester cæléstis delícta vestra.
 Mt	6	15	Si autem non dimiséritis homínibus : nec Pater vester dimíttet vobis peccáta vestra.
-Mt	6	16	Cum autem ieiunátis, nólite fíeri sicut hypócritæ, tristes. Extérminant enim fácies suas, ut appáreant homínibus ieiunántes. Amen dico vobis, quia recepérunt mercédem suam.
+Mt	6	16	Cum autem ieiunátis, nolíte fíeri sicut hypócritæ, tristes. Extérminant enim fácies suas, ut appáreant homínibus ieiunántes. Amen dico vobis, quia recepérunt mercédem suam.
 Mt	6	17	Tu autem, cum ieiúnas, unge caput tuum, et fáciem tuam lava,
 Mt	6	18	ne videáris homínibus ieiúnans, sed Patri tuo, qui est in abscóndito : et Pater tuus, qui videt in abscóndito, reddet tibi.
-Mt	6	19	Nólite thesaurizáre vobis thesáuros in terra : ubi ærúgo, et tínea demolítur : et ubi fures effódiunt, et furántur.
+Mt	6	19	Nolíte thesaurizáre vobis thesáuros in terra : ubi ærúgo, et tínea demolítur : et ubi fures effódiunt, et furántur.
 Mt	6	20	Thesaurizáte autem vobis thesáuros in cælo, ubi neque ærúgo, neque tínea demolítur, et ubi fures non effódiunt, nec furántur.
 Mt	6	21	Ubi enim est thesáurus tuus, ibi est et cor tuum.
 Mt	6	22	Lucérna córporis tui est óculus tuus. Si óculus tuus fúerit simplex, totum corpus tuum lúcidum erit.
@@ -166,16 +166,16 @@ Mt	6	27	Quis autem vestrum cógitans potest adiícere ad statúram suam cúbitum
 Mt	6	28	Et de vestiménto quid sollíciti estis ? Consideráte lília agri quómodo crescunt : non labórant, neque nent.
 Mt	6	29	Dico autem vobis, quóniam nec Sálomon in omni glória sua coopértus est sicut unum ex istis.
 Mt	6	30	Si autem fœnum agri, quod hódie est, et cras in clíbanum míttitur, Deus sic vestit, quanto magis vos módicæ fídei ?
-Mt	6	31	Nólite ergo sollíciti esse, dicéntes : Quid manducábimus, aut quid bibémus, aut quo operiémur ?
+Mt	6	31	Nolíte ergo sollíciti esse, dicéntes : Quid manducábimus, aut quid bibémus, aut quo operiémur ?
 Mt	6	32	hæc enim ómnia gentes inquírunt. Scit enim Pater vester, quia his ómnibus indigétis.
 Mt	6	33	Quǽrite ergo primum regnum Dei, et iustítiam eius : et hæc ómnia adiiciéntur vobis.
-Mt	6	34	Nólite ergo sollíciti esse in crástinum. Crástinus enim dies sollícitus erit sibi ipsi : súfficit díei malítia sua.
-Mt	7	1	Nólite iudicáre, ut non iudicémini.
+Mt	6	34	Nolíte ergo sollíciti esse in crástinum. Crástinus enim dies sollícitus erit sibi ipsi : súfficit díei malítia sua.
+Mt	7	1	Nolíte iudicáre, ut non iudicémini.
 Mt	7	2	In quo enim iudício iudicavéritis, iudicabímini : et in qua mensúra mensi fuéritis, remetiétur vobis.
 Mt	7	3	Quid autem vides festúcam in óculo fratris tui, et trabem in óculo tuo non vides ?
 Mt	7	4	aut quómodo dicis fratris tuo : Sine eiíciam festúcam de óculo tuo, et ecce trabs est in óculo tuo ?
 Mt	7	5	Hypócrita, éiice primum trabem de óculo tuo, et tunc vidébis eiícere festúcam de óculo fratris tui.
-Mt	7	6	Nólite dare sanctum cánibus : neque mittátis margarítas vestras ante porcos, ne forte concúlcent eas pédibus suis, et convérsi dirúmpant vos.
+Mt	7	6	Nolíte dare sanctum cánibus : neque mittátis margarítas vestras ante porcos, ne forte concúlcent eas pédibus suis, et convérsi dirúmpant vos.
 Mt	7	7	Pétite, et dábitur vobis : quǽrite, et inveniétis : pulsáte, et aperiétur vobis.
 Mt	7	8	Omnis enim qui petit, áccipit : et qui quærit, ínvenit : et pulsánti aperiétur.
 Mt	7	9	Aut quis est ex vobis homo, quem si petíerit fílius suus panem, numquid lápidem porríget ei ?
@@ -279,7 +279,7 @@ Mt	10	5	Hos duódecim misit Iesus, præcípiens eis, dicens : In viam gentiúmne
 Mt	10	6	sed pótius ite ad oves quæ periérunt domus Israel.
 Mt	10	7	Eúntes autem prædicáte, dicéntes : Quia appropinquávit regnum cælórum.
 Mt	10	8	Infírmos curáte, mórtuos suscitáte, leprósos mundáte, dǽmones eiícite : gratis accepístis, gratis date.
-Mt	10	9	Nólite possidére aurum, neque argéntum, neque pecúniam in zonis vestris :
+Mt	10	9	Nolíte possidére aurum, neque argéntum, neque pecúniam in zonis vestris :
 Mt	10	10	non peram in via, neque duas túnicas, neque calceaménta, neque virgam : dignus enim est operárius cibo suo.
 Mt	10	11	In quamcúmque autem civitátem aut castéllum intravéritis, interrogáte, quis in ea dignus sit : et ibi manéte donec exeátis.
 Mt	10	12	Intrántes autem in domum, salutáte eam, dicéntes : Pax huic dómui.
@@ -289,7 +289,7 @@ Mt	10	15	Amen dico vobis : Tolerabílius erit terræ Sodomórum et Gomorrhæóru
 Mt	10	16	Ecce ego mitto vos sicut oves in médio lupórum. Estóte ergo prudéntes sicut serpéntes, et símplices sicut colúmbæ.
 Mt	10	17	Cavéte autem ab homínibus. Tradent enim vos in concíliis, et in synagógis suis flagellábunt vos :
 Mt	10	18	et ad prǽsides, et ad reges ducémini propter me in testimónium illis, et géntibus.
-Mt	10	19	Cum autem tradent vos, nólite cogitáre quómodo, aut quid loquámini : dábitur enim vobis in illa hora, quid loquámini :
+Mt	10	19	Cum autem tradent vos, nolíte cogitáre quómodo, aut quid loquámini : dábitur enim vobis in illa hora, quid loquámini :
 Mt	10	20	non enim vos estis qui loquímini, sed Spíritus Patris vestri, qui lóquitur in vobis.
 Mt	10	21	Tradet autem frater fratrem in mortem, et pater fílium : et insúrgent fílii in paréntes, et morte eos affícient :
 Mt	10	22	et éritis ódio ómnibus propter nomen meum : qui autem perseveráverit usque in finem, hic salvus erit.
@@ -298,13 +298,13 @@ Mt	10	24	Non est discípulus super magístrum, nec servus super dóminum suum :
 Mt	10	25	súfficit discípulo ut sit sicut magíster eius, et servo, sicut dóminus eius. Si patremfamílias Beélzebub vocavérunt, quanto magis domésticos eius ?
 Mt	10	26	Ne ergo timuéritis eos. Nihil enim est opértum, quod non revelábitur : et occúltum, quod non sciétur.
 Mt	10	27	Quod dico vobis in ténebris, dícite in lúmine : et quod in aure audítis, prædicáte super tecta.
-Mt	10	28	Et nólite timére eos qui occídunt corpus, ánimam autem non possunt occídere : sed pótius timéte eum, qui potest et ánimam et corpus pérdere in gehénnam.
+Mt	10	28	Et nolíte timére eos qui occídunt corpus, ánimam autem non possunt occídere : sed pótius timéte eum, qui potest et ánimam et corpus pérdere in gehénnam.
 Mt	10	29	Nonne duo pásseres asse véneunt ? et unus ex illis non cadet super terram sine Patre vestro.
 Mt	10	30	Vestri autem capílli cápitis omnes numeráti sunt.
-Mt	10	31	Nólite ergo timére : multis passéribus melióres estis vos.
+Mt	10	31	Nolíte ergo timére : multis passéribus melióres estis vos.
 Mt	10	32	Omnis ergo qui confitébitur me coram homínibus, confitébor et ego eum coram Patre meo, qui in cælis est.
 Mt	10	33	Qui autem negáverit me coram homínibus, negábo et ego eum coram Patre meo, qui in cælis est.
-Mt	10	34	Nólite arbitrári quia pacem vénerim míttere in terram : non veni pacem míttere sed gládium :
+Mt	10	34	Nolíte arbitrári quia pacem vénerim míttere in terram : non veni pacem míttere sed gládium :
 Mt	10	35	veni enim separáre hóminem advérsus patrem suum, et fíliam advérsus matrem suam, et nurum advérsus socrum suam :
 Mt	10	36	et inimíci hóminis, doméstici eius.
 Mt	10	37	Qui amat patrem aut matrem plus quam me, non est me dignus : et qui amat fílium aut fíliam super me, non est me dignus.
@@ -477,7 +477,7 @@ Mt	14	23	Et dimíssa turba, ascéndit in montem solus oráre. Véspere autem fac
 Mt	14	24	navícula autem in médio mari iactabátur flúctibus : erat enim contrárius ventus.
 Mt	14	25	Quarta enim vigília noctis, venit ad eos ámbulans super mare.
 Mt	14	26	Et vidéntes eum super mare ambulántem, turbáti sunt, dicéntes : Quia phantásma est. Et præ timóre clamavérunt.
-Mt	14	27	Statímque Iesus locútus est eis, dicens : Habéte fidúciam : ego sum, nólite timére.
+Mt	14	27	Statímque Iesus locútus est eis, dicens : Habéte fidúciam : ego sum, nolíte timére.
 Mt	14	28	Respóndens autem Petrus, dixit : Dómine, si tu es, iube me ad te veníre super aquas.
 Mt	14	29	At ipse ait : Veni. Et descéndens Petrus de navícula, ambulábat super aquam ut veníret ad Iesum.
 Mt	14	30	Videns vero ventum válidum, tímuit : et cum cœpísset mergi, clamávit dicens : Dómine, salvum me fac.
@@ -560,7 +560,7 @@ Mt	17	3	Et ecce apparuérunt illis Móyses et Elías cum eo loquéntes.
 Mt	17	4	Respóndens autem Petrus, dixit ad Iesum : Dómine, bonum est nos hic esse : si vis, faciámus tria tabernácula, tibi unum, Móysi unum, et Elíæ unum.
 Mt	17	5	Adhuc eo loquénte, ecce nubes lúcida obumbrávit eos. Et ecce vox de nube, dicens : Hic est Fílius meus diléctus, in quo mihi bene complácui : ipsum audíte.
 Mt	17	6	Et audiéntes discípuli cecidérunt in fáciem suam, et timuérunt valde.
-Mt	17	7	Et accéssit Iesus, et tétigit eos : dixítque eis : Súrgite, et nólite timére.
+Mt	17	7	Et accéssit Iesus, et tétigit eos : dixítque eis : Súrgite, et nolíte timére.
 Mt	17	8	Levántes autem óculos suos, néminem vidérunt, nisi solum Iesum.
 Mt	17	9	Et descendéntibus illis de monte, præcépit eis Iesus, dicens : Némini dixéritis visiónem, donec Fílius hóminis a mórtuis resúrgat.
 Mt	17	10	Et interrogavérunt eum discípuli, dicéntes : Quid ergo scribæ dicunt, quod Elíam opórteat primum veníre ?
@@ -628,7 +628,7 @@ Mt	19	10	Dicunt ei discípuli eius : Si ita est causa hóminis cum uxóre, non �
 Mt	19	11	Qui dixit illis : Non omnes cápiunt verbum istud, sed quibus datum est.
 Mt	19	12	Sunt enim eunúchi, qui de matris útero sic nati sunt : et sunt eunúchi, qui facti sunt ab homínibus : et sunt eunúchi, qui seíipsos castravérunt propter regnum cælórum. Qui potest cápere cápiat.
 Mt	19	13	Tunc obláti sunt ei párvuli, ut manus eis impóneret, et oráret. Discípuli autem increpábant eos.
-Mt	19	14	Iesus vero ait eis : Sínite párvulos, et nólite eos prohibére ad me veníre : tálium est enim regnum cælórum.
+Mt	19	14	Iesus vero ait eis : Sínite párvulos, et nolíte eos prohibére ad me veníre : tálium est enim regnum cælórum.
 Mt	19	15	Et cum imposuísset eis manus, ábiit inde.
 Mt	19	16	Et ecce unus accédens, ait illi : Magíster bone, quid boni fáciam ut hábeam vitam ætérnam ?
 Mt	19	17	Qui dixit ei : Quid me intérrogas de bono ? Unus est bonus, Deus. Si autem vis ad vitam íngredi, serva mandáta.
@@ -773,13 +773,13 @@ Mt	22	45	Si ergo David vocat eum Dóminum, quómodo fílius eius est ?
 Mt	22	46	Et nemo póterat ei respondére verbum : neque ausus fuit quisquam ex illa die eum ámplius interrogáre.
 Mt	23	1	Tunc Iesus locútus est ad turbas, et ad discípulos suos,
 Mt	23	2	dicens : Super cáthedram Móysi sedérunt scribæ et Pharisǽi.
-Mt	23	3	Omnia ergo quæcúmque díxerint vobis, serváte, et fácite : secúndum ópera vero eórum nólite fácere : dicunt enim, et non fáciunt.
+Mt	23	3	Omnia ergo quæcúmque díxerint vobis, serváte, et fácite : secúndum ópera vero eórum nolíte fácere : dicunt enim, et non fáciunt.
 Mt	23	4	Alligant enim ónera grávia, et importabília, et impónunt in húmeros hóminum : dígito autem suo nolunt ea movére.
 Mt	23	5	Omnia vero ópera sua fáciunt ut videántur ab homínibus : dilátant enim phylactéria sua, et magníficant fímbrias.
 Mt	23	6	Amant autem primos recúbitus in cœnis, et primas cáthedras in synagógis,
 Mt	23	7	et salutatiónes in foro, et vocári ab homínibus Rabbi.
-Mt	23	8	Vos autem nólite vocári Rabbi : unus est enim magíster vester, omnes autem vos fratres estis.
-Mt	23	9	Et patrem nólite vocáre vobis super terram : unus est enim pater vester qui in cælis est.
+Mt	23	8	Vos autem nolíte vocári Rabbi : unus est enim magíster vester, omnes autem vos fratres estis.
+Mt	23	9	Et patrem nolíte vocáre vobis super terram : unus est enim pater vester qui in cælis est.
 Mt	23	10	Nec vocémini magístri : quia magíster vester unus est, Christus.
 Mt	23	11	Qui maior est vestrum, erit miníster vester.
 Mt	23	12	Qui autem se exaltáverit, humiliábitur : et qui se humiliáverit, exaltábitur.
@@ -832,10 +832,10 @@ Mt	24	19	Væ autem prægnántibus et nutriéntibus in illis diébus !
 Mt	24	20	Oráte autem ut non fiat fuga vestra in híeme, vel sábbato :
 Mt	24	21	erit enim tunc tribulátio magna, qualis non fuit ab inítio mundi usque modo, neque fiet.
 Mt	24	22	Et nisi breviáti fuíssent dies illi, non fíeret salva omnis caro : sed propter eléctos breviabúntur dies illi.
-Mt	24	23	Tunc si quis vobis díxerit : Ecce hic est Christus, aut illic : nólite crédere.
+Mt	24	23	Tunc si quis vobis díxerit : Ecce hic est Christus, aut illic : nolíte crédere.
 Mt	24	24	Surgent enim Pseudochrísti, et pseudoprophétæ : et dabunt signa magna, et prodígia, ita ut in errórem inducántur (si fíeri potest) étiam elécti.
 Mt	24	25	Ecce prædíxi vobis.
-Mt	24	26	Si ergo díxerint vobis : Ecce in desérto est, nólite exíre ; Ecce in penetrálibus, nólite crédere.
+Mt	24	26	Si ergo díxerint vobis : Ecce in desérto est, nolíte exíre ; Ecce in penetrálibus, nolíte crédere.
 Mt	24	27	Sicut enim fulgur exit ab oriénte, et paret usque in occidéntem : ita erit et advéntus Fílii hóminis.
 Mt	24	28	Ubicúmque fúerit corpus, illic congregabúntur et áquilæ.
 Mt	24	29	Statim autem post tribulatiónem diérum illórum sol obscurábitur, et luna non dabit lumen suum, et stellæ cadent de cælo, et virtútes cælórum commovebúntur :
@@ -1052,12 +1052,12 @@ Mt	28	1	Véspere autem sábbati, quæ lucéscit in prima sábbati, venit María 
 Mt	28	2	Et ecce terrǽmotus factus est magnus. Angelus enim Dómini descéndit de cælo : et accédens revólvit lápidem, et sedébat super eum :
 Mt	28	3	erat autem aspéctus eius sicut fulgur : et vestiméntum eius sicut nix.
 Mt	28	4	Præ timóre autem eius extérriti sunt custódes, et facti sunt velut mórtui.
-Mt	28	5	Respóndens autem ángelus dixit muliéribus : Nólite timére vos : scio enim, quod Iesum, qui crucifíxus est, quǽritis.
+Mt	28	5	Respóndens autem ángelus dixit muliéribus : Nolíte timére vos : scio enim, quod Iesum, qui crucifíxus est, quǽritis.
 Mt	28	6	Non est hic : surréxit enim, sicut dixit : veníte, et vidéte locum ubi pósitus erat Dóminus.
 Mt	28	7	Et cito eúntes, dícite discípulis eius quia surréxit : et ecce præcédit vos in Galilǽam : ibi eum vidébitis : ecce prædíxi vobis.
 Mt	28	8	Et exiérunt cito de monuménto cum timóre et gáudio magno, curréntes nuntiáre discípulis eius.
 Mt	28	9	Et ecce Iesus occúrrit illis, dicens : Avéte. Illæ autem accessérunt, et tenuérunt pedes eius, et adoravérunt eum.
-Mt	28	10	Tunc ait illis Iesus : Nólite timére : ite, nuntiáre frátribus meis ut eant in Galilǽam ; ibi me vidébunt.
+Mt	28	10	Tunc ait illis Iesus : Nolíte timére : ite, nuntiáre frátribus meis ut eant in Galilǽam ; ibi me vidébunt.
 Mt	28	11	Quæ cum abiíssent, ecce quidam de custódibus venérunt in civitátem, et nuntiavérunt princípibus sacerdótum ómnia quæ facta fúerant.
 Mt	28	12	Et congregáti cum senióribus consílio accépto, pecúniam copiósam dedérunt milítibus,
 Mt	28	13	dicéntes : Dícite quia discípuli eius nocte venérunt, et furáti sunt eum, nobis dormiéntibus.
@@ -1308,7 +1308,7 @@ Mc	6	46	Et cum dimisísset eos, ábiit in montem oráre.
 Mc	6	47	Et cum sero esset, erat navis in médio mari et ipse solus in terra.
 Mc	6	48	Et videns eos laborántes in remigándo (erat enim ventus contrárius eis) et circa quartam vigíliam noctis venit ad eos ámbulans supra mare : et volébat præteríre eos.
 Mc	6	49	At illi ut vidérunt eum ambulántem supra mare, putavérunt phantásma esse, et exclamavérunt.
-Mc	6	50	Omnes enim vidérunt eum, et conturbáti sunt. Et statim locútus est cum eis, et dixit eis : Confídite, ego sum : nólite timére.
+Mc	6	50	Omnes enim vidérunt eum, et conturbáti sunt. Et statim locútus est cum eis, et dixit eis : Confídite, ego sum : nolíte timére.
 Mc	6	51	Et ascéndit ad illos in navim, et cessávit ventus. Et plus magis intra se stupébant :
 Mc	6	52	non enim intellexérunt de pánibus : erat enim cor eórum obcæcátum.
 Mc	6	53	Et cum transfretássent, venérunt in terram Genésareth, et applicuérunt.
@@ -1428,7 +1428,7 @@ Mc	9	34	Et résidens vocávit duódecim, et ait illis : Si quis vult primus esse
 Mc	9	35	Et accípiens púerum, státuit eum in médio eórum : quem cum compléxus esset, ait illis :
 Mc	9	36	Quisquis unum ex huiúsmodi púeris recéperit in nómine meo, me récipit : et quicúmque me suscéperit, non me súscipit, sed eum qui misit me.
 Mc	9	37	Respóndit illi Ioánnes, dicens : Magíster, vídimus quemdam in nómine tuo eiiciéntem dæmónia, qui non séquitur nos, et prohibúimus eum.
-Mc	9	38	Iesus autem ait : Nólite prohibére eum : nemo est enim qui fáciat virtútem in nómine meo, et possit cito male loqui de me :
+Mc	9	38	Iesus autem ait : Nolíte prohibére eum : nemo est enim qui fáciat virtútem in nómine meo, et possit cito male loqui de me :
 Mc	9	39	qui enim non est advérsum vos, pro vobis est.
 Mc	9	40	Quisquis enim potum déderit vobis cálicem aquæ in nómine meo, quia Christi estis : amen dico vobis, non perdet mercédem suam.
 Mc	9	41	Et quisquis scandalizáverit unum ex his pusíllis credéntibus in me : bonum est ei magis si circumdarétur mola asinária collo eius, et in mare mitterétur.
@@ -1579,7 +1579,7 @@ Mc	13	7	Cum audiéritis autem bella, et opiniónes bellórum, ne timuéritis : o
 Mc	13	8	Exsúrget enim gens contra gentem, et regnum super regnum, et erunt terrǽmotus per loca, et fames. Inítium dolórum hæc.
 Mc	13	9	Vidéte autem vosmetípsos. Tradent enim vos in consíliis, et in synagógis vapulábitis, et ante prǽsides et reges stábitis propter me, in testimónium illis.
 Mc	13	10	Et in omnes gentes primum opórtet prædicári Evangélium.
-Mc	13	11	Et cum dúxerint vos tradéntes, nólite præcogitáre quid loquámini : sed quod datum vobis fúerit in illa hora, id loquímini : non enim vos estis loquéntes, sed Spíritus Sanctus.
+Mc	13	11	Et cum dúxerint vos tradéntes, nolíte præcogitáre quid loquámini : sed quod datum vobis fúerit in illa hora, id loquímini : non enim vos estis loquéntes, sed Spíritus Sanctus.
 Mc	13	12	Tradet autem frater fratrem in mortem, et pater fílium : et consúrgent fílii in paréntes, et morte affícient eos.
 Mc	13	13	Et éritis ódio ómnibus propter nomen meum. Qui autem sustinúerit in finem, hic salvus erit.
 Mc	13	14	Cum autem vidéritis abominatiónem desolatiónis stantem, ubi non debet, qui legit, intélligat : tunc qui in Iudǽa sunt, fúgiant in montes :
@@ -1730,7 +1730,7 @@ Mc	16	2	Et valde mane una sabbatórum, véniunt ad monuméntum, orto iam sole.
 Mc	16	3	Et dicébant ad ínvicem : Quis revólvet nobis lápidem ab óstio monuménti ?
 Mc	16	4	Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde.
 Mc	16	5	Et introeúntes in monuméntum vidérunt iúvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt.
-Mc	16	6	Qui dicit illis : Nólite expavéscere : Iesum quǽritis Nazarénum, crucifíxum : surréxit, non est hic, ecce locus ubi posuérunt eum.
+Mc	16	6	Qui dicit illis : Nolíte expavéscere : Iesum quǽritis Nazarénum, crucifíxum : surréxit, non est hic, ecce locus ubi posuérunt eum.
 Mc	16	7	Sed ite, dícite discípulis eius, et Petro, quia præcédit vos in Galilǽam : ibi eum vidébitis, sicut dixit vobis.
 Mc	16	8	At illæ exeúntes, fugérunt de monuménto : inváserat enim eas tremor et pavor : et némini quidquam dixérunt : timébant enim.
 Mc	16	9	Surgens autem mane prima sábbati, appáruit primo Maríæ Magdaléne, de qua eiécerat septem dæmónia.
@@ -1834,7 +1834,7 @@ Lc	2	6	Factum est autem, cum essent ibi, impléti sunt dies ut páreret.
 Lc	2	7	Et péperit fílium suum primogénitum, et pannis eum invólvit, et reclinávit eum in præsépio : quia non erat eis locus in diversório.
 Lc	2	8	Et pastóres erant in regióne eádem vigilántes, et custodiéntes vigílias noctis super gregem suum.
 Lc	2	9	Et ecce ángelus Dómini stetit iuxta illos, et cláritas Dei circumfúlsit illos, et timuérunt timóre magno.
-Lc	2	10	Et dixit illis ángelus : Nólite timére : ecce enim evangelízo vobis gáudium magnum, quod erit omni pópulo :
+Lc	2	10	Et dixit illis ángelus : Nolíte timére : ecce enim evangelízo vobis gáudium magnum, quod erit omni pópulo :
 Lc	2	11	quia natus est vobis hódie Salvátor, qui est Christus Dóminus, in civitáte David.
 Lc	2	12	Et hoc vobis signum : inveniétis infántem pannis involútum, et pósitum in præsépio.
 Lc	2	13	Et súbito facta est cum ángelo multitúdo milítiæ cæléstis laudántium Deum, et dicéntium :
@@ -2034,7 +2034,7 @@ Lc	6	33	Et si benefecéritis his qui vobis benefáciunt, quæ vobis est grátia 
 Lc	6	34	Et si mútuum dedéritis his a quibus sperátis recípere, quæ grátia est vobis ? nam et peccatóres peccatóribus fœnerántur, ut recípiant æquália.
 Lc	6	35	Verúmtamen dilígite inimícos vestros : benefácite, et mútuum date, nihil inde sperántes : et erit merces vestra multa, et éritis fílii Altíssimi, quia ipse benígnus est super ingrátos et malos.
 Lc	6	36	Estóte ergo misericórdes sicut et Pater vester miséricors est.
-Lc	6	37	Nólite iudicáre, et non iudicabímini : nólite condemnáre, et non condemnabímini. Dimítte, et dimittémini.
+Lc	6	37	Nolíte iudicáre, et non iudicabímini : nolíte condemnáre, et non condemnabímini. Dimítte, et dimittémini.
 Lc	6	38	Date, et dábitur vobis : mensúram bonam, et confértam, et coagitátam, et supereffluéntem dabunt in sinum vestrum. Eádem quippe mensúra, qua mensi fuéritis, remetiétur vobis.
 Lc	6	39	Dicébat autem illis et similitúdinem : Numquid potest cæcus cæcum dúcere ? nonne ambo in fóveam cadunt ?
 Lc	6	40	Non est discípulus super magístrum : perféctus autem omnis erit, si sit sicut magíster eius.
@@ -2148,7 +2148,7 @@ Lc	8	48	At ipse dixit ei : Fília, fides tua salvam te fecit : vade in pace.
 Lc	8	49	Adhuc illo loquénte, venit quidam ad príncipem synagógæ, dicens ei : Quia mórtua est fília tua, noli vexáre illum.
 Lc	8	50	Iesus autem, audíto hoc verbo, respóndit patri puéllæ : Noli timére, crede tantum, et salva erit.
 Lc	8	51	Et cum venísset domum, non permísit intráre secum quemquam, nisi Petrum, et Iacóbum, et Ioánnem, et patrem, et matrem puéllæ.
-Lc	8	52	Flebant autem omnes, et plangébant illam. At ille dixit : Nólite flere : non est mórtua puélla, sed dormit.
+Lc	8	52	Flebant autem omnes, et plangébant illam. At ille dixit : Nolíte flere : non est mórtua puélla, sed dormit.
 Lc	8	53	Et deridébant eum, sciéntes quod mórtua esset.
 Lc	8	54	Ipse autem tenens manum eius clamávit, dicens : Puélla, surge.
 Lc	8	55	Et revérsus est spíritus eius, et surréxit contínuo. Et iussit illi dari manducáre.
@@ -2202,7 +2202,7 @@ Lc	9	46	Intrávit autem cogitátio in eos quis eórum maior esset.
 Lc	9	47	At Iesus videns cogitatiónes cordis illórum, apprehéndit púerum, et státuit illum secus se,
 Lc	9	48	et ait illis : Quicúmque suscéperit púerum istum in nómine meo, me récipit : et quicúmque me recéperit, récipit eum qui me misit. Nam qui minor est inter vos omnes, hic maior est.
 Lc	9	49	Respóndens autem Ioánnes dixit : Præcéptor, vídimus quemdam in nómine tuo eiiciéntem dæmónia, et prohibúimus eum : quia non séquitur nobíscum.
-Lc	9	50	Et ait ad illum Iesus : Nólite prohibére : qui enim non est advérsum vos, pro vobis est.
+Lc	9	50	Et ait ad illum Iesus : Nolíte prohibére : qui enim non est advérsum vos, pro vobis est.
 Lc	9	51	Factum est autem dum compleréntur dies assumptiónis eius, et ipse fáciem suam firmávit ut iret in Ierúsalem.
 Lc	9	52	Et misit núntios ante conspéctum suum : et eúntes intravérunt in civitátem Samaritanórum ut parárent illi.
 Lc	9	53	Et non recepérunt eum, quia fácies eius erat eúntis in Ierúsalem.
@@ -2218,10 +2218,10 @@ Lc	9	62	Ait ad illum Iesus : Nemo mittens manum suam ad arátrum, et respíciens
 Lc	10	1	Post hæc autem designávit Dóminus et álios septuagínta duos : et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus.
 Lc	10	2	Et dicébat illis : Messis quidem multa, operárii autem pauci. Rogáte ergo dóminum messis ut mittat operários in messem suam.
 Lc	10	3	Ite : ecce ego mitto vos sicut agnos inter lupos.
-Lc	10	4	Nólite portáre sácculum, neque peram, neque calceaménta, et néminem per viam salutavéritis.
+Lc	10	4	Nolíte portáre sácculum, neque peram, neque calceaménta, et néminem per viam salutavéritis.
 Lc	10	5	In quamcúmque domum intravéritis, primum dícite : Pax huic dómui :
 Lc	10	6	et si ibi fúerit fílius pacis, requiéscet super illum pax vestra : sin autem, ad vos revertétur.
-Lc	10	7	In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt : dignus est enim operárius mercéde sua. Nólite transíre de domo in domum.
+Lc	10	7	In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt : dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum.
 Lc	10	8	Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis :
 Lc	10	9	et curáte infírmos, qui in illa sunt, et dícite illis : Appropinquávit in vos regnum Dei.
 Lc	10	10	In quamcúmque autem civitátem intravéritis, et non suscéperint vos, exeúntes in platéas eius, dícite :
@@ -2234,7 +2234,7 @@ Lc	10	16	Qui vos audit, me audit : et qui vos spernit, me spernit. Qui autem me 
 Lc	10	17	Revérsi sunt autem septuagínta duo cum gáudio, dicéntes : Dómine, étiam dæmónia subiiciúntur nobis in nómine tuo.
 Lc	10	18	Et ait illis : Vidébam Sátanam sicut fulgor de cælo cadéntem.
 Lc	10	19	Ecce dedi vobis potestátem calcándi supra serpéntes, et scorpiónes, et super omnem virtútem inimíci : et nihil vobis nocébit.
-Lc	10	20	Verúmtamen in hoc nólite gaudére quia spíritus vobis subiiciúntur : gaudéte autem, quod nómina vestra scripta sunt in cælis.
+Lc	10	20	Verúmtamen in hoc nolíte gaudére quia spíritus vobis subiiciúntur : gaudéte autem, quod nómina vestra scripta sunt in cælis.
 Lc	10	21	In ipsa hora exsultávit Spíritu Sancto, et dixit : Confíteor tibi Pater, Dómine cæli et terræ, quod abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis. Etiam Pater : quóniam sic plácuit ante te.
 Lc	10	22	Omnia mihi trádita sunt a Patre meo. Et nemo scit quis sit Fílius, nisi Pater : et quis sit Pater, nisi Fílius, et cui volúerit Fílius reveláre.
 Lc	10	23	Et convérsus ad discípulos suos, dixit : Beáti óculi qui vident quæ vos vidétis.
@@ -2317,11 +2317,11 @@ Lc	12	3	Quóniam quæ in ténebris dixístis, in lúmine dicéntur : et quod in 
 Lc	12	4	Dico autem vobis amícis meis : Ne terreámini ab his qui occídunt corpus, et post hæc non habent ámplius quid fáciant.
 Lc	12	5	Osténdam autem vobis quem timeátis : timéte eum qui, postquam occíderit, habet potestátem míttere in gehénnam : ita dico vobis, hunc timéte.
 Lc	12	6	Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo ?
-Lc	12	7	sed et capílli cápitis vestri omnes numeráti sunt. Nólite ergo timére : multis passéribus pluris estis vos.
+Lc	12	7	sed et capílli cápitis vestri omnes numeráti sunt. Nolíte ergo timére : multis passéribus pluris estis vos.
 Lc	12	8	Dico autem vobis : Omnis quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram ángelis Dei :
 Lc	12	9	qui autem negáverit me coram homínibus, negábitur coram ángelis Dei.
 Lc	12	10	Et omnis qui dicit verbum in Fílium hóminis, remittétur illi : ei autem qui in Spíritum Sanctum blasphemáverit, non remittétur.
-Lc	12	11	Cum autem indúcent vos in synagógas, et ad magistrátus, et potestátes, nólite sollíciti esse quáliter, aut quid respondeátis, aut quid dicátis.
+Lc	12	11	Cum autem indúcent vos in synagógas, et ad magistrátus, et potestátes, nolíte sollíciti esse quáliter, aut quid respondeátis, aut quid dicátis.
 Lc	12	12	Spíritus enim Sanctus docébit vos in ipsa hora quid opórteat vos dícere.
 Lc	12	13	Ait autem ei quidam de turba : Magíster, dic fratri meo ut dívidat mecum hæreditátem.
 Lc	12	14	At ille dixit illi : Homo, quis me constítuit iúdicem, aut divisórem super vos ?
@@ -2332,17 +2332,17 @@ Lc	12	18	Et dixit : Hoc fáciam : déstruam hórrea mea, et maióra fáciam : et
 Lc	12	19	et dicam ánimæ meæ : Anima, habes multa bona pósita in annos plúrimos : requiésce, cómede, bibe, epuláre.
 Lc	12	20	Dixit autem illi Deus : Stulte, hac nocte ánimam tuam répetunt a te : quæ autem parásti, cuius erunt ?
 Lc	12	21	Sic est qui sibi thesaurízat, et non est in Deum dives.
-Lc	12	22	Dixítque ad discípulos suos : Ideo dico vobis, nólite sollíciti esse ánimæ vestræ quid manducétis, neque córpori quid induámini.
+Lc	12	22	Dixítque ad discípulos suos : Ideo dico vobis, nolíte sollíciti esse ánimæ vestræ quid manducétis, neque córpori quid induámini.
 Lc	12	23	Anima plus est quam esca, et corpus plus quam vestiméntum.
 Lc	12	24	Consideráte corvos, quia non séminant, neque metunt, quibus non est cellárium, neque hórreum, et Deus pascit illos. Quanto magis vos pluris estis illis ?
 Lc	12	25	Quis autem vestrum cogitándo potest adiícere ad statúram suam cúbitum unum ?
 Lc	12	26	Si ergo neque quod mínimum est potéstis, quid de céteris sollíciti estis ?
 Lc	12	27	Consideráte lília quómodo crescunt : non labórant, neque nent : dico autem vobis, nec Sálomon in omni glória sua vestiebátur sicut unum ex istis.
 Lc	12	28	Si autem fœnum, quod hódie est in agro, et cras in clíbanum míttitur, Deus sic vestit : quanto magis vos pusíllæ fídei ?
-Lc	12	29	Et vos nólite quǽrere quid manducétis, aut quid bibátis : et nólite in sublíme tolli :
+Lc	12	29	Et vos nolíte quǽrere quid manducétis, aut quid bibátis : et nolíte in sublíme tolli :
 Lc	12	30	hæc enim ómnia gentes mundi quærunt. Pater autem vester scit quóniam his indigétis.
 Lc	12	31	Verúmtamen quǽrite primum regnum Dei, et iustítiam eius : et hæc ómnia adiiciéntur vobis.
-Lc	12	32	Nólite timére pusíllus grex, quia complácuit Patri vestro dare vobis regnum.
+Lc	12	32	Nolíte timére pusíllus grex, quia complácuit Patri vestro dare vobis regnum.
 Lc	12	33	Véndite quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteráscunt, thesáurum non deficiéntem in cælis : quo fur non apprópriat, neque tínea corrúmpit.
 Lc	12	34	Ubi enim thesáurus vester est, ibi et cor vestrum erit.
 Lc	12	35	Sint lumbi vestri præcíncti, et lucérnæ ardéntes in mánibus vestris,
@@ -2525,7 +2525,7 @@ Lc	17	19	Et ait illi : Surge, vade : quia fides tua te salvum fecit.
 Lc	17	20	Interrogátus autem a Pharisǽis : Quando venit regnum Dei ? respóndens eis, dixit : Non venit regnum Dei cum observatióne :
 Lc	17	21	neque dicent : Ecce hic, aut ecce illic. Ecce enim regnum Dei intra vos est.
 Lc	17	22	Et ait ad discípulos suos : Vénient dies quando desiderétis vidére unum diem Fílii hóminis, et non vidébitis.
-Lc	17	23	Et dicent vobis : Ecce hic, et ecce illic. Nólite ire, neque sectémini :
+Lc	17	23	Et dicent vobis : Ecce hic, et ecce illic. Nolíte ire, neque sectémini :
 Lc	17	24	nam, sicut fulgur corúscans de sub cælo in ea quæ sub cælo sunt, fulget : ita erit Fílius hóminis in die sua.
 Lc	17	25	Primum autem opórtet illum multa pati, et reprobári a generatióne hac.
 Lc	17	26	Et sicut factum est in diébus Noe, ita erit et in diébus Fílii hóminis :
@@ -2555,7 +2555,7 @@ Lc	18	12	ieiúno bis in sábbato, décimas do ómnium quæ possídeo.
 Lc	18	13	Et publicánus a longe stans, nolébat nec óculos ad cælum leváre : sed percutiébat pectus suum, dicens : Deus propítius esto mihi peccatóri.
 Lc	18	14	Dico vobis, descéndit hic iustificátus in domum suam ab illo : quia omnis qui se exáltat, humiliábitur, et qui se humíliat, exaltábitur.
 Lc	18	15	Afferébant autem ad illum et infántes, ut eos tángeret. Quod cum vidérent discípuli, increpábant illos.
-Lc	18	16	Iesus autem cónvocans illos, dixit : Sínite púeros veníre ad me, et nólite vetáre eos : tálium est enim regnum Dei.
+Lc	18	16	Iesus autem cónvocans illos, dixit : Sínite púeros veníre ad me, et nolíte vetáre eos : tálium est enim regnum Dei.
 Lc	18	17	Amen dico vobis, quicúmque non accéperit regnum Dei sicut puer, non intrábit in illud.
 Lc	18	18	Et interrogávit eum quidam princeps, dicens : Magíster bone, quid fáciens vitam ætérnam possidébo ?
 Lc	18	19	Dixit autem ei Iesus : Quid me dicis bonum ? nemo bonus nisi solus Deus.
@@ -2685,8 +2685,8 @@ Lc	21	4	Nam omnes hi ex abundánti sibi misérunt in múnera Dei : hæc autem ex
 Lc	21	5	Et quibúsdam dicéntibus de templo quod bonis lapídibus et donis ornátum esset, dixit :
 Lc	21	6	Hæc quæ vidétis, vénient dies in quibus non relinquétur lapis super lápidem, qui non destruátur.
 Lc	21	7	Interrogavérunt autem illum, dicéntes : Præcéptor, quando hæc erunt, et quod signum cum fíeri incípient ?
-Lc	21	8	Qui dixit : Vidéte ne seducámini : multi enim vénient in nómine meo, dicéntes quia ego sum : et tempus appropinquávit : nólite ergo ire post eos.
-Lc	21	9	Cum autem audiéritis prǽlia et seditiónes, nólite terréri : opórtet primum hæc fíeri, sed nondum statim finis.
+Lc	21	8	Qui dixit : Vidéte ne seducámini : multi enim vénient in nómine meo, dicéntes quia ego sum : et tempus appropinquávit : nolíte ergo ire post eos.
+Lc	21	9	Cum autem audiéritis prǽlia et seditiónes, nolíte terréri : opórtet primum hæc fíeri, sed nondum statim finis.
 Lc	21	10	Tunc dicébat illis : Surget gens contra gentem, et regnum advérsus regnum.
 Lc	21	11	Et terrǽmotus magni erunt per loca, et pestiléntiæ, et fames, terrorésque de cælo, et signa magna erunt.
 Lc	21	12	Sed ante hæc ómnia iniícient vobis manus suas, et persequéntur tradéntes in synagógas et custódias, trahéntes ad reges et prǽsides propter nomen meum :
@@ -2814,7 +2814,7 @@ Lc	23	24	Et Pilátus adiudicávit fíeri petitiónem eórum.
 Lc	23	25	Dimísit autem illis eum qui propter homicídium et seditiónem missus fúerat in cárcerem, quem petébant : Iesum vero trádidit voluntáti eórum.
 Lc	23	26	Et cum dúcerent eum, apprehendérunt Simónem quemdam Cyrenénsem veniéntem de villa : et imposuérunt illi crucem portáre post Iesum.
 Lc	23	27	Sequebátur autem illum multa turba pópuli et mulíerum, quæ plangébant et lamentabántur eum.
-Lc	23	28	Convérsus autem ad illas Iesus, dixit : Fíliæ Ierúsalem, nólite flere super me, sed super vos ipsas flete et super fílios vestros.
+Lc	23	28	Convérsus autem ad illas Iesus, dixit : Fíliæ Ierúsalem, nolíte flere super me, sed super vos ipsas flete et super fílios vestros.
 Lc	23	29	Quóniam ecce vénient dies in quibus dicent : Beátæ stériles, et ventres qui non genuérunt, et úbera quæ non lactavérunt.
 Lc	23	30	Tunc incípient dícere móntibus : Cádite super nos ; et cóllibus : Operíte nos.
 Lc	23	31	Quia si in víridi ligno hæc fáciunt, in árido quid fiet ?
@@ -2878,7 +2878,7 @@ Lc	24	32	Et dixérunt ad ínvicem : Nonne cor nostrum ardens erat in nobis dum l
 Lc	24	33	Et surgéntes eádem hora regréssi sunt in Ierúsalem : et invenérunt congregátos úndecim, et eos qui cum illis erant,
 Lc	24	34	dicéntes : Quod surréxit Dóminus vere, et appáruit Simóni.
 Lc	24	35	Et ipsi narrábant quæ gesta erant in via, et quómodo cognovérunt eum in fractióne panis.
-Lc	24	36	Dum autem hæc loquúntur, stetit Iesus in médio eórum, et dicit eis : Pax vobis : ego sum, nólite timére.
+Lc	24	36	Dum autem hæc loquúntur, stetit Iesus in médio eórum, et dicit eis : Pax vobis : ego sum, nolíte timére.
 Lc	24	37	Conturbáti vero et contérriti, existimábant se spíritum vidére.
 Lc	24	38	Et dixit eis : Quid turbáti estis, et cogitatiónes ascéndunt in corda vestra ?
 Lc	24	39	vidéte manus meas, et pedes, quia ego ipse sum ; palpáte et vidéte, quia spíritus carnem et ossa non habet, sicut me vidétis habére.
@@ -2962,7 +2962,7 @@ Jn	2	12	Post hoc descéndit Caphárnaum ipse, et mater eius, et fratres eius, et
 Jn	2	13	Et prope erat Pascha Iudæórum, et ascéndit Iesus Ierosólymam :
 Jn	2	14	et invénit in templo vendéntes boves, et oves, et colúmbas, et numulários sedéntes.
 Jn	2	15	Et cum fecísset quasi flagéllum de funículis, omnes eiécit de templo, oves quoque, et boves, et numulariórum effúdit æs, et mensas subvértit.
-Jn	2	16	Et his qui colúmbas vendébant, dixit : Auférte ista hinc, et nólite fácere domum patris mei, domum negotiatiónis.
+Jn	2	16	Et his qui colúmbas vendébant, dixit : Auférte ista hinc, et nolíte fácere domum patris mei, domum negotiatiónis.
 Jn	2	17	Recordáti sunt vero discípuli eius quia scriptum est : Zelus domus tuæ comédit me.
 Jn	2	18	Respondérunt ergo Iudǽi, et dixérunt ei : Quod signum osténdis nobis, quia hæc facis ?
 Jn	2	19	Respóndit Iesus, et dixit eis : Sólvite templum hoc, et in tribus diébus excitábo illud.
@@ -3089,7 +3089,7 @@ Jn	5	24	Amen, amen dico vobis, quia qui verbum meum audit, et credit ei qui misi
 Jn	5	25	Amen, amen dico vobis, quia venit hora, et nunc est, quando mórtui áudient vocem Fílii Dei : et qui audíerint, vivent.
 Jn	5	26	Sicut enim Pater habet vitam in semetípso, sic dedit et Fílio habére vitam in semetípso :
 Jn	5	27	et potestátem dedit ei iudícium fácere, quia Fílius hóminis est.
-Jn	5	28	Nólite mirári hoc, quia venit hora in qua omnes qui in monuméntis sunt áudient vocem Fílii Dei :
+Jn	5	28	Nolíte mirári hoc, quia venit hora in qua omnes qui in monuméntis sunt áudient vocem Fílii Dei :
 Jn	5	29	et procédent qui bona fecérunt, in resurrectiónem vitæ ; qui vero mala egérunt, in resurrectiónem iudícii.
 Jn	5	30	Non possum ego a meípso fácere quidquam. Sicut áudio, iúdico : et iudícium meum iustum est, quia non quæro voluntátem meam, sed voluntátem eius qui misit me.
 Jn	5	31	Si ego testimónium perhíbeo de meípso, testimónium meum non est verum.
@@ -3106,7 +3106,7 @@ Jn	5	41	Claritátem ab homínibus non accípio.
 Jn	5	42	Sed cognóvi vos, quia dilectiónem Dei non habétis in vobis.
 Jn	5	43	Ego veni in nómine Patris mei, et non accípitis me ; si álius vénerit in nómine suo, illum accipiétis.
 Jn	5	44	Quómodo vos potéstis crédere, qui glóriam ab ínvicem accípitis, et glóriam quæ a solo Deo est, non quǽritis ?
-Jn	5	45	Nólite putáre quia ego accusatúrus sim vos apud Patrem : est qui accúsat vos Móyses, in quo vos sperátis.
+Jn	5	45	Nolíte putáre quia ego accusatúrus sim vos apud Patrem : est qui accúsat vos Móyses, in quo vos sperátis.
 Jn	5	46	Si enim crederétis Móysi, crederétis fórsitan et mihi : de me enim ille scripsit.
 Jn	5	47	Si autem illíus lítteris non créditis, quómodo verbis meis credétis ?
 Jn	6	1	Post hæc ábiit Iesus trans mare Galilǽæ, quod est Tiberíadis :
@@ -3128,7 +3128,7 @@ Jn	6	16	Ut autem sero factum est, descendérunt discípuli eius ad mare.
 Jn	6	17	Et cum ascendíssent navim, venérunt trans mare in Caphárnaum : et ténebræ iam factæ erant et non vénerat ad eos Iesus.
 Jn	6	18	Mare autem, vento magno flante, exsurgébat.
 Jn	6	19	Cum remigássent ergo quasi stádia vigínti quinque aut trigínta, vident Iesum ambulántem supra mare, et próximum navi fíeri, et timuérunt.
-Jn	6	20	Ille autem dicit eis : Ego sum, nólite timére.
+Jn	6	20	Ille autem dicit eis : Ego sum, nolíte timére.
 Jn	6	21	Voluérunt ergo accípere eum in navim et statim navis fuit ad terram, in quam ibant.
 Jn	6	22	Altera die, turba, quæ stabat trans mare, vidit quia navícula ália non erat ibi nisi una, et quia non introísset cum discípulis suis Iesus in navim, sed soli discípuli eius abiíssent :
 Jn	6	23	áliæ vero supervenérunt naves a Tiberíade iuxta locum ubi manducavérunt panem, grátias agénte Dómino.
@@ -3151,7 +3151,7 @@ Jn	6	39	Hæc est autem volúntas eius qui misit me, Patris : ut omne quod dedit 
 Jn	6	40	Hæc est autem volúntas Patris mei, qui misit me : ut omnis qui videt Fílium et credit in eum, hábeat vitam ætérnam, et ego resuscitábo eum in novíssimo die.
 Jn	6	41	Murmurábant ergo Iudǽi de illo, quia dixísset : Ego sum panis vivus, qui de cælo descéndi,
 Jn	6	42	et dicébant : Nonne hic est Iesus fílius Ioseph, cuius nos nóvimus patrem et matrem ? quómodo ergo dicit hic : Quia de cælo descéndi ?
-Jn	6	43	Respóndit ergo Iesus, et dixit eis : Nólite murmuráre in ínvicem :
+Jn	6	43	Respóndit ergo Iesus, et dixit eis : Nolíte murmuráre in ínvicem :
 Jn	6	44	nemo potest veníre ad me, nisi Pater, qui misit me, tráxerit eum ; et ego resuscitábo eum in novíssimo die.
 Jn	6	45	Est scriptum in prophétis : Et erunt omnes docíbiles Dei. Omnis qui audívit a Patre, et dídicit, venit ad me.
 Jn	6	46	Non quia Patrem vidit quisquam, nisi is, qui est a Deo, hic vidit Patrem.
@@ -3204,7 +3204,7 @@ Jn	7	20	Quid me quǽritis interfícere ? Respóndit turba, et dixit : Dæmónium
 Jn	7	21	Respóndit Iesus et dixit eis : Unum opus feci, et omnes mirámini :
 Jn	7	22	proptérea Móyses dedit vobis circumcisiónem (non quia ex Móyse est, sed ex pátribus), et in sábbato circumcíditis hóminem.
 Jn	7	23	Si circumcisiónem áccipit homo in sábbato, ut non solvátur lex Móysi : mihi indignámini quia totum hóminem sanum feci in sábbato ?
-Jn	7	24	Nólite iudicáre secúndum fáciem, sed iustum iudícium iudicáte.
+Jn	7	24	Nolíte iudicáre secúndum fáciem, sed iustum iudícium iudicáte.
 Jn	7	25	Dicébant ergo quidam ex Ierosólymis : Nonne hic est, quem quærunt interfícere ?
 Jn	7	26	et ecce palam lóquitur, et nihil ei dicunt. Numquid vere cognovérunt príncipes quia hic est Christus ?
 Jn	7	27	Sed hunc scimus unde sit : Christus autem cum vénerit, nemo scit unde sit.
@@ -3370,7 +3370,7 @@ Jn	10	33	Respondérunt ei Iudǽi : De bono ópere non lapidámus te, sed de blas
 Jn	10	34	Respóndit eis Iesus : Nonne scriptum est in lege vestra, Quia ego dixi : Dii estis ?
 Jn	10	35	Si illos dixit deos, ad quos sermo Dei factus est, et non potest solvi Scriptúra :
 Jn	10	36	quem Pater sanctificávit, et misit in mundum vos dícitis : Quia blasphémas, quia dixi : Fílius Dei sum ?
-Jn	10	37	Si non fácio ópera Patris mei, nólite crédere mihi.
+Jn	10	37	Si non fácio ópera Patris mei, nolíte crédere mihi.
 Jn	10	38	Si autem fácio : etsi mihi non vultis crédere, opéribus crédite, ut cognoscátis, et credátis quia Pater in me est, et ego in Patre.
 Jn	10	39	Quærébant ergo eum apprehéndere : et exívit de mánibus eórum.
 Jn	10	40	Et ábiit íterum trans Iordánem, in eum locum ubi erat Ioánnes baptízans primum, et mansit illic ;
@@ -4485,7 +4485,7 @@ Ac	20	6	nos vero navigávimus post dies azymórum a Philíppis, et vénimus ad e
 Ac	20	7	Una autem sábbati cum convenissémus ad frangéndum panem, Paulus disputábat cum eis profectúrus in crástinum, protraxítque sermónem usque in médiam noctem.
 Ac	20	8	Erant autem lámpades copiósæ in cœnáculo, ubi erámus congregáti.
 Ac	20	9	Sedens autem quidam adoléscens nómine Eútychus super fenéstram, cum mergerétur somno gravi, disputánte diu Paulo, ductus somno cécidit de tértio cœnáculo deórsum, et sublátus est mórtuus.
-Ac	20	10	Ad quem cum descendísset Paulus, incúbuit super eum : et compléxus dixit : Nólite turbári, ánima enim ipsíus in ipso est.
+Ac	20	10	Ad quem cum descendísset Paulus, incúbuit super eum : et compléxus dixit : Nolíte turbári, ánima enim ipsíus in ipso est.
 Ac	20	11	Ascéndens autem, frangénsque panem, et gustans, satísque allocútus usque in lucem, sic proféctus est.
 Ac	20	12	Adduxérunt autem púerum vivéntem, et consoláti sunt non mínime.
 Ac	20	13	Nos autem ascendéntes navem, navigávimus in Asson, inde susceptúri Paulum : sic enim disposúerat ipse per terram iter factúrus.
@@ -5096,7 +5096,7 @@ Rm	11	34	Quis enim cognóvit sensum Dómini ? aut quis consiliárius eius fuit ?
 Rm	11	35	aut quis prior dedit illi, et retribuétur ei ?
 Rm	11	36	Quóniam ex ipso, et per ipsum, et in ipso sunt ómnia : ipsi glória in sǽcula. Amen.
 Rm	12	1	Obsecro ítaque vos fratres per misericórdiam Dei, ut exhibeátis córpora vestra hóstiam vivéntem, sanctam, Deo placéntem, rationábile obséquium vestrum.
-Rm	12	2	Et nólite conformári huic sǽculo, sed reformámini in novitáte sensus vestri : ut probétis quæ sit volúntas Dei bona, et benéplacens, et perfécta.
+Rm	12	2	Et nolíte conformári huic sǽculo, sed reformámini in novitáte sensus vestri : ut probétis quæ sit volúntas Dei bona, et benéplacens, et perfécta.
 Rm	12	3	Dico enim per grátiam quæ data est mihi, ómnibus qui sunt inter vos, non plus sápere quam opórtet sápere, sed sápere ad sobrietátem : et unicuíque sicut Deus divísit mensúram fídei.
 Rm	12	4	Sicut enim in uno córpore multa membra habémus, ómnia autem membra non eúmdem actum habent :
 Rm	12	5	ita multi unum corpus sumus in Christo, sínguli autem alter altérius membra.
@@ -5108,9 +5108,9 @@ Rm	12	10	caritáte fraternitátis ínvicem diligéntes : honóre ínvicem præve
 Rm	12	11	sollicitúdine non pigri : spíritu fervéntes : Dómino serviéntes :
 Rm	12	12	spe gaudéntes : in tribulatióne patiéntes : oratióni instántes :
 Rm	12	13	necessitátibus sanctórum communicántes : hospitalitátem sectántes.
-Rm	12	14	Benedícite persequéntibus vos : benedícite, et nólite maledícere.
+Rm	12	14	Benedícite persequéntibus vos : benedícite, et nolíte maledícere.
 Rm	12	15	Gaudére cum gaudéntibus, flere cum fléntibus :
-Rm	12	16	idípsum ínvicem sentiéntes : non alta sapiéntes, sed humílibus consentiéntes. Nólite esse prudéntes apud vosmetípsos :
+Rm	12	16	idípsum ínvicem sentiéntes : non alta sapiéntes, sed humílibus consentiéntes. Nolíte esse prudéntes apud vosmetípsos :
 Rm	12	17	nulli malum pro malo reddéntes : providéntes bona non tantum coram Deo, sed étiam coram ómnibus homínibus.
 Rm	12	18	Si fíeri potest, quod ex vobis est, cum ómnibus homínibus pacem habéntes :
 Rm	12	19	non vosmetípsos defendéntes caríssimi, sed date locum iræ. Scriptum est enim : Mihi vindícta : ego retríbuam, dicit Dóminus.
@@ -5287,7 +5287,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	4	2	Hic iam quǽritur inter dispensatóres ut fidélis quis inveniátur.
 1 Co	4	3	Mihi autem pro mínimo est ut a vobis iúdicer, aut ab humáno die : sed neque meípsum iúdico.
 1 Co	4	4	Nihil enim mihi cónscius sum, sed non in hoc iustificátus sum : qui autem iúdicat me, Dóminus est.
-1 Co	4	5	Itaque nólite ante tempus iudicáre, quoadúsque véniat Dóminus : qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium : et tunc laus erit unicuíque a Deo.
+1 Co	4	5	Itaque nolíte ante tempus iudicáre, quoadúsque véniat Dóminus : qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium : et tunc laus erit unicuíque a Deo.
 1 Co	4	6	Hæc autem, fratres, transfigurávi in me et Apóllo, propter vos : ut in nobis discátis, ne supra quam scriptum est, unus advérsus álterum inflétur pro álio.
 1 Co	4	7	Quis enim te discérnit ? quid autem habes quod non accepísti ? si autem accepísti, quid gloriáris quasi non accéperis ?
 1 Co	4	8	Iam saturáti estis, iam dívites facti estis : sine nobis regnátis : et útinam regnétis, ut et nos vobíscum regnémus.
@@ -5325,7 +5325,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	6	6	Sed frater cum fratre iudício conténdit : et hoc apud infidéles ?
 1 Co	6	7	Iam quidem omníno delíctum est in vobis, quod iudícia habétis inter vos. Quare non magis iniúriam accípitis ? quare non magis fraudem patímini ?
 1 Co	6	8	Sed vos iniúriam fácitis, et fraudátis : et hoc frátribus.
-1 Co	6	9	An nescítis quia iníqui regnum Dei non possidébunt ? Nólite erráre : neque fornicárii, neque idólis serviéntes, neque adúlteri,
+1 Co	6	9	An nescítis quia iníqui regnum Dei non possidébunt ? Nolíte erráre : neque fornicárii, neque idólis serviéntes, neque adúlteri,
 1 Co	6	10	neque molles, neque masculórum concubitóres, neque fures, neque avári, neque ebriósi, neque malédici, neque rapáces regnum Dei possidébunt.
 1 Co	6	11	Et hæc quidam fuístis : sed ablúti estis, sed sanctificáti estis, sed iustificáti estis in nómine Dómini nostri Iesu Christi, et in Spíritu Dei nostri.
 1 Co	6	12	Omnia mihi licent, sed non ómnia expédiunt : ómnia mihi licent, sed ego sub nullis rédigar potestáte.
@@ -5341,7 +5341,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	7	2	propter fornicatiónem autem unusquísque suam uxórem hábeat, et unaquǽque suum virum hábeat.
 1 Co	7	3	Uxóri vir débitum reddat : simíliter autem et uxor viro.
 1 Co	7	4	Múlier sui córporis potestátem non habet, sed vir. Simíliter autem et vir sui córporis potestátem non habet, sed múlier.
-1 Co	7	5	Nólite fraudáre ínvicem, nisi forte ex consénsu ad tempus, ut vacétis oratióni : et íterum revertímini in idípsum, ne tentet vos Sátanas propter incontinéntiam vestram.
+1 Co	7	5	Nolíte fraudáre ínvicem, nisi forte ex consénsu ad tempus, ut vacétis oratióni : et íterum revertímini in idípsum, ne tentet vos Sátanas propter incontinéntiam vestram.
 1 Co	7	6	Hoc autem dico secúndum indulgéntiam, non secúndum impérium.
 1 Co	7	7	Volo enim omnes vos esse sicut meípsum : sed unusquísque próprium donum habet ex Deo : álius quidem sic, álius vero sic.
 1 Co	7	8	Dico autem non nuptis, et víduis : bonum est illis si sic permáneant, sicut et ego.
@@ -5359,7 +5359,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	7	20	Unusquísque in qua vocatióne vocátus est, in ea permáneat.
 1 Co	7	21	Servus vocátus es ? non sit tibi curæ : sed et si potes fíeri liber, magis útere.
 1 Co	7	22	Qui enim in Dómino vocátus est servus, libértus est Dómini : simíliter qui liber vocátus est, servus est Christi.
-1 Co	7	23	Prétio empti estis : nólite fíeri servi hóminum.
+1 Co	7	23	Prétio empti estis : nolíte fíeri servi hóminum.
 1 Co	7	24	Unusquísque in quo vocátus est, fratres, in hoc permáneat apud Deum.
 1 Co	7	25	De virgínibus autem præcéptum Dómini non hábeo : consílium autem do, tamquam misericórdiam consecútus a Dómino, ut sim fidélis.
 1 Co	7	26	Exístimo ergo hoc bonum esse propter instántem necessitátem, quóniam bonum est hómini sic esse.
@@ -5444,7 +5444,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	10	25	Omne quod in macéllo venit, manducáte, nihil interrogántes propter consciéntiam.
 1 Co	10	26	Dómini est terra, et plenitúdo eius.
 1 Co	10	27	Si quis vocat vos infidélium, et vultis ire : omne quod vobis appónitur, manducáte, nihil interrogántes propter consciéntiam.
-1 Co	10	28	Si quis autem díxerit : Hoc immolátum est idólis : nólite manducáre propter illum qui indicávit, et propter consciéntiam :
+1 Co	10	28	Si quis autem díxerit : Hoc immolátum est idólis : nolíte manducáre propter illum qui indicávit, et propter consciéntiam :
 1 Co	10	29	consciéntiam autem dico non tuam, sed altérius. Ut quid enim libértas mea iudicátur ab aliéna consciéntia ?
 1 Co	10	30	Si ego cum grátia partícipo, quid blasphémor pro eo quod grátias ago ?
 1 Co	10	31	Sive ergo manducátis, sive bíbitis, sive aliud quid fácitis : ómnia in glóriam Dei fácite.
@@ -5547,7 +5547,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	14	17	Nam tu quidem bene grátias agis, sed alter non ædificátur.
 1 Co	14	18	Grátias ago Deo meo, quod ómnium vestrum lingua loquor.
 1 Co	14	19	Sed in ecclésia volo quinque verba sensu meo loqui, ut et álios ínstruam : quam decem míllia verbórum in lingua.
-1 Co	14	20	Fratres, nólite púeri éffici sénsibus, sed malítia párvuli estóte : sénsibus autem perfécti estóte.
+1 Co	14	20	Fratres, nolíte púeri éffici sénsibus, sed malítia párvuli estóte : sénsibus autem perfécti estóte.
 1 Co	14	21	In lege scriptum est : Quóniam in áliis linguis et lábiis áliis loquar pópulo huic : et nec sic exáudient me, dicit Dóminus.
 1 Co	14	22	Itaque linguæ in signum sunt non fidélibus, sed infidélibus : prophetíæ autem non infidélibus, sed fidélibus.
 1 Co	14	23	Si ergo convéniat univérsa ecclésia in unum, et omnes linguis loquántur, intrent autem idiótæ, aut infidéles : nonne dicent quod insanítis ?
@@ -5566,7 +5566,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	14	36	An a vobis verbum Dei procéssit ? aut in vos solos pervénit ?
 1 Co	14	37	Si quis vidétur prophéta esse, aut spirituális, cognóscat quæ scribo vobis, quia Dómini sunt mandáta.
 1 Co	14	38	Si quis autem ignórat, ignorábitur.
-1 Co	14	39	Itaque fratres æmulámini prophetáre : et loqui linguis nólite prohibére.
+1 Co	14	39	Itaque fratres æmulámini prophetáre : et loqui linguis nolíte prohibére.
 1 Co	14	40	Omnia autem honéste, et secúndum órdinem fiant.
 1 Co	15	1	Notum autem vobis fácio, fratres, Evangélium, quod prædicávi vobis, quod et accepístis, in quo et statis,
 1 Co	15	2	per quod et salvámini : qua ratióne prædicáverim vobis, si tenétis, nisi frustra credidístis.
@@ -5600,8 +5600,8 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	15	30	ut quid et nos periclitámur omni hora ?
 1 Co	15	31	Quotídie mórior per vestram glóriam, fratres, quam hábeo in Christo Iesu Dómino nostro.
 1 Co	15	32	Si secúndum hóminem ad béstias pugnávi Ephesi, quid mihi prodest, si mórtui non resúrgunt ? Manducémus, et bibámus, cras enim moriémur.
-1 Co	15	33	Nólite sedúci : corrúmpunt mores bonos collóquia mala.
-1 Co	15	34	Evigiláte iusti, et nólite peccáre : ignorántiam enim Dei quidam habent, ad reveréntiam vobis loquor.
+1 Co	15	33	Nolíte sedúci : corrúmpunt mores bonos collóquia mala.
+1 Co	15	34	Evigiláte iusti, et nolíte peccáre : ignorántiam enim Dei quidam habent, ad reveréntiam vobis loquor.
 1 Co	15	35	Sed dicet áliquis : Quómodo resúrgunt mórtui ? qualíve córpore vénient ?
 1 Co	15	36	Insípiens, tu quod séminas non vivificátur, nisi prius moriátur :
 1 Co	15	37	et quod séminas, non corpus, quod futúrum est, séminas, sed nudum granum, ut puta trítici, aut alicúius ceterórum.
@@ -5761,7 +5761,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 2 Co	6	11	Os nostrum patet ad vos, o Corínthii ; cor nostrum dilatátum est.
 2 Co	6	12	Non angustiámini in nobis : angustiámini autem in viscéribus vestris :
 2 Co	6	13	eámdem autem habéntes remuneratiónem, tamquam fíliis dico, dilatámini et vos.
-2 Co	6	14	Nólite iugum dúcere cum infidélibus. Quæ enim participátio iustítiæ cum iniquitáte ? aut quæ socíetas luci ad ténebras ?
+2 Co	6	14	Nolíte iugum dúcere cum infidélibus. Quæ enim participátio iustítiæ cum iniquitáte ? aut quæ socíetas luci ad ténebras ?
 2 Co	6	15	quæ autem convéntio Christi ad Bélial ? aut quæ pars fidéli cum infidéli ?
 2 Co	6	16	qui autem consénsus templo Dei cum idólis ? vos enim estis templum Dei vivi, sicut dicit Deus : Quóniam inhabitábo in illis, et inambulábo inter eos, et ero illórum Deus, et ipsi erunt mihi pópulus.
 2 Co	6	17	Propter quod exíte de médio eórum, et separámini, dicit Dóminus, et immúndum ne tetigéritis :
@@ -6011,7 +6011,7 @@ Ga	4	28	Nos autem, fratres, secúndum Isaac promissiónis fílii sumus.
 Ga	4	29	Sed quómodo tunc is, qui secúndum carnem natus fúerat, persequebátur eum qui secúndum spíritum : ita et nunc.
 Ga	4	30	Sed quid dicit Scriptúra ? Eiice ancíllam, et fílium eius : non enim hæres erit fílius ancíllæ cum fílio líberæ.
 Ga	4	31	Itaque, fratres, non sumus ancíllæ fílii, sed líberæ : qua libertáte Christus nos liberávit.
-Ga	5	1	State, et nólite íterum iugo servitútis continéri.
+Ga	5	1	State, et nolíte íterum iugo servitútis continéri.
 Ga	5	2	Ecce ego Paulus dico vobis : quóniam si circumcidámini, Christus vobis nihil próderit.
 Ga	5	3	Testíficor autem rursus omni hómini circumcidénti se, quóniam débitor est univérsæ legis faciéndæ.
 Ga	5	4	Evacuáti estis a Christo, qui in lege iustificámini : a grátia excidístis.
@@ -6043,7 +6043,7 @@ Ga	6	3	Nam si quis exístimat se áliquid esse, cum nihil sit, ipse se sedúcit.
 Ga	6	4	Opus autem suum probet unusquísque, et sic in semetípso tantum glóriam habébit, et non in áltero.
 Ga	6	5	Unusquísque enim onus suum portábit.
 Ga	6	6	Commúnicet autem is qui catechizátur verbo, ei qui se catechízat, in ómnibus bonis.
-Ga	6	7	Nólite erráre : Deus non irridétur.
+Ga	6	7	Nolíte erráre : Deus non irridétur.
 Ga	6	8	Quæ enim semináverit homo, hæc et metet. Quóniam qui séminat in carne sua, de carne et metet corruptiónem : qui autem séminat in spíritu, de spíritu metet vitam ætérnam.
 Ga	6	9	Bonum autem faciéntes, non deficiámus : témpore enim suo metémus non deficiéntes.
 Ga	6	10	Ergo dum tempus habémus, operémur bonum ad omnes, máxime autem ad domésticos fídei.
@@ -6146,11 +6146,11 @@ Ep	4	22	depónere vos secúndum prístinam conversatiónem véterem hóminem, qu
 Ep	4	23	Renovámini autem spíritu mentis vestræ,
 Ep	4	24	et indúite novum hóminem, qui secúndum Deum creátus est in iustítia, et sanctitáte veritátis.
 Ep	4	25	Propter quod deponéntes mendácium, loquímini veritátem unusquísque cum próximo suo : quóniam sumus ínvicem membra.
-Ep	4	26	Irascímini, et nólite peccáre : sol non óccidat super iracúndiam vestram.
-Ep	4	27	Nólite locum dare diábolo :
+Ep	4	26	Irascímini, et nolíte peccáre : sol non óccidat super iracúndiam vestram.
+Ep	4	27	Nolíte locum dare diábolo :
 Ep	4	28	qui furabátur, iam non furétur : magis autem labóret, operándo mánibus suis, quod bonum est, ut hábeat unde tríbuat necessitátem patiénti.
 Ep	4	29	Omnis sermo malus ex ore vestro non procédat : sed si quis bonus ad ædificatiónem fídei ut det grátiam audiéntibus.
-Ep	4	30	Et nólite contristáre Spíritum Sanctum Dei : in quo signáti estis in diem redemptiónis.
+Ep	4	30	Et nolíte contristáre Spíritum Sanctum Dei : in quo signáti estis in diem redemptiónis.
 Ep	4	31	Omnis amaritúdo, et ira, et indignátio, et clamor, et blasphémia tollátur a vobis cum omni malítia.
 Ep	4	32	Estóte autem ínvicem benígni, misericórdes, donántes ínvicem sicut et Deus in Christo donávit vobis.
 Ep	5	1	Estóte ergo imitatóres Dei, sicut fílii caríssimi,
@@ -6159,18 +6159,18 @@ Ep	5	3	Fornicátio autem, et omnis immundítia, aut avarítia, nec nominétur in
 Ep	5	4	aut turpitúdo, aut stultilóquium, aut scurrílitas, quæ ad rem non pértinet : sed magis gratiárum áctio.
 Ep	5	5	Hoc enim scitóte intelligéntes : quod omnis fornicátor, aut immúndus, aut avárus, quod est idolórum sérvitus, non habet hæreditátem in regno Christi et Dei.
 Ep	5	6	Nemo vos sedúcat inánibus verbis : propter hæc enim venit ira Dei in fílios diffidéntiæ.
-Ep	5	7	Nólite ergo éffici partícipes eórum.
+Ep	5	7	Nolíte ergo éffici partícipes eórum.
 Ep	5	8	Erátis enim aliquándo ténebræ : nunc autem lux in Dómino. Ut fílii lucis ambuláte :
 Ep	5	9	fructus enim lucis est in omni bonitáte, et iustítia, et veritáte :
 Ep	5	10	probántes quid sit beneplácitum Deo :
-Ep	5	11	et nólite communicáre opéribus infructuósis tenebrárum, magis autem redargúite.
+Ep	5	11	et nolíte communicáre opéribus infructuósis tenebrárum, magis autem redargúite.
 Ep	5	12	Quæ enim in occúlto fiunt ab ipsis, turpe est et dícere.
 Ep	5	13	Omnia autem, quæ arguúntur, a lúmine manifestántur : omne enim, quod manifestátur, lumen est.
 Ep	5	14	Propter quod dicit : Surge qui dormis, et exsúrge a mórtuis, et illuminábit te Christus.
 Ep	5	15	Vidéte ítaque, fratres, quómodo caute ambulétis : non quasi insipiéntes,
 Ep	5	16	sed ut sapiéntes : rediméntes tempus, quóniam dies mali sunt.
-Ep	5	17	Proptérea nólite fíeri imprudéntes, sed intelligéntes quæ sit volúntas Dei.
-Ep	5	18	Et nólite inebriári vino, in quo est luxúria, sed implémini Spíritu Sancto,
+Ep	5	17	Proptérea nolíte fíeri imprudéntes, sed intelligéntes quæ sit volúntas Dei.
+Ep	5	18	Et nolíte inebriári vino, in quo est luxúria, sed implémini Spíritu Sancto,
 Ep	5	19	loquéntes vobismetípsis in psalmis, et hymnis, et cánticis spirituálibus, cantántes et psalléntes in córdibus vestris Dómino,
 Ep	5	20	grátias agéntes semper pro ómnibus in nómine Dómini nostri Iesu Christi Deo et Patri,
 Ep	5	21	subiécti ínvicem in timóre Christi.
@@ -6189,7 +6189,7 @@ Ep	5	33	Verúmtamen et vos sínguli, unusquísque uxórem suam sicut seípsum d�
 Ep	6	1	Fílii, obedíte paréntibus vestris in Dómino : hoc enim iustum est.
 Ep	6	2	Honóra patrem tuum, et matrem tuam, quod est mandátum primum in promissióne :
 Ep	6	3	ut bene sit tibi, et sis longǽvus super terram.
-Ep	6	4	Et vos patres, nólite ad iracúndiam provocáre fílios vestros : sed educáte illos in disciplína et correptióne Dómini.
+Ep	6	4	Et vos patres, nolíte ad iracúndiam provocáre fílios vestros : sed educáte illos in disciplína et correptióne Dómini.
 Ep	6	5	Servi, obedíte dóminis carnálibus cum timóre et tremóre, in simplicitáte cordis vestri, sicut Christo :
 Ep	6	6	non ad óculum serviéntes, quasi homínibus placéntes, sed ut servi Christi, faciéntes voluntátem Dei ex ánimo,
 Ep	6	7	cum bona voluntáte serviéntes, sicut Dómino, et non homínibus :
@@ -6313,4 +6313,348 @@ Ph	4	19	Deus autem meus ímpleat omne desidérium vestrum secúndum divítias su
 Ph	4	20	Deo autem et Patri nostro glória in sǽcula sæculórum. Amen.
 Ph	4	21	Salutáte omnem sanctum in Christo Iesu.
 Ph	4	22	Salútant vos, qui mecum sunt, fratres. Salútant vos omnes sancti, máxime autem qui de Cǽsaris domo sunt.
-Ph	4	23	Grátia Dómini nostri Iesu Christi cum spíritu vestro. Amen. 
+Ph	4	23	Grátia Dómini nostri Iesu Christi cum spíritu vestro. Amen.
+Col	1	1	Paulus Apóstolus Iesu Christi per voluntátem Dei, et Timótheus frater :
+Col	1	2	eis, qui sunt Colóssis, sanctis, et fidélibus frátribus in Christo Iesu.
+Col	1	3	Grátia vobis, et pax a Deo Patre nostro, et Dómino Iesu Christo. Grátias ágimus Deo, et Patri Dómini nostri Iesu Christi semper pro vobis orántes :
+Col	1	4	audiéntes fidem vestram in Christo Iesu, et dilectiónem quam habétis in sanctos omnes
+Col	1	5	propter spem, quæ repósita est vobis in cælis : quam audístis in verbo veritátis Evangélii :
+Col	1	6	quod pervénit ad vos, sicut et in univérso mundo est, et fructíficat, et crescit sicut in vobis, ex ea die, qua audístis, et cognovístis grátiam Dei in veritáte,
+Col	1	7	sicut didicístis ab Epaphra caríssimo consérvo nostro, qui est fidélis pro vobis miníster Christi Iesu,
+Col	1	8	qui étiam manifestávit nobis dilectiónem vestram in spíritu.
+Col	1	9	Ideo et nos ex qua die audívimus, non cessámus pro vobis orántes, et postulántes ut impleámini agnitióne voluntátis eius, in omni sapiéntia et intelléctu spiritáli :
+Col	1	10	ut ambulétis digne Deo per ómnia placéntes : in omni ópere bono fructificántes, et crescéntes in sciéntia Dei :
+Col	1	11	in omni virtúte confortáti secúndum poténtiam claritátis eius, in omni patiéntia et longanimitáte cum gáudio,
+Col	1	12	grátias agéntes Deo Patri, qui dignos nos fecit in partem sortis sanctórum in lúmine :
+Col	1	13	qui erípuit nos de potestáte tenebrárum, et tránstulit in regnum fílii dilectiónis suæ,
+Col	1	14	in quo habémus redemptiónem per sánguinem eius, remissiónem peccatórum :
+Col	1	15	qui est imágo Dei invisíbilis, primogénitus omnis creatúræ :
+Col	1	16	quóniam in ipso cóndita sunt univérsa in cælis, et in terra, visibília, et invisibília, sive throni, sive dominatiónes, sive principátus, sive potestátes : ómnia per ipsum et in ipso creáta sunt :
+Col	1	17	et ipse est ante omnes, et ómnia in ipso constant.
+Col	1	18	Et ipse est caput córporis Ecclésiæ, qui est princípium, primogénitus ex mórtuis : ut sit in ómnibus ipse primátum tenens :
+Col	1	19	quia in ipso complácuit, omnem plenitúdinem inhabitáre :
+Col	1	20	et per eum reconciliáre ómnia in ipsum, pacíficans per sánguinem crucis eius, sive quæ in terris, sive quæ in cælis sunt.
+Col	1	21	Et vos cum essétis aliquándo alienáti, et inimíci sensu in opéribus malis :
+Col	1	22	nunc autem reconciliávit in córpore carnis eius per mortem, exhibére vos sanctos, et immaculátos, et irreprehensíbiles coram ipso :
+Col	1	23	si tamen permanétis in fide fundáti, et stábiles, et immóbiles a spe Evangélii, quod audístis, quod prædicátum est in univérsa creatúra, quæ sub cælo est, cuius factus sum ego Paulus miníster.
+Col	1	24	Qui nunc gáudeo in passiónibus pro vobis, et adímpleo ea quæ desunt passiónem Christi, in carne mea pro córpore eius, quod est Ecclésia :
+Col	1	25	cuius factus sum ego miníster secúndum dispensatiónem Dei, quæ data est mihi in vos, ut ímpleam verbum Dei :
+Col	1	26	mystérium, quod abscónditum fuit a sǽculis, et generatiónibus, nunc autem manifestátum est sanctis eius,
+Col	1	27	quibus vóluit Deus notas fácere divítias glóriæ sacraménti huius in géntibus, quod est Christus, in vobis spes glóriæ,
+Col	1	28	quem nos annuntiámus, corripiéntes omnem hóminem, et docéntes omnem hóminem, in omni sapiéntia, ut exhibeámus omnem hóminem perféctum in Christo Iesu :
+Col	1	29	in quo et labóro, certándo secúndum operatiónem eius, quam operátur in me in virtúte.
+Col	2	1	Volo enim vos scire qualem sollicitúdinem hábeam pro vobis, et pro iis qui sunt Laodicíæ, et quicúmque non vidérunt fáciem meam in carne :
+Col	2	2	ut consoléntur corda ipsórum, instrúcti in caritáte, et in omnes divítias plenitúdinis intelléctus, in agnitiónem mystérii Dei Patris et Christi Iesu :
+Col	2	3	in quo sunt omnes thesáuri sapiéntiæ et sciéntiæ abscónditi.
+Col	2	4	Hoc autem dico, ut nemo vos decípiat in sublimitáte sermónum.
+Col	2	5	Nam etsi córpore absens sum, sed spíritu vobíscum sum : gaudens, et videns órdinem vestrum, et firmaméntum eius, quæ in Christo est, fídei vestræ.
+Col	2	6	Sicut ergo accepístis Iesum Christum Dóminum, in ipso ambuláte,
+Col	2	7	radicáti, et superædificáti in ipso, et confirmáti fide, sicut et didicístis, abundántes in illo in gratiárum actióne.
+Col	2	8	Vidéte ne quis vos decípiat per philosóphiam, et inánem falláciam secúndum traditiónem hóminum, secúndum eleménta mundi, et non secúndum Christum :
+Col	2	9	quia in ipso inhábitat omnis plenitúdo divinitátis corporáliter :
+Col	2	10	et estis in illo repléti, qui est caput omnis principátus et potestátis :
+Col	2	11	in quo et circumcísi estis circumcisióne non manu facta in expoliatióne córporis carnis, sed in circumcisióne Christi :
+Col	2	12	consepúlti ei in baptísmo, in quo et resurrexístis per fidem operatiónis Dei, qui suscitávit illum a mórtuis.
+Col	2	13	Et vos cum mórtui essétis in delíctis, et præpútio carnis vestræ, convivificávit cum illo, donans vobis ómnia delícta :
+Col	2	14	delens quod advérsus nos erat chirógraphum decréti, quod erat contrárium nobis, et ipsum tulit de médio, affígens illud cruci :
+Col	2	15	et expólians principátus, et potestátes tradúxit confidénter, palam triúmphans illos in semetípso.
+Col	2	16	Nemo ergo vos iúdicet in cibo, aut in potu, aut in parte díei festi, aut neoméniæ, aut sabbatórum :
+Col	2	17	quæ sunt umbra futurórum : corpus autem Christi.
+Col	2	18	Nemo vos sedúcat, volens in humilitáte, et religióne angelórum, quæ non vidit ámbulans, frustra inflátus sensu carnis suæ,
+Col	2	19	et non tenens caput, ex quo totum corpus per nexus, et coniunctiónes subministrátum, et constrúctum crescit in augméntum Dei.
+Col	2	20	Si ergo mórtui estis cum Christo ab eleméntis huius mundi : quid adhuc tamquam vivéntes in mundo decérnitis ?
+Col	2	21	Ne tetigéritis, neque gustavéritis, neque contrectavéritis :
+Col	2	22	quæ sunt ómnia in intéritum ipso usu, secúndum præcépta et doctrínas hóminum :
+Col	2	23	quæ sunt ratiónem quidem habéntia sapiéntiæ in superstitióne, et humilitáte, et non ad parcéndum córpori, non in honóre áliquo ad saturitátem carnis.
+Col	3	1	Igitur, si consurrexístis cum Christo : quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens :
+Col	3	2	quæ sursum sunt sápite, non quæ super terram.
+Col	3	3	Mórtui enim estis, et vita vestra est abscóndita cum Christo in Deo.
+Col	3	4	Cum Christus apparúerit, vita vestra : tunc et vos apparébitis cum ipso in glória.
+Col	3	5	Mortificáte ergo membra vestra, quæ sunt super terram : fornicatiónem, immundítiam, libídinem, concupiscéntiam malam, et avarítiam, quæ est simulacrórum sérvitus :
+Col	3	6	propter quæ venit ira Dei super fílios incredulitátis :
+Col	3	7	in quibus et vos ambulástis aliquándo, cum viverétis in illis.
+Col	3	8	Nunc autem depónite et vos ómnia : iram, indignatiónem, malítiam, blasphémiam, turpem sermónem de ore vestro.
+Col	3	9	Nolíte mentíri ínvicem, expoliántes vos véterem hóminem cum áctibus suis,
+Col	3	10	et induéntes novum eum, qui renovátur in agnitiónem secúndum imáginem eius qui creávit illum :
+Col	3	11	ubi non est gentílis et Iudǽus, circumcísio et præpútium, Bárbarus et Scytha, servus et liber : sed ómnia, et in ómnibus Christus.
+Col	3	12	Indúite vos ergo, sicut elécti Dei, sancti, et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam :
+Col	3	13	supportántes ínvicem, et donántes vobismetípsis si quis advérsus áliquem habet querélam : sicut et Dóminus donávit vobis, ita et vos.
+Col	3	14	Super ómnia autem hæc, caritátem habéte, quod est vínculum perfectiónis :
+Col	3	15	et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore : et grati estóte.
+Col	3	16	Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes, et commonéntes vosmetípsos, psalmis, hymnis, et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo.
+Col	3	17	Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Iesu Christi, grátias agéntes Deo et Patri per ipsum.
+Col	3	18	Mulíeres, súbditæ estóte viris, sicut opórtet, in Dómino.
+Col	3	19	Viri, dilígite uxóres vestras, et nolíte amári esse ad illas.
+Col	3	20	Fílii, obedíte paréntibus per ómnia : hoc enim plácitum est in Dómino.
+Col	3	21	Patres, nolíte ad indignatiónem provocáre fílios vestros, ut non pusíllo ánimo fiant.
+Col	3	22	Servi, obedíte per ómnia dóminis carnálibus, non ad óculum serviéntes, quasi homínibus placéntes, sed in simplicitáte cordis, timéntes Deum.
+Col	3	23	Quodcúmque fácitis, ex ánimo operámini sicut Dómino, et non homínibus :
+Col	3	24	sciéntes quod a Dómino accipiétis retributiónem hæreditátis. Dómino Christo servíte.
+Col	3	25	Qui enim iniúriam facit, recípiet id quod iníque gessit : et non est personárum accéptio apud Deum.
+Col	4	1	Dómini, quod iustum est et æquum, servis præstáte : sciéntes quod et vos Dóminum habétis in cælo.
+Col	4	2	Oratióni instáte, vigilántes in ea in gratiárum actióne :
+Col	4	3	orántes simul et pro nobis, ut Deus apériat nobis óstium sermónis ad loquéndum mystérium Christi (propter quod étiam vinctus sum),
+Col	4	4	ut maniféstem illud ita ut opórtet me loqui.
+Col	4	5	In sapiéntia ambuláte ad eos, qui foris sunt : tempus rediméntes.
+Col	4	6	Sermo vester semper in grátia sale sit condítus, ut sciátis quómodo opórteat vos unicuíque respondére.
+Col	4	7	Quæ circa me sunt, ómnia vobis nota fáciet Týchicus, caríssimus frater, et fidélis miníster, et consérvus in Dómino :
+Col	4	8	quem misi ad vos ad hoc ipsum, ut cognóscat quæ circa vos sunt, et consolétur corda vestra,
+Col	4	9	cum Onésimo caríssimo, et fidéli fratre, qui ex vobis est. Omnia, quæ hic agúntur, nota fácient vobis.
+Col	4	10	Salútat vos Aristárchus concaptívus meus, et Marcus consobrínus Bárnabæ, de quo accepístis mandáta : si vénerit ad vos, excípite illum :
+Col	4	11	et Iesus, qui dícitur Iustus : qui sunt ex circumcisióne : hi soli sunt adiutóres mei in regno Dei, qui mihi fuérunt solátio.
+Col	4	12	Salútat vos Epaphras, qui ex vobis est, servus Christi Iesu, semper sollícitus pro vobis in oratiónibus, ut stetis perfécti, et pleni in omni voluntáte Dei.
+Col	4	13	Testimónium enim illi perhíbeo quod habet multum labórem pro vobis, et pro iis qui sunt Laodicíæ, et qui Hierápoli.
+Col	4	14	Salútat vos Lucas, médicus caríssimus, et Demas.
+Col	4	15	Salutáte fratres, qui sunt Laodicíæ, et Nympham, et quæ in domo eius est, ecclésiam.
+Col	4	16	Et cum lecta fúerit apud vos epístola hæc, fácite ut et in Laodicénsium ecclésia legátur : et eam, quæ Laodicénsium est, vos legátis.
+Col	4	17	Et dícite Archíppo : Vide ministérium, quod accepísti in Dómino, ut illud ímpleas.
+Col	4	18	Salutátio, mea manu Pauli. Mémores estóte vinculórum meórum. Grátia vobíscum. Amen.
+1 Th	1	1	Paulus, et Silvánus, et Timótheus ecclésiæ Thessalonicénsium in Deo Patre, et Dómino Iesu Christo.
+1 Th	1	2	Grátia vobis, et pax. Grátias ágimus Deo semper pro ómnibus vobis, memóriam vestri faciéntes in oratiónibus nostris sine intermissióne,
+1 Th	1	3	mémores óperis fídei vestræ, et labóris, et caritátis, et sustinéntiæ spei Dómini nostri Iesu Christi, ante Deum et Patrem nostrum :
+1 Th	1	4	sciéntes, fratres dilécti a Deo, electiónem vestram :
+1 Th	1	5	quia Evangélium nostrum non fuit ad vos in sermóne tantum, sed et in virtúte, et in Spíritu Sancto, et in plenitúdine multa, sicut scitis quales fuérimus in vobis propter vos.
+1 Th	1	6	Et vos imitatóres nostri facti estis, et Dómini, excipiéntes verbum in tribulatióne multa, cum gáudio Spíritus Sancti :
+1 Th	1	7	ita ut facti sitis forma ómnibus credéntibus in Macedónia, et in Acháia.
+1 Th	1	8	A vobis enim diffamátus est sermo Dómini, non solum in Macedónia, et in Acháia, sed et in omni loco fides vestra, quæ est ad Deum, profécta est ita ut non sit nobis necésse quidquam loqui.
+1 Th	1	9	Ipsi enim de nobis annúntiant qualem intróitum habuérimus ad vos : et quómodo convérsi estis ad Deum a simulácris, servíre Deo vivo, et vero,
+1 Th	1	10	et exspectáre Fílium eius de cælis (quem suscitávit a mórtuis) Iesum, qui erípuit nos ab ira ventúra.
+1 Th	2	1	Nam ipsi scitis, fratres, intróitum nostrum ad vos, quia non inánis fuit :
+1 Th	2	2	sed ante passi, et contuméliis affécti (sicut scitis) in Philíppis, fidúciam habúimus in Deo nostro, loqui ad vos Evangélium Dei in multa sollicitúdine.
+1 Th	2	3	Exhortátio enim nostra non de erróre, neque de immundítia, neque in dolo,
+1 Th	2	4	sed sicut probáti sumus a Deo ut crederétur nobis Evangélium : ita lóquimur non quasi homínibus placéntes, sed Deo, qui probat corda nostra.
+1 Th	2	5	Neque enim aliquándo fúimus in sermóne adulatiónis, sicut scitis : neque in occasióne avarítiæ : Deus testis est :
+1 Th	2	6	nec quæréntes ab homínibus glóriam, neque a vobis, neque ab áliis.
+1 Th	2	7	Cum possémus vobis óneri esse ut Christi apóstoli : sed facti sumus párvuli in médio vestrum, tamquam si nutrix fóveat fílios suos.
+1 Th	2	8	Ita desiderántes vos, cúpide volebámus trádere vobis non solum Evangélium Dei, sed étiam ánimas nostras : quóniam caríssimi nobis facti estis.
+1 Th	2	9	Mémores enim estis, fratres, labóris nostri, et fatigatiónis : nocte ac die operántes, ne quem vestrum gravarémus, prædicávimus in vobis Evangélium Dei.
+1 Th	2	10	Vos testes estis, et Deus, quam sancte, et iuste, et sine queréla, vobis, qui credidístis, fúimus :
+1 Th	2	11	sicut scitis, quáliter unumquémque vestrum (sicut pater fílios suos)
+1 Th	2	12	deprecántes vos, et consolántes, testificáti sumus, ut ambularétis digne Deo, qui vocávit vos in suum regnum et glóriam.
+1 Th	2	13	Ideo et nos grátias ágimus Deo sine intermissióne : quóniam cum accepissétis a nobis verbum audítus Dei, accepístis illud, non ut verbum hóminum, sed (sicut est vere) verbum Dei, qui operátur in vobis, qui credidístis :
+1 Th	2	14	vos enim imitatóres facti estis, fratres, ecclesiárum Dei, quæ sunt in Iudǽa in Christo Iesu : quia éadem passi estis et vos a contribúlibus vestris, sicut et ipsi a Iudǽis :
+1 Th	2	15	qui et Dóminum occidérunt Iesum, et prophétas, et nos persecúti sunt, et Deo non placent, et ómnibus homínibus adversántur,
+1 Th	2	16	prohibéntes nos géntibus loqui ut salvæ fiant, ut ímpleant peccáta sua semper : pervénit enim ira Dei super illos usque in finem.
+1 Th	2	17	Nos autem fratres desoláti a vobis ad tempus horæ, aspéctu, non corde, abundántius festinávimus fáciem vestram vidére cum multo desidério :
+1 Th	2	18	quóniam volúimus veníre ad vos, ego quidem Paulus, et semel, et íterum : sed impedívit nos Sátanas.
+1 Th	2	19	Quæ est enim nostra spes aut gáudium, aut coróna glóriæ ? nonne vos ante Dóminum nostrum Iesum Christum estis in advéntu eius ?
+1 Th	2	20	vos enim estis glória nostra et gáudium.
+1 Th	3	1	Propter quod non sustinéntes ámplius, plácuit nobis remanére Athénis, solis :
+1 Th	3	2	et mísimus Timótheum fratrem nostrum, et minístrum Dei in Evangélio Christi, ad confirmándos vos, et exhortándos pro fide vestra :
+1 Th	3	3	ut nemo moveátur in tribulatiónibus istis : ipsi enim scitis quod in hoc pósiti sumus.
+1 Th	3	4	Nam et cum apud vos essémus, prædicebámus vobis passúros nos tribulatiónes, sicut et factum est, et scitis.
+1 Th	3	5	Proptérea et ego ámplius non sústinens, misi ad cognoscéndam fidem vestram : ne forte tentáverit vos is qui tentat, et inánis fiat labor noster.
+1 Th	3	6	Nunc autem veniénte Timótheo ad nos a vobis, et annuntiánte nobis fidem et caritátem vestram, et quia memóriam nostri habétis bonam semper, desiderántes nos vidére, sicut et nos quoque vos :
+1 Th	3	7	ídeo consoláti sumus, fratres, in vobis in omni necessitáte et tribulatióne nostra, per fidem vestram,
+1 Th	3	8	quóniam nunc vívimus, si vos statis in Dómino.
+1 Th	3	9	Quam enim gratiárum actiónem póssumus Deo retribúere pro vobis in omni gáudio, quo gaudémus propter vos ante Deum nostrum,
+1 Th	3	10	nocte ac die abundántius orántes, ut videámus fáciem vestram, et compleámus ea quæ desunt fídei vestræ ?
+1 Th	3	11	Ipse autem Deus, et Pater noster, et Dóminus noster Iesus Christus, dírigat viam nostram ad vos.
+1 Th	3	12	Vos autem Dóminus multíplicet, et abundáre fáciat caritátem vestram in ínvicem, et in omnes, quemádmodum et nos in vobis :
+1 Th	3	13	ad confirmánda corda vestra sine queréla in sanctitáte, ante Deum et Patrem nostrum, in advéntu Dómini nostri Iesu Christi cum ómnibus sanctis eius. Amen.
+1 Th	4	1	De cétero ergo, fratres, rogámus vos et obsecrámus in Dómino Iesu, ut quemádmodum accepístis a nobis quómodo opórteat vos ambuláre, et placére Deo, sic et ambulétis ut abundétis magis.
+1 Th	4	2	Scitis enim quæ præcépta déderim vobis per Dóminum Iesum.
+1 Th	4	3	Hæc est enim volúntas Dei, sanctificátio vestra : ut abstineátis vos a fornicatióne,
+1 Th	4	4	ut sciat unusquísque vestrum vas suum possidére in sanctificatióne, et honóre :
+1 Th	4	5	non in passióne desidérii, sicut et gentes, quæ ignórant Deum :
+1 Th	4	6	et ne quis supergrediátur, neque circumvéniat in negótio fratrem suum : quóniam vindex est Dóminus de his ómnibus, sicut prædíximus vobis, et testificáti sumus.
+1 Th	4	7	Non enim vocávit nos Deus in immundítiam, sed in sanctificatiónem.
+1 Th	4	8	Itaque qui hæc spernit, non hóminem spernit, sed Deum : qui étiam dedit Spíritum suum Sanctum in nobis.
+1 Th	4	9	De caritáte autem fraternitátis non necésse habémus scribére vobis : ipsi enim vos a Deo didicístis ut diligátis ínvicem.
+1 Th	4	10	Etenim illud fácitis in omnes fratres in univérsa Macedónia. Rogámus autem vos, fratres, ut abundétis magis,
+1 Th	4	11	et óperam detis ut quiéti sitis, et ut vestrum negótium agátis, et operémini mánibus vestris, sicut præcépimus vobis :
+1 Th	4	12	et ut honéste ambulétis ad eos qui foris sunt : et nullíus áliquid desiderétis.
+1 Th	4	13	Nólumus autem vos ignoráre fratres de dormiéntibus, ut non contristémini sicut et céteri, qui spem non habent.
+1 Th	4	14	Si enim crédimus quod Iesus mórtuus est, et resurréxit : ita et Deus eos qui dormiérunt per Iesum, addúcet cum eo.
+1 Th	4	15	Hoc enim vobis dícimus in verbo Dómini, quia nos, qui vívimus, qui resídui sumus in advéntum Dómini, non præveniémus eos qui dormiérunt.
+1 Th	4	16	Quóniam ipse Dóminus in iussu, et in voce archángeli, et in tuba Dei descéndet de cælo : et mórtui, qui in Christo sunt, resúrgent primi.
+1 Th	4	17	Deínde nos, qui vívimus, qui relínquimur, simul rapiémur cum illis in núbibus óbviam Christo in áera, et sic semper cum Dómino érimus.
+1 Th	4	18	Itaque consolámini ínvicem in verbis istis.
+1 Th	5	1	De tempóribus autem, et moméntis, fratres, non indigétis ut scribámus vobis.
+1 Th	5	2	Ipsi enim diligénter scitis quia dies Dómini, sicut fur in nocte, ita véniet :
+1 Th	5	3	cum enim díxerint : Pax et secúritas : tunc repentínus eis supervéniet intéritus, sicut dolor in útero habénti, et non effúgient.
+1 Th	5	4	Vos autem, fratres, non estis in ténebris, ut vos dies illa tamquam fur comprehéndat :
+1 Th	5	5	omnes enim vos fílii lucis estis, et fílii díei : non sumus noctis, neque tenebrárum.
+1 Th	5	6	Igitur non dormiámus sicut et céteri, sed vigilémus, et sóbrii simus.
+1 Th	5	7	Qui enim dórmiunt, nocte dórmiunt : et qui ébrii sunt, nocte ébrii sunt.
+1 Th	5	8	Nos autem, qui díei sumus, sóbrii simus, indúti lorícam fídei et caritátis, et gáleam spem salútis :
+1 Th	5	9	quóniam non pósuit nos Deus in iram, sed in acquisitiónem salútis per Dóminum nostrum Iesum Christum,
+1 Th	5	10	qui mórtuus est pro nobis : ut sive vigilémus, sive dormiámus, simul cum illo vivámus.
+1 Th	5	11	Propter quod consolámini ínvicem, et ædificáte altérutrum, sicut et fácitis.
+1 Th	5	12	Rogámus autem vos, fratres, ut novéritis eos qui labórant inter vos, et præsunt vobis in Dómino, et monent vos,
+1 Th	5	13	ut habeátis illos abundántius in caritáte propter opus illórum : pacem habéte cum eis.
+1 Th	5	14	Rogámus autem vos, fratres, corrípite inquiétos, consolámini pusillánimes, suscípite infírmos, patiéntes estóte ad omnes.
+1 Th	5	15	Vidéte ne quis malum pro malo álicui reddat : sed semper quod bonum est sectámini in ínvicem, et in omnes.
+1 Th	5	16	Semper gaudéte.
+1 Th	5	17	Sine intermissióne oráte.
+1 Th	5	18	In ómnibus grátias ágite : hæc est enim volúntas Dei in Christo Iesu in ómnibus vobis.
+1 Th	5	19	Spíritum nolíte extínguere.
+1 Th	5	20	Prophetías nolíte spérnere.
+1 Th	5	21	Omnia autem probáte : quod bonum est tenéte.
+1 Th	5	22	Ab omni spécie mala abstinéte vos.
+1 Th	5	23	Ipse autem Deus pacis sanctíficet vos per ómnia : ut ínteger spíritus vester, et ánima, et corpus sine queréla in advéntu Dómini nostri Iesu Christi servétur.
+1 Th	5	24	Fidélis est, qui vocávit vos : qui étiam fáciet.
+1 Th	5	25	Fratres, oráte pro nobis.
+1 Th	5	26	Salutáte fratres omnes in ósculo sancto.
+1 Th	5	27	Adiúro vos per Dóminum ut legátur epístola hæc ómnibus sanctis frátribus.
+1 Th	5	28	Grátia Dómini nostri Iesu Christi vobíscum. Amen.
+2 Th	1	1	Paulus, et Sylvánus, et Timótheus, ecclésiæ Thessalonicénsium in Deo Patre nostro, et Dómino Iesu Christo.
+2 Th	1	2	Grátia vobis, et pax a Deo Patre nostro, et Dómino Iesu Christo.
+2 Th	1	3	Grátias ágere debémus semper Deo pro vobis, fratres, ita ut dignum est, quóniam supercréscit fides vestra, et abúndat cáritas uniuscuiúsque vestrum in ínvicem :
+2 Th	1	4	ita ut et nos ipsi in vobis gloriémur in ecclésiis Dei, pro patiéntia vestra, et fide, et in ómnibus persecutiónibus vestris, et tribulatiónibus, quas sustinétis
+2 Th	1	5	in exémplum iusti iudícii Dei, ut digni habeámini in regno Dei, pro quo et patímini.
+2 Th	1	6	Si tamen iustum est apud Deum retribúere tribulatiónem iis qui vos tríbulant :
+2 Th	1	7	et vobis, qui tribulámini, réquiem nobíscum in revelatióne Dómini Iesu de cælo cum ángelis virtútis eius,
+2 Th	1	8	in flamma ignis dantis vindíctam iis qui non novérunt Deum, et qui non obédiunt Evangélio Dómini nostri Iesu Christi,
+2 Th	1	9	qui pœnas dabunt in intéritu ætérnas a fácie Dómini, et a glória virtútis eius :
+2 Th	1	10	cum vénerit glorificári in sanctis suis, et admirábilis fíeri in ómnibus, qui credidérunt, quia créditum est testimónium nostrum super vos in die illo.
+2 Th	1	11	In quo étiam orámus semper pro vobis : ut dignétur vos vocatióne sua Deus noster, et ímpleat omnem voluntátem bonitátis, et opus fídei in virtúte,
+2 Th	1	12	ut clarificétur nomen Dómini nostri Iesu Christi in vobis, et vos in illo secúndum grátiam Dei nostri, et Dómini Iesu Christi.
+2 Th	2	1	Rogámus autem vos, fratres, per advéntum Dómini nostri Iesu Christi, et nostræ congregatiónis in ipsum :
+2 Th	2	2	ut non cito moveámini a vestro sensu, neque terreámini, neque per spíritum, neque per sermónem, neque per epístolam tamquam per nos missam, quasi instet dies Dómini.
+2 Th	2	3	Ne quis vos sedúcat ullo modo : quóniam nisi vénerit discéssio primum, et revelátus fúerit homo peccáti fílius perditiónis,
+2 Th	2	4	qui adversátur, et extóllitur supra omne, quod dícitur Deus, aut quod cólitur, ita ut in templo Dei sédeat osténdens se tamquam sit Deus.
+2 Th	2	5	Non retinétis quod cum adhuc essem apud vos, hæc dicébam vobis ?
+2 Th	2	6	et nunc quid detíneat scitis, ut revelétur in suo témpore.
+2 Th	2	7	Nam mystérium iam operátur iniquitátis : tantum ut qui tenet nunc, téneat, donec de médio fiat.
+2 Th	2	8	Et tunc revelábitur ille iníquus, quem Dóminus Iesus interfíciet spíritu oris sui, et déstruet illustratióne advéntus sui eum :
+2 Th	2	9	cuius est advéntus secúndum operatiónem Sátanæ in omni virtúte, et signis, et prodígiis mendácibus,
+2 Th	2	10	et in omni seductióne iniquitátis iis qui péreunt : eo quod caritátem veritátis non recepérunt ut salvi fíerent.
+2 Th	2	11	Ideo mittet illis Deus operatiónem erróris ut credant mendácio,
+2 Th	2	12	ut iudicéntur omnes qui non credidérunt veritáti, sed consensérunt iniquitáti.
+2 Th	2	13	Nos autem debémus grátias ágere Deo semper pro vobis, fratres dilécti a Deo, quod elégerit vos Deus primítias in salútem in sanctificatióne spíritus, et in fide veritátis :
+2 Th	2	14	in qua et vocávit vos per Evangélium nostrum in acquisitiónem glóriæ Dómini nostri Iesu Christi.
+2 Th	2	15	Itaque fratres, state : et tenéte traditiónes, quas didicístis, sive per sermónem, sive per epístolam nostram.
+2 Th	2	16	Ipse autem Dóminus noster Iesus Christus, et Deus et Pater noster, qui diléxit nos, et dedit consolatiónem ætérnam, et spem bonam in grátia,
+2 Th	2	17	exhortétur corda vestra, et confírmet in omni ópere et sermóne bono.
+2 Th	3	1	De cétero fratres, oráte pro nobis ut sermo Dei currat, et clarificétur, sicut et apud vos :
+2 Th	3	2	et ut liberémur ab importúnis, et malis homínibus : non enim ómnium est fides.
+2 Th	3	3	Fidélis autem Deus est, qui confirmábit vos, et custódiet a malo.
+2 Th	3	4	Confídimus autem de vobis, in Dómino, quóniam quæ præcépimus, et fácitis, et faciétis.
+2 Th	3	5	Dóminus autem dírigat corda vestra in caritáte Dei, et patiéntia Christi.
+2 Th	3	6	Denuntiámus autem vobis, fratres, in nómine Dómini nostri Iesu Christi, ut subtrahátis vos ab omni fratre ambulánte inordináte, et non secúndum traditiónem, quam accepérunt a nobis.
+2 Th	3	7	Ipsi enim scitis quemádmodum opórteat imitári nos : quóniam non inquiéti fúimus inter vos :
+2 Th	3	8	neque gratis panem manducávimus ab áliquo, sed in labóre, et in fatigatióne, nocte et die operántes, ne quem vestrum gravarémus.
+2 Th	3	9	Non quasi non habuérimus potestátem, sed ut nosmetípsos formam darémus vobis ad imitándum nos.
+2 Th	3	10	Nam et cum essémus apud vos, hoc denuntiabámus vobis : quóniam si quis non vult operári, nec mandúcet.
+2 Th	3	11	Audívimus enim inter vos quosdam ambuláre inquiéte, nihil operántes, sed curióse agéntes.
+2 Th	3	12	Iis autem, qui eiúsmodi sunt, denuntiémus, et obsecrámus in Dómino Iesu Christo, ut cum siléntio operántes, suum panem mandúcent.
+2 Th	3	13	Vos autem, fratres, nolíte defícere benefaciéntes.
+2 Th	3	14	Quod si quis non obédit verbo nostro per epístolam, hunc notáte, et ne commisceámini cum illo ut confundátur :
+2 Th	3	15	et nolíte quasi inimícum existimáre, sed corrípite ut fratrem.
+2 Th	3	16	Ipse autem Dóminus pacis det vobis pacem sempitérnam in omni loco. Dóminus sit cum ómnibus vobis.
+2 Th	3	17	Salutátio, mea manu Pauli : quod est signum in omni epístola, ita scribo.
+2 Th	3	18	Grátia Dómini nostri Iesu Christi cum ómnibus vobis. Amen.
+1 Tim	1	1	Paulus Apóstolus Iesu Christi secúndum impérium Dei Salvatóris nostri, et Christi Iesu spei nostræ,
+1 Tim	1	2	Timótheo dilécto fílio in fide. Grátia, misericórdia, et pax a Deo Patre, et Christo Iesu Dómino nostro.
+1 Tim	1	3	Sicut rogávi te ut remanéres Ephesi cum irem in Macedóniam, ut denuntiáres quibúsdam ne áliter docérent,
+1 Tim	1	4	neque inténderent fábulis, et genealógiis interminátis : quæ quæstiónes præstant magis quam ædificatiónem Dei, quæ est in fide.
+1 Tim	1	5	Finis autem præcépti est cáritas de corde puro, et consciéntia bona, et fide non ficta.
+1 Tim	1	6	A quibus quidam aberrántes, convérsi sunt in vanilóquium,
+1 Tim	1	7	voléntes esse legis doctóres, non intelligéntes neque quæ loquúntur, neque de quibus affírmant.
+1 Tim	1	8	Scimus autem quia bona est lex si quis ea legítime utátur :
+1 Tim	1	9	sciens hoc quia lex iusto non est pósita, sed iniústis, et non súbditis, ímpiis, et peccatóribus, scelerátis, et contaminátis, parricídis, et matricídis, homicídis,
+1 Tim	1	10	fornicáriis, masculórum concubitóribus, plagiáriis, mendácibus, et periúris, et si quid aliud sanæ doctrínæ adversátur,
+1 Tim	1	11	quæ est secúndum Evangélium glóriæ beáti Dei, quod créditum est mihi.
+1 Tim	1	12	Grátias ago ei, qui me confortávit, Christo Iesu Dómino nostro, quia fidélem me existimávit, ponens in ministério :
+1 Tim	1	13	qui prius blasphémus fui, et persecútor, et contumeliósus : sed misericórdiam Dei consecútus sum, quia ignórans feci in incredulitáte.
+1 Tim	1	14	Superabundávit autem grátia Dómini nostri cum fide, et dilectióne, quæ est in Christo Iesu.
+1 Tim	1	15	Fidélis sermo, et omni acceptióne dignus : quod Christus Iesus venit in hunc mundum peccatóres salvos fácere, quorum primus ego sum.
+1 Tim	1	16	Sed ídeo misericórdiam consecútus sum : ut in me primo osténderet Christus Iesus omnem patiéntiam ad informatiónem eórum, qui creditúri sunt illi, in vitam ætérnam.
+1 Tim	1	17	Regi autem sæculórum immortáli, invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.
+1 Tim	1	18	Hoc præcéptum comméndo tibi, fili Timóthee, secúndum præcedéntes in te prophetías, ut mílites in illis bonam milítiam,
+1 Tim	1	19	habens fidem, et bonam consciéntiam, quam quidam repelléntes, circa fidem naufragavérunt :
+1 Tim	1	20	ex quibus est Hymenǽus, et Alexánder : quos trádidi Sátanæ, ut discant non blasphemáre.
+1 Tim	2	1	Obsecro ígitur primum ómnium fíeri obsecratiónes, oratiónes, postulatiónes, gratiárum actiónes, pro ómnibus homínibus :
+1 Tim	2	2	pro régibus, et ómnibus qui in sublimitáte sunt, ut quiétam et tranquíllam vitam agámus in omni pietáte, et castitáte :
+1 Tim	2	3	hoc enim bonum est, et accéptum coram Salvatóre nostro Deo,
+1 Tim	2	4	qui omnes hómines vult salvos fíeri, et ad agnitiónem veritátis veníre.
+1 Tim	2	5	Unus enim Deus, unus et mediátor Dei et hóminum homo Christus Iesus :
+1 Tim	2	6	qui dedit redemptiónem semetípsum pro ómnibus, testimónium tempóribus suis :
+1 Tim	2	7	in quo pósitus sum ego prædicátor, et Apóstolus (veritátem dico, non méntior) doctor géntium in fide, et veritáte.
+1 Tim	2	8	Volo ergo viros oráre in omni loco, levántes puras manus sine ira et disceptatióne.
+1 Tim	2	9	Simíliter et mulíeres in hábitu ornáto, cum verecúndia et sobrietáte ornántes se, et non in tortis crínibus, aut auro, aut margarítas, vel veste pretiósa :
+1 Tim	2	10	sed quod decet mulíeres, promitténtes pietátem per ópera bona.
+1 Tim	2	11	Múlier in siléntio discat cum omni subiectióne.
+1 Tim	2	12	Docére autem mulíeri non permítto, neque dominári in virum : sed esse in siléntio.
+1 Tim	2	13	Adam enim primus formátus est : deínde Heva :
+1 Tim	2	14	et Adam non est sedúctus : múlier autem sedúcta in prævaricatióne fuit.
+1 Tim	2	15	Salvábitur autem per filiórum generatiónem, si permánserit in fide, et dilectióne, et sanctificatióne cum sobrietáte.
+1 Tim	3	1	Fidélis sermo : si quis episcopátum desíderat, bonum opus desíderat.
+1 Tim	3	2	Opórtet ergo epíscopum irreprehensíbilem esse, uníus uxóris virum, sóbrium, prudéntem, ornátum, pudícum, hospitálem, doctórem,
+1 Tim	3	3	non vinoléntum, non percussórem, sed modéstum : non litigiósum, non cúpidum, sed
+1 Tim	3	4	suæ dómui bene præpósitum : fílios habéntem súbditos cum omni castitáte.
+1 Tim	3	5	Si quis autem dómui suæ præésse nescit, quómodo ecclésiæ Dei diligéntiam habébit ?
+1 Tim	3	6	Non neóphytum : ne in supérbiam elátus, in iudícium íncidat diáboli.
+1 Tim	3	7	Opórtet autem illum et testimónium habére bonum ab iis qui foris sunt, ut non in oppróbrium íncidat, et in láqueum diáboli.
+1 Tim	3	8	Diáconos simíliter pudícos, non bilíngues, non multo vino déditos, non turpe lucrum sectántes :
+1 Tim	3	9	habéntes mystérium fídei in consciéntia pura.
+1 Tim	3	10	Et hi autem probéntur primum : et sic minístrent, nullum crimen habéntes.
+1 Tim	3	11	Mulíeres simíliter pudícas, non detrahéntes, sóbrias, fidéles in ómnibus.
+1 Tim	3	12	Diáconi sint uníus uxóris viri, qui fíliis suis bene præsint, et suis dómibus.
+1 Tim	3	13	Qui enim bene ministráverint, gradum bonum sibi acquírent, et multam fidúciam in fide, quæ est in Christo Iesu.
+1 Tim	3	14	Hæc tibi scribo, sperans me ad te veníre cito :
+1 Tim	3	15	si autem tardávero, ut scias quómodo opórteat te in domo Dei conversári, quæ est ecclésia Dei vivi, colúmna et firmaméntum veritátis.
+1 Tim	3	16	Et maniféste magnum est pietátis sacraméntum, quod manifestátum est in carne, iustificátum est in spíritu, appáruit ángelis, prædicátum est géntibus, créditum est in mundo, assúmptum est in glória.
+1 Tim	4	1	Spíritus autem maniféste dicit, quia in novíssimis tempóribus discédent quidam a fide, attendéntes spirítibus erróris, et doctrínis dæmoniórum,
+1 Tim	4	2	in hypócrisi loquéntium mendácium, et cauteriátam habéntium suam consciéntiam,
+1 Tim	4	3	prohibéntium núbere, abstinére a cibis, quod Deus creávit ad percipiéndum cum gratiárum actióne fidélibus, et iis qui cognovérunt veritátem.
+1 Tim	4	4	Quia omnis creatúra Dei bona est, et nihil reiiciéndum quod cum gratiárum actióne percípitur :
+1 Tim	4	5	sanctificátur enim per verbum Dei, et oratiónem.
+1 Tim	4	6	Hæc propónens frátribus, bonus eris miníster Christi Iesu enutrítus verbis fídei, et bonæ doctrínæ, quam assecútus es.
+1 Tim	4	7	Inéptas autem, et aníles fábulas devíta : exérce autem teípsum ad pietátem.
+1 Tim	4	8	Nam corporális exercitátio, ad módicum útilis est : píetas autem ad ómnia útilis est, promissiónem habens vitæ, quæ nunc est, et futúræ.
+1 Tim	4	9	Fidélis sermo, et omni acceptióne dignus.
+1 Tim	4	10	In hoc enim laborámus, et maledícimur, quia sperámus in Deum vivum, qui est Salvátor ómnium hóminum, máxime fidélium.
+1 Tim	4	11	Prǽcipe hæc, et doce.
+1 Tim	4	12	Nemo adolescéntiam tuam contémnat : sed exémplum esto fidélium in verbo, in conversatióne, in caritáte, in fide, in castitáte.
+1 Tim	4	13	Dum vénio, atténde lectióni, exhortatióni, et doctrínæ.
+1 Tim	4	14	Noli neglígere grátiam, quæ in te est, quæ data est tibi per prophetíam, cum impositióne mánuum presbytérii.
+1 Tim	4	15	Hæc meditáre, in his esto : ut proféctus tuus maniféstus sit ómnibus.
+1 Tim	4	16	Atténde tibi, et doctrínæ : insta in illis. Hoc enim fáciens, et teípsum salvum fácies, et eos qui te áudiunt.
+1 Tim	5	1	Seniórem ne increpáveris, sed óbsecra ut patrem : iúvenes, ut fratres :
+1 Tim	5	2	anus, ut matres : iuvénculas, ut soróres in omni castitáte :
+1 Tim	5	3	víduas honóra, quæ vere víduæ sunt.
+1 Tim	5	4	Si qua autem vídua fílios, aut nepótes habet : discat primum domum suam régere, et mútuam vicem réddere paréntibus : hoc enim accéptum est coram Deo.
+1 Tim	5	5	Quæ autem vere vídua est, et desoláta, speret in Deum, et instet obsecratiónibus, et oratiónibus nocte ac die.
+1 Tim	5	6	Nam quæ in delíciis est, vivens mórtua est.
+1 Tim	5	7	Et hoc prǽcipe, ut irreprehensíbiles sint.
+1 Tim	5	8	Si quis autem suórum, et máxime domesticórum, curam non habet, fidem negávit, et est infidéli detérior.
+1 Tim	5	9	Vídua eligátur non minus sexagínta annórum, quæ fúerit uníus viri uxor,
+1 Tim	5	10	in opéribus bonis testimónium habens, si fílios educávit, si hospítio recépit, si sanctórum pedes lavit, si tribulatiónem patiéntibus subministrávit, si omne opus bonum subsecúta est.
+1 Tim	5	11	Adolescentióres autem víduas devíta : cum enim luxuriátæ fúerint in Christo, núbere volunt :
+1 Tim	5	12	habéntes damnatiónem, quia primam fidem írritam fecérunt ;
+1 Tim	5	13	simul autem et otiósæ discunt circuíre domos : non solum otiósæ, sed et verbósæ, et curiósæ, loquéntes quæ non opórtet.
+1 Tim	5	14	Volo ergo iunióres núbere, fílios procreáre, matresfamílias esse, nullam occasiónem dare adversário maledícti grátia.
+1 Tim	5	15	Iam enim quædam convérsæ sunt retro Sátanam.
+1 Tim	5	16	Si quis fidélis habet víduas, subminístret illis, et non gravétur ecclésia : ut iis quæ vere víduæ sunt, suffíciat.
+1 Tim	5	17	Qui bene præsunt presbýteri, dúplici honóre digni habeántur : máxime qui labórant in verbo et doctrína.
+1 Tim	5	18	Dicit enim Scriptúra : Non alligábis os bovi trituránti. Et : Dignus est operárius mercéde sua.
+1 Tim	5	19	Advérsus presbýterum accusatiónem noli recípere, nisi sub duóbus aut tribus téstibus.
+1 Tim	5	20	Peccántes coram ómnibus árgue : ut et céteri timórem hábeant.
+1 Tim	5	21	Testor coram Deo et Christo Iesu, et eléctis ángelis, ut hæc custódias sine præiudício, nihil fáciens in álteram partem declinándo.
+1 Tim	5	22	Manus cito némini imposúeris, neque communicáveris peccátis aliénis. Teípsum castum custódi.
+1 Tim	5	23	Noli adhuc aquam bíbere, sed módico vino útere propter stómachum tuum, et frequéntes tuas infirmitátes.
+1 Tim	5	24	Quorúmdam hóminum peccáta manifésta sunt, præcedéntia ad iudícium : quosdam autem et subsequúntur.
+1 Tim	5	25	Simíliter et facta bona, manifésta sunt : et quæ áliter se habent, abscóndi non possunt.
+1 Tim	6	1	Quicúmque sunt sub iugo servi, dóminos suos omni honóre dignos arbitréntur, ne nomen Dómini et doctrína blasphemétur.
+1 Tim	6	2	Qui autem fidéles habent dóminos, non contémnant, quia fratres sunt : sed magis sérviant, quia fidéles sunt et dilécti, qui benefícii partícipes sunt. Hæc doce, et exhortáre.
+1 Tim	6	3	Si quis áliter docet, et non acquiéscit sanis sermónibus Dómini nostri Iesu Christi, et ei, quæ secúndum pietátem est, doctrínæ :
+1 Tim	6	4	supérbus est, nihil sciens, sed languens circa quæstiónes, et pugnas verbórum : ex quibus oriúntur invídiæ, contentiónes, blasphémiæ, suspiciónes malæ,
+1 Tim	6	5	conflictatiónes hóminum mente corruptórum, et qui veritáte priváti sunt, existimántium quæstum esse pietátem.
+1 Tim	6	6	Est autem quæstus magnus píetas cum sufficiéntia.
+1 Tim	6	7	Nihil enim intúlimus in hunc mundum : haud dúbium quod nec auférre quid póssumus.
+1 Tim	6	8	Habéntes autem aliménta, et quibus tegámur, his conténti simus.
+1 Tim	6	9	Nam qui volunt dívites fíeri, íncidunt in tentatiónem, et in láqueum diáboli, et desidéria multa inutília, et nocíva, quæ mergunt hómines in intéritum et perditiónem.
+1 Tim	6	10	Radix enim ómnium malórum est cupíditas : quam quidam appeténtes erravérunt a fide, et inseruérunt se dolóribus multis.
+1 Tim	6	11	Tu autem, o homo Dei, hæc fuge : sectáre vero iustítiam, pietátem, fidem, caritátem, patiéntiam, mansuetúdinem.
+1 Tim	6	12	Certa bonum certámen fídei, apprehénde vitam ætérnam, in qua vocátus es, et conféssus bonam confessiónem coram multis téstibus.
+1 Tim	6	13	Præcípio tibi coram Deo, qui vivíficat ómnia, et Christo Iesu, qui testimónium réddidit sub Póntio Piláto, bonam confessiónem,
+1 Tim	6	14	ut serves mandátum sine mácula, irreprehensíbile usque in advéntum Dómini nostri Iesu Christi,
+1 Tim	6	15	quem suis tempóribus osténdet beátus et solus potens, Rex regum, et Dóminus dominántium :
+1 Tim	6	16	qui solus habet immortalitátem, et lucem inhábitat inaccessíbilem : quem nullus hóminum vidit, sed nec vidére potest : cui honor, et impérium sempitérnum. Amen.
+1 Tim	6	17	Divítibus huius sǽculi prǽcipe non sublíme sápere, neque speráre in incérto divitiárum, sed in Deo vivo (qui præstat nobis ómnia abúnde ad fruéndum)
+1 Tim	6	18	bene ágere, dívites fíeri in bonis opéribus, fácile tribúere, communicáre,
+1 Tim	6	19	thesaurizáre sibi fundaméntum bonum in futúrum, ut apprehéndant veram vitam.
+1 Tim	6	20	O Timóthee, depósitum custódi, devítans profánas vocum novitátes, et oppositiónes falsi nóminis sciéntiæ,
+1 Tim	6	21	quam quidam promitténtes, circa fidem excidérunt. Grátia tecum. Amen.
