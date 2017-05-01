@@ -6298,7 +6298,7 @@ Ph	4	4	Gaudéte in Dómino semper : íterum dico gaudéte.
 Ph	4	5	Modéstia vestra nota sit ómnibus homínibus : Dóminus prope est.
 Ph	4	6	Nihil sollíciti sitis : sed in omni oratióne, et obsecratióne, cum gratiárum actióne petitiónes vestræ innotéscant apud Deum.
 Ph	4	7	Et pax Dei, quæ exúperat omnem sensum, custódiat corda vestra, et intelligéntias vestras in Christo Iesu.
-Ph	4	8	De cétero fratres, quæcúmque sunt vera, quæcúmque pudíca, quæcúmque iusta, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, siqua virtus, siqua laus disciplínæ, hæc cogitáte.
+Ph	4	8	De cétero fratres, quæcúmque sunt vera, quæcúmque púdica, quæcúmque iusta, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, siqua virtus, siqua laus disciplínæ, hæc cogitáte.
 Ph	4	9	Quæ et didicístis, et accepístis, et audístis, et vidístis in me, hæc ágite : et Deus pacis erit vobíscum.
 Ph	4	10	Gavísus sum autem in Dómino veheménter, quóniam tandem aliquándo refloruístis pro me sentíre, sicut et sentiebátis : occupáti autem erátis.
 Ph	4	11	Non quasi propter penúriam dico : ego enim dídici, in quibus sum, suffíciens esse.
@@ -6581,16 +6581,16 @@ Col	4	18	Salutátio, mea manu Pauli. Mémores estóte vinculórum meórum. Grát
 1 Tim	2	14	et Adam non est sedúctus : múlier autem sedúcta in prævaricatióne fuit.
 1 Tim	2	15	Salvábitur autem per filiórum generatiónem, si permánserit in fide, et dilectióne, et sanctificatióne cum sobrietáte.
 1 Tim	3	1	Fidélis sermo : si quis episcopátum desíderat, bonum opus desíderat.
-1 Tim	3	2	Opórtet ergo epíscopum irreprehensíbilem esse, uníus uxóris virum, sóbrium, prudéntem, ornátum, pudícum, hospitálem, doctórem,
+1 Tim	3	2	Opórtet ergo epíscopum irreprehensíbilem esse, uníus uxóris virum, sóbrium, prudéntem, ornátum, púdicum, hospitálem, doctórem,
 1 Tim	3	3	non vinoléntum, non percussórem, sed modéstum : non litigiósum, non cúpidum, sed
 1 Tim	3	4	suæ dómui bene præpósitum : fílios habéntem súbditos cum omni castitáte.
 1 Tim	3	5	Si quis autem dómui suæ præésse nescit, quómodo ecclésiæ Dei diligéntiam habébit ?
 1 Tim	3	6	Non neóphytum : ne in supérbiam elátus, in iudícium íncidat diáboli.
 1 Tim	3	7	Opórtet autem illum et testimónium habére bonum ab iis qui foris sunt, ut non in oppróbrium íncidat, et in láqueum diáboli.
-1 Tim	3	8	Diáconos simíliter pudícos, non bilíngues, non multo vino déditos, non turpe lucrum sectántes :
+1 Tim	3	8	Diáconos simíliter púdicos, non bilíngues, non multo vino déditos, non turpe lucrum sectántes :
 1 Tim	3	9	habéntes mystérium fídei in consciéntia pura.
 1 Tim	3	10	Et hi autem probéntur primum : et sic minístrent, nullum crimen habéntes.
-1 Tim	3	11	Mulíeres simíliter pudícas, non detrahéntes, sóbrias, fidéles in ómnibus.
+1 Tim	3	11	Mulíeres simíliter púdicas, non detrahéntes, sóbrias, fidéles in ómnibus.
 1 Tim	3	12	Diáconi sint uníus uxóris viri, qui fíliis suis bene præsint, et suis dómibus.
 1 Tim	3	13	Qui enim bene ministráverint, gradum bonum sibi acquírent, et multam fidúciam in fide, quæ est in Christo Iesu.
 1 Tim	3	14	Hæc tibi scribo, sperans me ad te veníre cito :
@@ -6741,3 +6741,49 @@ Col	4	18	Salutátio, mea manu Pauli. Mémores estóte vinculórum meórum. Grát
 2 Tim	4	20	Erástus remánsit Corínthi. Tróphimum autem relíqui infírmum Miléti.
 2 Tim	4	21	Festína ante híemem veníre. Salútant te Eúbulus, et Pudens, et Linus, et Cláudia, et fratres omnes.
 2 Tim	4	22	Dóminus Iesus Christus cum spíritu tuo. Grátia vobíscum. Amen.
+Tit	1	1	Paulus servus Dei, Apóstolus autem Iesu Christi secúndum fidem electórum Dei, et agnitiónem veritátis, quæ secúndum pietátem est
+Tit	1	2	in spem vitæ ætérnæ, quam promísit qui non mentítur, Deus, ante témpora sæculária :
+Tit	1	3	manifestávit autem tempóribus suis verbum suum in prædicatióne, quæ crédita est mihi secúndum præcéptum Salvatóris nostri Dei :
+Tit	1	4	Tito dilécto fílio secúndum commúnem fidem, grátia, et pax a Deo Patre, et Christo Iesu Salvatóre nostro.
+Tit	1	5	Huius rei grátia relíqui te Cretæ, ut ea quæ desunt, córrigas, et constítuas per civitátes presbýteros, sicut et ego dispósui tibi,
+Tit	1	6	si quis sine crímine est, uníus uxóris vir, fílios habens fidéles, non in accusatióne luxúriæ, aut non súbditos.
+Tit	1	7	Opórtet enim epíscopum sine crímine esse, sicut Dei dispensatórem : non supérbum, non iracúndum, non vinoléntum, non percussórem, non turpis lucri cúpidum :
+Tit	1	8	sed hospitálem, benígnum, sóbrium, iustum, sanctum, continéntem,
+Tit	1	9	amplecténtem eum, qui secúndum doctrínam est, fidélem sermónem : ut potens sit exhortári in doctrína sana, et eos qui contradícunt, argúere.
+Tit	1	10	Sunt enim multi étiam inobediéntes, vaníloqui, et seductóres : máxime qui de circumcisióne sunt :
+Tit	1	11	quos opórtet redárgui : qui univérsas domos subvértunt, docéntes quæ non opórtet, turpis lucri grátia.
+Tit	1	12	Dixit quidam ex illis, próprius ipsórum prophéta : Creténses semper mendáces, malæ béstiæ, ventres pigri.
+Tit	1	13	Testimónium hoc verum est. Quam ob causam íncrepa illos dure, ut sani sint in fide,
+Tit	1	14	non intendéntes Iudáicis fábulis, et mandátis hóminum, aversántium se a veritáte.
+Tit	1	15	Omnia munda mundis : coinquinátis autem et infidélibus, nihil est mundum, sed inquinátæ sunt eórum et mens et consciéntia.
+Tit	1	16	Confiténtur se nosse Deum, factis autem negant : cum sint abomináti, et incredíbiles, et ad omne opus bonum réprobi.
+Tit	2	1	Tu autem lóquere quæ decent sanam doctrínam :
+Tit	2	2	senes ut sóbrii sint, púdici, prudéntes, sani in fide, in dilectióne, in patiéntia :
+Tit	2	3	anus simíliter in hábitu sancto, non criminatríces, non multo vino serviéntes, bene docéntes :
+Tit	2	4	ut prudéntiam dóceant adolescéntulas, ut viros suos ament, fílios suos díligant,
+Tit	2	5	prudéntes, castas, sóbrias, domus curam habéntes, benígnas, súbditas viris suis, ut non blasphemétur verbum Dei.
+Tit	2	6	Iúvenes simíliter hortáre ut sóbrii sint.
+Tit	2	7	In ómnibus teípsum præbe exémplum bonórum óperum, in doctrína, in integritáte, in gravitáte,
+Tit	2	8	verbum sanum, irreprehensíbile : ut is qui ex advérso est, vereátur, nihil habens malum dícere de nobis.
+Tit	2	9	Servos dóminis suis súbditos esse, in ómnibus placéntes, non contradicéntes,
+Tit	2	10	non fraudántes, sed in ómnibus fidem bonam ostendéntes : ut doctrínam Salvatóris nostri Dei ornent in ómnibus.
+Tit	2	11	Appáruit enim grátia Dei Salvatóris nostri ómnibus homínibus,
+Tit	2	12	erúdiens nos, ut abnegántes impietátem, et sæculária desidéria, sóbrie, et iuste, et pie vivámus in hoc sǽculo,
+Tit	2	13	exspectántes beátam spem, et advéntum glóriæ magni Dei, et Salvatóris nostri Iesu Christi :
+Tit	2	14	qui dedit semetípsum pro nobis, ut nos redímeret ab omni iniquitáte, et mundáret sibi pópulum acceptábilem, sectatórem bonórum óperum.
+Tit	2	15	Hæc lóquere, et exhortáre, et árgue cum omni império. Nemo te contémnat.
+Tit	3	1	Admone illos princípibus, et potestátibus súbditos esse, dicto obedíre, ad omne opus bonum parátos esse :
+Tit	3	2	néminem blasphemáre, non litigiósos esse, sed modéstos, omnem ostendéntes mansuetúdinem ad omnes hómines.
+Tit	3	3	Erámus enim aliquándo et nos insipiéntes, incréduli, errántes, serviéntes desidériis, et voluptátibus váriis, in malítia et invídia agéntes, odíbiles, odiéntes ínvicem.
+Tit	3	4	Cum autem benígnitas et humánitas appáruit Salvatóris nostri Dei,
+Tit	3	5	non ex opéribus iustítiæ, quæ fécimus nos, sed secúndum suam misericórdiam salvos nos fecit per lavácrum regeneratiónis et renovatiónis Spíritus Sancti,
+Tit	3	6	quem effúdit in nos abúnde per Iesum Christum Salvatórem nostrum :
+Tit	3	7	ut iustificáti grátia ipsíus, hærédes simus secúndum spem vitæ ætérnæ.
+Tit	3	8	Fidélis sermo est : et de his volo te confirmáre : ut curent bonis opéribus præésse qui credunt Deo. Hæc sunt bona, et utília homínibus.
+Tit	3	9	Stultas autem quæstiónes, et genealógias, et contentiónes, et pugnas legis devíta : sunt enim inútiles, et vanæ.
+Tit	3	10	Hæréticum hóminem post unam et secúndam correptiónem devíta :
+Tit	3	11	sciens quia subvérsus est, qui eiúsmodi est, et delínquit, cum sit próprio iudício condemnátus.
+Tit	3	12	Cum mísero ad te Artemam, aut Týchicum, festína ad me veníre Nicópolim : ibi enim státui hiemáre.
+Tit	3	13	Zenam legisperítum et Apóllo sollícite præmítte, ut nihil illis desit.
+Tit	3	14	Discant autem et nostri bonis opéribus præésse ad usus necessários : ut non sint infructuósi.
+Tit	3	15	Salútant te qui mecum sunt omnes : salúta eos qui nos amant in fide. Grátia Dei cum ómnibus vobis. Amen.
