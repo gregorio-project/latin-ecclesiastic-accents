@@ -93,7 +93,10 @@ These rules show how to determine the quantity of a syllable from the length of 
 
 If the syllable contains a long vowel, then the syllable is long by nature.
 
-Ex: *excūsātŏr* → *excusátor*.
+Ex:
+*excūsātŏr* → *excusátor*
+*lăvācrŭm* → *lavácrum*
+*cāndēlābrŭm* → *candelábrum*
 
 
 #### Rule 2
@@ -121,7 +124,7 @@ Ex:
 - *exstinguō* → *exstínguo*
 - *călăthus* → *cálathus*
 
-Option 3 is usually taken for prose accentuation (ex. *génitrix*, *séptuplum*, *ónagri*, *vólucres*), but inconsistenly in hymns (ex. *intégrum*, *ténebræ* in hymns).
+Option 3 is usually taken for prose accentuation (ex. *génitrix*, *séptuplum*, *ónagri*, *vólucres*), but inconsistenly in hymns (ex. *intégrum*, *tenébræ* in hymns).
 
 
 #### Rule 4
