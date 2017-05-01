@@ -6298,7 +6298,7 @@ Ph	4	4	Gaudéte in Dómino semper : íterum dico gaudéte.
 Ph	4	5	Modéstia vestra nota sit ómnibus homínibus : Dóminus prope est.
 Ph	4	6	Nihil sollíciti sitis : sed in omni oratióne, et obsecratióne, cum gratiárum actióne petitiónes vestræ innotéscant apud Deum.
 Ph	4	7	Et pax Dei, quæ exúperat omnem sensum, custódiat corda vestra, et intelligéntias vestras in Christo Iesu.
-Ph	4	8	De cétero fratres, quæcúmque sunt vera, quæcúmque púdica, quæcúmque iusta, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, siqua virtus, siqua laus disciplínæ, hæc cogitáte.
+Ph	4	8	De cétero fratres, quæcúmque sunt vera, quæcúmque pudíca, quæcúmque iusta, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, siqua virtus, siqua laus disciplínæ, hæc cogitáte.
 Ph	4	9	Quæ et didicístis, et accepístis, et audístis, et vidístis in me, hæc ágite : et Deus pacis erit vobíscum.
 Ph	4	10	Gavísus sum autem in Dómino veheménter, quóniam tandem aliquándo refloruístis pro me sentíre, sicut et sentiebátis : occupáti autem erátis.
 Ph	4	11	Non quasi propter penúriam dico : ego enim dídici, in quibus sum, suffíciens esse.
@@ -6581,16 +6581,16 @@ Col	4	18	Salutátio, mea manu Pauli. Mémores estóte vinculórum meórum. Grát
 1 Tim	2	14	et Adam non est sedúctus : múlier autem sedúcta in prævaricatióne fuit.
 1 Tim	2	15	Salvábitur autem per filiórum generatiónem, si permánserit in fide, et dilectióne, et sanctificatióne cum sobrietáte.
 1 Tim	3	1	Fidélis sermo : si quis episcopátum desíderat, bonum opus desíderat.
-1 Tim	3	2	Opórtet ergo epíscopum irreprehensíbilem esse, uníus uxóris virum, sóbrium, prudéntem, ornátum, púdicum, hospitálem, doctórem,
+1 Tim	3	2	Opórtet ergo epíscopum irreprehensíbilem esse, uníus uxóris virum, sóbrium, prudéntem, ornátum, pudícum, hospitálem, doctórem,
 1 Tim	3	3	non vinoléntum, non percussórem, sed modéstum : non litigiósum, non cúpidum, sed
 1 Tim	3	4	suæ dómui bene præpósitum : fílios habéntem súbditos cum omni castitáte.
 1 Tim	3	5	Si quis autem dómui suæ præésse nescit, quómodo ecclésiæ Dei diligéntiam habébit ?
 1 Tim	3	6	Non neóphytum : ne in supérbiam elátus, in iudícium íncidat diáboli.
 1 Tim	3	7	Opórtet autem illum et testimónium habére bonum ab iis qui foris sunt, ut non in oppróbrium íncidat, et in láqueum diáboli.
-1 Tim	3	8	Diáconos simíliter púdicos, non bilíngues, non multo vino déditos, non turpe lucrum sectántes :
+1 Tim	3	8	Diáconos simíliter pudícos, non bilíngues, non multo vino déditos, non turpe lucrum sectántes :
 1 Tim	3	9	habéntes mystérium fídei in consciéntia pura.
 1 Tim	3	10	Et hi autem probéntur primum : et sic minístrent, nullum crimen habéntes.
-1 Tim	3	11	Mulíeres simíliter púdicas, non detrahéntes, sóbrias, fidéles in ómnibus.
+1 Tim	3	11	Mulíeres simíliter pudícas, non detrahéntes, sóbrias, fidéles in ómnibus.
 1 Tim	3	12	Diáconi sint uníus uxóris viri, qui fíliis suis bene præsint, et suis dómibus.
 1 Tim	3	13	Qui enim bene ministráverint, gradum bonum sibi acquírent, et multam fidúciam in fide, quæ est in Christo Iesu.
 1 Tim	3	14	Hæc tibi scribo, sperans me ad te veníre cito :
@@ -6758,7 +6758,7 @@ Tit	1	14	non intendéntes Iudáicis fábulis, et mandátis hóminum, aversántiu
 Tit	1	15	Omnia munda mundis : coinquinátis autem et infidélibus, nihil est mundum, sed inquinátæ sunt eórum et mens et consciéntia.
 Tit	1	16	Confiténtur se nosse Deum, factis autem negant : cum sint abomináti, et incredíbiles, et ad omne opus bonum réprobi.
 Tit	2	1	Tu autem lóquere quæ decent sanam doctrínam :
-Tit	2	2	senes ut sóbrii sint, púdici, prudéntes, sani in fide, in dilectióne, in patiéntia :
+Tit	2	2	senes ut sóbrii sint, pudíci, prudéntes, sani in fide, in dilectióne, in patiéntia :
 Tit	2	3	anus simíliter in hábitu sancto, non criminatríces, non multo vino serviéntes, bene docéntes :
 Tit	2	4	ut prudéntiam dóceant adolescéntulas, ut viros suos ament, fílios suos díligant,
 Tit	2	5	prudéntes, castas, sóbrias, domus curam habéntes, benígnas, súbditas viris suis, ut non blasphemétur verbum Dei.
