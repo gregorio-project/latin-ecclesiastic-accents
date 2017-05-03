@@ -1,8 +1,8 @@
 Here you have an accented version of the old Vulgate.
 
-At this date (2017-05-01), these Books are available :
+At this date (2017-05-02), these Books are available :
 
-Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep, Ph, Col, 1-2 Th, 1-2 Tim, Tit, Phm, He
+Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep, Ph, Col, 1-2 Th, 1-2 Tim, Tit, Phm, He, Ja, 1-2 Pe, 1 Jo
 
 ------------
 
