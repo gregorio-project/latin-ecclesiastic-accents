@@ -816,7 +816,7 @@ Mt	24	3	Sedénte autem eo super montem Olivéti, accessérunt ad eum discípuli 
 Mt	24	4	Et respóndens Iesus, dixit eis : Vidéte ne quis vos sedúcat :
 Mt	24	5	multi enim vénient in nómine meo, dicéntes : Ego sum Christus : et multos sedúcent.
 Mt	24	6	Auditúri enim estis prǽlia, et opiniónes præliórum. Vidéte ne turbémini : opórtet enim hæc fíeri, sed nondum est finis :
-Mt	24	7	consúrget enim gens in gentem, et regnum in regnum, et erunt pestiléntiæ, et fames, et terrǽmotus per loca :
+Mt	24	7	consúrget enim gens in gentem, et regnum in regnum, et erunt pestiléntiæ, et fames, et terræmótus per loca :
 Mt	24	8	hæc autem ómnia inítia sunt dolórum.
 Mt	24	9	Tunc tradent vos in tribulatiónem, et occídent vos : et éritis ódio ómnibus géntibus propter nomen meum.
 Mt	24	10	Et tunc scandalizabúntur multi, et ínvicem tradent, et ódio habébunt ínvicem.
@@ -1035,7 +1035,7 @@ Mt	27	50	Iesus autem íterum clamans voce magna, emísit spíritum.
 Mt	27	51	Et ecce velum templi scissum est in duas partes a summo usque deórsum : et terra mota est, et petræ scissæ sunt,
 Mt	27	52	et monuménta apérta sunt : et multa córpora sanctórum, qui dormíerant, surrexérunt.
 Mt	27	53	Et exeúntes de monuméntis post resurrectiónem eius, venérunt in sanctam civitátem, et apparuérunt multis.
-Mt	27	54	Centúrio autem, et qui cum eo erant, custodiéntes Iesum, viso terrǽmotu, et his quæ fiébant, timuérunt valde, dicéntes : Vere Fílius Dei erat iste.
+Mt	27	54	Centúrio autem, et qui cum eo erant, custodiéntes Iesum, viso terræmótu, et his quæ fiébant, timuérunt valde, dicéntes : Vere Fílius Dei erat iste.
 Mt	27	55	Erant autem ibi mulíeres multæ a longe, quæ secútæ erant Iesum a Galilǽa, ministrántes ei :
 Mt	27	56	inter quas erat María Magdaléne, et María Iacóbi, et Ioseph mater, et mater filiórum Zebedǽi.
 Mt	27	57	Cum autem sero factum esset, venit quidam homo dives ab Arimathǽa, nómine Ioseph, qui et ipse discípulus erat Iesu :
@@ -1049,7 +1049,7 @@ Mt	27	64	Iube ergo custodíri sepúlchrum usque in diem tértium : ne forte vén
 Mt	27	65	Ait illis Pilátus : Habétis custódiam, ite, custodíte sicut scitis.
 Mt	27	66	Illi autem abeúntes, muniérunt sepúlchrum, signántes lápidem, cum custódibus.
 Mt	28	1	Véspere autem sábbati, quæ lucéscit in prima sábbati, venit María Magdaléne, et áltera María, vidére sepúlchrum.
-Mt	28	2	Et ecce terrǽmotus factus est magnus. Angelus enim Dómini descéndit de cælo : et accédens revólvit lápidem, et sedébat super eum :
+Mt	28	2	Et ecce terræmótus factus est magnus. Angelus enim Dómini descéndit de cælo : et accédens revólvit lápidem, et sedébat super eum :
 Mt	28	3	erat autem aspéctus eius sicut fulgur : et vestiméntum eius sicut nix.
 Mt	28	4	Præ timóre autem eius extérriti sunt custódes, et facti sunt velut mórtui.
 Mt	28	5	Respóndens autem ángelus dixit muliéribus : Nolíte timére vos : scio enim, quod Iesum, qui crucifíxus est, quǽritis.
@@ -1576,7 +1576,7 @@ Mc	13	4	Dic nobis, quando ista fient ? et quod signum erit, quando hæc ómnia i
 Mc	13	5	Et respóndens Iesus cœpit dícere illis : Vidéte ne quid vos sedúcat :
 Mc	13	6	multi enim vénient in nómine meo, dicéntes quia ego sum : et multos sedúcent.
 Mc	13	7	Cum audiéritis autem bella, et opiniónes bellórum, ne timuéritis : opórtet enim hæc fíeri : sed nondum finis.
-Mc	13	8	Exsúrget enim gens contra gentem, et regnum super regnum, et erunt terrǽmotus per loca, et fames. Inítium dolórum hæc.
+Mc	13	8	Exsúrget enim gens contra gentem, et regnum super regnum, et erunt terræmótus per loca, et fames. Inítium dolórum hæc.
 Mc	13	9	Vidéte autem vosmetípsos. Tradent enim vos in consíliis, et in synagógis vapulábitis, et ante prǽsides et reges stábitis propter me, in testimónium illis.
 Mc	13	10	Et in omnes gentes primum opórtet prædicári Evangélium.
 Mc	13	11	Et cum dúxerint vos tradéntes, nolíte præcogitáre quid loquámini : sed quod datum vobis fúerit in illa hora, id loquímini : non enim vos estis loquéntes, sed Spíritus Sanctus.
@@ -2688,7 +2688,7 @@ Lc	21	7	Interrogavérunt autem illum, dicéntes : Præcéptor, quando hæc erunt
 Lc	21	8	Qui dixit : Vidéte ne seducámini : multi enim vénient in nómine meo, dicéntes quia ego sum : et tempus appropinquávit : nolíte ergo ire post eos.
 Lc	21	9	Cum autem audiéritis prǽlia et seditiónes, nolíte terréri : opórtet primum hæc fíeri, sed nondum statim finis.
 Lc	21	10	Tunc dicébat illis : Surget gens contra gentem, et regnum advérsus regnum.
-Lc	21	11	Et terrǽmotus magni erunt per loca, et pestiléntiæ, et fames, terrorésque de cælo, et signa magna erunt.
+Lc	21	11	Et terræmótus magni erunt per loca, et pestiléntiæ, et fames, terrorésque de cælo, et signa magna erunt.
 Lc	21	12	Sed ante hæc ómnia iniícient vobis manus suas, et persequéntur tradéntes in synagógas et custódias, trahéntes ad reges et prǽsides propter nomen meum :
 Lc	21	13	contínget autem vobis in testimónium.
 Lc	21	14	Pónite ergo in córdibus vestris non præmeditári quemádmodum respondeátis :
@@ -4359,7 +4359,7 @@ Ac	16	22	Et cucúrrit plebs advérsus eos : et magistrátus, scissis túnicis e�
 Ac	16	23	Et cum multas plagas eis imposuíssent, misérunt eos in cárcerem, præcipiéntes custódi ut diligénter custodíret eos.
 Ac	16	24	Qui cum tale præcéptum accepísset, misit eos in interiórem cárcerem, et pedes eórum strinxit ligno.
 Ac	16	25	Média autem nocte Paulus et Silas orántes, laudábant Deum : et audiébant eos qui in custódia erant.
-Ac	16	26	Súbito vero terrǽmotus factus est magnus, ita ut moveréntur fundaménta cárceris. Et statim apérta sunt ómnia óstia : et universórum víncula solúta sunt.
+Ac	16	26	Súbito vero terræmótus factus est magnus, ita ut moveréntur fundaménta cárceris. Et statim apérta sunt ómnia óstia : et universórum víncula solúta sunt.
 Ac	16	27	Expergefáctus autem custos cárceris, et videns iánuas apértas cárceris, evagináto gládio volébat se interfícere, ǽstimans fugísse vinctos.
 Ac	16	28	Clamávit autem Paulus voce magna, dicens : Nihil tibi mali féceris : univérsi enim hic sumus.
 Ac	16	29	Petitóque lúmine, introgréssus est : et tremefáctus prócidit Paulo et Silæ ad pedes :
@@ -7546,3 +7546,408 @@ Judæ	1	22	Et hos quidem argúite iudicátos :
 Judæ	1	23	illos vero salváte, de igne rapiéntes. Aliis autem miserémini in timóre : odiéntes et eam, quæ carnális est, maculátam túnicam.
 Judæ	1	24	Ei autem qui potens est vos conserváre sine peccáto et constitúere ante conspéctum glóriæ suæ immaculátos in exsultatióne in advéntu Dómini nostri Iesu Christi,
 Judæ	1	25	soli Deo Salvatóri nostro, per Iesum Christum Dóminum nostrum, glória et magnificéntia, impérium et potéstas ante omne sǽculum, et nunc, et in ómnia sǽcula sæculórum. Amen.
+Ap	1	1	Apocalýpsis Iesu Christi, quam dedit illi Deus palam fácere servis suis, quæ opórtet fíeri cito : et significávit, mittens per ángelum suum servo suo Ioánni,
+Ap	1	2	qui testimónium perhíbuit verbo Dei, et testimónium Iesu Christi, quæcúmque vidit.
+Ap	1	3	Beátus qui legit, et audit verba prophetíæ huius, et servat ea, quæ in ea scripta sunt : tempus enim prope est.
+Ap	1	4	Ioánnes septem ecclésiis, quæ sunt in Asia. Grátia vobis, et pax ab eo, qui est, et qui erat, et qui ventúrus est : et a septem spirítibus qui in conspéctu throni eius sunt :
+Ap	1	5	et a Iesu Christo, qui est testis fidélis, primogénitus mortuórum, et princeps regum terræ, qui diléxit nos, et lavit nos a peccátis nostris in sánguine suo,
+Ap	1	6	et fecit nos regnum, et sacerdótes Deo et Patri suo : ipsi glória et impérium in sǽcula sæculórum. Amen.
+Ap	1	7	Ecce venit cum núbibus, et vidébit eum omnis óculus, et qui eum pupugérunt. Et plangent se super eum omnes tribus terræ. Etiam : amen.
+Ap	1	8	Ego sum alpha et ómega, princípium et finis, dicit Dóminus Deus : qui est, et qui erat, et qui ventúrus est, omnípotens.
+Ap	1	9	Ego Ioánnes frater vester, et párticeps in tribulatióne, et regno, et patiéntia in Christo Iesu : fui in ínsula, quæ appellátur Patmos, propter verbum Dei, et testimónium Iesu :
+Ap	1	10	fui in spíritu in domínica die, et audívi post me vocem magnam tamquam tubæ,
+Ap	1	11	dicéntis : Quod vides, scribe in libro : et mitte septem ecclésiis, quæ sunt in Asia, Epheso, et Smyrnæ, et Pérgamo, et Thyatíræ, et Sardis, et Philadelphíæ, et Laodicíæ.
+Ap	1	12	Et convérsus sum ut vidérem vocem, quæ loquebátur mecum : et convérsus vidi septem candelábra áurea :
+Ap	1	13	et in médio septem candelabrórum aureórum, símilem Fílio hóminis vestítum podére, et præcínctum ad mamíllas zona áurea :
+Ap	1	14	caput autem eius, et capílli erant cándidi tamquam lana alba, et tamquam nix, et óculi eius tamquam flamma ignis :
+Ap	1	15	et pedes eius símiles auricálco, sicut in camíno ardénti, et vox illíus tamquam vox aquárum multárum :
+Ap	1	16	et habébat in déxtera sua stellas septem : et de ore eius gládius utráque parte acútus exíbat : et fácies eius sicut sol lucet in virtúte sua.
+Ap	1	17	Et cum vidíssem eum, cécidi ad pedes eius tamquam mórtuus. Et pósuit déxteram suam super me, dicens : Noli timére : ego sum primus, et novíssimus,
+Ap	1	18	et vivus, et fui mórtuus, et ecce sum vivens in sǽcula sæculórum : et hábeo claves mortis, et inférni.
+Ap	1	19	Scribe ergo quæ vidísti, et quæ sunt, et quæ opórtet fíeri post hæc.
+Ap	1	20	Sacraméntum septem stellárum, quas vidísti in déxtera mea, et septem candelábra áurea : septem stellæ, ángeli sunt septem ecclesiárum : et candelábra septem, septem ecclésiæ sunt.
+Ap	2	1	Angelo Ephesi ecclésiæ scribe : Hæc dicit, qui tenet septem stellas in déxtera sua, qui ámbulat in médio septem candelabrórum aureórum :
+Ap	2	2	Scio ópera tua, et labórem, et patiéntiam tuam, et quia non potes sustinére malos : et tentásti eos, qui se dicunt apóstolos esse, et non sunt : et invenísti eos mendáces :
+Ap	2	3	et patiéntiam habes, et sustinuísti propter nomen meum, et non defecísti.
+Ap	2	4	Sed hábeo advérsum te, quod caritátem tuam primam reliquísti.
+Ap	2	5	Memor esto ítaque unde excíderis : et age pœniténtiam, et prima ópera fac : sin autem, vénio tibi, et movébo candelábrum tuum de loco suo, nisi pœniténtiam égeris.
+Ap	2	6	Sed hoc habes, quia odísti facta Nicolaitárum, quæ et ego odi.
+Ap	2	7	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis : Vincénti dabo édere de ligno vitæ, quod est in paradíso Dei mei.
+Ap	2	8	Et ángelo Smyrnæ ecclésiæ scribe : Hæc dicit primus, et novíssimus, qui fuit mórtuus, et vivit :
+Ap	2	9	Scio tribulatiónem tuam, et paupertátem tuam, sed dives es : et blasphemáris ab his, qui se dicunt Iudǽos esse, et non sunt, sed sunt synagóga Sátanæ.
+Ap	2	10	Nihil horum tímeas quæ passúrus es. Ecce missúrus est diábolus áliquos ex vobis in cárcerem ut tentémini : et habébitis tribulatiónem diébus decem. Esto fidélis usque ad mortem, et dabo tibi corónam vitæ.
+Ap	2	11	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis : Qui vícerit, non lædétur a morte secúnda.
+Ap	2	12	Et ángelo Pérgami ecclésiæ scribe : Hæc dicit qui habet rhomphǽam utráque parte acútam :
+Ap	2	13	Scio ubi hábitas, ubi sedes est Sátanæ : et tenes nomen meum, et non negásti fidem meam. Et in diébus illis Antipas testis meus fidélis, qui occísus est apud vos ubi Sátanas hábitat.
+Ap	2	14	Sed hábeo advérsus te pauca : quia habes illic tenéntes doctrínam Bálaam, qui docébat Balac míttere scándalum coram fíliis Israel, édere, et fornicári :
+Ap	2	15	ita habes et tu tenéntes doctrínam Nicolaitárum.
+Ap	2	16	Simíliter pœniténtiam age : si quóminus véniam tibi cito, et pugnábo cum illis in gládio oris mei.
+Ap	2	17	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis : Vincénti dabo manna abscónditum, et dabo illi cálculum cándidum : et in cálculo nomen novum scriptum, quod nemo scit, nisi qui áccipit.
+Ap	2	18	Et ángelo Thyatíræ ecclésiæ scribe : Hæc dicit Fílius Dei, qui habet óculos tamquam flammam ignis, et pedes eius símiles auricálco :
+Ap	2	19	Novi ópera tua, et fidem, et caritátem tuam, et ministérium, et patiéntiam tuam, et ópera tua novíssima plura prióribus.
+Ap	2	20	Sed hábeo advérsus te pauca : quia permíttis mulíerem Iézabel, quæ se dicit prophéten, docére, et sedúcere servos meos, fornicári, et manducáre de idolóthytis.
+Ap	2	21	Et dedi illi tempus ut pœniténtiam ágeret : et non vult pœnitére a fornicatióne sua.
+Ap	2	22	Ecce mittam eam in lectum : et qui mœchántur cum ea, in tribulatióne máxima erunt, nisi pœniténtiam ab opéribus suis égerint.
+Ap	2	23	Et fílios eius interfíciam in morte, et scient omnes ecclésiæ, quia ego sum scrutans renes, et corda : et dabo unicuíque vestrum secúndum ópera sua. Vobis autem dico,
+Ap	2	24	et céteris qui Thyatíræ estis : quicúmque non habent doctrínam hanc, et qui non cognovérunt altitúdines Sátanæ, quemádmodum dicunt, non mittam super vos aliud pondus :
+Ap	2	25	tamen id quod habétis, tenéte donec véniam.
+Ap	2	26	Et qui vícerit, et custodíerit usque in finem ópera mea, dabo illi potestátem super gentes,
+Ap	2	27	et reget eas in virga férrea, et tamquam vas fíguli confringéntur,
+Ap	2	28	sicut et ego accépi a Patre meo : et dabo illi stellam matutínam.
+Ap	2	29	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis.
+Ap	3	1	Et ángelo ecclésiæ Sardis scribe : Hæc dicit qui habet septem spíritus Dei, et septem stellas : Scio ópera tua, quia nomen habes quod vivas, et mórtuus es.
+Ap	3	2	Esto vígilans, et confírma cétera, quæ moritúra erant. Non enim invénio ópera tua plena coram Deo meo.
+Ap	3	3	In mente ergo habe quáliter accéperis, et audíeris, et serva, et pœniténtiam age. Si ergo non vigiláveris, véniam ad te tamquam fur et néscies qua hora véniam ad te.
+Ap	3	4	Sed habes pauca nómina in Sardis qui non inquinavérunt vestiménta sua : et ambulábunt mecum in albis, quia digni sunt.
+Ap	3	5	Qui vícerit, sic vestiétur vestiméntis albis, et non delébo nomen eius de libro vitæ, et confitébor nomen eius coram Patre meo, et coram ángelis eius.
+Ap	3	6	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis.
+Ap	3	7	Et ángelo Philadelphíæ ecclésiæ scribe : Hæc dicit Sanctus et Verus, qui habet clavem David : qui áperit, et nemo claudit : claudit, et nemo áperit :
+Ap	3	8	Scio ópera tua. Ecce dedi coram te óstium apértum, quod nemo potest cláudere : quia módicam habes virtútem, et servásti verbum meum, et non negásti nomen meum.
+Ap	3	9	Ecce dabo de synagóga Sátanæ, qui dicunt se Iudǽos esse, et non sunt, sed mentiúntur : ecce fáciam illos ut véniant, et adórent ante pedes tuos : et scient quia ego diléxi te,
+Ap	3	10	quóniam servásti verbum patiéntiæ meæ, et ego servábo te ab hora tentatiónis, quæ ventúra est in orbem univérsum tentáre habitántes in terra.
+Ap	3	11	Ecce vénio cito : tene quod habes, ut nemo accípiat corónam tuam.
+Ap	3	12	Qui vícerit, fáciam illum colúmnam in templo Dei mei, et foras non egrediétur ámplius : et scribam super eum nomen Dei mei, et nomen civitátis Dei mei novæ Ierúsalem, quæ descéndit de cælo a Deo meo, et nomen meum novum.
+Ap	3	13	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis.
+Ap	3	14	Et ángelo Laodicíæ ecclésiæ scribe : Hæc dicit : Amen, testis fidélis et verus, qui est princípium creatúræ Dei.
+Ap	3	15	Scio ópera tua : quia neque frígidus es, neque cálidus : útinam frígidus esses, aut cálidus :
+Ap	3	16	sed quia tépidus es, et nec frígidus, nec cálidus, incípiam te evómere ex ore meo :
+Ap	3	17	quia dicis : Quod dives sum, et locupletátus, et nullíus égeo : et nescis quia tu es miser, et miserábilis, et pauper, et cæcus, et nudus.
+Ap	3	18	Suádeo tibi émere a me aurum ignítum probátum, ut lócuples fias, et vestiméntis albis induáris, et non appáreat confúsio nuditátis tuæ, et collýrio inúnge óculos tuos ut vídeas.
+Ap	3	19	Ego quos amo, árguo, et castígo. Æmuláre ergo, et pœniténtiam age.
+Ap	3	20	Ecce sto ad óstium, et pulso : si quis audíerit vocem meam, et aperúerit mihi iánuam, intrábo ad illum, et cœnábo cum illo, et ipse mecum.
+Ap	3	21	Qui vícerit, dabo ei sedére mecum in throno meo : sicut et ego vici, et sedi cum Patre meo in throno eius.
+Ap	3	22	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis.
+Ap	4	1	Post hæc vidi : et ecce óstium apértum in cælo, et vox prima, quam audívi tamquam tubæ loquéntis mecum, dicens : Ascénde huc, et osténdam tibi quæ opórtet fíeri post hæc.
+Ap	4	2	Et statim fui in spíritu : et ecce sedes pósita erat in cælo, et supra sedem sedens.
+Ap	4	3	Et qui sedébat símilis erat aspéctui lápidis iáspidis, et sardínis : et iris erat in circúitu sedis símilis visióni smarágdinæ.
+Ap	4	4	Et in circúitu sedis sedília vigínti quátuor : et super thronos vigínti quátuor senióres sedéntes, circumamícti vestiméntis albis, et in capítibus eórum corónæ áureæ.
+Ap	4	5	Et de throno procedébant fúlgura, et voces, et tonítrua : et septem lámpades ardéntes ante thronum, qui sunt septem spíritus Dei.
+Ap	4	6	Et in conspéctu sedis tamquam mare vítreum símile crystállo : et in médio sedis, et in circúitu sedis quátuor animália plena óculis ante et retro.
+Ap	4	7	Et ánimal primum símile leóni, et secúndum ánimal símile vítulo, et tértium ánimal habens fáciem quasi hóminis, et quartum ánimal símile áquilæ volánti.
+Ap	4	8	Et quátuor animália, síngula eórum habébant alas senas : et in circúitu, et intus plena sunt óculis : et réquiem non habébant die ac nocte, dicéntia : Sanctus, Sanctus, Sanctus Dóminus Deus omnípotens, qui erat, et qui est, et qui ventúrus est.
+Ap	4	9	Et cum darent illa animália glóriam, et honórem, et benedictiónem sedénti super thronum, vivénti in sǽcula sæculórum,
+Ap	4	10	procidébant vigínti quátuor senióres ante sedéntem in throno, et adorábant vivéntem in sǽcula sæculórum, et mittébant corónas suas ante thronum, dicéntes :
+Ap	4	11	Dignus es Dómine Deus noster accípere glóriam, et honórem, et virtútem : quia tu creásti ómnia, et propter voluntátem tuam erant, et creáta sunt.
+Ap	5	1	Et vidi in déxtera sedéntis supra thronum, librum scriptum intus et foris, signátum sigíllis septem.
+Ap	5	2	Et vidi ángelum fortem, prædicántem voce magna : Quis est dignus aperíre librum, et sólvere signácula eius ?
+Ap	5	3	Et nemo póterat neque in cælo, neque in terra, neque subtus terram aperíre librum, neque respícere illum.
+Ap	5	4	Et ego flebam multum, quóniam nemo dignus invéntus est aperíre librum, nec vidére eum.
+Ap	5	5	Et unus de senióribus dixit mihi : Ne fléveris : ecce vicit leo de tribu Iuda, radix David, aperíre librum, et sólvere septem signácula eius.
+Ap	5	6	Et vidi : et ecce in médio throni et quátuor animálium, et in médio seniórum, Agnum stantem tamquam occísum, habéntem córnua septem, et óculos septem : qui sunt septem spíritus Dei, missi in omnem terram.
+Ap	5	7	Et venit : et accépit de déxtera sedéntis in throno librum.
+Ap	5	8	Et cum aperuísset librum, quátuor animália, et vigínti quátuor senióres cecidérunt coram Agno, habéntes sínguli cítharas, et phíalas áureas plenas odoramentórum, quæ sunt oratiónes sanctórum :
+Ap	5	9	et cantábant cánticum novum, dicéntes : Dignus es, Dómine, accípere librum, et aperíre signácula eius : quóniam occísus es, et redemísti nos Deo in sánguine tuo ex omni tribu, et lingua, et pópulo, et natióne :
+Ap	5	10	et fecísti nos Deo nostro regnum, et sacerdótes : et regnábimus super terram.
+Ap	5	11	Et vidi, et audívi vocem angelórum multórum in circúitu throni, et animálium, et seniórum : et erat númerus eórum míllia míllium,
+Ap	5	12	dicéntium voce magna : Dignus est Agnus, qui occísus est, accípere virtútem, et divinitátem, et sapiéntiam, et fortitúdinem, et honórem, et glóriam, et benedictiónem.
+Ap	5	13	Et omnem creatúram, quæ in cælo est, et super terram, et sub terra, et quæ sunt in mari, et quæ in eo : omnes audívi dicéntes : Sedénti in throno, et Agno, benedíctio et honor, et glória, et potéstas in sǽcula sæculórum.
+Ap	5	14	Et quátuor animália dicébant : Amen. Et vigínti quátuor senióres cecidérunt in fácies suas : et adoravérunt vivéntem in sǽcula sæculórum.
+Ap	6	1	Et vidi quod aperuísset Agnus unum de septem sigíllis, et audívi unum de quátuor animálibus, dicens tamquam vocem tonítrui : Veni, et vide.
+Ap	6	2	Et vidi : et ecce equus albus, et qui sedébat super illum, habébat arcum, et data est ei coróna, et exívit vincens ut vínceret.
+Ap	6	3	Et cum aperuísset sigíllum secúndum, audívi secúndum ánimal, dicens : Veni, et vide.
+Ap	6	4	Et exívit álius equus rufus : et qui sedébat super illum, datum est ei ut súmeret pacem de terra, et ut ínvicem se interfíciant, et datus est ei gládius magnus.
+Ap	6	5	Et cum aperuísset sigíllum tértium, audívi tértium ánimal, dicens : Veni, et vide. Et ecce equus niger : et qui sedébat super illum, habébat statéram in manu sua.
+Ap	6	6	Et audívi tamquam vocem in médio quátuor animálium dicéntium : Bílibris trítici denário et tres bílibres hórdei denário, et vinum, et óleum ne lǽseris.
+Ap	6	7	Et cum aperuísset sigíllum quartum, audívi vocem quarti animális dicéntis : Veni, et vide.
+Ap	6	8	Et ecce equus pállidus : et qui sedébat super eum, nomen illi Mors, et inférnus sequebátur eum, et data est illi potéstas super quátuor partes terræ, interfícere gládio, fame, et morte, et béstiis terræ.
+Ap	6	9	Et cum aperuísset sigíllum quintum, vidi subtus altáre ánimas interfectórum propter verbum Dei, et propter testimónium, quod habébant :
+Ap	6	10	et clamábant voce magna, dicéntes : UsquequoDómine (sanctus et verus), non iúdicas, et non víndicas sánguinem nostrum de iis qui hábitant in terra ?
+Ap	6	11	Et datæ sunt illis síngulæ stolæ albæ : et dictum est illis ut requiéscerent adhuc tempus módicum donec compleántur consérvi eórum, et fratres eórum, qui interficiéndi sunt sicut et illi.
+Ap	6	12	Et vidi cum aperuísset sigíllum sextum : et ecce terræmótus magnus factus est, et sol factus est niger tamquam saccus cilicínus : et luna tota facta est sicut sanguis :
+Ap	6	13	et stellæ de cælo cecidérunt super terram, sicut ficus emíttit grossos suos cum a vento magno movétur :
+Ap	6	14	et cælum recéssit sicut liber involútus : et omnis mons, et ínsulæ de locis suis motæ sunt :
+Ap	6	15	et reges terræ, et príncipes, et tribúni, et dívites, et fortes, et omnis servus, et liber abscondérunt se in spelúncis, et in petris móntium :
+Ap	6	16	et dicunt móntibus, et petris : Cádite super nos, et abscóndite nos a fácie sedéntis super thronum, et ab ira Agni :
+Ap	6	17	quóniam venit dies magnus iræ ipsórum : et quis póterit stare ?
+Ap	7	1	Post hæc vidi quátuor ángelos stantes super quátuor ángulos terræ, tenéntes quátuor ventos terræ, ne flarent super terram, neque super mare, neque in ullam árborem.
+Ap	7	2	Et vidi álterum ángelum ascendéntem ab ortu solis, habéntem signum Dei vivi : et clamávit voce magna quátuor ángelis, quibus datum est nocére terræ et mari,
+Ap	7	3	dicens : Nolíte nocére terræ, et mari, neque arbóribus, quoadúsque signémus servos Dei nostri in fróntibus eórum.
+Ap	7	4	Et audívi númerum signatórum, centum quadragínta quátuor míllia signáti, ex omni tribu filiórum Israel.
+Ap	7	5	Ex tribu Iuda duódecim míllia signáti : ex tribu Ruben duódecim míllia signáti : ex tribu Gad duódecim míllia signáti :
+Ap	7	6	ex tribu Aser duódecim míllia signáti : ex tribu Néphthali duódecim míllia signáti : ex tribu Manásse duódecim míllia signáti :
+Ap	7	7	ex tribu Símeon duódecim míllia signáti : ex tribu Levi duódecim míllia signáti : ex tribu Issachar duódecim míllia signáti :
+Ap	7	8	ex tribu Zábulon duódecim míllia signáti : ex tribu Ioseph duódecim míllia signáti : ex tribu Béniamin duódecim míllia signáti.
+Ap	7	9	Post hæc vidi turbam magnam, quam dinumeráre nemo póterat, ex ómnibus géntibus, et tríbubus, et pópulis, et linguis : stantes ante thronum, et in conspéctu Agni, amícti stolis albis, et palmæ in mánibus eórum :
+Ap	7	10	et clamábant voce magna, dicéntes : Salus Deo nostro, qui sedet super thronum, et Agno.
+Ap	7	11	Et omnes ángeli stabant in circúitu throni, et seniórum, et quátuor animálium : et cecidérunt in conspéctu throni in fácies suas, et adoravérunt Deum,
+Ap	7	12	dicéntes : Amen. Benedíctio, et cláritas, et sapiéntia, et gratiárum áctio, honor, et virtus, et fortitúdo Deo nostro in sǽcula sæculórum. Amen.
+Ap	7	13	Et respóndit unus de senióribus et dixit mihi : Hi, qui amícti sunt stolis albis, qui sunt ? et unde venérunt ?
+Ap	7	14	Et dixi illi : Dómine mi, tu scis. Et dixit mihi : Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
+Ap	7	15	Ideo sunt ante thronum Dei, et sérviunt ei die ac nocte in templo eius : et qui sedet in throno, habitábit super illos :
+Ap	7	16	non esúrient, neque sítient ámplius, nec cadet super illos sol, neque ullus æstus :
+Ap	7	17	quóniam Agnus, qui in médio throni est, reget illos et dedúcet eos ad vitæ fontes aquárum, et abstérget Deus omnem lácrimam ab óculis eórum.
+Ap	8	1	Et cum aperuísset sigíllum séptimum, factum est siléntium in cælo, quasi média hora.
+Ap	8	2	Et vidi septem ángelos stantes in conspéctu Dei : et datæ sunt illis septem tubæ.
+Ap	8	3	Et álius ángelus venit, et stetit ante altáre habens thuríbulum áureum : et data sunt illi incénsa multa, ut daret de oratiónibus sanctórum ómnium super altáre áureum, quod est ante thronum Dei.
+Ap	8	4	Et ascéndit fumus incensórum de oratiónibus sanctórum de manu ángeli coram Deo.
+Ap	8	5	Et accépit ángelus thuríbulum, et implévit illud de igne altáris, et misit in terram : et facta sunt tonítrua, et voces, et fúlgura, et terræmótus magnus.
+Ap	8	6	Et septem ángeli, qui habébant septem tubas, præparavérunt se ut tuba cánerent.
+Ap	8	7	Et primus ángelus tuba cécinit, et facta est grando, et ignis, mista in sánguine, et missum est in terram, et tértia pars terræ combústa est, et tértia pars árborum concremáta est, et omne fœnum víride combústum est.
+Ap	8	8	Et secúndus ángelus tuba cécinit : et tamquam mons magnus igne ardens missus est in mare, et facta est tértia pars maris sanguis,
+Ap	8	9	et mórtua est tértia pars creatúræ eórum, quæ habébant ánimas in mari, et tértia pars návium intériit.
+Ap	8	10	Et tértius ángelus tuba cécinit : et cécidit de cælo stella magna, ardens tamquam fácula, et cécidit in tértiam partem flúminum, et in fontes aquárum :
+Ap	8	11	et nomen stellæ dícitur Absínthium, et facta est tértia pars aquárum in absínthium ; et multi hóminum mórtui sunt de aquis, quia amáræ factæ sunt.
+Ap	8	12	Et quartus ángelus tuba cécinit : et percússa est tértia pars solis, et tértia pars lunæ, et tértia pars stellárum, ita ut obscurarétur tértia pars eórum, et díei non lucéret pars tértia, et noctis simíliter.
+Ap	8	13	Et vidi, et audívi vocem uníus áquilæ volántis per médium cæli dicéntis voce magna : Væ, væ, væ habitántibus in terra de céteris vócibus trium angelórum, qui erant tuba canitúri.
+Ap	9	1	Et quintus ángelus tuba cécinit : et vidi stellam de cælo cecidísse in terram, et data est ei clavis pútei abýssi.
+Ap	9	2	Et apéruit púteum abýssi : et ascéndit fumus pútei, sicut fumus fornácis magnæ : et obscurátus est sol, et aer de fumo pútei :
+Ap	9	3	et de fumo pútei exiérunt locústæ in terram, et data est illis potéstas, sicut habent potestátem scorpiónes terræ :
+Ap	9	4	et præcéptum est illis ne lǽderent fœnum terræ, neque omne víride, neque omnem árborem : nisi tantum hómines, qui non habent signum Dei in fróntibus suis :
+Ap	9	5	et datum est illis ne occíderent eos : sed ut cruciárent ménsibus quinque : et cruciátus eórum, ut cruciátus scórpii cum pércutit hóminem.
+Ap	9	6	Et in diébus illis quærent hómines mortem, et non invénient eam : et desiderábunt mori, et fúgiet mors ab eis.
+Ap	9	7	Et similitúdines locustárum, símiles equis parátis in prǽlium : et super cápita eárum tamquam corónæ símiles auro : et fácies eárum tamquam fácies hóminum.
+Ap	9	8	Et habébant capíllos sicut capíllos mulíerum. Et dentes eárum, sicut dentes leónum erant :
+Ap	9	9	et habébant lorícas sicut lorícas férreas, et vox alárum eárum sicut vox cúrruum equórum multórum curréntium in bellum :
+Ap	9	10	et habébant caudas símiles scorpiónum, et acúlei erant in caudis eárum : et potéstas eárum nocére homínibus ménsibus quinque :
+Ap	9	11	et habébant super se regem ángelum abýssi cui nomen Hebráice Abáddon, græce autem Apóllyon, latíne habens nomen Extérminans.
+Ap	9	12	Væ unum ábiit, et ecce véniunt adhuc duo væ post hæc.
+Ap	9	13	Et sextus ángelus tuba cécinit : et audívi vocem unam ex quátuor córnibus altáris áurei, quod est ante óculos Dei,
+Ap	9	14	dicéntem sexto ángelo, qui habébat tubam : Solve quátuor ángelos, qui alligáti sunt in flúmine magno Euphráte.
+Ap	9	15	Et solúti sunt quátuor ángeli, qui paráti erant in horam, et diem, et mensem, et annum, ut occíderent tértiam partem hóminum.
+Ap	9	16	Et númerus equéstris exércitus vícies míllies dena míllia. Et audívi númerum eórum.
+Ap	9	17	Et ita vidi equos in visióne : et qui sedébant super eos, habébant lorícas ígneas, et hyacínthinas, et sulphúreas, et cápita equórum erant tamquam cápita leónum : et de ore eórum procédit ignis, et fumus, et sulphur.
+Ap	9	18	Et ab his tribus plagis occísa est tértia pars hóminum de igne, et de fumo, et súlphure, quæ procedébant de ore ipsórum.
+Ap	9	19	Potéstas enim equórum in ore eórum est, et in caudis eórum, nam caudæ eórum símiles serpéntibus, habéntes cápita : et in his nocent.
+Ap	9	20	Et céteri hómines, qui non sunt occísi in his plagis, neque pœniténtiam egérunt de opéribus mánuum suárum, ut non adorárent dæmónia, et simulácra áurea, et argéntea, et ǽrea, et lapídea, et lígnea, quæ neque vidére possunt, neque audíre, neque ambuláre,
+Ap	9	21	et non egérunt pœniténtiam ab homicídiis suis, neque a venefíciis suis, neque a fornicatióne sua, neque a furtis suis.
+Ap	10	1	Et vidi álium ángelum fortem descendéntem de cælo amíctum nube, et iris in cápite eius, et fácies eius erat ut sol, et pedes eius tamquam colúmnæ ignis :
+Ap	10	2	et habébat in manu sua libéllum apértum : et pósuit pedem suum dextrum super mare, sinístrum autem super terram :
+Ap	10	3	et clamávit voce magna, quemádmodum cum leo rugit. Et cum clamásset, locúta sunt septem tonítrua voces suas.
+Ap	10	4	Et cum locúta fuíssent septem tonítrua voces suas, ego scriptúrus eram : et audívi vocem de cælo dicéntem mihi : Signa quæ locúta sunt septem tonítrua : et noli ea scríbere.
+Ap	10	5	Et ángelus, quem vidi stantem super mare et super terram, levávit manum suam ad cælum :
+Ap	10	6	et iurávit per vivéntem in sǽcula sæculórum, qui creávit cælum, et ea quæ in eo sunt : et terram, et ea quæ in ea sunt : et mare, et ea quæ in eo sunt : Quia tempus non erit ámplius :
+Ap	10	7	sed in diébus vocis séptimi ángeli, cum cœ́perit tuba cánere, consummábitur mystérium Dei sicut evangelizávit per servos suos prophétas.
+Ap	10	8	Et audívi vocem de cælo íterum loquéntem mecum, et dicéntem : Vade, et áccipe librum apértum de manu ángeli stantis super mare, et super terram.
+Ap	10	9	Et ábii ad ángelum, dicens ei, ut daret mihi librum. Et dixit mihi : Accipe librum, et dévora illum : et fáciet amaricári ventrem tuum, sed in ore tuo erit dulce tamquam mel.
+Ap	10	10	Et accépi librum de manu ángeli, et devorávi illum : et erat in ore meo tamquam mel dulce, et cum devorássem eum, amaricátus est venter meus :
+Ap	10	11	et dixit mihi : Opórtet te íterum prophetáre géntibus, et pópulis, et linguis, et régibus multis.
+Ap	11	1	Et datus est mihi cálamus símilis virgæ, et dictum est mihi : Surge, et metíre templum Dei, et altáre, et adorántes in eo :
+Ap	11	2	átrium autem, quod est foris templum, éiice foras, et ne metiáris illud : quóniam datum est géntibus, et civitátem sanctam calcábunt ménsibus quadragínta duóbus :
+Ap	11	3	et dabo duóbus téstibus meis, et prophetábunt diébus mille ducéntis sexagínta, amícti saccis.
+Ap	11	4	Hi sunt duæ olívæ et duo candelábra in conspéctu Dómini terræ stantes.
+Ap	11	5	Et si quis volúerit eos nocére, ignis éxiet de ore eórum, et devorábit inimícos eórum : et si quis volúerit eos lǽdere, sic opórtet eum occídi.
+Ap	11	6	Hi habent potestátem claudéndi cælum, ne pluat diébus prophetíæ ipsórum : et potestátem habent super aquas converténdi eas in sánguinem, et percútere terram omni plaga quotiescúmque volúerint.
+Ap	11	7	Et cum finíerint testimónium suum, béstia, quæ ascéndit de abýsso, fáciet advérsum eos bellum, et vincet illos, et occídet eos.
+Ap	11	8	Et córpora eórum iacébunt in platéis civitátis magnæ, quæ vocátur spirituáliter Sódoma, et Ægýptus, ubi et Dóminus eórum crucifíxus est.
+Ap	11	9	Et vidébunt de tríbubus, et pópulis, et linguis, et géntibus córpora eórum per tres dies et dimídium : et córpora eórum non sinent poni in monuméntis :
+Ap	11	10	et inhabitántes terram gaudébunt super illos, et iucundabúntur : et múnera mittent ínvicem, quóniam hi duo prophétæ cruciavérunt eos, qui habitábant super terram.
+Ap	11	11	Et post dies tres et dimídium, spíritus vitæ a Deo intrávit in eos. Et stetérunt super pedes suos, et timor magnus cécidit super eos qui vidérunt eos.
+Ap	11	12	Et audiérunt vocem magnam de cælo, dicéntem eis : Ascéndite huc. Et ascendérunt in cælum in nube : et vidérunt illos inimíci eórum.
+Ap	11	13	Et in illa hora factus est terræmótus magnus, et décima pars civitátis cécidit : et occísa sunt in terræmótu nómina hóminum septem míllia : et réliqui in timórem sunt missi, et dedérunt glóriam Deo cæli.
+Ap	11	14	Væ secúndum ábiit : et ecce væ tértium véniet cito.
+Ap	11	15	Et séptimus ángelus tuba cécinit : et factæ sunt voces magnæ in cælo dicéntes : Factum est regnum huius mundi, Dómini nostri et Christi eius, et regnábit in sǽcula sæculórum. Amen.
+Ap	11	16	Et vigínti quátuor senióres, qui in conspéctu Dei sedent in sédibus suis, cecidérunt in fácies suas, et adoravérunt Deum, dicéntes :
+Ap	11	17	Grátias ágimus tibi, Dómine Deus omnípotens, qui es, et qui eras, et qui ventúrus es : quia accepísti virtútem tuam magnam, et regnásti.
+Ap	11	18	Et irátæ sunt gentes, et advénit ira tua et tempus mortuórum iudicári, et réddere mercédem servis tuis prophétis, et sanctis, et timéntibus nomen tuum pusíllis et magnis, et exterminándi eos qui corrupérunt terram.
+Ap	11	19	Et apértum est templum Dei in cælo : et visa est arca testaménti eius in templo eius, et facta sunt fúlgura, et voces, et terræmótus, et grando magna.
+Ap	12	1	Et signum magnum appáruit in cælo : múlier amícta sole, et luna sub pédibus eius, et in cápite eius coróna stellárum duódecim :
+Ap	12	2	et in útero habens, clamábat partúriens, et cruciabátur ut páriat.
+Ap	12	3	Et visum est aliud signum in cælo : et ecce draco magnus rufus habens cápita septem, et córnua decem : et in capítibus eius diadémata septem,
+Ap	12	4	et cauda eius trahébat tértiam partem stellárum cæli, et misit eas in terram : et draco stetit ante mulíerem, quæ erat paritúra, ut cum peperísset, fílium eius devoráret.
+Ap	12	5	Et péperit fílium másculum, qui rectúrus erat omnes gentes in virga férrea : et raptus est fílius eius ad Deum, et ad thronum eius,
+Ap	12	6	et múlier fugit in solitúdinem ubi habébat locum parátum a Deo, ut ibi pascant eam diébus mille ducéntis sexagínta.
+Ap	12	7	Et factum est prǽlium magnum in cælo : Míchael et ángeli eius præliabántur cum dracóne, et draco pugnábat, et ángeli eius :
+Ap	12	8	et non valuérunt, neque locus invéntus est eórum ámplius in cælo.
+Ap	12	9	Et proiéctus est draco ille magnus, serpens antíquus, qui vocátur diábolus, et Sátanas, qui sedúcit univérsum orbem : et proiéctus est in terram, et ángeli eius cum illo missi sunt.
+Ap	12	10	Et audívi vocem magnam in cælo dicéntem : Nunc facta est salus, et virtus, et regnum Dei nostri, et potéstas Christi eius : quia proiéctus est accusátor fratrum nostrórum, qui accusábat illos ante conspéctum Dei nostri die ac nocte.
+Ap	12	11	Et ipsi vicérunt eum propter sánguinem Agni, et propter verbum testimónii sui, et non dilexérunt ánimas suas usque ad mortem.
+Ap	12	12	Proptérea lætámini cæli, et qui habitátis in eis. Væ terræ, et mari, quia descéndit diábolus ad vos habens iram magnam, sciens quod módicum tempus habet.
+Ap	12	13	Et postquam vidit draco quod proiéctus esset in terram, persecútus est mulíerem, quæ péperit másculum :
+Ap	12	14	et datæ sunt mulíeri alæ duæ áquilæ magnæ ut voláret in desértum in locum suum, ubi álitur per tempus et témpora, et dimídium témporis a fácie serpéntis.
+Ap	12	15	Et misit serpens ex ore suo post mulíerem, aquam tamquam flumen, ut eam fáceret trahi a flúmine.
+Ap	12	16	Et adiúvit terra mulíerem, et apéruit terra os suum, et absórbuit flumen, quod misit draco de ore suo.
+Ap	12	17	Et irátus est draco in mulíerem : et ábiit fácere prǽlium cum réliquis de sémine eius, qui custódiunt mandáta Dei, et habent testimónium Iesu Christi.
+Ap	12	18	Et stetit supra arénam maris.
+Ap	13	1	Et vidi de mari béstiam ascendéntem habéntem cápita septem, et córnua decem, et super córnua eius decem diadémata, et super cápita eius nómina blasphémiæ.
+Ap	13	2	Et béstia, quam vidi, símilis erat pardo, et pedes eius sicut pedes ursi, et os eius sicut os leónis. Et dedit illi draco virtútem suam, et potestátem magnam.
+Ap	13	3	Et vidi unum de capítibus suis quasi occísum in mortem : et plaga mortis eius curáta est. Et admiráta est univérsa terra post béstiam.
+Ap	13	4	Et adoravérunt dracónem, qui dedit potestátem béstiæ : et adoravérunt béstiam, dicéntes : Quis símilis béstiæ ? et quis póterit pugnáre cum ea ?
+Ap	13	5	Et datum est ei os loquens magna et blasphémias : et data est ei potéstas fácere menses quadragínta duos.
+Ap	13	6	Et apéruit os suum in blasphémias ad Deum, blasphemáre nomen eius, et tabernáculum eius, et eos qui in cælo hábitant.
+Ap	13	7	Et est datum illi bellum fácere cum sanctis, et víncere eos. Et data est illi potéstas in omnem tribum, et pópulum, et linguam, et gentem,
+Ap	13	8	et adoravérunt eam omnes, qui inhábitant terram : quorum non sunt scripta nómina in libro vitæ Agni, qui occísus est ab orígine mundi.
+Ap	13	9	Si quis habet aurem, áudiat.
+Ap	13	10	Qui in captivitátem dúxerit, in captivitátem vadet : qui in gládio occíderit, opórtet eum gládio occídi. Hic est patiéntia, et fides sanctórum.
+Ap	13	11	Et vidi áliam béstiam ascendéntem de terra, et habébat córnua duo simília Agni, et loquebátur sicut draco.
+Ap	13	12	Et potestátem prióris béstiæ omnem faciébat in conspéctu eius : et fecit terram, et habitántes in ea, adoráre béstiam primam, cuius curáta est plaga mortis.
+Ap	13	13	Et fecit signa magna, ut étiam ignem fáceret de cælo descéndere in terram in conspéctu hóminum.
+Ap	13	14	Et sedúxit habitántes in terra propter signa, quæ data sunt illi fácere in conspéctu béstiæ, dicens habitántibus in terra, ut fáciant imáginem béstiæ, quæ habet plagam gládii, et vixit.
+Ap	13	15	Et datum est illi ut daret spíritum imágini béstiæ, et ut loquátur imágo béstiæ : et fáciat ut quicúmque non adoráverint imáginem béstiæ, occidántur.
+Ap	13	16	Et fáciet omnes pusíllos, et magnos, et dívites, et páuperes, et líberos, et servos habére caractérem in déxtera manu sua, aut in fróntibus suis :
+Ap	13	17	et nequis possit émere, aut véndere, nisi qui habet caractérem, aut nomen béstiæ, aut númerum nóminis eius.
+Ap	13	18	Hic sapiéntia est. Qui habet intelléctum, cómputet númerum béstiæ. Númerus enim hóminis est : et númerus eius sexcénti sexagínta sex.
+Ap	14	1	Et vidi : et ecce Agnus stabat supra montem Sion, et cum eo centum quadragínta quátuor míllia, habéntes nomen eius, et nomen Patris eius scriptum in fróntibus suis.
+Ap	14	2	Et audívi vocem de cælo, tamquam vocem aquárum multárum, et tamquam vocem tonítrui magni : et vocem, quam audívi, sicut citharœdórum citharizántium in cítharis suis.
+Ap	14	3	Et cantábant quasi cánticum novum ante sedem, et ante quátuor animália, et senióres : et nemo póterat dícere cánticum, nisi illa centum quadragínta quátuor míllia, qui empti sunt de terra.
+Ap	14	4	Hi sunt, qui cum muliéribus non sunt coinquináti : vírgines enim sunt. Hi sequúntur Agnum quocúmque íerit. Hi empti sunt ex homínibus primítiæ Deo, et Agno :
+Ap	14	5	et in ore eórum non est invéntum mendácium : sine mácula enim sunt ante thronum Dei.
+Ap	14	6	Et vidi álterum ángelum volántem per médium cæli, habéntem Evangélium ætérnum, ut evangelizáret sedéntibus super terram, et super omnem gentem, et tribum, et linguam, et pópulum :
+Ap	14	7	dicens magna voce : Timéte Dóminum, et date illi honórem, quia venit hora iudícii eius : et adoráte eum, qui fecit cælum, et terram, mare, et fontes aquárum.
+Ap	14	8	Et álius ángelus secútus est dicens : Cécidit, cécidit Bábylon illa magna : quæ a vino iræ fornicatiónis suæ potávit omnes gentes.
+Ap	14	9	Et tértius ángelus secútus est illos, dicens voce magna : Si quis adoráverit béstiam, et imáginem eius, et accéperit caractérem in fronte sua, aut in manu sua :
+Ap	14	10	et hic bibet de vino iræ Dei, quod mistum est mero in cálice iræ ipsíus, et cruciábitur igne, et súlphure in conspéctu angelórum sanctórum, et ante conspéctum Agni :
+Ap	14	11	et fumus tormentórum eórum ascéndet in sǽcula sæculórum : nec habent réquiem die ac nocte, qui adoravérunt béstiam, et imáginem eius, et si quis accéperit caractérem nóminis eius.
+Ap	14	12	Hic patiéntia sanctórum est, qui custódiunt mandáta Dei, et fidem Iesu.
+Ap	14	13	Et audívi vocem de cælo, dicéntem mihi : Scribe : Beáti mórtui qui in Dómino moriúntur. Amodo iam dicit Spíritus, ut requiéscant a labóribus suis : ópera enim illórum sequúntur illos.
+Ap	14	14	Et vidi : et ecce nubem cándidam, et super nubem sedéntem símilem Fílio hóminis, habéntem in cápite suo corónam áuream, et in manu sua falcem acútam.
+Ap	14	15	Et álius ángelus exívit de templo, clamans voce magna ad sedéntem super nubem : Mitte falcem tuam, et mete, quia venit hora ut metátur, quóniam áruit messis terræ.
+Ap	14	16	Et misit qui sedébat super nubem, falcem suam in terram, et deméssa est terra.
+Ap	14	17	Et álius ángelus exívit de templo, quod est in cælo, habens et ipse falcem acútam.
+Ap	14	18	Et álius ángelus exívit de altári, qui habébat potestátem supra ignem : et clamávit voce magna ad eum qui habébat falcem acútam, dicens : Mitte falcem tuam acútam, et vindémia botros víneæ terræ : quóniam matúræ sunt uvæ eius.
+Ap	14	19	Et misit ángelus falcem suam acútam in terram, et vindemiávit víneam terræ, et misit in lacum iræ Dei magnum :
+Ap	14	20	et calcátus est lacus extra civitátem, et exívit sanguis de lacu usque ad frenos equórum per stádia mille sexcénta.
+Ap	15	1	Et vidi aliud signum in cælo magnum et mirábile, ángelos septem, habéntes plagas septem novíssimas : quóniam in illis consummáta est ira Dei.
+Ap	15	2	Et vidi tamquam mare vítreum mistum igne, et eos, qui vicérunt béstiam, et imáginem eius, et númerum nóminis eius, stantes super mare vítreum, habéntes cítharas Dei :
+Ap	15	3	et cantántes cánticum Móysi servi Dei, et cánticum Agni, dicéntes : Magna et mirabília sunt ópera tua, Dómine Deus omnípotens : iustæ et veræ sunt viæ tuæ, Rex sæculórum.
+Ap	15	4	Quis non timébit te, Dómine, et magnificábit nomen tuum ? quia solus pius es : quóniam omnes gentes vénient, et adorábunt in conspéctu tuo, quóniam iudícia tua manifésta sunt.
+Ap	15	5	Et post hæc vidi : et ecce apértum est templum tabernáculi testimónii in cælo,
+Ap	15	6	et exiérunt septem ángeli habéntes septem plagas de templo, vestíti lino mundo et cándido, et præcíncti circa péctora zonis áureis.
+Ap	15	7	Et unum de quátuor animálibus dedit septem ángelis septem phíalas áureas, plenas iracúndiæ Dei vivéntis in sǽcula sæculórum.
+Ap	15	8	Et implétum est templum fumo a maiestáte Dei, et de virtúte eius : et nemo póterat introíre in templum, donec consummaréntur septem plagæ septem angelórum.
+Ap	16	1	Et audívi vocem magnam de templo, dicéntem septem ángelis : Ite, et effúndite septem phíalas iræ Dei in terram.
+Ap	16	2	Et ábiit primus, et effúdit phíalam suam in terram, et factum est vulnus sævum et péssimum in hómines, qui habébant caractérem béstiæ, et in eos qui adoravérunt imáginem eius.
+Ap	16	3	Et secúndus ángelus effúdit phíalam suam in mare, et factus est sanguis tamquam mórtui : et omnis ánima vivens mórtua est in mari.
+Ap	16	4	Et tértius effúdit phíalam suam super flúmina, et super fontes aquárum, et factus est sanguis.
+Ap	16	5	Et audívi ángelum aquárum dicéntem : Iustus es, Dómine, qui es, et qui eras sanctus, qui hæc iudicásti :
+Ap	16	6	quia sánguinem sanctórum et prophetárum effudérunt, et sánguinem eis dedísti bíbere : digni enim sunt.
+Ap	16	7	Et audívi álterum ab altári dicéntem : Etiam Dómine Deus omnípotens, vera et iusta iudícia tua.
+Ap	16	8	Et quartus ángelus effúdit phíalam suam in solem, et datum est illi æstu afflígere hómines, et igni :
+Ap	16	9	et æstuavérunt hómines æstu magno, et blasphemavérunt nomen Dei habéntis potestátem super has plagas, neque egérunt pœniténtiam ut darent illi glóriam.
+Ap	16	10	Et quintus ángelus effúdit phíalam suam super sedem béstiæ : et factum est regnum eius tenebrósum, et commanducavérunt linguas suas præ dolóre :
+Ap	16	11	et blasphemavérunt Deum cæli præ dolóribus, et vulnéribus suis, et non egérunt pœniténtiam ex opéribus suis.
+Ap	16	12	Et sextus ángelus effúdit phíalam suam in flumen illud magnum Euphráten : et siccávit aquam eius, ut præpararétur via régibus ab ortu solis.
+Ap	16	13	Et vidi de ore dracónis, et de ore béstiæ, et de ore pseudoprophétæ spíritus tres immúndos in modum ranárum.
+Ap	16	14	Sunt enim spíritus dæmoniórum faciéntes signa, et procédunt ad reges totíus terræ congregáre illos in prǽlium ad diem magnum omnipoténtis Dei.
+Ap	16	15	Ecce vénio sicut fur. Beátus qui vígilat, et custódit vestiménta sua, ne nudus ámbulet, et vídeant turpitúdinem eius.
+Ap	16	16	Et congregábit illos in locum qui vocátur Hebráice Armagedon.
+Ap	16	17	Et séptimus ángelus effúdit phíalam suam in áerem, et exívit vox magna de templo a throno, dicens : Factum est.
+Ap	16	18	Et facta sunt fúlgura, et voces, et tonítrua, et terræmótus factus est magnus, qualis numquam fuit ex quo hómines fuérunt super terram : talis terræmótus, sic magnus.
+Ap	16	19	Et facta est cívitas magna in tres partes : et civitátes géntium cecidérunt. Et Bábylon magna venit in memóriam ante Deum, dare illi cálicem vini indignatiónis iræ eius.
+Ap	16	20	Et omnis ínsula fugit, et montes non sunt invénti.
+Ap	16	21	Et grando magna sicut taléntum descéndit de cælo in hómines : et blasphemavérunt Deum hómines propter plagam grándinis : quóniam magna facta est veheménter.
+Ap	17	1	Et venit unus de septem ángelis, qui habébant septem phíalas, et locútus est mecum, dicens : Veni, osténdam tibi damnatiónem meretrícis magnæ, quæ sedet super aquas multas,
+Ap	17	2	cum qua fornicáti sunt reges terræ, et inebriáti sunt qui inhábitant terram de vino prostitutiónis eius.
+Ap	17	3	Et ábstulit me in spíritu in desértum. Et vidi mulíerem sedéntem super béstiam coccíneam, plenam nomínibus blasphémiæ, habéntem cápita septem, et córnua decem.
+Ap	17	4	Et múlier erat circúmdata púrpura, et cóccino, et inauráta auro, et lápide pretióso, et margarítis, habens póculum áureum in manu sua, plenum abominatióne, et immundítia fornicatiónis eius.
+Ap	17	5	Et in fronte eius nomen scriptum : Mystérium : Bábylon magna, mater fornicatiónum, et abominatiónum terræ.
+Ap	17	6	Et vidi mulíerem ébriam de sánguine sanctórum, et de sánguine mártyrum Iesu. Et mirátus sum cum vidíssem illam admiratióne magna.
+Ap	17	7	Et dixit mihi ángelus : Quare miráris ? ego dicam tibi sacraméntum mulíeris, et béstiæ, quæ portat eam, quæ habet cápita septem, et córnua decem.
+Ap	17	8	Béstia, quam vidísti, fuit, et non est, et ascensúra est de abýsso, et in intéritum ibit : et mirabúntur inhabitántes terram (quorum non sunt scripta nómina in libro vitæ a constitutióne mundi) vidéntes béstiam, quæ erat, et non est.
+Ap	17	9	Et hic est sensus, qui habet sapiéntiam. Septem cápita, septem montes sunt, super quos múlier sedet, et reges septem sunt.
+Ap	17	10	Quinque cecidérunt, unus est, et álius nondum venit : et cum vénerit, opórtet illum breve tempus manére.
+Ap	17	11	Et béstia, quæ erat, et non est : et ipsa octáva est : et de septem est, et in intéritum vadit.
+Ap	17	12	Et decem córnua, quæ vidísti, decem reges sunt : qui regnum nondum accepérunt, sed potestátem tamquam reges una hora accípient post béstiam.
+Ap	17	13	Hi unum consílium habent, et virtútem, et potestátem suam béstiæ tradent.
+Ap	17	14	Hi cum Agno pugnábunt, et Agnus vincet illos : quóniam Dóminus dominórum est, et Rex regum, et qui cum illo sunt, vocáti, elécti, et fidéles.
+Ap	17	15	Et dixit mihi : Aquæ, quas vidísti ubi méretrix sedet, pópuli sunt, et gentes, et linguæ.
+Ap	17	16	Et decem córnua, quæ vidísti in béstia : hi ódient fornicáriam, et desolátam fácient illam, et nudam, et carnes eius manducábunt, et ipsam igni concremábunt.
+Ap	17	17	Deus enim dedit in corda eórum ut fáciant quod plácitum est illi : ut dent regnum suum béstiæ donec consumméntur verba Dei.
+Ap	17	18	Et múlier, quam vidísti, est cívitas magna, quæ habet regnum super reges terræ.
+Ap	18	1	Et post hæc vidi álium ángelum descendéntem de cælo, habéntem potestátem magnam : et terra illumináta est a glória eius.
+Ap	18	2	Et exclamávit in fortitúdine, dicens : Cécidit, cécidit Bábylon magna : et facta est habitátio dæmoniórum, et custódia omnis spíritus immúndi, et custódia omnis vólucris immúndæ, et odíbilis :
+Ap	18	3	quia de vino iræ fornicatiónis eius bibérunt omnes gentes : et reges terræ cum illa fornicáti sunt : et mercatóres terræ de virtúte deliciárum eius dívites facti sunt.
+Ap	18	4	Et audívi áliam vocem de cælo, dicéntem : Exíte de illa pópulus meus : ut ne partícipes sitis delictórum eius, et de plagis eius non accipiátis.
+Ap	18	5	Quóniam pervenérunt peccáta eius usque ad cælum, et recordátus est Dóminus iniquitátum eius.
+Ap	18	6	Réddite illi sicut et ipsa réddidit vobis : et duplicáte duplícia secúndum ópera eius : in póculo, quo míscuit, miscéte illi duplum.
+Ap	18	7	Quantum glorificávit se, et in delíciis fuit, tantum date illi torméntum et luctum : quia in corde suo dicit : Sédeo regína : et vídua non sum, et luctum non vidébo.
+Ap	18	8	Ideo in una die vénient plagæ eius, mors, et luctus, et fames, et igne comburétur : quia fortis est Deus, qui iudicábit illam.
+Ap	18	9	Et flebunt, et plangent se super illam reges terræ, qui cum illa fornicáti sunt, et in delíciis vixérunt, cum víderint fumum incéndii eius :
+Ap	18	10	longe stantes propter timórem tormentórum eius, dicéntes : Væ, væ cívitas illa magna Bábylon, cívitas illa fortis : quóniam una hora venit iudícium tuum.
+Ap	18	11	Et negotiatóres terræ flebunt, et lugébunt super illam : quóniam merces eórum nemo emet ámplius :
+Ap	18	12	merces auri, et argénti, et lápidis pretiósi, et margarítæ, et byssi, et púrpuræ, et sérici, et cocci (et omne lignum thýinum, et ómnia vasa éboris, et ómnia vasa de lápide pretióso, et æraménto, et ferro, et mármore,
+Ap	18	13	et cinnamómum) et odoramentórum, et unguénti, et thuris, et vini, et ólei, et símilæ, et trítici, et iumentórum, et óvium, et equórum, et rhedárum, et mancipiórum, et animárum hóminum.
+Ap	18	14	Et poma desidérii ánimæ tuæ discessérunt a te, et ómnia pínguia et præclára periérunt a te, et ámplius illa iam non invénient.
+Ap	18	15	Mercatóres horum, qui dívites facti sunt, ab ea longe stabunt propter timórem tormentórum eius, flentes, ac lugéntes,
+Ap	18	16	et dicéntes : Væ, væ cívitas illa magna, quæ amícta erat bysso, et púrpura, et cocco, et deauráta erat auro, et lápide pretióso, et margarítis :
+Ap	18	17	quóniam una hora destitútæ sunt tantæ divítiæ, et omnis gubernátor, et omnis qui in lacum návigat, et nautæ, et qui in mari operántur, longe stetérunt,
+Ap	18	18	et clamavérunt vidéntes locum incéndii eius, dicéntes : Quæ símilis civitáti huic magnæ ?
+Ap	18	19	et misérunt púlverem super cápita sua, et clamavérunt flentes, et lugéntes, dicéntes : Væ, væ cívitas illa magna, in qua dívites facti sunt omnes, qui habébant naves in mari de prétiis eius : quóniam una hora desoláta est.
+Ap	18	20	Exsúlta super eam cælum, et sancti apóstoli, et prophétæ : quóniam iudicávit Deus iudícium vestrum de illa.
+Ap	18	21	Et sústulit unus ángelus fortis lápidem quasi molárem magnum, et misit in mare, dicens : Hoc ímpetu mittétur Bábylon cívitas illa magna, et ultra iam non inveniétur.
+Ap	18	22	Et vox citharœdórum, et musicórum, et tíbia canéntium, et tuba non audiétur in te ámplius : et omnis ártifex omnis artis non inveniétur in te ámplius : et vox molæ non audiétur in te ámplius :
+Ap	18	23	et lux lucérnæ non lucébit in te ámplius : et vox sponsi et sponsæ non audiétur adhuc in te : quia mercatóres tui erant príncipes terræ, quia in venefíciis tuis erravérunt omnes gentes.
+Ap	18	24	Et in ea sanguis prophetárum et sanctórum invéntus est : et ómnium qui interfécti sunt in terra.
+Ap	19	1	Post hæc audívi quasi vocem turbárum multárum in cælo dicéntium : Allelúia : salus, et glória, et virtus Deo nostro est :
+Ap	19	2	quia vera et iusta iudícia sunt eius, qui iudicávit de meretríce magna, quæ corrúpit terram in prostitutióne sua, et vindicávit sánguinem servórum suórum de mánibus eius.
+Ap	19	3	Et íterum dixérunt : Allelúia. Et fumus eius ascéndit in sǽcula sæculórum.
+Ap	19	4	Et cecidérunt senióres vigínti quátuor, et quátuor animália, et adoravérunt Deum sedéntem super thronum, dicéntes : Amen : allelúia.
+Ap	19	5	Et vox de throno exívit, dicens : Laudem dícite Deo nostro omnes servi eius : et qui timétis eum pusílli et magni.
+Ap	19	6	Et audívi quasi vocem turbæ magnæ, et sicut vocem aquárum multárum, et sicut vocem tonitruórum magnórum, dicéntium : Allelúia : quóniam regnávit Dóminus Deus noster omnípotens.
+Ap	19	7	Gaudeámus, et exsultémus : et demus glóriam ei : quia venérunt núptiæ Agni, et uxor eius præparávit se.
+Ap	19	8	Et datum est illi ut coopériat se býssino splendénti et cándido. Býssinum enim iustificatiónes sunt sanctórum.
+Ap	19	9	Et dixit mihi : Scribe : Beáti qui ad cœnam nuptiárum Agni vocáti sunt ; et dixit mihi : Hæc verba Dei vera sunt.
+Ap	19	10	Et cécidi ante pedes eius, ut adorárem eum. Et dicit mihi : Vide ne féceris : consérvus tuus sum, et fratrum tuórum habéntium testimónium Iesu. Deum adóra. Testimónium enim Iesu est spíritus prophetíæ.
+Ap	19	11	Et vidi cælum apértum, et ecce equus albus, et qui sedébat super eum, vocabátur Fidélis, et Verax, et cum iustítia iúdicat et pugnat.
+Ap	19	12	Oculi autem eius sicut flamma ignis, et in cápite eius diadémata multa, habens nomen scriptum, quod nemo novit nisi ipse.
+Ap	19	13	Et vestítus erat veste aspérsa sánguine : et vocátur nomen eius : Verbum Dei.
+Ap	19	14	Et exércitus qui sunt in cælo, sequebántur eum in equis albis, vestíti býssino albo et mundo.
+Ap	19	15	Et de ore eius procédit gládius ex utráque parte acútus, ut in ipso percútiat gentes. Et ipse reget eas in virga férrea : et ipse calcat tórcular vini furóris iræ Dei omnipoténtis.
+Ap	19	16	Et habet in vestiménto et in fémore suo scriptum : Rex regum et Dóminus dominántium.
+Ap	19	17	Et vidi unum ángelum stantem in sole, et clamávit voce magna, dicens ómnibus ávibus, quæ volábant per médium cæli : Veníte, et congregámini ad cœnam magnam Dei :
+Ap	19	18	ut manducétis carnes regum, et carnes tribunórum, et carnes fórtium, et carnes equórum, et sedéntium in ipsis, et carnes ómnium liberórum, et servórum, et pusillórum et magnórum.
+Ap	19	19	Et vidi béstiam, et reges terræ, et exércitus eórum congregátos ad faciéndum prǽlium cum illo, qui sedébat in equo, et cum exércitu eius.
+Ap	19	20	Et apprehénsa est béstia, et cum ea pseudoprophéta : qui fecit signa coram ipso, quibus sedúxit eos, qui accepérunt caractérem béstiæ, et qui adoravérunt imáginem eius. Vivi missi sunt hi duo in stagnum ignis ardéntis súlphure :
+Ap	19	21	et céteri occísi sunt in gládio sedéntis super equum, qui procédit de ore ipsíus : et omnes aves saturátæ sunt cárnibus eórum.
+Ap	20	1	Et vidi ángelum descendéntem de cælo, habéntem clavem abýssi, et caténam magnam in manu sua.
+Ap	20	2	Et apprehéndit dracónem, serpéntem antíquum, qui est diábolus, et Sátanas, et ligávit eum per annos mille :
+Ap	20	3	et misit eum in abýssum, et clausit, et signávit super illum ut non sedúcat ámplius gentes, donec consumméntur mille anni : et post hæc opórtet illum solvi módico témpore.
+Ap	20	4	Et vidi sedes, et sedérunt super eas, et iudícium datum est illis : et ánimas decollatórum propter testimónium Iesu, et propter verbum Dei, et qui non adoravérunt béstiam, neque imáginem eius, nec accepérunt caractérem eius in fróntibus, aut in mánibus suis, et vixérunt, et regnavérunt cum Christo mille annis.
+Ap	20	5	Céteri mortuórum non vixérunt, donec consumméntur mille anni. Hæc est resurréctio prima.
+Ap	20	6	Beátus, et sanctus, qui habet partem in resurrectióne prima : in his secúnda mors non habet potestátem : sed erunt sacerdótes Dei et Christi, et regnábunt cum illo mille annis.
+Ap	20	7	Et cum consummáti fúerint mille anni, solvétur Sátanas de cárcere suo, et exíbit, et sedúcet gentes, quæ sunt super quátuor ángulos terræ, Gog, et Magog, et congregábit eos in prǽlium, quorum númerus est sicut aréna maris.
+Ap	20	8	Et ascendérunt super latitúdinem terræ, et circuiérunt castra sanctórum, et civitátem diléctam.
+Ap	20	9	Et descéndit ignis a Deo de cælo, et devorávit eos : et diábolus, qui seducébat eos, missus est in stagnum ignis, et súlphuris, ubi et béstia
+Ap	20	10	et pseudoprophéta cruciabúntur die ac nocte in sǽcula sæculórum.
+Ap	20	11	Et vidi thronum magnum cándidum, et sedéntem super eum, a cuius conspéctu fugit terra, et cælum, et locus non est invéntus eis.
+Ap	20	12	Et vidi mórtuos, magnos et pusíllos, stantes in conspéctu throni, et libri apérti sunt : et álius liber apértus est, qui est vitæ : et iudicáti sunt mórtui ex his, quæ scripta erant in libris, secúndum ópera ipsórum :
+Ap	20	13	et dedit mare mórtuos, qui in eo erant : et mors et inférnus dedérunt mórtuos suos, qui in ipsis erant : et iudicátum est de síngulis secúndum ópera ipsórum.
+Ap	20	14	Et inférnus et mors missi sunt in stagnum ignis. Hæc est mors secúnda.
+Ap	20	15	Et qui non invéntus est in libro vitæ scriptus, missus est in stagnum ignis.
+Ap	21	1	Et vidi cælum novum et terram novam. Primum enim cælum, et prima terra ábiit, et mare iam non est.
+Ap	21	2	Et ego Ioánnes vidi sanctam civitátem Ierúsalem novam descendéntem de cælo a Deo, parátam sicut sponsam ornátam viro suo.
+Ap	21	3	Et audívi vocem magnam de throno dicéntem : Ecce tabernáculum Dei cum homínibus, et habitábit cum eis. Et ipsi pópulus eius erunt, et ipse Deus cum eis erit eórum Deus :
+Ap	21	4	et abstérget Deus omnem lácrimam ab óculis eórum : et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abiérunt.
+Ap	21	5	Et dixit qui sedébat in throno : Ecce nova fácio ómnia. Et dixit mihi : Scribe, quia hæc verba fidelíssima sunt, et vera.
+Ap	21	6	Et dixit mihi : Factum est : ego sum alpha et ómega, inítium et finis. Ego sitiénti dabo de fonte aquæ vitæ, gratis.
+Ap	21	7	Qui vícerit, possidébit hæc : et ero illi Deus, et ille erit mihi fílius.
+Ap	21	8	Tímidis autem, et incrédulis, et execrátis, et homicídis, et fornicatóribus, et venéficis, et idololátris, et ómnibus mendácibus, pars illórum erit in stagno ardénti igne et súlphure : quod est mors secúnda.
+Ap	21	9	Et venit unus de septem ángelis habéntibus phíalas plenas septem plagis novíssimis, et locútus est mecum, dicens : Veni, et osténdam tibi sponsam, uxórem Agni.
+Ap	21	10	Et sústulit me in spíritu in montem magnum et altum, et osténdit mihi civitátem sanctam Ierúsalem descendéntem de cælo a Deo,
+Ap	21	11	habéntem claritátem Dei : et lumen eius símile lápidi pretióso tamquam lápidi iáspidis, sicut crystállum.
+Ap	21	12	Et habébat murum magnum, et altum, habéntem portas duódecim : et in portis ángelos duódecim, et nómina inscrípta, quæ sunt nómina duódecim tríbuum filiórum Israel :
+Ap	21	13	ab oriénte portæ tres, et ab aquilóne portæ tres, et ab austro portæ tres, et ab occásu portæ tres.
+Ap	21	14	Et murus civitátis habens fundaménta duódecim, et in ipsis duódecim nómina duódecim apostolórum Agni.
+Ap	21	15	Et qui loquebátur mecum, habébat mensúram arundíneam áuream, ut metirétur civitátem, et portas eius, et murum.
+Ap	21	16	Et cívitas in quadro pósita est, et longitúdo eius tanta est quanta et latitúdo : et mensus est civitátem de arúndine áurea per stádia duódecim míllia : et longitúdo, et altitúdo, et latitúdo eius æquália sunt.
+Ap	21	17	Et mensus est murum eius centum quadragínta quátuor cubitórum, mensúra hóminis, quæ est ángeli.
+Ap	21	18	Et erat structúra muri eius ex lápide iáspide : ipsa vero cívitas aurum mundum símile vitro mundo.
+Ap	21	19	Et fundaménta muri civitátis omni lápide pretióso ornáta. Fundaméntum primum, iaspis : secúndum, sapphírus : tértium, calcedónius : quartum, smarágdus :
+Ap	21	20	quintum, sardónyx : sextum, sárdius : séptimum, chrysólithus : octávum, berýllus : nonum, topázius : décimum, chrysóprasus : undécimum, hyacínthus : duodécimum, amethýstus.
+Ap	21	21	Et duódecim portæ, duódecim margarítæ sunt, per síngulas : et síngulæ portæ erant ex síngulis margarítis : et plátea civitátis aurum mundum, tamquam vitrum perlúcidum.
+Ap	21	22	Et templum non vidi in ea : Dóminus enim Deus omnípotens templum illíus est, et Agnus.
+Ap	21	23	Et cívitas non eget sole neque luna ut lúceant in ea, nam cláritas Dei illuminávit eam, et lucérna eius est Agnus.
+Ap	21	24	Et ambulábunt gentes in lúmine eius : et reges terræ áfferent glóriam suam et honórem in illam.
+Ap	21	25	Et portæ eius non claudéntur per diem : nox enim non erit illic.
+Ap	21	26	Et áfferent glóriam et honórem géntium in illam.
+Ap	21	27	Non intrábit in eam áliquod coinquinátum, aut abominatiónem fáciens et mendácium, nisi qui scripti sunt in libro vitæ Agni.
+Ap	22	1	Et osténdit mihi flúvium aquæ vitæ, spléndidum tamquam crystállum, procedéntem de sede Dei et Agni.
+Ap	22	2	In médio platéæ eius, et ex utráque parte flúminis, lignum vitæ, áfferens fructus duódecim per menses síngulos, reddens fructum suum et fólia ligni ad sanitátem géntium.
+Ap	22	3	Et omne maledíctum non erit ámplius : sed sedes Dei et Agni in illa erunt, et servi eius sérvient illi.
+Ap	22	4	Et vidébunt fáciem eius : et nomen eius in fróntibus eórum.
+Ap	22	5	Et nox ultra non erit : et non egébunt lúmine lucérnæ, neque lúmine solis, quóniam Dóminus Deus illuminábit illos, et regnábunt in sǽcula sæculórum.
+Ap	22	6	Et dixit mihi : Hæc verba fidelíssima sunt, et vera. Et Dóminus Deus spirítuum prophetárum misit ángelum suum osténdere servis suis quæ opórtet fíeri cito.
+Ap	22	7	Et ecce vénio velóciter. Beátus, qui custódit verba prophetíæ libri huius.
+Ap	22	8	Et ego Ioánnes, qui audívi, et vidi hæc. Et postquam audíssem, et vidíssem, cécidi ut adorárem ante pedes ángeli, qui mihi hæc ostendébat :
+Ap	22	9	et dixit mihi : Vide ne féceris : consérvus enim tuus sum, et fratrum tuórum prophetárum, et eórum qui servant verba prophetíæ libri huius : Deum adóra.
+Ap	22	10	Et dicit mihi : Ne signáveris verba prophetíæ libri huius : tempus enim prope est.
+Ap	22	11	Qui nocet, nóceat adhuc : et qui in sórdibus est, sordéscat adhuc : et qui iustus est, iustificétur adhuc : et sanctus, sanctificétur adhuc.
+Ap	22	12	Ecce vénio cito, et merces mea mecum est, réddere unicuíque secúndum ópera sua.
+Ap	22	13	Ego sum alpha et ómega, primus et novíssimus, princípium et finis.
+Ap	22	14	Beáti, qui lavant stolas suas in sánguine Agni : ut sit potéstas eórum in ligno vitæ, et per portas intrent in civitátem.
+Ap	22	15	Foris canes, et venéfici, et impudíci, et homicídæ, et idólis serviéntes, et omnis qui amat et facit mendácium.
+Ap	22	16	Ego Iesus misi ángelum meum testificári vobis hæc in ecclésiis. Ego sum radix, et genus David, stella spléndida et matutína.
+Ap	22	17	Et spíritus, et sponsa dicunt : Veni. Et qui audit, dicat : Veni. Et qui sitit, véniat : et qui vult, accípiat aquam vitæ, gratis.
+Ap	22	18	Contéstor enim omni audiénti verba prophetíæ libri huius : si quis apposúerit ad hæc, appónet Deus super illum plagas scriptas in libro isto.
+Ap	22	19	Et si quis diminúerit de verbis libri prophetíæ huius, áuferet Deus partem eius de libro vitæ, et de civitáte sancta, et de his quæ scripta sunt in libro isto :
+Ap	22	20	dicit qui testimónium pérhibet istórum. Etiam vénio cito : amen. Veni, Dómine Iesu.
+Ap	22	21	Grátia Dómini nostri Iesu Christi cum ómnibus vobis. Amen.
