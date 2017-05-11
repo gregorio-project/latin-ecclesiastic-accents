@@ -1,6 +1,6 @@
 Here you have an accented version of the old Vulgate.
 
-At this date (2017-05-03), only the New Testament is available.
+At this date (2017-05-03), only the Psalms and the New Testament are available.
 
 ------------
 
