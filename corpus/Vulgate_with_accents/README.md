@@ -1,22 +1,32 @@
 Here you have an accented version of the old Vulgate.
 
-At this date (2017-05-03), only the Psalms and the New Testament are available.
+At this date (2017-05-21), these Books are available:
+
+Vetus Testamentum: Gn, Ps
+
+Novum Testamentum: omnia (Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep, Ph, Col, 1-2 Th, 1-2 Tim, Tit, Phm, He, Ja, 1-2 Pe, 1-3 Jo, Judæ, Ap).
 
 ------------
 
-• The original text, which has been used for this work, is available here :
+• The original text, which has been used for this work, is available here:
 
-http://www.wilbourhall.org/pdfs/vulgate.pdf
+	http://www.wilbourhall.org/pdfs/vulgate.pdf
 
-• The accentuation has been performed magna ex parte with Collatinus :
+• The accentuation has been performed magna ex parte with Collatinus:
 
-http://outils.biblissima.fr/fr/collatinus/
+	http://outils.biblissima.fr/fr/collatinus/
 
-https://github.com/biblissima/collatinus
+	https://github.com/biblissima/collatinus
 
-• The result has been checked with the Polyglotte of Vigouroux :
+• The result has been checked with:
 
-https://archive.org/details/lasaintebiblepol00vigo
+	- the Polyglotte of Vigouroux (not always consistent, and containing many typographic mistakes):
+
+		https://archive.org/details/lasaintebiblepol00vigo
+
+	- 'A key to the classical pronunciation of Greek, Latin, and Scripture Proper Names' by John Walker (1807) (not always concordant with the Ecclesiastic accentuation):
+
+		$$$
 
 ------------
 
