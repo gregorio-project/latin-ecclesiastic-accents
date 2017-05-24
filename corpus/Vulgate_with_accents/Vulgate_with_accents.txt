@@ -25,7 +25,7 @@ Gn	1	24	Dixit quoque Deus : Prodúcat terra ánimam vivéntem in génere suo, iu
 Gn	1	25	Et fecit Deus béstias terræ iuxta spécies suas, et iuménta, et omne réptile terræ in génere suo. Et vidit Deus quod esset bonum,
 Gn	1	26	et ait : Faciámus hóminem ad imáginem et similitúdinem nostram : et præsit píscibus maris, et volatílibus cæli, et béstiis, universǽque terræ, omníque réptili, quod movétur in terra.
 Gn	1	27	Et creávit Deus hóminem ad imáginem suam : ad imáginem Dei creávit illum, másculum et féminam creávit eos.
-Gn	1	28	Benedixítque illis Deus, et ait : Créscite et multiplicámini, et repléte terram, et subiícite eam, et dominámini píscibus maris, et volatílibus cæli, et univérsis animántibus, quæ movéntur super terram.
+Gn	1	28	Benedixítque illis Deus, et ait : Créscite et multiplicámini, et repléte terram, et subícite eam, et dominámini píscibus maris, et volatílibus cæli, et univérsis animántibus, quæ movéntur super terram.
 Gn	1	29	Dixítque Deus : Ecce dedi vobis omnem herbam afferéntem semen super terram, et univérsa ligna quæ habent in semetípsis seméntem géneris sui, ut sint vobis in escam :
 Gn	1	30	et cunctis animántibus terræ, omníque vólucri cæli, et univérsis quæ movéntur in terra, et in quibus est ánima vivens, ut hábeant ad vescéndum. Et factum est ita.
 Gn	1	31	Vidítque Deus cuncta quæ fécerat, et erant valde bona. Et factum est véspere et mane, dies sextus.
@@ -370,7 +370,7 @@ Gn	15	9	Et respóndens Dóminus : Sume, inquit, mihi vaccam triénnem, et capram
 Gn	15	10	Qui tollens univérsa hæc, divísit ea per médium, et utrásque partes contra se altrínsecus pósuit ; aves autem non divísit.
 Gn	15	11	Descenderúntque vólucres super cadávera, et abigébat eas Abram.
 Gn	15	12	Cumque sol occúmberet, sopor írruit super Abram, et horror magnus et tenebrósus invásit eum.
-Gn	15	13	Dictúmque est ad eum : Scito prænóscens quod peregrínum futúrum sit semen tuum in terra non sua, et subiícient eos servitúti, et afflígent quadringéntis annis.
+Gn	15	13	Dictúmque est ad eum : Scito prænóscens quod peregrínum futúrum sit semen tuum in terra non sua, et subícient eos servitúti, et afflígent quadringéntis annis.
 Gn	15	14	Verúmtamen gentem, cui servitúri sunt, ego iudicábo : et post hæc egrediéntur cum magna substántia.
 Gn	15	15	Tu autem ibis ad patres tuos in pace, sepúltus in senectúte bona.
 Gn	15	16	Generatióne autem quarta reverténtur huc : necdum enim complétæ sunt iniquitátes Amorrhæórum usque ad præsens tempus.
@@ -520,7 +520,7 @@ Gn	21	6	Dixítque Sara : Risum fecit mihi Deus : quicúmque audíerit, corridéb
 Gn	21	7	Rursúmque ait : Quis auditúrus créderet Abraham quod Sara lactáret fílium, quem péperit ei iam seni ?
 Gn	21	8	Crevit ígitur puer, et ablactátus est : fecítque Abraham grande convívium in die ablactatiónis eius.
 Gn	21	9	Cumque vidísset Sara fílium Agar Ægýptiæ ludéntem cum Isaac fílio suo, dixit ad Abraham :
-Gn	21	10	Eiice ancíllam hanc, et fílium eius : non enim erit hæres fílius ancíllæ cum fílio meo Isaac.
+Gn	21	10	Eice ancíllam hanc, et fílium eius : non enim erit hæres fílius ancíllæ cum fílio meo Isaac.
 Gn	21	11	Dure accépit hoc Abraham pro fílio suo.
 Gn	21	12	Cui dixit Deus : Non tibi videátur ásperum super púero, et super ancílla tua : ómnia quæ díxerit tibi Sara, audi vocem eius : quia in Isaac vocábitur tibi semen.
 Gn	21	13	Sed et fílium ancíllæ fáciam in gentem magnam, quia semen tuum est.
@@ -1010,7 +1010,7 @@ Gn	34	29	párvulos quoque eórum et uxóres duxérunt captívas.
 Gn	34	30	Quibus patrátis audácter, Iacob dixit ad Símeon et Levi : Turbástis me, et odiósum fecístis me Chananǽis, et Pherezǽis habitatóribus terræ huius : nos pauci sumus ; illi congregáti percútient me, et delébor ego, et domus mea.
 Gn	34	31	Respondérunt : Numquid ut scorto abúti debuére soróre nostra ?
 Gn	35	1	Intérea locútus est Deus ad Iacob : Surge, et ascénde Bethel, et hábita ibi, facque altáre Deo qui appáruit tibi quando fugiébas Esau fratrem tuum.
-Gn	35	2	Iacob vero convocáta omni domo sua, ait : Abiícite deos aliénos qui in médio vestri sunt, et mundámini, ac mutáte vestiménta vestra.
+Gn	35	2	Iacob vero convocáta omni domo sua, ait : Abícite deos aliénos qui in médio vestri sunt, et mundámini, ac mutáte vestiménta vestra.
 Gn	35	3	Súrgite, et ascendámus in Bethel, ut faciámus ibi altáre Deo : qui exaudívit me in die tribulatiónis meæ, et sócius fuit itíneris mei.
 Gn	35	4	Dedérunt ergo ei omnes deos aliénos quos habébant, et ináures quæ erant in áuribus eórum : at ille infódit ea subter terebínthum, quæ est post urbem Sichem.
 Gn	35	5	Cumque profécti essent, terror Dei invásit omnes per circúitum civitátes, et non sunt ausi pérsequi recedéntes.
@@ -1088,7 +1088,7 @@ Gn	37	4	Vidéntes autem fratres eius quod a patre plus cunctis fíliis amarétur
 Gn	37	5	Accidit quoque ut visum sómnium reférret frátribus suis : quæ causa maióris ódii seminárium fuit.
 Gn	37	6	Dixítque ad eos : Audíte sómnium meum quod vidi :
 Gn	37	7	putábam nos ligáre manípulos in agro : et quasi consúrgere manípulum meum, et stare, vestrósque manípulos circumstántes adoráre manípulum meum.
-Gn	37	8	Respondérunt fratres eius : Numquid rex noster eris ? aut subiiciémur ditióni tuæ ? Hæc ergo causa somniórum atque sermónum, invídiæ et ódii fómitem ministrávit.
+Gn	37	8	Respondérunt fratres eius : Numquid rex noster eris ? aut subiciémur ditióni tuæ ? Hæc ergo causa somniórum atque sermónum, invídiæ et ódii fómitem ministrávit.
 Gn	37	9	Aliud quoque vidit sómnium, quod narrans frátribus, ait : Vidi per sómnium, quasi solem, et lunam, et stellas úndecim adoráre me.
 Gn	37	10	Quod cum patri suo, et frátribus retulísset, increpávit eum pater suus, et dixit : Quid sibi vult hoc sómnium quod vidísti ? num ego et mater tua, et fratres tui adorábimus te super terram ?
 Gn	37	11	Invidébant ei ígitur fratres sui : pater vero rem tácitus considerábat.
@@ -1207,7 +1207,7 @@ Gn	41	11	ubi una nocte utérque vídimus sómnium præságum futurórum.
 Gn	41	12	Erat ibi puer Hebrǽus, eiúsdem ducis mílitum fámulus : cui narrántes sómnia,
 Gn	41	13	audívimus quidquid póstea rei probávit evéntus ; ego enim rédditus sum offício meo, et ille suspénsus est in cruce.
 Gn	41	14	Prótinus ad regis impérium edúctum de cárcere Ioseph totondérunt : ac veste mutáta obtulérunt ei.
-Gn	41	15	Cui ille ait : Vidi sómnia, nec est qui edísserat : quæ audívi te sapientíssime coniícere.
+Gn	41	15	Cui ille ait : Vidi sómnia, nec est qui edísserat : quæ audívi te sapientíssime conícere.
 Gn	41	16	Respóndit Ioseph : Absque me Deus respondébit próspera Pharaóni.
 Gn	41	17	Narrávit ergo Phárao quod víderat : Putábam me stare super ripam flúminis,
 Gn	41	18	et septem boves de amne conscéndere, pulchras nimis, et obésis cárnibus : quæ in pastu palúdis virécta carpébant.
@@ -1305,7 +1305,7 @@ Gn	43	14	Deus autem meus omnípotens fáciat vobis eum placábilem : et remítta
 Gn	43	15	Tulérunt ergo viri múnera, et pecúniam dúplicem, et Béniamin : descenderúntque in Ægýptum, et stetérunt coram Ioseph.
 Gn	43	16	Quos cum ille vidísset et Béniamin simul, præcépit dispensatóri domus suæ, dicens : Intróduc viros domum, et occíde víctimas, et ínstrue convívium : quóniam mecum sunt comestúri merídie.
 Gn	43	17	Fecit ille quod sibi fúerat imperátum, et introdúxit viros domum.
-Gn	43	18	Ibíque extérriti, dixérunt mútuo : Propter pecúniam, quam retúlimus prius in saccis nostris, introdúcti sumus : ut devólvat in nos calúmniam, et violénter subiíciat servitúti et nos, et ásinos nostros.
+Gn	43	18	Ibíque extérriti, dixérunt mútuo : Propter pecúniam, quam retúlimus prius in saccis nostris, introdúcti sumus : ut devólvat in nos calúmniam, et violénter subíciat servitúti et nos, et ásinos nostros.
 Gn	43	19	Quam ob rem in ipsis fóribus accedéntes ad dispensatórem domus,
 Gn	43	20	locúti sunt : Orámus, dómine, ut áudias nos. Iam ante descéndimus ut emerémus escas :
 Gn	43	21	quibus emptis, cum venissémus ad diversórium, aperúimus saccos nostros, et invénimus pecúniam in ore saccórum : quam nunc eódem póndere reportávimus.
@@ -1531,12 +1531,12 @@ Gn	50	25	mórtuus est, explétis centum decem vitæ suæ annis. Et cónditus aro
 Ps	1	1	Beátus vir qui non ábiit in consílio impiórum, et in via peccatórum non stetit, et in cáthedra pestiléntiæ non sedit ;
 Ps	1	2	sed in lege Dómini volúntas eius, et in lege eius meditábitur die ac nocte.
 Ps	1	3	Et erit tamquam lignum quod plantátum est secus decúrsus aquárum, quod fructum suum dabit in témpore suo : et fólium eius non défluet ; et ómnia quæcúmque fáciet prosperabúntur.
-Ps	1	4	Non sic ímpii, non sic ; sed tamquam pulvis quem próiicit ventus a fácie terræ.
+Ps	1	4	Non sic ímpii, non sic ; sed tamquam pulvis quem próicit ventus a fácie terræ.
 Ps	1	5	Ideo non resúrgent ímpii in iudício, neque peccatóres in concílio iustórum :
 Ps	1	6	quóniam novit Dóminus viam iustórum, et iter impiórum períbit.
 Ps	2	1	Quare fremuérunt gentes, et pópuli meditáti sunt inánia ?
 Ps	2	2	Asstitérunt reges terræ, et príncipes convenérunt in unum advérsus Dóminum, et advérsus christum eius.
-Ps	2	3	Dirumpámus víncula eórum, et proiiciámus a nobis iugum ipsórum.
+Ps	2	3	Dirumpámus víncula eórum, et proiciámus a nobis iugum ipsórum.
 Ps	2	4	Qui hábitat in cælis irridébit eos, et Dóminus subsannábit eos.
 Ps	2	5	Tunc loquétur ad eos in ira sua, et in furóre suo conturbábit eos.
 Ps	2	6	Ego autem constitútus sum rex ab eo super Sion, montem sanctum eius, prǽdicans præcéptum eius.
@@ -1712,7 +1712,7 @@ Ps	16	7	Mirífica misericórdias tuas, qui salvos facis sperántes in te.
 Ps	16	8	A resisténtibus déxteræ tuæ custódi me ut pupíllam óculi. Sub umbra alárum tuárum prótege me
 Ps	16	9	a fácie impiórum qui me afflixérunt. Inimíci mei ánimam meam circumdedérunt ;
 Ps	16	10	ádipem suum conclusérunt : os eórum locútum est supérbiam.
-Ps	16	11	Proiiciéntes me nunc circumdedérunt me ; óculos suos statuérunt declináre in terram.
+Ps	16	11	Proiciéntes me nunc circumdedérunt me ; óculos suos statuérunt declináre in terram.
 Ps	16	12	Suscepérunt me sicut leo parátus ad prædam, et sicut cátulus leónis hábitans in ábditis.
 Ps	16	13	Exsúrge, Dómine : prǽveni eum, et supplánta eum : éripe ánimam meam ab ímpio ; frámeam tuam
 Ps	16	14	ab inimícis manus tuæ. Dómine, a paucis de terra dívide eos in vita eórum ; de abscónditis tuis adimplétus est venter eórum. Saturáti sunt fíliis, et dimisérunt relíquias suas párvulis suis.
@@ -2161,7 +2161,7 @@ Ps	40	5	Ego dixi : Dómine, miserére mei ; sana ánimam meam, quia peccávi tib
 Ps	40	6	Inimíci mei dixérunt mala mihi : Quando moriétur, et períbit nomen eius ?
 Ps	40	7	Et si ingrediebátur ut vidéret, vana loquebátur ; cor eius congregávit iniquitátem sibi. Egrediebátur foras et loquebátur.
 Ps	40	8	In idípsum advérsum me susurrábant omnes inimíci mei ; advérsum me cogitábant mala mihi.
-Ps	40	9	Verbum iníquum constituérunt advérsum me : Numquid qui dormit non adiíciet ut resúrgat ?
+Ps	40	9	Verbum iníquum constituérunt advérsum me : Numquid qui dormit non adíciet ut resúrgat ?
 Ps	40	10	Etenim homo pacis meæ in quo sperávi, qui edébat panes meos, magnificávit super me supplantatiónem.
 Ps	40	11	Tu autem, Dómine, miserére mei, et resúscita me ; et retríbuam eis.
 Ps	40	12	In hoc cognóvi quóniam voluísti me, quóniam non gaudébit inimícus meus super me.
@@ -2456,7 +2456,7 @@ Ps	60	3	A fínibus terræ ad te clamávi, dum anxiarétur cor meum ; in petra ex
 Ps	60	4	quia factus es spes mea : turris fortitúdinis a fácie inimíci.
 Ps	60	5	Inhabitábo in tabernáculo tuo in sǽcula ; prótegar in velaménto alárum tuárum.
 Ps	60	6	Quóniam tu, Deus meus, exaudísti oratiónem meam ; dedísti hæreditátem timéntibus nomen tuum.
-Ps	60	7	Dies super dies regis adiícies ; annos eius usque in diem generatiónis et generatiónis.
+Ps	60	7	Dies super dies regis adícies ; annos eius usque in diem generatiónis et generatiónis.
 Ps	60	8	Pérmanet in ætérnum in conspéctu Dei : misericórdiam et veritátem eius quis requíret ?
 Ps	60	9	Sic psalmum dicam nómini tuo in sǽculum sǽculi, ut reddam vota mea de die in diem.
 Ps	61	1	In finem, pro Idithun. Psalmus David.
@@ -2629,7 +2629,7 @@ Ps	70	10	Quia dixérunt inimíci mei mihi, et qui custodiébant ánimam meam con
 Ps	70	11	dicéntes : Deus derelíquit eum : persequímini et comprehéndite eum, quia non est qui erípiat.
 Ps	70	12	Deus, ne elongéris a me ; Deus meus, in auxílium meum réspice.
 Ps	70	13	Confundántur et defíciant detrahéntes ánimæ meæ ; operiántur confusióne et pudóre qui quærunt mala mihi.
-Ps	70	14	Ego autem semper sperábo, et adiíciam super omnem laudem tuam.
+Ps	70	14	Ego autem semper sperábo, et adíciam super omnem laudem tuam.
 Ps	70	15	Os meum annuntiábit iustítiam tuam, tota die salutáre tuum. Quóniam non cognóvi litteratúram,
 Ps	70	16	introíbo in poténtias Dómini ; Dómine, memorábor iustítiæ tuæ solíus.
 Ps	70	17	Deus, docuísti me a iuventúte mea ; et usque nunc pronuntiábo mirabília tua.
@@ -3329,7 +3329,7 @@ Ps	105	23	Et dixit ut dispérderet eos, si non Móyses, eléctus eius, stetísse
 Ps	105	24	Et pro níhilo habuérunt terram desiderábilem ; non credidérunt verbo eius.
 Ps	105	25	Et murmuravérunt in tabernáculis suis ; non exaudiérunt vocem Dómini.
 Ps	105	26	Et elevávit manum suam super eos ut prostérneret eos in desérto :
-Ps	105	27	et ut deiíceret semen eórum in natiónibus, et dispérgeret eos in regiónibus.
+Ps	105	27	et ut deíceret semen eórum in natiónibus, et dispérgeret eos in regiónibus.
 Ps	105	28	Et initiáti sunt Beélphegor, et comedérunt sacrifícia mortuórum.
 Ps	105	29	Et irritavérunt eum in adinventiónibus suis, et multiplicáta est in eis ruína.
 Ps	105	30	Et stetit Phínees, et placávit, et cessávit quassátio.
@@ -3496,7 +3496,7 @@ Ps	113	18	Domus Aaron sperávit in Dómino ; adiútor eórum et protéctor eóru
 Ps	113	19	Qui timent Dóminum speravérunt in Dómino ; adiútor eórum et protéctor eórum est.
 Ps	113	20	Dóminus memor fuit nostri, et benedíxit nobis. Benedíxit dómui Israel ; benedíxit dómui Aaron.
 Ps	113	21	Benedíxit ómnibus qui timent Dóminum, pusíllis cum maióribus.
-Ps	113	22	Adiíciat Dóminus super vos, super vos et super fílios vestros.
+Ps	113	22	Adíciat Dóminus super vos, super vos et super fílios vestros.
 Ps	113	23	Benedícti vos a Dómino, qui fecit cælum et terram.
 Ps	113	24	Cælum cæli Dómino ; terram autem dedit fíliis hóminum.
 Ps	113	25	Non mórtui laudábunt te, Dómine, neque omnes qui descéndunt in inférnum :
@@ -4173,8 +4173,8 @@ Mt	5	25	Esto conséntiens adversário tuo cito dum es in via cum eo : ne forte t
 Mt	5	26	Amen dico tibi, non éxies inde, donec reddas novíssimum quadrántem.
 Mt	5	27	Audístis quia dictum est antíquis : Non mœcháberis.
 Mt	5	28	Ego autem dico vobis : quia omnis qui víderit mulíerem ad concupiscéndum eam, iam mœchátus est eam in corde suo.
-Mt	5	29	Quod si óculus tuus dexter scandalízat te, érue eum, et próiice abs te : éxpedit enim tibi ut péreat unum membrórum tuórum, quam totus corpus tuum mittátur in gehénnam.
-Mt	5	30	Et si dextra manus tua scandalízat te, abscíde eam, et próiice abs te : éxpedit enim tibi ut péreat unum membrórum tuórum, quam totum corpus tuum eat in gehénnam.
+Mt	5	29	Quod si óculus tuus dexter scandalízat te, érue eum, et próice abs te : éxpedit enim tibi ut péreat unum membrórum tuórum, quam totus corpus tuum mittátur in gehénnam.
+Mt	5	30	Et si dextra manus tua scandalízat te, abscíde eam, et próice abs te : éxpedit enim tibi ut péreat unum membrórum tuórum, quam totum corpus tuum eat in gehénnam.
 Mt	5	31	Dictum est autem : Quicúmque dimíserit uxórem suam, det ei libéllum repúdii.
 Mt	5	32	Ego autem dico vobis : quia omnis qui dimíserit uxórem suam, excépta fornicatiónis causa, facit eam mœchári : et qui dimíssam dúxerit, adúlterat.
 Mt	5	33	Iterum audístis quia dictum est antíquis : Non periurábis : reddes autem Dómino iuraménta tua.
@@ -4219,19 +4219,19 @@ Mt	6	23	Si autem óculus tuus fúerit nequam, totum corpus tuum tenebrósum erit
 Mt	6	24	Nemo potest duóbus dóminis servíre : aut enim unum ódio habébit, et álterum díliget : aut unum sustinébit, et álterum contémnet. Non potéstis Deo servíre et mammónæ.
 Mt	6	25	Ideo dico vobis, ne sollíciti sitis ánimæ vestræ quid manducétis, neque córpori vestro quid induámini. Nonne ánima plus est quam esca, et corpus plus quam vestiméntum ?
 Mt	6	26	Respícite volatília cæli, quóniam non serunt, neque metunt, neque cóngregant in hórrea : et Pater vester cæléstis pascit illa. Nonne vos magis pluris estis illis ?
-Mt	6	27	Quis autem vestrum cógitans potest adiícere ad statúram suam cúbitum unum ?
+Mt	6	27	Quis autem vestrum cógitans potest adícere ad statúram suam cúbitum unum ?
 Mt	6	28	Et de vestiménto quid sollíciti estis ? Consideráte lília agri quómodo crescunt : non labórant, neque nent.
 Mt	6	29	Dico autem vobis, quóniam nec Sálomon in omni glória sua coopértus est sicut unum ex istis.
 Mt	6	30	Si autem fœnum agri, quod hódie est, et cras in clíbanum míttitur, Deus sic vestit, quanto magis vos módicæ fídei ?
 Mt	6	31	Nolíte ergo sollíciti esse, dicéntes : Quid manducábimus, aut quid bibémus, aut quo operiémur ?
 Mt	6	32	hæc enim ómnia gentes inquírunt. Scit enim Pater vester, quia his ómnibus indigétis.
-Mt	6	33	Quǽrite ergo primum regnum Dei, et iustítiam eius : et hæc ómnia adiiciéntur vobis.
+Mt	6	33	Quǽrite ergo primum regnum Dei, et iustítiam eius : et hæc ómnia adiciéntur vobis.
 Mt	6	34	Nolíte ergo sollíciti esse in crástinum. Crástinus enim dies sollícitus erit sibi ipsi : súfficit díei malítia sua.
 Mt	7	1	Nolíte iudicáre, ut non iudicémini.
 Mt	7	2	In quo enim iudício iudicavéritis, iudicabímini : et in qua mensúra mensi fuéritis, remetiétur vobis.
 Mt	7	3	Quid autem vides festúcam in óculo fratris tui, et trabem in óculo tuo non vides ?
 Mt	7	4	aut quómodo dicis fratris tuo : Sine eíciam festúcam de óculo tuo, et ecce trabs est in óculo tuo ?
-Mt	7	5	Hypócrita, éiice primum trabem de óculo tuo, et tunc vidébis eiícere festúcam de óculo fratris tui.
+Mt	7	5	Hypócrita, éice primum trabem de óculo tuo, et tunc vidébis eícere festúcam de óculo fratris tui.
 Mt	7	6	Nolíte dare sanctum cánibus : neque mittátis margarítas vestras ante porcos, ne forte concúlcent eas pédibus suis, et convérsi dirúmpant vos.
 Mt	7	7	Pétite, et dábitur vobis : quǽrite, et inveniétis : pulsáte, et aperiétur vobis.
 Mt	7	8	Omnis enim qui petit, áccipit : et qui quærit, ínvenit : et pulsánti aperiétur.
@@ -4267,11 +4267,11 @@ Mt	8	8	Et respóndens centúrio, ait : Dómine, non sum dignus ut intres sub tec
 Mt	8	9	Nam et ego homo sum sub potestáte constitútus, habens sub me mílites, et dico huic : Vade, et vadit : et álii : Veni, et venit : et servo meo : Fac hoc, et facit.
 Mt	8	10	Audiens autem Iesus mirátus est, et sequéntibus se dixit : Amen dico vobis, non invéni tantam fidem in Israel.
 Mt	8	11	Dico autem vobis, quod multi ab oriénte et occidénte vénient, et recúmbent cum Abraham, et Isaac, et Iacob in regno cælórum :
-Mt	8	12	fílii autem regni eiiciéntur in ténebras exterióres : ibi erit fletus et stridor déntium.
+Mt	8	12	fílii autem regni eiciéntur in ténebras exterióres : ibi erit fletus et stridor déntium.
 Mt	8	13	Et dixit Iesus centurióni : Vade, et sicut credidísti, fiat tibi. Et sanátus est puer in illa hora.
 Mt	8	14	Et cum venísset Iesus in domum Petri, vidit socrum eius iacéntem, et febricitántem :
 Mt	8	15	et tétigit manum eius, et dimísit eam febris, et surréxit, et ministrábat eis.
-Mt	8	16	Véspere autem facto, obtulérunt ei multos dæmónia habéntes : et eiiciébat spíritus verbo, et omnes male habéntes curávit :
+Mt	8	16	Véspere autem facto, obtulérunt ei multos dæmónia habéntes : et eiciébat spíritus verbo, et omnes male habéntes curávit :
 Mt	8	17	ut adimplerétur quod dictum est per Isaíam prophétam, dicéntem : Ipse infirmitátes nostras accépit :et ægrotatiónes nostras portávit.
 Mt	8	18	Videns autem Iesus turbas multas circum se, iussit ire trans fretum.
 Mt	8	19	Et accédens unus scriba, ait illi : Magíster, sequar te, quocúmque íeris.
@@ -4286,7 +4286,7 @@ Mt	8	27	Porro hómines miráti sunt, dicéntes : Qualis est hic, quia venti et m
 Mt	8	28	Et cum venísset trans fretum in regiónem Gerasenórum, occurrérunt ei duo habéntes dæmónia, de monuméntis exeúntes, sævi nimis, ita ut nemo posset transíre per viam illam.
 Mt	8	29	Et ecce clamavérunt, dicéntes : Quid nobis et tibi, Iesu fili Dei ? Venísti huc ante tempus torquére nos ?
 Mt	8	30	Erat autem non longe ab illis grex multórum porcórum pascens.
-Mt	8	31	Dǽmones autem rogábant eum, dicéntes : Si éiicis nos hinc, mitte nos in gregem porcórum.
+Mt	8	31	Dǽmones autem rogábant eum, dicéntes : Si éicis nos hinc, mitte nos in gregem porcórum.
 Mt	8	32	Et ait illis : Ite. At illi exeúntes abiérunt in porcos, et ecce ímpetu ábiit totus grex per præceps in mare : et mórtui sunt in aquis.
 Mt	8	33	Pastóres autem fugérunt : et veniéntes in civitátem, nuntiavérunt ómnia, et de eis qui dæmónia habúerant.
 Mt	8	34	Et ecce tota cívitas éxiit óbviam Iesu : et viso eo, rogábant ut transíret a fínibus eórum.
@@ -4323,12 +4323,12 @@ Mt	9	30	Et apérti sunt óculi eórum : et comminátus est illis Iesus, dicens :
 Mt	9	31	Illi autem exeúntes, diffamavérunt eum in tota terra illa.
 Mt	9	32	Egréssis autem illis, ecce obtulérunt ei hóminem mutum, dæmónium habéntem.
 Mt	9	33	Et eiécto dæmónio, locútus est mutus, et mirátæ sunt turbæ, dicéntes : Numquam appáruit sic in Israel.
-Mt	9	34	Pharisǽi autem dicébant : In príncipe dæmoniórum éiicit dǽmones.
+Mt	9	34	Pharisǽi autem dicébant : In príncipe dæmoniórum éicit dǽmones.
 Mt	9	35	Et circuíbat Iesus omnes civitátes, et castélla, docens in synagógis eórum, et prǽdicans Evangélium regni, et curans omnem languórem, et omnem infirmitátem.
 Mt	9	36	Videns autem turbas, misértus est eis : quia erant vexáti, et iacéntes sicut oves non habéntes pastórem.
 Mt	9	37	Tunc dicit discípulis suis : Messis quidem multa, operárii autem pauci.
 Mt	9	38	Rogáte ergo Dóminum messis, ut mittat operários in messem suam.
-Mt	10	1	Et convocátis duódecim discípulis suis, dedit illis potestátem spirítuum immundórum, ut eiícerent eos, et curárent omnem languórem, et omnem infirmitátem.
+Mt	10	1	Et convocátis duódecim discípulis suis, dedit illis potestátem spirítuum immundórum, ut eícerent eos, et curárent omnem languórem, et omnem infirmitátem.
 Mt	10	2	Duódecim autem Apostolórum nómina sunt hæc. Primus, Simon, qui dícitur Petrus : et Andréas frater eius,
 Mt	10	3	Iacóbus Zebedǽi, et Ioánnes frater eius, Philíppus, et Bartholomǽus, Thomas, et Matthǽus publicánus, Iacóbus Alphæi, et Thaddæus,
 Mt	10	4	Simon Chananǽus, et Iudas Iscariótes,qui et trádidit eum.
@@ -4423,9 +4423,9 @@ Mt	12	20	arúndinem quassátam non confrínget,et linum fúmigans non extínguet
 Mt	12	21	et in nómine eius gentes sperábunt.
 Mt	12	22	Tunc oblátus est ei dæmónium habens, cæcus, et mutus, et curávit eum ita ut loquerétur, et vidéret.
 Mt	12	23	Et stupébant omnes turbæ, et dicébant : Numquid hic est fílius David ?
-Mt	12	24	Pharisǽi autem audiéntes, dixérunt : Hic non éiicit dǽmones nisi in Beélzebub príncipe dæmoniórum.
+Mt	12	24	Pharisǽi autem audiéntes, dixérunt : Hic non éicit dǽmones nisi in Beélzebub príncipe dæmoniórum.
 Mt	12	25	Iesus autem sciens cogitatiónes eórum, dixit eis : Omne regnum divísum contra se desolábitur : et omnis cívitas vel domus divísa contra se, non stabit.
-Mt	12	26	Et si Sátanas Sátanam éiicit, advérsus se divísus est : quómodo ergo stabit regnum eius ?
+Mt	12	26	Et si Sátanas Sátanam éicit, advérsus se divísus est : quómodo ergo stabit regnum eius ?
 Mt	12	27	Et si ego in Beélzebub eício dǽmones, fílii vestri in quo eíciunt ? ídeo ipsi iúdices vestri erunt.
 Mt	12	28	Si autem ego in Spíritu Dei eício dǽmones, ígitur pervénit in vos regnum Dei.
 Mt	12	29	Aut quómodo potest quisquam intráre in domum fortis, et vasa eius dirípere, nisi prius alligáverit fortem ? et tunc domum illíus dirípiet.
@@ -4628,7 +4628,7 @@ Mt	17	14	Et cum venísset ad turbam, accéssit ad eum homo génibus provolútus 
 Mt	17	15	Et óbtuli eum discípulis tuis, et non potuérunt curáre eum.
 Mt	17	16	Respóndens autem Iesus, ait : O generátio incrédula, et pervérsa, quoúsque ero vobíscum ? úsquequo pátiar vos ? Afférte huc illum ad me.
 Mt	17	17	Et increpávit illum Iesus, et éxiit ab eo dæmónium, et curátus est puer ex illa hora.
-Mt	17	18	Tunc accessérunt discípuli ad Iesum secréto, et dixérunt : Quare nos non potúimus eiícere illum ?
+Mt	17	18	Tunc accessérunt discípuli ad Iesum secréto, et dixérunt : Quare nos non potúimus eícere illum ?
 Mt	17	19	Dixit illis Iesus : Propter incredulitátem vestram. Amen quippe dico vobis, si habuéritis fidem sicut granum sinápis, dicétis monti huic : Transi hinc illuc, et transíbit, et nihil impossíbile erit vobis.
 Mt	17	20	Hoc autem genus non eícitur nisi per oratiónem et ieiúnium.
 Mt	17	21	Conversántibus autem eis in Galilǽa, dixit illis Iesus : Fílius hóminis tradéndus est in manus hóminum :
@@ -4644,8 +4644,8 @@ Mt	18	4	Quicúmque ergo humiliáverit se sicut párvulus iste, hic est maior in 
 Mt	18	5	Et qui suscéperit unum párvulum talem in nómine meo, me súscipit :
 Mt	18	6	qui autem scandalizáverit unum de pusíllis istis, qui in me credunt, éxpedit ei ut suspendátur mola asinária in collo eius, et demergátur in profúndum maris.
 Mt	18	7	Væ mundo a scándalis ! Necésse est enim ut véniant scándala : verúmtamen væ hómini illi, per quem scándalum venit.
-Mt	18	8	Si autem manus tua, vel pes tuus scandalízat te, abscíde eum, et próiice abs te : bonum tibi est ad vitam íngredi débilem, vel claudum, quam duas manus vel duos pedes habéntem mitti in ignem ætérnum.
-Mt	18	9	Et si óculus tuus scandalízat te, érue eum, et próiice abs te : bonum tibi est cum uno óculo in vitam intráre, quam duos óculos habéntem mitti in gehénnam ignis.
+Mt	18	8	Si autem manus tua, vel pes tuus scandalízat te, abscíde eum, et próice abs te : bonum tibi est ad vitam íngredi débilem, vel claudum, quam duas manus vel duos pedes habéntem mitti in ignem ætérnum.
+Mt	18	9	Et si óculus tuus scandalízat te, érue eum, et próice abs te : bonum tibi est cum uno óculo in vitam intráre, quam duos óculos habéntem mitti in gehénnam ignis.
 Mt	18	10	Vidéte ne contemnátis unum ex his pusíllis : dico enim vobis, quia ángeli eórum in cælis semper vident fáciem Patris mei, qui in cælis est.
 Mt	18	11	Venit enim Fílius hóminis salváre quod períerat.
 Mt	18	12	Quid vobis vidétur ? si fúerint álicui centum oves, et errávit una ex eis : nonne relínquit nonagínta novem in móntibus, et vadit quǽrere eam quæ errávit ?
@@ -4747,7 +4747,7 @@ Mt	21	8	Plúrima autem turba stravérunt vestiménta sua in via : álii autem c�
 Mt	21	9	turbæ autem, quæ præcedébant, et quæ sequebántur, clamábant, dicéntes : Hosánna fílio David : benedíctus, qui venit in nómine Dómini : hosánna in altíssimis.
 Mt	21	10	Et cum intrásset Ierosólymam, commóta est univérsa cívitas, dicens : Quis est hic ?
 Mt	21	11	Pópuli autem dicébant : Hic est Iesus prophéta a Názareth Galilǽæ.
-Mt	21	12	Et intrávit Iesus in templum Dei, et eiiciébat omnes vendéntes et eméntes in templo, et mensas numulariórum, et cáthedras vendéntium colúmbas evértit :
+Mt	21	12	Et intrávit Iesus in templum Dei, et eiciébat omnes vendéntes et eméntes in templo, et mensas numulariórum, et cáthedras vendéntium colúmbas evértit :
 Mt	21	13	et dicit eis : Scriptum est : Domus mea domus oratiónis vocábitur : vos autem fecístis illam spelúncam latrónum.
 Mt	21	14	Et accessérunt ad eum cæci, et claudi in templo : et sanávit eos.
 Mt	21	15	Vidéntes autem príncipes sacerdótum et scribæ mirabília quæ fecit, et púeros clamántes in templo, et dicéntes : Hosánna fílio David : indignáti sunt,
@@ -5158,7 +5158,7 @@ Mc	1	30	Decumbébat autem socrus Simónis febrícitans : et statim dicunt ei de 
 Mc	1	31	Et accédens elevávit eam, apprehénsa manu eius : et contínuo dimísit eam febris, et ministrábat eis.
 Mc	1	32	Véspere autem facto cum occidísset sol, afferébant ad eum omnes male habéntes, et dæmónia habéntes :
 Mc	1	33	et erat omnis cívitas congregáta ad iánuam.
-Mc	1	34	Et curávit multos, qui vexabántur váriis languóribus, et dæmónia multa eiiciébat, et non sinébat ea loqui, quóniam sciébant eum.
+Mc	1	34	Et curávit multos, qui vexabántur váriis languóribus, et dæmónia multa eiciébat, et non sinébat ea loqui, quóniam sciébant eum.
 Mc	1	35	Et dilúculo valde surgens, egréssus ábiit in desértum locum, ibíque orábat.
 Mc	1	36	Et prosecútus est eum Simon, et qui cum illo erant.
 Mc	1	37	Et cum inveníssent eum, dixérunt ei : Quia omnes quærunt te.
@@ -5212,15 +5212,15 @@ Mc	3	11	Et spíritus immúndi, cum illum vidébant, procidébant ei : et clamáb
 Mc	3	12	Tu es Fílius Dei. Et veheménter comminabátur eis ne manifestárent illum.
 Mc	3	13	Et ascéndens in montem vocávit ad se quos vóluit ipse : et venérunt ad eum.
 Mc	3	14	Et fecit ut essent duódecim cum illo : et ut mítteret eos prædicáre.
-Mc	3	15	Et dedit illis potestátem curándi infirmitátes et eiiciéndi dæmónia.
+Mc	3	15	Et dedit illis potestátem curándi infirmitátes et eiciéndi dæmónia.
 Mc	3	16	Et impósuit Simóni nomen Petrus :
 Mc	3	17	et Iacóbum Zebedǽi, et Ioánnem fratrem Iacóbi, et impósuit eis nómina Boanérges, quod est, Fílii tonítrui :
 Mc	3	18	et Andrǽam, et Philíppum, et Bartholomǽum, et Matthǽum, et Thomam, et Iacóbum Alphǽi, et Thaddǽum, et Simónem Cananǽum,
 Mc	3	19	et Iudam Iscariótem, qui et trádidit illum.
 Mc	3	20	Et véniunt ad domum : et cónvenit íterum turba, ita ut non possent neque panem manducáre.
 Mc	3	21	Et cum audíssent sui, exiérunt tenére eum : dicébant enim : Quóniam in furórem versus est.
-Mc	3	22	Et scribæ, qui ab Ierosólymis descénderant, dicébant : Quóniam Beélzebub habet, et quia in príncipe dæmoniórum éiicit dæmónia.
-Mc	3	23	Et convocátis eis in parábolis dicébat illis : Quómodo potest Sátanas Sátanam eiícere ?
+Mc	3	22	Et scribæ, qui ab Ierosólymis descénderant, dicébant : Quóniam Beélzebub habet, et quia in príncipe dæmoniórum éicit dæmónia.
+Mc	3	23	Et convocátis eis in parábolis dicébat illis : Quómodo potest Sátanas Sátanam eícere ?
 Mc	3	24	Et si regnum in se dividátur, non potest regnum illud stare.
 Mc	3	25	Et si domus super semetípsam dispertiátur, non potest domus illa stare.
 Mc	3	26	Et si Sátanas consurréxerit in semetípsum, dispertítus est, et non póterit stare, sed finem habet.
@@ -5256,7 +5256,7 @@ Mc	4	20	Et hi sunt qui super terram bonam semináti sunt, qui áudiunt verbum, e
 Mc	4	21	Et dicébat illis : Numquid venit lucérna ut sub modo ponátur, aut sub lecto ? nonne ut super candelábrum ponátur ?
 Mc	4	22	Non est enim áliquid abscónditum, quod non manifestétur : nec factum est occúltum, sed ut in palam véniat.
 Mc	4	23	Si quis habet aures audiéndi, áudiat.
-Mc	4	24	Et dicébat illis : Vidéte quid audiátis. In qua mensúra mensi fuéritis, remetiétur vobis, et adiiciétur vobis.
+Mc	4	24	Et dicébat illis : Vidéte quid audiátis. In qua mensúra mensi fuéritis, remetiétur vobis, et adiciétur vobis.
 Mc	4	25	Qui enim habet, dábitur illi : et qui non habet, étiam quod habet auferétur ab eo.
 Mc	4	26	Et dicébat : Sic est regnum Dei, quemádmodum si homo iáciat seméntem in terram,
 Mc	4	27	et dórmiat, et exsúrgat nocte et die, et semen gérminet, et incréscat dum nescit ille.
@@ -5328,7 +5328,7 @@ Mc	6	9	sed calceátos sandáliis, et ne indueréntur duábus túnicis.
 Mc	6	10	Et dicébat eis : Quocúmque introiéritis in domum, illic manéte donec exeátis inde :
 Mc	6	11	et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris in testimónium illis.
 Mc	6	12	Et exeúntes prædicábant ut pœniténtiam ágerent :
-Mc	6	13	et dæmónia multa eiiciébant, et ungébant óleo multos ægros, et sanábant.
+Mc	6	13	et dæmónia multa eiciébant, et ungébant óleo multos ægros, et sanábant.
 Mc	6	14	Et audívit rex Heródes (maniféstum enim factum est nomen eius), et dicébat : Quia Ioánnes Baptísta resurréxit a mórtuis : et proptérea virtútes operántur in illo.
 Mc	6	15	Alii autem dicébant : Quia Elías est ; álii vero dicébant : Quia prophéta est, quasi unus ex prophétis.
 Mc	6	16	Quo audíto Heródes ait : Quem ego decollávi Ioánnem, hic a mórtuis resurréxit.
@@ -5397,7 +5397,7 @@ Mc	7	22	furta, avarítiæ, nequítiæ, dolus, impudicítiæ, óculus malus, blas
 Mc	7	23	Omnia hæc mala ab intus procédunt, et commúnicant hóminem.
 Mc	7	24	Et inde surgens ábiit in fines Tyri et Sidónis : et ingréssus domum, néminem vóluit scire, et non pótuit latére.
 Mc	7	25	Múlier enim statim ut audívit de eo, cuius fília habébat spíritum immúndum, intrávit, et prócidit ad pedes eius.
-Mc	7	26	Erat enim múlier gentílis, Syrophœníssa génere. Et rogábat eum ut dæmónium eiíceret de fília eius.
+Mc	7	26	Erat enim múlier gentílis, Syrophœníssa génere. Et rogábat eum ut dæmónium eíceret de fília eius.
 Mc	7	27	Qui dixit illi : Sine prius saturári fílios : non est enim bonum súmere panem filiórum, et míttere cánibus.
 Mc	7	28	At illa respóndit, et dixit illi : Utique Dómine, nam et catélli cómedunt sub mensa de micis puerórum.
 Mc	7	29	Et ait illi : Propter hunc sermónem vade : éxiit dæmónium a fília tua.
@@ -5464,7 +5464,7 @@ Mc	9	13	Et véniens ad discípulos suos, vidit turbam magnam circa eos, et scrib
 Mc	9	14	Et conféstim omnis pópulus videns Iesum, stupefáctus est, et expavérunt, et accurréntes salutábant eum.
 Mc	9	15	Et interrogávit eos : Quid inter vos conquíritis ?
 Mc	9	16	Et respóndens unus de turba, dixit : Magíster, áttuli fílium meum ad te habéntem spíritum mutum :
-Mc	9	17	qui ubicúmque eum apprehénderit, allídit illum, et spumat, et stridet déntibus, et aréscit : et dixi discípulis tuis ut eiícerent illum, et non potuérunt.
+Mc	9	17	qui ubicúmque eum apprehénderit, allídit illum, et spumat, et stridet déntibus, et aréscit : et dixi discípulis tuis ut eícerent illum, et non potuérunt.
 Mc	9	18	Qui respóndens eis, dixit : O generátio incrédula, quámdiu apud vos ero ? quámdiu vos pátiar ? afférte illum ad me.
 Mc	9	19	Et attulérunt eum. Et cum vidísset eum, statim spíritus conturbávit illum : et elísus in terram, volutabátur spumans.
 Mc	9	20	Et interrogávit patrem eius : Quantum témporis est ex quo ei hoc áccidit ? At ille ait : Ab infántia :
@@ -5474,7 +5474,7 @@ Mc	9	23	Et contínuo exclámans pater púeri, cum lácrimis aiébat : Credo, Dó
 Mc	9	24	Et cum vidéret Iesus concurréntem turbam, comminátus est spirítui immúndo, dicens illi : Surde et mute spíritus, ego præcípio tibi, exi ab eo : et ámplius ne intróeas in eum.
 Mc	9	25	Et exclámans, et multum discérpens eum, éxiit ab eo, et factus est sicut mórtuus, ita ut multi dícerent : Quia mórtuus est.
 Mc	9	26	Iesus autem tenens manum eius elevávit eum, et surréxit.
-Mc	9	27	Et cum introísset in domum, discípuli eius secréto interrogábant eum : Quare nos non potúimus eiícere eum ?
+Mc	9	27	Et cum introísset in domum, discípuli eius secréto interrogábant eum : Quare nos non potúimus eícere eum ?
 Mc	9	28	Et dixit illis : Hoc genus in nullo potest exíre, nisi in oratióne et ieiúnio.
 Mc	9	29	Et inde profécti prætergrediebántur Galilǽam : nec volébat quemquam scire.
 Mc	9	30	Docébat autem discípulos suos, et dicébat illis : Quóniam Fílius hóminis tradétur in manus hóminum, et occídent eum, et occísus tértia die resúrget.
@@ -5484,7 +5484,7 @@ Mc	9	33	At illi tacébant : síquidem in via inter se disputavérunt : quis eór
 Mc	9	34	Et résidens vocávit duódecim, et ait illis : Si quis vult primus esse, erit ómnium novíssimus, et ómnium miníster.
 Mc	9	35	Et accípiens púerum, státuit eum in médio eórum : quem cum compléxus esset, ait illis :
 Mc	9	36	Quisquis unum ex huiúsmodi púeris recéperit in nómine meo, me récipit : et quicúmque me suscéperit, non me súscipit, sed eum qui misit me.
-Mc	9	37	Respóndit illi Ioánnes, dicens : Magíster, vídimus quemdam in nómine tuo eiiciéntem dæmónia, qui non séquitur nos, et prohibúimus eum.
+Mc	9	37	Respóndit illi Ioánnes, dicens : Magíster, vídimus quemdam in nómine tuo eiciéntem dæmónia, qui non séquitur nos, et prohibúimus eum.
 Mc	9	38	Iesus autem ait : Nolíte prohibére eum : nemo est enim qui fáciat virtútem in nómine meo, et possit cito male loqui de me :
 Mc	9	39	qui enim non est advérsum vos, pro vobis est.
 Mc	9	40	Quisquis enim potum déderit vobis cálicem aquæ in nómine meo, quia Christi estis : amen dico vobis, non perdet mercédem suam.
@@ -5493,7 +5493,7 @@ Mc	9	42	Et si scandalizáverit te manus tua, abscíde illam : bonum est tibi dé
 Mc	9	43	ubi vermis eórum non móritur, et ignis non extínguitur.
 Mc	9	44	Et si pes tuus te scandalízat, ámputa illum : bonum est tibi claudum introíre in vitam ætérnam, quam duos pedes habéntem mitti in gehénnam ignis inextinguíbilis,
 Mc	9	45	ubi vermis eórum non móritur, et ignis non extínguitur.
-Mc	9	46	Quod si óculus tuus scandalízat te, éiice eum : bonum est tibi luscum introíre in regnum Dei, quam duos óculos habéntem mitti in gehénnam ignis,
+Mc	9	46	Quod si óculus tuus scandalízat te, éice eum : bonum est tibi luscum introíre in regnum Dei, quam duos óculos habéntem mitti in gehénnam ignis,
 Mc	9	47	ubi vermis eórum non móritur, et ignis non extínguitur.
 Mc	9	48	Omnis enim igne saliétur, et omnis víctima sale saliétur.
 Mc	9	49	Bonum est sal : quod si sal insúlsum fúerit, in quo illud condiétis ? Habéte in vobis sal, et pacem habéte inter vos.
@@ -5563,7 +5563,7 @@ Mc	11	11	Et introívit Ierosólymam in templum : et circumspéctis ómnibus, cum
 Mc	11	12	Et ália die cum exírent a Bethánia, esúriit.
 Mc	11	13	Cumque vidísset a longe ficum habéntem fólia, venit si quid forte inveníret in ea : et cum venísset ad eam, nihil invénit præter fólia : non enim erat tempus ficórum.
 Mc	11	14	Et respóndens dixit ei : Iam non ámplius in ætérnum ex te fructum quisquam mandúcet. Et audiébant discípuli eius.
-Mc	11	15	Et véniunt in Ierosólymam. Et cum introísset in templum, cœpit eiícere vendéntes et eméntes in templo : et mensas numulariórum, et cáthedras vendéntium colúmbas evértit :
+Mc	11	15	Et véniunt in Ierosólymam. Et cum introísset in templum, cœpit eícere vendéntes et eméntes in templo : et mensas numulariórum, et cáthedras vendéntium colúmbas evértit :
 Mc	11	16	et non sinébat ut quisquam transférret vas per templum :
 Mc	11	17	et docébat, dicens eis : Nonne scriptum est : Quia domus mea, domus oratiónis vocábitur ómnibus géntibus ? vos autem fecístis eam spelúncam latrónum.
 Mc	11	18	Quo audíto príncipes sacerdótum et scribæ, quærébant quómodo eum pérderent : timébant enim eum, quóniam univérsa turba admirabátur super doctrína eius.
@@ -5722,7 +5722,7 @@ Mc	14	56	Multi enim testimónium falsum dicébant advérsus eum : et conveniént
 Mc	14	57	Et quidam surgéntes, falsum testimónium ferébant advérsus eum, dicéntes :
 Mc	14	58	Quóniam nos audívimus eum dicéntem : Ego dissólvam templum hoc manu factum, et per tríduum aliud non manu factum ædificábo.
 Mc	14	59	Et non erat convéniens testimónium illórum.
-Mc	14	60	Et exsúrgens summus sacérdos in médium, interrogávit Iesum, dicens : Non respóndes quidquam ad ea quæ tibi obiiciúntur ab his ?
+Mc	14	60	Et exsúrgens summus sacérdos in médium, interrogávit Iesum, dicens : Non respóndes quidquam ad ea quæ tibi obiciúntur ab his ?
 Mc	14	61	Ille autem tacébat, et nihil respóndit. Rursum summus sacérdos interrogábat eum, et dixit ei : Tu es Christus Fílius Dei benedícti ?
 Mc	14	62	Iesus autem dixit illi : Ego sum : et vidébitis Fílium hóminis sedéntem a dextris virtútis Dei, et veniéntem cum núbibus cæli.
 Mc	14	63	Summus autem sacérdos scindens vestiménta sua, ait : Quid adhuc desiderámus testes ?
@@ -6096,7 +6096,7 @@ Lc	6	38	Date, et dábitur vobis : mensúram bonam, et confértam, et coagitátam
 Lc	6	39	Dicébat autem illis et similitúdinem : Numquid potest cæcus cæcum dúcere ? nonne ambo in fóveam cadunt ?
 Lc	6	40	Non est discípulus super magístrum : perféctus autem omnis erit, si sit sicut magíster eius.
 Lc	6	41	Quid autem vides festúcam in óculo fratris tui, trabem autem, quæ in óculo tuo est, non consíderas ?
-Lc	6	42	aut quómodo potes dícere fratri tuo : Frater, sine eíciam festúcam de óculo tuo : ipse in óculo tuo trabem non videns ? Hypócrita, éiice primum trabem de óculo tuo : et tunc perspícies ut edúcas festúcam de óculo fratris tui.
+Lc	6	42	aut quómodo potes dícere fratri tuo : Frater, sine eíciam festúcam de óculo tuo : ipse in óculo tuo trabem non videns ? Hypócrita, éice primum trabem de óculo tuo : et tunc perspícies ut edúcas festúcam de óculo fratris tui.
 Lc	6	43	Non est enim arbor bona, quæ facit fructus malos : neque arbor mala, fáciens fructum bonum.
 Lc	6	44	Unaquǽque enim arbor de fructu suo cognóscitur. Neque enim de spinis cólligunt ficus : neque de rubo vindémiant uvam.
 Lc	6	45	Bonus homo de bono thesáuro cordis sui profert bonum : et malus homo de malo thesáuro profert malum. Ex abundántia enim cordis os lóquitur.
@@ -6249,7 +6249,7 @@ Lc	9	36	Et dum fíeret vox, invéntus est Iesus solus. Et ipsi tacuérunt, et n�
 Lc	9	37	Factum est autem in sequénti die, descendéntibus illis de monte, occúrrit illis turba multa.
 Lc	9	38	Et ecce vir de turba exclamávit, dicens : Magíster, óbsecro te, réspice in fílium meum quia únicus est mihi :
 Lc	9	39	et ecce spíritus apprehéndit eum, et súbito clamat, et elídit, et díssipat eum cum spuma, et vix discédit dilánians eum :
-Lc	9	40	et rogávi discípulos tuos ut eiícerent illum, et non potuérunt.
+Lc	9	40	et rogávi discípulos tuos ut eícerent illum, et non potuérunt.
 Lc	9	41	Respóndens autem Iesus, dixit : O generátio infidélis, et pervérsa, úsquequoero apud vos, et pátiar vos ? adduc huc fílium tuum.
 Lc	9	42	Et cum accéderet, elísit illum dæmónium, et dissipávit.
 Lc	9	43	Et increpávit Iesus spíritum immúndum, et sanávit púerum, et réddidit illum patri eius.
@@ -6258,7 +6258,7 @@ Lc	9	45	At illi ignorábant verbum istud, et erat velátum ante eos ut non sent�
 Lc	9	46	Intrávit autem cogitátio in eos quis eórum maior esset.
 Lc	9	47	At Iesus videns cogitatiónes cordis illórum, apprehéndit púerum, et státuit illum secus se,
 Lc	9	48	et ait illis : Quicúmque suscéperit púerum istum in nómine meo, me récipit : et quicúmque me recéperit, récipit eum qui me misit. Nam qui minor est inter vos omnes, hic maior est.
-Lc	9	49	Respóndens autem Ioánnes dixit : Præcéptor, vídimus quemdam in nómine tuo eiiciéntem dæmónia, et prohibúimus eum : quia non séquitur nobíscum.
+Lc	9	49	Respóndens autem Ioánnes dixit : Præcéptor, vídimus quemdam in nómine tuo eiciéntem dæmónia, et prohibúimus eum : quia non séquitur nobíscum.
 Lc	9	50	Et ait ad illum Iesus : Nolíte prohibére : qui enim non est advérsum vos, pro vobis est.
 Lc	9	51	Factum est autem dum compleréntur dies assumptiónis eius, et ipse fáciem suam firmávit ut iret in Ierúsalem.
 Lc	9	52	Et misit núntios ante conspéctum suum : et eúntes intravérunt in civitátem Samaritanórum ut parárent illi.
@@ -6288,10 +6288,10 @@ Lc	10	13	Væ tibi Corózain ! væ tibi Bethsáida ! quia si in Tyro et Sidóne f
 Lc	10	14	Verúmtamen Tyro et Sidóni remíssius erit in iudício, quam vobis.
 Lc	10	15	Et tu Caphárnaum, usque ad cælum exaltáta, usque ad inférnum demergéris.
 Lc	10	16	Qui vos audit, me audit : et qui vos spernit, me spernit. Qui autem me spernit, spernit eum qui misit me.
-Lc	10	17	Revérsi sunt autem septuagínta duo cum gáudio, dicéntes : Dómine, étiam dæmónia subiiciúntur nobis in nómine tuo.
+Lc	10	17	Revérsi sunt autem septuagínta duo cum gáudio, dicéntes : Dómine, étiam dæmónia subiciúntur nobis in nómine tuo.
 Lc	10	18	Et ait illis : Vidébam Sátanam sicut fulgor de cælo cadéntem.
 Lc	10	19	Ecce dedi vobis potestátem calcándi supra serpéntes, et scorpiónes, et super omnem virtútem inimíci : et nihil vobis nocébit.
-Lc	10	20	Verúmtamen in hoc nolíte gaudére quia spíritus vobis subiiciúntur : gaudéte autem, quod nómina vestra scripta sunt in cælis.
+Lc	10	20	Verúmtamen in hoc nolíte gaudére quia spíritus vobis subiciúntur : gaudéte autem, quod nómina vestra scripta sunt in cælis.
 Lc	10	21	In ipsa hora exsultávit Spíritu Sancto, et dixit : Confíteor tibi Pater, Dómine cæli et terræ, quod abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis. Etiam Pater : quóniam sic plácuit ante te.
 Lc	10	22	Omnia mihi trádita sunt a Patre meo. Et nemo scit quis sit Fílius, nisi Pater : et quis sit Pater, nisi Fílius, et cui volúerit Fílius reveláre.
 Lc	10	23	Et convérsus ad discípulos suos, dixit : Beáti óculi qui vident quæ vos vidétis.
@@ -6328,10 +6328,10 @@ Lc	11	11	Quis autem ex vobis patrem petit panem, numquid lápidem dabit illi ? a
 Lc	11	12	aut si petíerit ovum, numquid porríget illi scorpiónem ?
 Lc	11	13	Si ergo vos, cum sitis mali, nostis bona data dare fíliis vestris : quanto magis Pater vester de cælo dabit spíritum bonum peténtibus se ?
 Lc	11	14	Et erat eíciens dæmónium, et illud erat mutum. Et cum eiecísset dæmónium, locútus est mutus, et admirátæ sunt turbæ.
-Lc	11	15	Quidam autem ex eis dixérunt : In Beélzebub príncipe dæmoniórum éiicit dæmónia.
+Lc	11	15	Quidam autem ex eis dixérunt : In Beélzebub príncipe dæmoniórum éicit dæmónia.
 Lc	11	16	Et álii tentántes, signum de cælo quærébant ab eo.
 Lc	11	17	Ipse autem ut vidit cogitatiónes eórum, dixit eis : Omne regnum in seípsum divísum desolábitur, et domus supra domum cadet.
-Lc	11	18	Si autem et Sátanas in seípsum divísus est, quómodo stabit regnum eius ? quia dícitis in Beélzebub me eiícere dæmónia.
+Lc	11	18	Si autem et Sátanas in seípsum divísus est, quómodo stabit regnum eius ? quia dícitis in Beélzebub me eícere dæmónia.
 Lc	11	19	Si autem ego in Beélzebub eício dæmónia : fílii vestri in quo eíciunt ? ídeo ipsi iúdices vestri erunt.
 Lc	11	20	Porro si in dígito Dei eício dæmónia : profécto pervénit in vos regnum Dei.
 Lc	11	21	Cum fortis armátus custódit átrium suum, in pace sunt ea quæ póssidet.
@@ -6392,13 +6392,13 @@ Lc	12	21	Sic est qui sibi thesaurízat, et non est in Deum dives.
 Lc	12	22	Dixítque ad discípulos suos : Ideo dico vobis, nolíte sollíciti esse ánimæ vestræ quid manducétis, neque córpori quid induámini.
 Lc	12	23	Anima plus est quam esca, et corpus plus quam vestiméntum.
 Lc	12	24	Consideráte corvos, quia non séminant, neque metunt, quibus non est cellárium, neque hórreum, et Deus pascit illos. Quanto magis vos pluris estis illis ?
-Lc	12	25	Quis autem vestrum cogitándo potest adiícere ad statúram suam cúbitum unum ?
+Lc	12	25	Quis autem vestrum cogitándo potest adícere ad statúram suam cúbitum unum ?
 Lc	12	26	Si ergo neque quod mínimum est potéstis, quid de céteris sollíciti estis ?
 Lc	12	27	Consideráte lília quómodo crescunt : non labórant, neque nent : dico autem vobis, nec Sálomon in omni glória sua vestiebátur sicut unum ex istis.
 Lc	12	28	Si autem fœnum, quod hódie est in agro, et cras in clíbanum míttitur, Deus sic vestit : quanto magis vos pusíllæ fídei ?
 Lc	12	29	Et vos nolíte quǽrere quid manducétis, aut quid bibátis : et nolíte in sublíme tolli :
 Lc	12	30	hæc enim ómnia gentes mundi quærunt. Pater autem vester scit quóniam his indigétis.
-Lc	12	31	Verúmtamen quǽrite primum regnum Dei, et iustítiam eius : et hæc ómnia adiiciéntur vobis.
+Lc	12	31	Verúmtamen quǽrite primum regnum Dei, et iustítiam eius : et hæc ómnia adiciéntur vobis.
 Lc	12	32	Nolíte timére pusíllus grex, quia complácuit Patri vestro dare vobis regnum.
 Lc	12	33	Véndite quæ possidétis, et date eleemósynam. Fácite vobis sácculos, qui non veteráscunt, thesáurum non deficiéntem in cælis : quo fur non apprópriat, neque tínea corrúmpit.
 Lc	12	34	Ubi enim thesáurus vester est, ibi et cor vestrum erit.
@@ -6561,7 +6561,7 @@ Lc	16	29	Et ait illi Abraham : Habent Móysen et prophétas : áudiant illos.
 Lc	16	30	At ille dixit : Non, pater Abraham : sed si quis ex mórtuis íerit ad eos, pœniténtiam agent.
 Lc	16	31	Ait autem illi : Si Móysen et prophétas non áudiunt, neque si quis ex mórtuis resurréxerit, credent.
 Lc	17	1	Et ait ad discípulos suos : Impossíbile est ut non véniant scándala : væ autem illi per quem véniunt.
-Lc	17	2	Utílius est illi si lapis moláris imponátur circa collum eius, et proiiciátur in mare quam ut scandalízet unum de pusíllis istis.
+Lc	17	2	Utílius est illi si lapis moláris imponátur circa collum eius, et proiciátur in mare quam ut scandalízet unum de pusíllis istis.
 Lc	17	3	Atténdite vobis : Si peccáverit in te frater tuus, íncrepa illum : et si pœniténtiam égerit, dimítte illi.
 Lc	17	4	Et si sépties in die peccáverit in te, et sépties in die convérsus fúerit ad te, dicens : Pœ́nitet me, dimítte illi.
 Lc	17	5	Et dixérunt apóstoli Dómino : Adáuge nobis fidem.
@@ -6650,7 +6650,7 @@ Lc	19	7	Et cum vidérent omnes, murmurábant, dicéntes quod ad hóminem peccat�
 Lc	19	8	Stans autem Zachǽus, dixit ad Dóminum : Ecce dimídium bonórum meórum, Dómine, do paupéribus : et si quid áliquem defraudávi, reddo quádruplum.
 Lc	19	9	Ait Iesus ad eum : Quia hódie salus dómui huic facta est : eo quod et ipse fílius sit Abrahæ.
 Lc	19	10	Venit enim Fílius hóminis quǽrere, et salvum fácere quod períerat.
-Lc	19	11	Hæc illis audiéntibus adiíciens, dixit parábolam, eo quod esset prope Ierúsalem : et quia existimárent quod conféstim regnum Dei manifestarétur.
+Lc	19	11	Hæc illis audiéntibus adíciens, dixit parábolam, eo quod esset prope Ierúsalem : et quia existimárent quod conféstim regnum Dei manifestarétur.
 Lc	19	12	Dixit ergo : Homo quidam nóbilis ábiit in regiónem longínquam accípere sibi regnum, et revérti.
 Lc	19	13	Vocátis autem decem servis suis, dedit eis decem mnas, et ait ad illos : Negotiámini dum vénio.
 Lc	19	14	Cives autem eius óderant eum : et misérunt legatiónem post illum, dicéntes : Nólumus hunc regnáre super nos.
@@ -6684,7 +6684,7 @@ Lc	19	41	Et ut appropinquávit, videns civitátem flevit super illam, dicens :
 Lc	19	42	Quia si cognovísses et tu, et quidem in hac die tua, quæ ad pacem tibi : nunc autem abscóndita sunt ab óculis tuis.
 Lc	19	43	Quia vénient dies in te : et circumdábunt te inimíci tui vallo, et circumdábunt te : et coangustábunt te úndique :
 Lc	19	44	et ad terram prostérnent te, et fílios tuos, qui in te sunt, et non relínquent in te lápidem super lápidem : eo quod non cognóveris tempus visitatiónis tuæ.
-Lc	19	45	Et ingréssus in templum, cœpit eiícere vendéntes in illo, et eméntes,
+Lc	19	45	Et ingréssus in templum, cœpit eícere vendéntes in illo, et eméntes,
 Lc	19	46	dicens illis : Scriptum est : Quia domus mea domus oratiónis est : vos autem fecístis illam spelúncam latrónum.
 Lc	19	47	Et erat docens quotídie in templo. Príncipes autem sacerdótum, et scribæ, et princeps plebis quærébant illum pérdere :
 Lc	19	48	et non inveniébant quid fácerent illi. Omnis enim pópulus suspénsus erat, áudiens illum.
@@ -6746,7 +6746,7 @@ Lc	21	8	Qui dixit : Vidéte ne seducámini : multi enim vénient in nómine meo,
 Lc	21	9	Cum autem audiéritis prǽlia et seditiónes, nolíte terréri : opórtet primum hæc fíeri, sed nondum statim finis.
 Lc	21	10	Tunc dicébat illis : Surget gens contra gentem, et regnum advérsus regnum.
 Lc	21	11	Et terræmótus magni erunt per loca, et pestiléntiæ, et fames, terrorésque de cælo, et signa magna erunt.
-Lc	21	12	Sed ante hæc ómnia iniícient vobis manus suas, et persequéntur tradéntes in synagógas et custódias, trahéntes ad reges et prǽsides propter nomen meum :
+Lc	21	12	Sed ante hæc ómnia inícient vobis manus suas, et persequéntur tradéntes in synagógas et custódias, trahéntes ad reges et prǽsides propter nomen meum :
 Lc	21	13	contínget autem vobis in testimónium.
 Lc	21	14	Pónite ergo in córdibus vestris non præmeditári quemádmodum respondeátis :
 Lc	21	15	ego enim dabo vobis os et sapiéntiam, cui non póterunt resístere et contradícere omnes adversárii vestri.
@@ -7520,7 +7520,7 @@ Jo	12	27	Nunc ánima mea turbáta est. Et quid dicam ? Pater, salvífica me ex h
 Jo	12	28	Pater, clarífica nomen tuum. Venit ergo vox de cælo : Et clarificávi, et íterum clarificábo.
 Jo	12	29	Turba ergo, quæ stabat, et audíerat, dicébat tonítruum esse factum. Alii dicébant : Angelus ei locútus est.
 Jo	12	30	Respóndit Iesus, et dixit : Non propter me hæc vox venit, sed propter vos.
-Jo	12	31	Nunc iudícium est mundi : nunc princeps huius mundi eiiciétur foras.
+Jo	12	31	Nunc iudícium est mundi : nunc princeps huius mundi eiciétur foras.
 Jo	12	32	Et ego, si exaltátus fúero a terra, ómnia traham ad meípsum.
 Jo	12	33	(Hoc autem dicébat, signíficans qua morte esset moritúrus.)
 Jo	12	34	Respóndit ei turba : Nos audívimus ex lege, quia Christus manet in ætérnum : et quómodo tu dicis : Opórtet exaltári Fílium hóminis ? quis est iste Fílius hóminis ?
@@ -7531,7 +7531,7 @@ Jo	12	38	ut sermo Isaíæ prophétæ implerétur, quem dixit : Dómine, quis cr�
 Jo	12	39	Proptérea non póterant crédere, quia íterum dixit Isaías :
 Jo	12	40	Excæcávit óculos eórum, et indurávit cor eórum ut non vídeant óculis, et non intélligant corde, et convertántur, et sanem eos.
 Jo	12	41	Hæc dixit Isaías, quando vidit glóriam eius, et locútus est de eo.
-Jo	12	42	Verúmtamen et ex princípibus multi credidérunt in eum : sed propter Pharisǽos non confitebántur, ut e synagóga non eiiceréntur.
+Jo	12	42	Verúmtamen et ex princípibus multi credidérunt in eum : sed propter Pharisǽos non confitebántur, ut e synagóga non eiceréntur.
 Jo	12	43	Dilexérunt enim glóriam hóminum magis quam glóriam Dei.
 Jo	12	44	Iesus autem clamávit, et dixit : Qui credit in me, non credit in me, sed in eum qui misit me.
 Jo	12	45	Et qui videt me, videt eum qui misit me.
@@ -7983,7 +7983,7 @@ Ac	5	11	Et factus est timor magnus in univérsa ecclésia, et in omnes qui audi�
 Ac	5	12	Per manus autem Apostolórum fiébant signa et prodígia multa in plebe. Et erant unanímiter omnes in pórticu Salomónis.
 Ac	5	13	Ceterórum autem nemo audébat se coniúngere illis : sed magnificábat eos pópulus.
 Ac	5	14	Magis autem augebátur credéntium in Dómino multitúdo virórum ac mulíerum,
-Ac	5	15	ita ut in platéas eiícerent infírmos, et pónerent in léctulis et grabátis, ut, veniénte Petro, saltem umbra illíus obumbráret quemquam illórum, et liberaréntur ab infirmitátibus suis.
+Ac	5	15	ita ut in platéas eícerent infírmos, et pónerent in léctulis et grabátis, ut, veniénte Petro, saltem umbra illíus obumbráret quemquam illórum, et liberaréntur ab infirmitátibus suis.
 Ac	5	16	Concurrébat autem et multitúdo vicinárum civitátum Ierúsalem, afferéntes ægros, et vexátos a spirítibus immúndis : qui curabántur omnes.
 Ac	5	17	Exsúrgens autem princeps sacerdótum, et omnes qui cum illo erant (quæ est hǽresis Sadducæórum), repléti sunt zelo :
 Ac	5	18	et iniecérunt manus in Apóstolos, et posuérunt eos in custódia pública.
@@ -8031,7 +8031,7 @@ Ac	7	2	Qui ait : Viri fratres et patres, audíte : Deus glóriæ appáruit patri
 Ac	7	3	et dixit ad illum : Exi de terra tua, et de cognatióne tua, et veni in terram quam monstrávero tibi.
 Ac	7	4	Tunc éxiit de terra Chaldæórum, et habitávit in Charan. Et inde, postquam mórtuus est pater eius, tránstulit illum in terram istam, in qua nunc vos habitátis.
 Ac	7	5	Et non dedit illi hæreditátem in ea, nec passum pedis : sed repromísit dare illi eam in possessiónem, et sémini eius post ipsum, cum non habéret fílium.
-Ac	7	6	Locútus est autem ei Deus : Quia erit semen eius áccola in terra aliéna, et servitúti eos subiícient, et male tractábunt eos annis quadringéntis :
+Ac	7	6	Locútus est autem ei Deus : Quia erit semen eius áccola in terra aliéna, et servitúti eos subícient, et male tractábunt eos annis quadringéntis :
 Ac	7	7	et gentem cui servíerint, iudicábo ego, dixit Dóminus : et post hæc exíbunt, et sérvient mihi in loco isto.
 Ac	7	8	Et dedit illi testaméntum circumcisiónis : et sic génuit Isaac, et circumcídit eum die octávo : et Isaac, Iacob : et Iacob, duódecim patriárchas.
 Ac	7	9	Et patriárchæ æmulántes, Ioseph vendidérunt in Ægýptum : et erat Deus cum eo,
@@ -8082,7 +8082,7 @@ Ac	7	53	qui accepístis legem in dispositióne angelórum, et non custodístis.
 Ac	7	54	Audiéntes autem hæc, dissecabántur córdibus suis, et stridébant déntibus in eum.
 Ac	7	55	Cum autem esset plenus Spíritu Sancto, inténdens in cælum, vidit glóriam Dei, et Iesum stantem a dextris Dei. Et ait : Ecce vídeo cælos apértos, et Fílium hóminis stantem a dextris Dei.
 Ac	7	56	Exclamántes autem voce magna continuérunt aures suas, et ímpetum fecérunt unanímiter in eum.
-Ac	7	57	Et eiiciéntes eum extra civitátem, lapidábant : et testes deposuérunt vestiménta sua secus pedes adolescéntis qui vocabátur Saulus.
+Ac	7	57	Et eiciéntes eum extra civitátem, lapidábant : et testes deposuérunt vestiménta sua secus pedes adolescéntis qui vocabátur Saulus.
 Ac	7	58	Et lapidábant Stéphanum invocántem, et dicéntem : Dómine Iesu, súscipe spíritum meum.
 Ac	7	59	Pósitis autem génibus, clamávit voce magna, dicens : Dómine, ne státuas illis hoc peccátum. Et cum hoc dixísset, obdormívit in Dómino. Saulus autem erat conséntiens neci eius.
 Ac	8	1	Facta est autem in illa die persecútio magna in ecclésia quæ erat Ierosólymis, et omnes dispérsi sunt per regiónes Iudǽæ et Samaríæ præter Apóstolos.
@@ -8633,7 +8633,7 @@ Ac	22	19	Et ego dixi : Dómine, ipsi sciunt quia ego eram conclúdens in cárcer
 Ac	22	20	et cum funderétur sanguis Stéphani testis tui, ego asstábam, et consentiébam, et custodiébam vestiménta interficiéntium illum.
 Ac	22	21	Et dixit ad me : Vade, quóniam ego in natiónes longe mittam te.
 Ac	22	22	Audiébant autem eum usque ad hoc verbum, et levavérunt vocem suam, dicéntes : Tolle de terra huiúsmodi : non enim fas est eum vívere.
-Ac	22	23	Vociferántibus autem eis, et proiiciéntibus vestiménta sua, et púlverem iactántibus in áerem,
+Ac	22	23	Vociferántibus autem eis, et proiciéntibus vestiménta sua, et púlverem iactántibus in áerem,
 Ac	22	24	iussit tribúnus indúci eum in castra, et flagéllis cædi, et torquéri eum, ut sciret propter quam causam sic acclamárent ei.
 Ac	22	25	Et cum asstrinxíssent eum loris, dicit asstánti sibi centurióni Paulus : Si hóminem Románum et indemnátum licet vobis flagelláre ?
 Ac	22	26	Quo audíto, centúrio accéssit ad tribúnum, et nuntiávit ei, dicens : Quid actúrus es ? hic enim homo civis Románus est.
@@ -8668,7 +8668,7 @@ Ac	23	24	et iuménta præparáte ut imponéntes Paulum, salvum perdúcerent ad F
 Ac	23	25	(Tímuit enim ne forte ráperent eum Iudǽi, et occíderent, et ipse póstea calúmniam sustinéret, tamquam acceptúrus pecúniam.)
 Ac	23	26	Scribens epístolam continéntem hæc : Cláudius Lýsias óptimo prǽsidi Felíci, salútem.
 Ac	23	27	Virum hunc comprehénsum a Iudǽis, et incipiéntem intérfici ab eis, supervéniens cum exércitu erípui, cógnito quia Románus est.
-Ac	23	28	Volénsque scire causam quam obiiciébant illi, dedúxi eum in concílium eórum.
+Ac	23	28	Volénsque scire causam quam obiciébant illi, dedúxi eum in concílium eórum.
 Ac	23	29	Quem invéni accusári de quæstiónibus legis ipsórum, nihil vero dignum morte aut vínculis habéntem críminis.
 Ac	23	30	Et cum mihi perlátum esset de insídiis quas paráverant illi, misi eum ad te, denúntians et accusatóribus ut dicant apud te. Vale.
 Ac	23	31	Mílites ergo secúndum præcéptum sibi assuméntes Paulum, duxérunt per noctem in Antipátridem.
@@ -8709,7 +8709,7 @@ Ac	25	3	postulántes grátiam advérsus eum, ut iubéret perdúci eum in Ierúsa
 Ac	25	4	Festus autem respóndit servári Paulum in Cæsaréa : se autem matúrius profectúrum.
 Ac	25	5	Qui ergo in vobis, ait, poténtes sunt, descendéntes simul, si quod est in viro crimen, accúsent eum.
 Ac	25	6	Demorátus autem inter eos dies non ámplius quam octo aut decem, descéndit Cæsaréam, et áltera die sedit pro tribunáli, et iussit Paulum addúci.
-Ac	25	7	Qui cum perdúctus esset, circumstetérunt eum, qui ab Ierosólyma descénderant Iudǽi, multas et graves causas obiiciéntes, quas non póterant probáre :
+Ac	25	7	Qui cum perdúctus esset, circumstetérunt eum, qui ab Ierosólyma descénderant Iudǽi, multas et graves causas obiciéntes, quas non póterant probáre :
 Ac	25	8	Paulo ratiónem reddénte : Quóniam neque in legem Iudæórum, neque in templum, neque in Cǽsarem quidquam peccávi.
 Ac	25	9	Festus autem volens grátiam præstáre Iudǽis, respóndens Paulo, dixit : Vis Ierosólymam ascéndere, et ibi de his iudicári apud me ?
 Ac	25	10	Dixit autem Paulus : Ad tribúnal Cǽsaris sto : ibi me opórtet iudicári : Iudǽis non nócui, sicut tu mélius nosti.
@@ -8800,7 +8800,7 @@ Ac	27	35	Et cum hæc dixísset, sumens panem, grátias egit Deo in conspéctu ó
 Ac	27	36	Animæquióres autem facti omnes, et ipsi sumpsérunt cibum.
 Ac	27	37	Erámus vero univérsæ ánimæ in navi ducéntæ septuagínta sex.
 Ac	27	38	Et satiáti cibo alleviábant navem, iactántes tríticum in mare.
-Ac	27	39	Cum autem dies factus esset, terram non agnoscébant : sinum vero quemdam considerábant habéntem littus, in quem cogitábant si possent eiícere navem.
+Ac	27	39	Cum autem dies factus esset, terram non agnoscébant : sinum vero quemdam considerábant habéntem littus, in quem cogitábant si possent eícere navem.
 Ac	27	40	Et cum ánchoras sustulíssent, committébant se mari, simul laxántes iunctúras gubernaculórum : et leváto artemóne secúndum auræ flatum, tendébant ad littus.
 Ac	27	41	Et cum incidissémus in locum dithalássum, impegérunt navem : et prora quidem fixa manébat immóbilis, puppis vero solvebátur a vi maris.
 Ac	27	42	Mílitum autem consílium fuit ut custódias occíderent, ne quis cum enatásset, effúgeret.
@@ -9184,7 +9184,7 @@ Rm	13	8	Némini quidquam debeátis, nisi ut ínvicem diligátis : qui enim dilig
 Rm	13	9	Nam : Non adulterábis : non occídes : non furáberis : non falsum testimónium dices : non concupísces : et si quod est aliud mandátum, in hoc verbo instaurátur : díliges próximum tuum sicut teípsum.
 Rm	13	10	Diléctio próximi malum non operátur. Plenitúdo ergo legis est diléctio.
 Rm	13	11	Et hoc sciéntes tempus : quia hora est iam nos de somno súrgere. Nunc enim própior est nostra salus, quam cum credídimus.
-Rm	13	12	Nox præcéssit, dies autem appropinquávit. Abiiciámus ergo ópera tenebrárum, et induámur arma lucis.
+Rm	13	12	Nox præcéssit, dies autem appropinquávit. Abiciámus ergo ópera tenebrárum, et induámur arma lucis.
 Rm	13	13	Sicut in die honéste ambulémus : non in comessatiónibus, et ebrietátibus, non in cubílibus, et impudicítiis, non in contentióne, et æmulatióne :
 Rm	13	14	sed induímini Dóminum Iesum Christum, et carnis curam ne fecéritis in desidériis.
 Rm	14	1	Infírmum autem in fide assúmite, non in disceptatiónibus cogitatiónum.
@@ -9428,7 +9428,7 @@ Rm	16	27	soli sapiénti Deo, per Iesum Christum, cui honor et glória in sǽcula
 1 Co	7	32	Volo autem vos sine sollicitúdine esse. Qui sine uxóre est, sollícitus est quæ Dómini sunt, quómodo pláceat Deo.
 1 Co	7	33	Qui autem cum uxóre est, sollícitus est quæ sunt mundi, quómodo pláceat uxóri, et divísus est.
 1 Co	7	34	Et múlier innúpta, et virgo, cógitat quæ Dómini sunt, ut sit sancta córpore, et spíritu. Quæ autem nupta est, cógitat quæ sunt mundi, quómodo pláceat viro.
-1 Co	7	35	Porro hoc ad utilitátem vestram dico : non ut láqueum vobis iniíciam, sed ad id, quod honéstum est, et quod facultátem prǽbeat sine impediménto Dóminum obsecrándi.
+1 Co	7	35	Porro hoc ad utilitátem vestram dico : non ut láqueum vobis iníciam, sed ad id, quod honéstum est, et quod facultátem prǽbeat sine impediménto Dóminum obsecrándi.
 1 Co	7	36	Si quis autem turpem se vidéri exístimat super vírgine sua, quod sit superadúlta, et ita opórtet fíeri : quod vult fáciat : non peccat, si nubat.
 1 Co	7	37	Nam qui státuit in corde suo firmus, non habens necessitátem, potestátem autem habens suæ voluntátis, et hoc iudicávit in corde suo, serváre vírginem suam, bene facit.
 1 Co	7	38	Igitur et qui matrimónio iungit vírginem suam, bene facit : et qui non iungit, mélius facit.
@@ -10007,7 +10007,7 @@ Ga	2	17	Quod si quæréntes iustificári in Christo, invénti sumus et ipsi pecc
 Ga	2	18	Si enim quæ destrúxi, íterum hæc ædífico : prævaricatórem me constítuo.
 Ga	2	19	Ego enim per legem, legi mórtuus sum, ut Deo vivam : Christo confíxus sum cruci.
 Ga	2	20	Vivo autem, iam non ego : vivit vero in me Christus. Quod autem nunc vivo in carne : in fide vivo Fílii Dei, qui diléxit me, et trádidit semetípsum pro me.
-Ga	2	21	Non abiício grátiam Dei. Si enim per legem iustítia, ergo gratis Christus mórtuus est.
+Ga	2	21	Non abício grátiam Dei. Si enim per legem iustítia, ergo gratis Christus mórtuus est.
 Ga	3	1	O insensáti Gálatæ, quis vos fascinávit non obedíre veritáti, ante quorum óculos Iesus Christus præscríptus est, in vobis crucifíxus ?
 Ga	3	2	Hoc solum a vobis volo díscere : ex opéribus legis Spíritum accepístis, an ex audítu fídei ?
 Ga	3	3	sic stulti estis, ut cum Spíritu cœpéritis, nunc carne consummémini ?
@@ -10066,7 +10066,7 @@ Ga	4	26	Illa autem, quæ sursum est Ierúsalem, líbera est, quæ est mater nost
 Ga	4	27	Scriptum est enim : Lætáre, stérilis, quæ non paris ; erúmpe et clama, quæ non párturis : quia multi fílii desértæ, magis quam eius quæ habet virum.
 Ga	4	28	Nos autem, fratres, secúndum Isaac promissiónis fílii sumus.
 Ga	4	29	Sed quómodo tunc is, qui secúndum carnem natus fúerat, persequebátur eum qui secúndum spíritum : ita et nunc.
-Ga	4	30	Sed quid dicit Scriptúra ? Eiice ancíllam, et fílium eius : non enim hæres erit fílius ancíllæ cum fílio líberæ.
+Ga	4	30	Sed quid dicit Scriptúra ? Eice ancíllam, et fílium eius : non enim hæres erit fílius ancíllæ cum fílio líberæ.
 Ga	4	31	Itaque, fratres, non sumus ancíllæ fílii, sed líberæ : qua libertáte Christus nos liberávit.
 Ga	5	1	State, et nolíte íterum iugo servitútis continéri.
 Ga	5	2	Ecce ego Paulus dico vobis : quóniam si circumcidámini, Christus vobis nihil próderit.
@@ -10347,7 +10347,7 @@ Ph	3	17	Imitatóres mei estóte, fratres, et observáte eos qui ita ámbulant, s
 Ph	3	18	Multi enim ámbulant, quos sæpe dicébam vobis (nunc autem et flens dico) inimícos crucis Christi :
 Ph	3	19	quorum finis intéritus : quorum Deus venter est : et glória in confusióne ipsórum, qui terréna sápiunt.
 Ph	3	20	Nostra autem conversátio in cælis est : unde étiam Salvatórem exspectámus Dóminum nostrum Iesum Christum,
-Ph	3	21	qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ, secúndum operatiónem, qua étiam possit subiícere sibi ómnia.
+Ph	3	21	qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ, secúndum operatiónem, qua étiam possit subícere sibi ómnia.
 Ph	4	1	Itaque fratres mei caríssimi, et desideratíssimi, gáudium meum, et coróna mea : sic state in Dómino, caríssimi.
 Ph	4	2	Evódiam rogo, et Sýntychen déprecor, idípsum sápere in Dómino.
 Ph	4	3	Etiam rogo et te, germáne compar, ádiuva illas, quæ mecum laboravérunt in Evangélio cum Cleménte, et céteris adiutóribus meis, quorum nómina sunt in libro vitæ.
@@ -10656,7 +10656,7 @@ Col	4	18	Salutátio, mea manu Pauli. Mémores estóte vinculórum meórum. Grát
 1 Tim	4	1	Spíritus autem maniféste dicit, quia in novíssimis tempóribus discédent quidam a fide, attendéntes spirítibus erróris, et doctrínis dæmoniórum,
 1 Tim	4	2	in hypócrisi loquéntium mendácium, et cauteriátam habéntium suam consciéntiam,
 1 Tim	4	3	prohibéntium núbere, abstinére a cibis, quod Deus creávit ad percipiéndum cum gratiárum actióne fidélibus, et iis qui cognovérunt veritátem.
-1 Tim	4	4	Quia omnis creatúra Dei bona est, et nihil reiiciéndum quod cum gratiárum actióne percípitur :
+1 Tim	4	4	Quia omnis creatúra Dei bona est, et nihil reiciéndum quod cum gratiárum actióne percípitur :
 1 Tim	4	5	sanctificátur enim per verbum Dei, et oratiónem.
 1 Tim	4	6	Hæc propónens frátribus, bonus eris miníster Christi Iesu enutrítus verbis fídei, et bonæ doctrínæ, quam assecútus es.
 1 Tim	4	7	Inéptas autem, et aníles fábulas devíta : exérce autem teípsum ad pietátem.
@@ -11192,7 +11192,7 @@ Jc	1	17	Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens
 Jc	1	18	Voluntárie enim génuit nos verbo veritátis, ut simus inítium áliquod creatúræ eius.
 Jc	1	19	Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum : tardus autem ad loquéndum, et tardus ad iram.
 Jc	1	20	Ira enim viri iustítiam Dei non operátur.
-Jc	1	21	Propter quod abiiciéntes omnem immundítiam, et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.
+Jc	1	21	Propter quod abiciéntes omnem immundítiam, et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.
 Jc	1	22	Estóte autem factóres verbi, et non auditóres tantum : falléntes vosmetípsos.
 Jc	1	23	Quia si quis audítor est verbi, et non factor, hic comparábitur viro consideránti vultum nativitátis suæ in spéculo :
 Jc	1	24	considerávit enim se, et ábiit, et statim oblítus est qualis fúerit.
@@ -11377,7 +11377,7 @@ Jc	5	20	scire debet quóniam qui convérti fécerit peccatórem ab erróre viæ 
 1 Pe	5	4	Et cum apparúerit princeps pastórum, percipiétis immarcescíbilem glóriæ corónam.
 1 Pe	5	5	Simíliter adolescéntes súbditi estóte senióribus. Omnes autem ínvicem humilitátem insinuáte, quia Deus supérbis resístit, humílibus autem dat grátiam.
 1 Pe	5	6	Humiliámini ígitur sub poténti manu Dei, ut vos exáltet in témpore visitatiónis :
-1 Pe	5	7	omnem sollicitúdinem vestram proiiciéntes in eum, quóniam ipsi cura est de vobis.
+1 Pe	5	7	omnem sollicitúdinem vestram proiciéntes in eum, quóniam ipsi cura est de vobis.
 1 Pe	5	8	Sóbrii estóte, et vigiláte : quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret :
 1 Pe	5	9	cui resístite fortes in fide : sciéntes eámdem passiónem ei quæ in mundo est vestræ fraternitáti fíeri.
 1 Pe	5	10	Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Iesu, módicum passos ipse perfíciet, confirmábit, solidabítque.
@@ -11573,7 +11573,7 @@ Jc	5	20	scire debet quóniam qui convérti fécerit peccatórem ab erróre viæ 
 3 Jo	1	7	Pro nómine enim eius profécti sunt, nihil accipiéntes a géntibus.
 3 Jo	1	8	Nos ergo debémus suscípere huiúsmodi, ut cooperatóres simus veritátis.
 3 Jo	1	9	Scripsíssem fórsitan ecclésiæ : sed is qui amat primátum gérere in eis, Diótrephes, non récipit nos :
-3 Jo	1	10	propter hoc si vénero, commonébo eius ópera, quæ facit, verbis malígnis gárriens in nos : et quasi non ei ista suffíciant, neque ipse súscipit fratres : et eos qui suscípiunt, próhibet, et de ecclésia éiicit.
+3 Jo	1	10	propter hoc si vénero, commonébo eius ópera, quæ facit, verbis malígnis gárriens in nos : et quasi non ei ista suffíciant, neque ipse súscipit fratres : et eos qui suscípiunt, próhibet, et de ecclésia éicit.
 3 Jo	1	11	Caríssime, noli imitári malum, sed quod bonum est. Qui benéfacit, ex Deo est : qui maléfacit, non vidit Deum.
 3 Jo	1	12	Demétrio testimónium rédditur ab ómnibus, et ab ipsa veritáte, sed et nos testimónium perhibémus : et nosti quóniam testimónium nostrum verum est.
 3 Jo	1	13	Multa hábui tibi scríbere : sed nólui per atraméntum et cálamum scríbere tibi.
@@ -11779,7 +11779,7 @@ Ap	10	9	Et ábii ad ángelum, dicens ei, ut daret mihi librum. Et dixit mihi : A
 Ap	10	10	Et accépi librum de manu ángeli, et devorávi illum : et erat in ore meo tamquam mel dulce, et cum devorássem eum, amaricátus est venter meus :
 Ap	10	11	et dixit mihi : Opórtet te íterum prophetáre géntibus, et pópulis, et linguis, et régibus multis.
 Ap	11	1	Et datus est mihi cálamus símilis virgæ, et dictum est mihi : Surge, et metíre templum Dei, et altáre, et adorántes in eo :
-Ap	11	2	átrium autem, quod est foris templum, éiice foras, et ne metiáris illud : quóniam datum est géntibus, et civitátem sanctam calcábunt ménsibus quadragínta duóbus :
+Ap	11	2	átrium autem, quod est foris templum, éice foras, et ne metiáris illud : quóniam datum est géntibus, et civitátem sanctam calcábunt ménsibus quadragínta duóbus :
 Ap	11	3	et dabo duóbus téstibus meis, et prophetábunt diébus mille ducéntis sexagínta, amícti saccis.
 Ap	11	4	Hi sunt duæ olívæ et duo candelábra in conspéctu Dómini terræ stantes.
 Ap	11	5	Et si quis volúerit eos nocére, ignis éxiet de ore eórum, et devorábit inimícos eórum : et si quis volúerit eos lǽdere, sic opórtet eum occídi.
