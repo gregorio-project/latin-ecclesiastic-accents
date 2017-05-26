@@ -1,8 +1,8 @@
 Here you have an accented version of the old Vulgate.
 
-At this date (2017-05-21), these Books are available:
+At this date (2017-05-26), these Books are available:
 
-Vetus Testamentum: Gn, Ps
+Vetus Testamentum: Gn, Ex, Ps
 
 Novum Testamentum: omnia (Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep, Ph, Col, 1-2 Th, 1-2 Tim, Tit, Phm, He, Ja, 1-2 Pe, 1-3 Jo, Judæ, Ap).
 
@@ -26,7 +26,7 @@ Novum Testamentum: omnia (Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep, Ph, Col, 1-2 T
 
 	- 'A key to the classical pronunciation of Greek, Latin, and Scripture Proper Names' by John Walker (1807) (not always concordant with the Ecclesiastic accentuation):
 
-		$$$
+		https://archive.org/details/keytoclassicalpr00walkrich
 
 ------------
 
