@@ -2218,7 +2218,7 @@ Ex	25	24	Et inaurábis eam auro puríssimo : faciésque illi lábium áureum per
 Ex	25	25	et ipsi lábio corónam interrásilem altam quátuor dígitis : et super illam, álteram corónam auréolam.
 Ex	25	26	Quátuor quoque círculos áureos præparábis, et pones eis in quátuor ángulis eiúsdem mensæ per síngulos pedes.
 Ex	25	27	Subter corónam erunt círculi áurei, ut mittántur vectes per eos, et possit mensa portári.
-Ex	25	28	Ipsos quoque vectes fácies de lignis setim, et circumdábis auro ad subvehéndam mensam.
+Ex	25	28	Ipsos quoque vectes fácies de lignis setim, et circúmdabis auro ad subvehéndam mensam.
 Ex	25	29	Parábis et acetábula, ac phíalas, thuríbula, et cýathos, in quibus offerénda sunt libámina, ex auro puríssimo.
 Ex	25	30	Et pones super mensam panes propositiónis in conspéctu meo semper.
 Ex	25	31	Fácies et candelábrum dúctile de auro mundíssimo, hastíle eius, et cálamos, scyphos, et sphǽrulas, ac lília ex ipso procedéntia.
@@ -3666,7 +3666,7 @@ Ps	7	4	Dómine Deus meus, si feci istud, si est iníquitas in mánibus meis,
 Ps	7	5	si réddidi retribuéntibus mihi mala, décidam mérito ab inimícis meis inánis.
 Ps	7	6	Persequátur inimícus ánimam meam, et comprehéndat ; et concúlcet in terra vitam meam, et glóriam meam in púlverem dedúcat.
 Ps	7	7	Exsúrge, Dómine, in ira tua, et exaltáre in fínibus inimicórum meórum : et exsúrge, Dómine Deus meus, in præcépto quod mandásti,
-Ps	7	8	et synagóga populórum circumdábit te : et propter hanc in altum regrédere :
+Ps	7	8	et synagóga populórum circúmdabit te : et propter hanc in altum regrédere :
 Ps	7	9	Dóminus iúdicat pópulos. Iúdica me, Dómine, secúndum iustítiam meam, et secúndum innocéntiam meam super me.
 Ps	7	10	Consumétur nequítia peccatórum, et díriges iustum, scrutans corda et renes, Deus.
 Ps	7	11	Iustum adiutórium meum a Dómino, qui salvos facit rectos corde.
@@ -3951,7 +3951,7 @@ Ps	25	2	Proba me, Dómine, et tenta me ; ure renes meos et cor meum.
 Ps	25	3	Quóniam misericórdia tua ante óculos meos est, et complácui in veritáte tua.
 Ps	25	4	Non sedi cum concílio vanitátis, et cum iníqua geréntibus non introíbo.
 Ps	25	5	Odívi ecclésiam malignántium, et cum ímpiis non sedébo.
-Ps	25	6	Lavábo inter innocéntes manus meas, et circumdábo altáre tuum, Dómine :
+Ps	25	6	Lavábo inter innocéntes manus meas, et circúmdabo altáre tuum, Dómine :
 Ps	25	7	ut áudiam vocem laudis, et enárrem univérsa mirabília tua.
 Ps	25	8	Dómine, diléxi decórem domus tuæ, et locum habitatiónis glóriæ tuæ.
 Ps	25	9	Ne perdas cum ímpiis, Deus, ánimam meam, et cum viris sánguinum vitam meam :
@@ -4039,7 +4039,7 @@ Ps	31	6	Pro hac orábit ad te omnis sanctus in témpore opportúno. Verúmtamen 
 Ps	31	7	Tu es refúgium meum a tribulatióne quæ circúmdedit me ; exsultátio mea, érue me a circumdántibus me.
 Ps	31	8	Intelléctum tibi dabo, et ínstruam te in via hac qua gradiéris ; firmábo super te óculos meos.
 Ps	31	9	Nolíte fíeri sicut equus et mulus, quibus non est intelléctus. In camo et freno maxíllas eórum constrínge, qui non appróximant ad te.
-Ps	31	10	Multa flagélla peccatóris ; sperántem autem in Dómino misericórdia circumdábit.
+Ps	31	10	Multa flagélla peccatóris ; sperántem autem in Dómino misericórdia circúmdabit.
 Ps	31	11	Lætámini in Dómino, et exsultáte, iusti ; et gloriámini, omnes recti corde.
 Ps	32	1	Psalmus David. Exsultáte, iusti, in Dómino ; rectos decet collaudátio.
 Ps	32	2	Confitémini Dómino in cíthara ; in psaltério decem chordárum psállite illi.
@@ -4339,7 +4339,7 @@ Ps	48	2	Audíte hæc, omnes gentes ; áuribus percípite, omnes qui habitátis o
 Ps	48	3	quique terrígenæ et fílii hóminum, simul in unum dives et pauper.
 Ps	48	4	Os meum loquétur sapiéntiam, et meditátio cordis mei prudéntiam.
 Ps	48	5	Inclinábo in parábolam aurem meam ; apériam in psaltério propositiónem meam.
-Ps	48	6	Cur timébo in die mala ? iníquitas calcánei mei circumdábit me.
+Ps	48	6	Cur timébo in die mala ? iníquitas calcánei mei circúmdabit me.
 Ps	48	7	Qui confídunt in virtúte sua, et in multitúdine divitiárum suárum, gloriántur.
 Ps	48	8	Frater non rédimit, rédimet homo : non dabit Deo placatiónem suam,
 Ps	48	9	et prétium redemptiónis ánimæ suæ. Et laborábit in ætérnum ;
@@ -4436,7 +4436,7 @@ Ps	54	7	Et dixi : Quis dabit mihi pennas sicut colúmbæ, et volábo, et requié
 Ps	54	8	Ecce elongávi fúgiens, et mansi in solitúdine.
 Ps	54	9	Exspectábam eum qui salvum me fecit a pusillanimitáte spíritus, et tempestáte.
 Ps	54	10	Præcípita, Dómine ; dívide linguas eórum : quóniam vidi iniquitátem et contradictiónem in civitáte.
-Ps	54	11	Die ac nocte circumdábit eam super muros eius iníquitas ; et labor in médio eius,
+Ps	54	11	Die ac nocte circúmdabit eam super muros eius iníquitas ; et labor in médio eius,
 Ps	54	12	et iniustítia : et non defécit de platéis eius usúra et dolus.
 Ps	54	13	Quóniam si inimícus meus maledixísset mihi, sustinuíssem útique. Et si is qui óderat me super me magna locútus fuísset, abscondíssem me fórsitan ab eo.
 Ps	54	14	Tu vero homo unánimis, dux meus, et notus meus :
@@ -5118,7 +5118,7 @@ Ps	90	1	Laus cántici David. Qui hábitat in adiutório Altíssimi, in protecti�
 Ps	90	2	Dicet Dómino : Suscéptor meus es tu, et refúgium meum ; Deus meus, sperábo in eum.
 Ps	90	3	Quóniam ipse liberávit me de láqueo venántium, et a verbo áspero.
 Ps	90	4	Scápulis suis obumbrábit tibi, et sub pennis eius sperábis.
-Ps	90	5	Scuto circumdábit te véritas eius : non timébis a timóre noctúrno ;
+Ps	90	5	Scuto circúmdabit te véritas eius : non timébis a timóre noctúrno ;
 Ps	90	6	a sagítta volánte in die, a negótio perambulánte in ténebris, ab incúrsu, et dæmónio meridiáno.
 Ps	90	7	Cadent a látere tuo mille, et decem míllia a dextris tuis ; ad te autem non appropinquábit.
 Ps	90	8	Verúmtamen óculis tuis considerábis, et retributiónem peccatórum vidébis.
@@ -8751,7 +8751,7 @@ Lc	19	39	Et quidam Pharisæórum de turbis dixérunt ad illum : Magíster, íncr
 Lc	19	40	Quibus ipse ait : Dico vobis, quia si hi tacúerint, lápides clamábunt.
 Lc	19	41	Et ut appropinquávit, videns civitátem flevit super illam, dicens :
 Lc	19	42	Quia si cognovísses et tu, et quidem in hac die tua, quæ ad pacem tibi : nunc autem abscóndita sunt ab óculis tuis.
-Lc	19	43	Quia vénient dies in te : et circumdábunt te inimíci tui vallo, et circumdábunt te : et coangustábunt te úndique :
+Lc	19	43	Quia vénient dies in te : et circúmdabunt te inimíci tui vallo, et circúmdabunt te : et coangustábunt te úndique :
 Lc	19	44	et ad terram prostérnent te, et fílios tuos, qui in te sunt, et non relínquent in te lápidem super lápidem : eo quod non cognóveris tempus visitatiónis tuæ.
 Lc	19	45	Et ingréssus in templum, cœpit eícere vendéntes in illo, et eméntes,
 Lc	19	46	dicens illis : Scriptum est : Quia domus mea domus oratiónis est : vos autem fecístis illam spelúncam latrónum.
