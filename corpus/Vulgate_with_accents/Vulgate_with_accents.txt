@@ -11026,6 +11026,373 @@ Jer	52	31	Et factum est in trigésimo séptimo anno transmigratiónis Ióachin r
 Jer	52	32	Et locútus est cum eo bona, et pósuit thronum eius super thronos regum qui erant post se in Babylóne.
 Jer	52	33	Et mutávit vestiménta cárceris eius, et comedébat panem coram eo semper cunctis diébus vitæ suæ.
 Jer	52	34	Et cibária eius, cibária perpétua dabántur ei a rege Babylónis, statúta per síngulos dies, usque ad diem mortis suæ, cunctis diébus vitæ eius. 
+Lam	1	1	[Prólogus. Et factum est, postquam in captivitátem redáctus est Israel, et Ierúsalem desérta est, sedit Jeremías prophéta flens, et planxit lamentatióne hac in Ierúsalem : et amáro ánimo suspírans et éjulans, dixit :] Aleph. Quómodo sedet sola cívitas plena pópulo ! Facta est quasi vídua dómina géntium ; princeps provinciárum facta est sub tribúto.
+Lam	1	2	Beth. Plorans plorávit in nocte, et lácrimæ eius in maxíllis eius : non est qui consolétur eam ex ómnibus caris eius ; omnes amíci eius sprevérunt eam, et facti sunt ei inimíci.
+Lam	1	3	Ghimel. Migrávit Iudas propter afflictiónem, et multitúdinem servitútis ; habitávit inter gentes, nec invénit réquiem : omnes persecutóres eius apprehendérunt eam inter angústias.
+Lam	1	4	Daleth. Viæ Sion lugent, eo quod non sint qui véniant ad solemnitátem : omnes portæ eius destrúctæ, sacerdótes eius geméntes ; vírgines eius squálidæ, et ipsa oppréssa amaritúdine.
+Lam	1	5	He. Facti sunt hostes eius in cápite ; inimíci eius locupletáti sunt : quia Dóminus locútus est super eam propter multitúdinem iniquitátum eius. Párvuli eius ducti sunt in captivitátem ante fáciem tribulántis.
+Lam	1	6	Vau. Et egréssus est a fília Sion omnis decor eius ; facti sunt príncipes eius velut aríetes non inveniéntes páscua, et abiérunt absque fortitúdine ante fáciem subsequéntis.
+Lam	1	7	Zain. Recordáta est Ierúsalem diérum afflictiónis suæ, et prævaricatiónis, ómnium desiderabílium suórum, quæ habúerat a diébus antíquis, cum cáderet pópulus eius in manu hostíli, et non esset auxiliátor : vidérunt eam hostes, et derisérunt sábbata eius.
+Lam	1	8	Heth. Peccátum peccávit Ierúsalem, proptérea instábilis facta est ; omnes qui glorificábant eam sprevérunt illam, quia vidérunt ignomíniam eius : ipsa autem gemens convérsa est retrórsum.
+Lam	1	9	Teth. Sordes eius in pédibus eius, nec recordáta est finis sui ; depósita est veheménter, non habens consolatórem. Vide, Dómine, afflictiónem meam, quóniam eréctus est inimícus.
+Lam	1	10	Iod. Manum suam misit hostis ad ómnia desiderabília eius, quia vidit gentes ingréssas sanctuárium suum, de quibus præcéperas ne intrárent in ecclésiam tuam.
+Lam	1	11	Caph. Omnis pópulus eius gemens, et quærens panem ; dedérunt pretiósa quæque pro cibo ad refocillándam ánimam. Vide, Dómine, et consídera quóniam facta sum vilis !
+Lam	1	12	Lamed. O vos omnes qui transítis per viam, atténdite, et vidéte si est dolor sicut dolor meus ! quóniam vindemiávit me, ut locútus est Dóminus, in die iræ furóris sui.
+Lam	1	13	Mem. De excélso misit ignem in óssibus meis, et erudívit me : expándit rete pédibus meis, convértit me retrórsum ; pósuit me desolátam, tota die mœróre conféctam.
+Lam	1	14	Nun. Vigilávit iugum iniquitátum meárum ; in manu eius convolútæ sunt, et impósitæ collo meo. Infirmáta est virtus mea : dedit me Dóminus in manu de qua non pótero súrgere.
+Lam	1	15	Samech. Abstulit omnes magníficos meos Dóminus de médio mei ; vocávit advérsum me tempus ut contéreret eléctos meos. Tórcular calcávit Dóminus vírgini fíliæ Iuda.
+Lam	1	16	Ain. Idcírco ego plorans, et óculus meus dedúcens aquas, quia longe factus est a me consolátor, convértens ánimam meam. Facti sunt fílii mei pérditi, quóniam inváluit inimícus.
+Lam	1	17	Phe. Expándit Sion manus suas ; non est qui consolétur eam. Mandávit Dóminus advérsum Iacob in circúitu eius hostes eius ; facta est Ierúsalem quasi pollúta ménstruis inter eos.
+Lam	1	18	Sade. Iustus est Dóminus, quia os eius ad iracúndiam provocávi. Audíte, óbsecro, univérsi pópuli, et vidéte dolórem meum : vírgines meæ et iúvenes mei abiérunt in captivitátem.
+Lam	1	19	Coph. Vocávi amícos meos, et ipsi decepérunt me ; sacerdótes mei et senes mei in urbe consúmpti sunt, quia quæsiérunt cibum sibi ut refocillárent ánimam suam.
+Lam	1	20	Res. Vide, Dómine, quóniam tríbulor : conturbátus est venter meus, subvérsum est cor meum in memetípsa, quóniam amaritúdine plena sum. Foris interfécit gládius, et domi mors símilis est.
+Lam	1	21	Sin. Audiérunt quia ingemísco ego, et non est qui consolétur me ; omnes inimíci mei audiérunt malum meum, lætáti sunt quóniam tu fecísti : adduxísti diem consolatiónis, et fient símiles mei.
+Lam	1	22	Thau. Ingrediátur omne malum eórum coram te : et vindémia eos, sicut vindemiásti me propter omnes iniquitátes meas : multi enim gémitus mei, et cor meum mœrens.
+Lam	2	1	Aleph. Quómodo obtéxit calígine in furóre suo Dóminus fíliam Sion ; proiécit de cælo in terram ínclytam Israel, et non est recordátus scabélli pedum suórum in die furóris sui !
+Lam	2	2	Beth. Præcipitávit Dóminus, nec pepércit ómnia speciósa Iacob : destrúxit in furóre suo munitiónes vírginis Iuda, et deiécit in terram ; pólluit regnum et príncipes eius.
+Lam	2	3	Ghimel. Confrégit in ira furóris sui omne cornu Israel ; avértit retrórsum déxteram suam a fácie inimíci, et succéndit in Iacob quasi ignem flammæ devorántis in gyro.
+Lam	2	4	Daleth. Teténdit arcum suum quasi inimícus, firmávit déxteram suam quasi hostis, et occídit omne quod pulchrum erat visu in tabernáculo fíliæ Sion ; effúdit quasi ignem indignatiónem suam.
+Lam	2	5	He. Factus est Dóminus velut inimícus, præcipitávit Israel : præcipitávit ómnia mœ́nia eius, dissipávit munitiónes eius, et replévit in fília Iuda humiliátum et humiliátam.
+Lam	2	6	Vau. Et dissipávit quasi hortum tentórium suum ; demolítus est tabernáculum suum. Oblivióni trádidit Dóminus in Sion festivitátem et sábbatum ; et in oppróbrium, et in indignatiónem furóris sui, regem et sacerdótem.
+Lam	2	7	Zain. Répulit Dóminus altáre suum ; maledíxit sanctificatióni suæ : trádidit in manu inimíci muros túrrium eius. Vocem dedérunt in domo Dómini sicut in die solémni.
+Lam	2	8	Heth. Cogitávit Dóminus dissipáre murum fíliæ Sion ; teténdit funículum suum, et non avértit manum suam a perditióne : luxítque antemurále, et murus páriter dissipátus est.
+Lam	2	9	Teth. Defíxæ sunt in terra portæ eius, pérdidit et contrívit vectes eius ; regem eius et príncipes eius in géntibus : non est lex, et prophétæ eius non invenérunt visiónem a Dómino.
+Lam	2	10	Iod. Sedérunt in terra, conticuérunt senes fíliæ Sion ; conspersérunt cínere cápita sua, accíncti sunt cilíciis : abiecérunt in terram cápita sua vírgines Ierúsalem.
+Lam	2	11	Caph. Defecérunt præ lácrimis óculi mei, conturbáta sunt víscera mea ; effúsum est in terra iecur meum super contritióne fíliæ pópuli mei, cum defíceret párvulus et lactens in platéis óppidi.
+Lam	2	12	Lamed. Mátribus suis dixérunt : Ubi est tríticum et vinum ? cum defícerent quasi vulneráti in platéis civitátis, cum exhalárent ánimas suas in sinu matrum suárum.
+Lam	2	13	Mem. Cui comparábo te, vel cui assimilábo te, fília Ierúsalem ? cui exæquábo te, et consolábor te, virgo, fília Sion ? magna est enim velut mare contrítio tua : quis medébitur tui ?
+Lam	2	14	Nun. Prophétæ tui vidérunt tibi falsa et stulta ; nec aperiébant iniquitátem tuam, ut te ad pœniténtiam provocárent ; vidérunt autem tibi assumptiónes falsas, et eiectiónes.
+Lam	2	15	Samech. Plausérunt super te mánibus omnes transeúntes per viam ; sibilavérunt et movérunt caput suum super fíliam Ierúsalem : Hǽccine est urbs, dicéntes, perfécti decóris, gáudium univérsæ terræ ?
+Lam	2	16	Phe. Aperuérunt super te os suum omnes inimíci tui : sibilavérunt, et fremuérunt déntibus, et dixérunt : Devorábimus : en ista est dies quam exspectabámus ; invénimus, vídimus.
+Lam	2	17	Ain. Fecit Dóminus quæ cogitávit ; complévit sermónem suum, quem præcéperat a diébus antíquis : destrúxit, et non pepércit, et lætificávit super te inimícum, et exaltávit cornu hóstium tuórum.
+Lam	2	18	Sade. Clamávit cor eórum ad Dóminum super muros fíliæ Sion : Deduc quasi torréntem lácrimas per diem et noctem ; non des réquiem tibi, neque táceat pupílla óculi tui.
+Lam	2	19	Coph. Consúrge, lauda in nocte, in princípio vigiliárum ; effúnde sicut aquam cor tuum ante conspéctum Dómini : leva ad eum manus tuas pro ánima parvulórum tuórum, qui defecérunt in fame in cápite ómnium compitórum.
+Lam	2	20	Res. Vide, Dómine, et consídera quem vindemiáveris ita. Ergóne cómedent mulíeres fructum suum, párvulos ad mensúram palmæ ? si occíditur in sanctuário Dómini sacérdos et prophéta ?
+Lam	2	21	Sin. Iacuérunt in terra foris puer et senex ; vírgines meæ et iúvenes mei cecidérunt in gládio : interfecísti in die furóris tui, percussísti, nec misértus es.
+Lam	2	22	Thau. Vocásti quasi ad diem solémnem, qui terrérent me de circúitu ; et non fuit in die furóris Dómini qui effúgeret, et relinquerétur : quos educávi et enutrívi, inimícus meus consúmpsit eos.
+Lam	3	1	Aleph. Ego vir videns paupertátem meam in virga indignatiónis eius.
+Lam	3	2	Aleph. Me minávit, et addúxit in ténebras, et non in lucem.
+Lam	3	3	Aleph. Tantum in me vertit et convértit manum suam tota die.
+Lam	3	4	Beth. Vetústam fecit pellem meam et carnem meam ; contrívit ossa mea.
+Lam	3	5	Beth. Ædificávit in gyro meo, et circúmdedit me felle et labóre.
+Lam	3	6	Beth. In tenebrósis collocávit me, quasi mórtuos sempitérnos.
+Lam	3	7	Ghimel. Circumædificávit advérsum me, ut non egrédiar ; aggravávit cómpedem meum.
+Lam	3	8	Ghimel. Sed et cum clamávero, et rogávero, exclúsit oratiónem meam.
+Lam	3	9	Ghimel. Conclúsit vias meas lapídibus quadris ; sémitas meas subvértit.
+Lam	3	10	Daleth. Ursus insídians factus est mihi, leo in abscónditis.
+Lam	3	11	Daleth. Sémitas meas subvértit, et confrégit me ; pósuit me desolátam.
+Lam	3	12	Daleth. Teténdit arcum suum, et pósuit me quasi signum ad sagíttam.
+Lam	3	13	He. Misit in rénibus meis fílias pháretræ suæ.
+Lam	3	14	He. Factus sum in derísum omni pópulo meo, cánticum eórum tota die.
+Lam	3	15	He. Replévit me amaritudínibus ; inebriávit me absínthio.
+Lam	3	16	Vau. Et fregit ad númerum dentes meos ; cibávit me cínere.
+Lam	3	17	Vau. Et repúlsa est a pace ánima mea ; oblítus sum bonórum.
+Lam	3	18	Vau. Et dixi : Périit finis meus, et spes mea a Dómino.
+Lam	3	19	Zain. Recordáre paupertátis, et transgressiónis meæ, absínthii et fellis.
+Lam	3	20	Zain. Memória memor ero, et tabéscet in me ánima mea.
+Lam	3	21	Zain. Hæc recólens in corde meo, ídeo sperábo.
+Lam	3	22	Heth. Misericórdiæ Dómini, quia non sumus consúmpti ; quia non defecérunt miseratiónes eius.
+Lam	3	23	Heth. Novi dilúculo, multa est fides tua.
+Lam	3	24	Heth. Pars mea Dóminus, dixit ánima mea ; proptérea exspectábo eum.
+Lam	3	25	Teth. Bonus est Dóminus sperántibus in eum, ánimæ quærénti illum.
+Lam	3	26	Teth. Bonum est præstolári cum siléntio salutáre Dei.
+Lam	3	27	Teth. Bonum est viro cum portáverit iugum ab adolescéntia sua.
+Lam	3	28	Iod. Sedébit solitárius, et tacébit, quia levávit super se.
+Lam	3	29	Iod. Ponet in púlvere os suum, si forte sit spes.
+Lam	3	30	Iod. Dabit percutiénti se maxíllam : saturábitur oppróbriis.
+Lam	3	31	Caph. Quia non repéllet in sempitérnum Dóminus.
+Lam	3	32	Caph. Quia si abiécit, et miserébitur, secúndum multitúdinem misericordiárum suárum.
+Lam	3	33	Caph. Non enim humiliávit ex corde suo et abiécit fílios hóminum.
+Lam	3	34	Lamed. Ut cónteret sub pédibus suis omnes vinctos terræ.
+Lam	3	35	Lamed. Ut declináret iudícium viri in conspéctu vultus Altíssimi.
+Lam	3	36	Lamed. Ut pervérteret hóminem in iudício suo ; Dóminus ignorávit.
+Lam	3	37	Mem. Quis est iste qui dixit ut fíeret, Dómino non iubénte ?
+Lam	3	38	Mem. Ex ore Altíssimi non egrediéntur nec mala nec bona ?
+Lam	3	39	Mem. Quid murmurávit homo vivens, vir pro peccátis suis ?
+Lam	3	40	Nun. Scrutémur vias nostras, et quærámus, et revertámur ad Dóminum.
+Lam	3	41	Nun. Levémus corda nostra cum mánibus ad Dóminum in cælos.
+Lam	3	42	Nun. Nos iníque égimus, et ad iracúndiam provocávimus ; idcírco tu inexorábilis es.
+Lam	3	43	Samech. Operuísti in furóre, et percussísti nos ; occidísti, nec pepercísti.
+Lam	3	44	Samech. Opposuísti nubem tibi, ne tránseat orátio.
+Lam	3	45	Samech. Eradicatiónem et abiectiónem posuísti me in médio populórum.
+Lam	3	46	Phe. Aperuérunt super nos os suum omnes inimíci.
+Lam	3	47	Phe. Formído et láqueus facta est nobis vaticinátio, et contrítio.
+Lam	3	48	Phe. Divisiónes aquárum dedúxit óculus meus, in contritióne fíliæ pópuli mei.
+Lam	3	49	Ain. Oculus meus afflíctus est, nec tácuit, eo quod non esset réquies.
+Lam	3	50	Ain. Donec respíceret et vidéret Dóminus de cælis.
+Lam	3	51	Ain. Oculus meus deprædátus est ánimam meam in cunctis filiábus urbis meæ.
+Lam	3	52	Sade. Venatióne cepérunt me quasi avem inimíci mei gratis.
+Lam	3	53	Sade. Lapsa est in lacum vita mea, et posuérunt lápidem super me.
+Lam	3	54	Sade. Inundavérunt aquæ super caput meum ; dixi : Périi.
+Lam	3	55	Coph. Invocávi nomen tuum, Dómine, de lacu novíssimo.
+Lam	3	56	Coph. Vocem meam audísti ; ne avértas aurem tuam a singúltu meo et clamóribus.
+Lam	3	57	Coph. Appropinquásti in die quando invocávi te ; dixísti : Ne tímeas.
+Lam	3	58	Res. Iudicásti, Dómine, causam ánimæ meæ, redémptor vitæ meæ.
+Lam	3	59	Res. Vidísti, Dómine, iniquitátem illórum advérsum me : iúdica iudícium meum.
+Lam	3	60	Res. Vidísti omnem furórem, univérsas cogitatiónes eórum advérsum me.
+Lam	3	61	Sin. Audísti oppróbrium eórum, Dómine, omnes cogitatiónes eórum advérsum me.
+Lam	3	62	Sin. Lábia insurgéntium mihi, et meditatiónes eórum advérsum me tota die.
+Lam	3	63	Sin. Sessiónem eórum et resurrectiónem eórum vide ; ego sum psalmus eórum.
+Lam	3	64	Thau. Redes eis vicem, Dómine, iuxta ópera mánuum suárum.
+Lam	3	65	Thau. Dabis eis scutum cordis, labórem tuum.
+Lam	3	66	Thau. Persequéris in furóre, et cónteres eos sub cælis, Dómine.
+Lam	4	1	Aleph. Quómodo obscurátum est aurum, mutátus est color óptimus ! dispérsi sunt lápides sanctuárii in cápite ómnium plateárum !
+Lam	4	2	Beth. Fílii Sion ínclyti, et amícti auro primo : quómodo reputáti sunt in vasa téstea, opus mánuum fíguli !
+Lam	4	3	Ghimel. Sed et lámiæ nudavérunt mammam, lactavérunt cátulos suos : fília pópuli mei crudélis quasi strúthio in desérto.
+Lam	4	4	Daleth. Adhǽsit lingua lacténtis ad palátum eius in siti ; párvuli petiérunt panem, et non erat qui frángeret eis.
+Lam	4	5	He. Qui vescebántur voluptuóse, interiérunt in viis ; qui nutriebántur in cróceis, amplexáti sunt stércora.
+Lam	4	6	Vau. Et maior effécta est iníquitas fíliæ pópuli mei peccáto Sodomórum, quæ subvérsa est in moménto, et non cepérunt in ea manus.
+Lam	4	7	Zain. Candidióres Nazarǽi eius nive, nitidióres lacte, rubicundióres ébore antíquo, sapphíro pulchrióres.
+Lam	4	8	Heth. Denigráta est super carbónes fácies eórum et non sunt cógniti in platéis ; adhǽsit cutis eórum óssibus : áruit, et facta est quasi lignum.
+Lam	4	9	Teth. Mélius fuit occísis gládio quam interféctis fame, quóniam isti extabuérunt consúmpti a sterilitáte terræ.
+Lam	4	10	Iod. Manus mulíerum misericórdium coxérunt fílios suos ; facti sunt cibus eárum in contritióne fíliæ pópuli mei.
+Lam	4	11	Caph. Complévit Dóminus furórem suum, effúdit iram indignatiónis suæ : et succéndit ignem in Sion, et devorávit fundaménta eius.
+Lam	4	12	Lamed. Non credidérunt reges terræ, et univérsi habitatóres orbis, quóniam ingrederétur hostis et inimícus per portas Ierúsalem.
+Lam	4	13	Mem. Propter peccáta prophetárum eius, et iniquitátes sacerdótum eius, qui effudérunt in médio eius sánguinem iustórum.
+Lam	4	14	Nun. Erravérunt cæci in platéis, pollúti sunt in sánguine ; cumque non possent, tenuérunt lacínias suas.
+Lam	4	15	Samech. Recédite pollúti, clamavérunt eis ; recédite, abíte, nolíte tángere : iurgáti quippe sunt, et commóti dixérunt inter gentes : Non addet ultra ut hábitet in eis.
+Lam	4	16	Phe. Fácies Dómini divísit eos, non addet ut respíciat eos ; fácies sacerdótum non erubuérunt, neque senum misérti sunt.
+Lam	4	17	Ain. Cum adhuc subsisterémus, defecérunt óculi nostri ad auxílium nostrum vanum ; cum respicerémus atténti ad gentem quæ salváre non póterat.
+Lam	4	18	Sade. Lubricavérunt vestígia nostra in itínere plateárum nostrárum ; appropinquávit finis noster, compléti sunt dies nostri, quia venit finis noster.
+Lam	4	19	Coph. Velocióres fuérunt persecutóres nostri áquilis cæli ; super montes persecúti sunt nos, in desérto insidiáti sunt nobis.
+Lam	4	20	Res. Spíritus oris nostri, christus Dóminus, captus est in peccátis nostris, cui díximus : In umbra tua vivémus in géntibus.
+Lam	4	21	Sin. Gaude et lætáre, fília Edom, quæ hábitas in terra Hus ! ad te quoque pervéniet calix : inebriáberis, atque nudáberis.
+Lam	4	22	Thau. Compléta est iníquitas tua, fília Sion : non addet ultra ut tránsmigret te. Visitávit iniquitátem tuam, fília Edom ; discoopéruit peccáta tua.
+Lam	5	1	[Orátio Jeremíæ prophétæ] Recordáre, Dómine, quid accíderit nobis ; intuére et réspice oppróbrium nostrum.
+Lam	5	2	Hæréditas nostra versa est ad aliénos, domus nostræ ad extráneos.
+Lam	5	3	Pupílli facti sumus absque patre, matres nostræ quasi víduæ.
+Lam	5	4	Aquam nostram pecúnia bíbimus ; ligna nostra prétio comparávimus.
+Lam	5	5	Cervícibus nostris minabámur, lassis non dabátur réquies.
+Lam	5	6	Ægýpto dédimus manum et Assýriis, ut saturarémur pane.
+Lam	5	7	Patres nostri peccavérunt, et non sunt : et nos iniquitátes eórum portávimus.
+Lam	5	8	Servi domináti sunt nostri : non fuit qui redímeret de manu eórum.
+Lam	5	9	In animábus nostris afferebámus panem nobis, a fácie gládii in desérto.
+Lam	5	10	Pellis nostra quasi clíbanus exústa est, a fácie tempestátum famis.
+Lam	5	11	Mulíeres in Sion humiliavérunt, et vírgines in civitátibus Iuda.
+Lam	5	12	Príncipes manu suspénsi sunt ; fácies senum non erubuérunt.
+Lam	5	13	Adolescéntibus impudíce abúsi sunt, et púeri in ligno corruérunt.
+Lam	5	14	Senes defecérunt de portis, iúvenes de choro psalléntium.
+Lam	5	15	Defécit gáudium cordis nostri ; versus est in luctum chorus noster.
+Lam	5	16	Cécidit coróna cápitis nostri : væ nobis, quia peccávimus !
+Lam	5	17	Proptérea mœstum factum est cor nostrum ; ídeo contenebráti sunt óculi nostri,
+Lam	5	18	propter montem Sion quia dispériit ; vulpes ambulavérunt in eo.
+Lam	5	19	Tu autem, Dómine, in ætérnum permanébis, sólium tuum in generatiónem et generatiónem.
+Lam	5	20	Quare in perpétuum obliviscéris nostri, derelínques nos in longitúdine diérum ?
+Lam	5	21	Convérte nos, Dómine, ad te, et convertémur ; ínnova dies nostros, sicut a princípio.
+Lam	5	22	Sed proíciens repulísti nos : irátus es contra nos veheménter.
+Ba	1	1	Et hæc verba libri quæ scripsit Baruch fílius Nériæ, fílii Maasíæ, fílii Sedecíæ, fílii Sédei, fílii Helcíæ, in Babylónia,
+Ba	1	2	in anno quinto, in séptimo die mensis, in témpore quo cepérunt Chaldǽi Ierúsalem, et succendérunt eam igni.
+Ba	1	3	Et legit Baruch verba libri huius ad aures Iechoníæ fílii Ióakim regis Iuda, et ad aures univérsi pópuli veniéntis ad librum,
+Ba	1	4	et ad aures poténtium, filiórum regum, et ad aures presbyterórum, et ad aures pópuli, a mínimo usque ad máximum eórum, ómnium habitántium in Babylónia, ad flumen Sodi.
+Ba	1	5	Qui audiéntes plorábant, et ieiunábant, et orábant in conspéctu Dómini.
+Ba	1	6	Et collegérunt pecúniam, secúndum quod pótuit uniuscuiúsque manus,
+Ba	1	7	et misérunt in Ierúsalem ad Ióakim fílium Helcíæ fílii Salom sacerdótem, et ad sacerdótes, et ad omnem pópulum qui invénti sunt cum eo in Ierúsalem :
+Ba	1	8	cum accíperet vasa templi Dómini, quæ abláta fúerant de templo, revocáre in terram Iuda, décima die mensis Sivan, vasa argéntea quæ fecit Sedecías fílius Iosíæ rex Iuda,
+Ba	1	9	posteáquam cepísset Nabuchodónosor rex Babylónis Iechoníam, et príncipes, et cunctos poténtes, et pópulum terræ, ab Ierúsalem, et duxit eos vinctos in Babylónem.
+Ba	1	10	Et dixérunt : Ecce mísimus ad vos pecúnias, de quibus émite holocautómata et thus : et fácite manna, et offérte pro peccáto, ad aram Dómini Dei nostri :
+Ba	1	11	et oráte pro vita Nabuchodónosor regis Babylónis, et pro vita Baltássar fílii eius, ut sint dies eórum sicut dies cæli super terram :
+Ba	1	12	et ut det Dóminus virtútem nobis, et illúminet óculos nostros, ut vivámus sub umbra Nabuchodónosor regis Babylónis, et sub umbra Baltássar fílii eius, et serviámus eis multis diébus, et inveniámus grátiam in conspéctu eórum.
+Ba	1	13	Et pro nobis ipsis oráte ad Dóminum Deum nostrum, quia peccávimus Dómino Deo nostro, et non est avérsus furor eius a nobis usque in hunc diem.
+Ba	1	14	Et légite librum istum quem mísimus ad vos recitári in templo Dómini, in die solémni et in die opportúno :
+Ba	1	15	et dicétis : Dómino Deo nostro iustítia, nobis autem confúsio faciéi nostræ, sicut est dies hæc omni Iuda, et habitántibus in Ierúsalem :
+Ba	1	16	régibus nostris, et princípibus nostris, et sacerdótibus nostris, et prophétis nostris, et pátribus nostris.
+Ba	1	17	Peccávimus ante Dóminum Deum nostrum, et non credídimus, diffidéntes in eum :
+Ba	1	18	et non fúimus subiectíbiles illi, et non audívimus vocem Dómini Dei nostri, ut ambularémus in mandátis eius, quæ dedit nobis.
+Ba	1	19	A die qua edúxit patres nostros de terra Ægýpti, usque ad diem hanc, erámus incredíbiles ad Dóminum Deum nostrum : et dissipáti recéssimus, ne audirémus vocem ipsíus :
+Ba	1	20	et adhæsérunt nobis multa mala et maledictiónes quæ constítuit Dóminus Móysi servo suo, qui edúxit patres nostros de terra Ægýpti, dare nobis terram fluéntem lac et mel, sicut hodiérna die.
+Ba	1	21	Et non audívimus vocem Dómini Dei nostri, secúndum ómnia verba prophetárum quos misit ad nos :
+Ba	1	22	et abívimus unusquísque in sensum cordis nostri malígni, operári diis aliénis, faciéntes mala ante óculos Dómini Dei nostri.
+Ba	2	1	Propter quod státuit Dóminus Deus noster verbum suum, quod locútus est ad nos, et ad iúdices nostros qui iudicavérunt Israel, et ad reges nostros, et ad príncipes nostros, et ad omnem Israel et Iuda :
+Ba	2	2	ut addúceret Dóminus super nos mala magna, quæ non sunt facta sub cælo quemádmodum facta sunt in Ierúsalem, secúndum quæ scripta sunt in lege Móysi,
+Ba	2	3	et manducáret homo carnes fílii sui et carnes fíliæ suæ.
+Ba	2	4	Et dedit eos sub manu regum ómnium qui sunt in circúitu nostro, in impropérium et in desolatiónem in ómnibus pópulis in quibus nos dispérsit Dóminus :
+Ba	2	5	et facti sumus subtus, et non supra, quia peccávimus Dómino Deo nostro, non obaudiéndo voci ipsíus.
+Ba	2	6	Dómino Deo nostro iustítia, nobis autem et pátribus nostris confúsio faciéi, sicut est dies hæc :
+Ba	2	7	quia locútus est Dóminus super nos ómnia mala hæc quæ venérunt super nos :
+Ba	2	8	et non sumus deprecáti fáciem Dómini Dei nostri, ut reverterémur unusquísque nostrum a viis nostris péssimis.
+Ba	2	9	Et vigilávit Dóminus in malis, et addúxit ea super nos : quia iustus est Dóminus in ómnibus opéribus suis quæ mandávit nobis,
+Ba	2	10	et non audívimus vocem ipsíus ut irémus in præcéptis Dómini, quæ dedit ante fáciem nostram.
+Ba	2	11	Et nunc, Dómine Deus Israel, qui eduxísti pópulum tuum de terra Ægýpti in manu válida, et in signis, et in prodígiis, et in virtúte tua magna, et in bráchio excélso, et fecísti tibi nomen sicut est dies iste :
+Ba	2	12	peccávimus, ímpie égimus, iníque géssimus, Dómine Deus noster, in ómnibus iustítiis tuis.
+Ba	2	13	Avertátur ira tua a nobis, quia derelícti sumus pauci inter gentes ubi dispersísti nos.
+Ba	2	14	Exáudi, Dómine, preces nostras et oratiónes nostras, et educ nos propter te, et da nobis inveníre grátiam ante fáciem eórum qui nos abduxérunt :
+Ba	2	15	ut sciat omnis terra quia tu es Dóminus Deus noster, et quia nomen tuum invocátum est super Israel, et super genus ipsíus.
+Ba	2	16	Réspice, Dómine, de domo sancta tua in nos, et inclína aurem tuam, et exáudi nos.
+Ba	2	17	Aperi óculos tuos et vide : quia non mórtui qui sunt in inférno, quorum spíritus accéptus est a viscéribus suis, dabunt honórem et iustificatiónem Dómino :
+Ba	2	18	sed ánima quæ tristis est super magnitúdine mali, et incédit curva et infírma, et óculi deficiéntes, et ánima esúriens, dat tibi glóriam et iustítiam Dómino.
+Ba	2	19	Quia non secúndum iustítias patrum nostrórum nos fúndimus preces et pétimus misericórdiam ante conspéctum tuum, Dómine Deus noster :
+Ba	2	20	sed quia misísti iram tuam et furórem tuum super nos, sicut locútus es in manu puerórum tuórum prophetárum, dicens :
+Ba	2	21	Sic dicit Dóminus : Inclináte húmerum vestrum et cervícem vestram, et ópera fácite regi Babylónis, et sedébitis in terra quam dedi pátribus vestris.
+Ba	2	22	Quod si non audiéritis vocem Dómini Dei vestri, operári regi Babylóniæ, defectiónem vestram fáciam de civitátibus Iuda, et a foris Ierúsalem,
+Ba	2	23	et áuferam a vobis vocem iucunditátis et vocem gáudii, et vocem sponsi et vocem sponsæ, et erit omnis terra sine vestígio ab inhabitántibus eam.
+Ba	2	24	Et non audiérunt vocem tuam, ut operaréntur regi Babylónis : et statuísti verba tua, quæ locútus es in mánibus puerórum tuórum prophetárum, ut transferréntur ossa regum nostrórum et ossa patrum nostrórum de loco suo :
+Ba	2	25	et ecce proiécta sunt in calóre solis et in gelu noctis, et mórtui sunt in dolóribus péssimis, in fame et in gládio, et in emissióne.
+Ba	2	26	Et posuísti templum in quo invocátum est nomen tuum in ipso sicut hæc dies, propter iniquitátem domus Israel et domus Iuda.
+Ba	2	27	Et fecísti in nobis, Dómine Deus noster, secúndum omnem bonitátem tuam et secúndum omnem miseratiónem tuam illam magnam :
+Ba	2	28	sicut locútus es in manu púeri tui Móysi, in die qua præcepísti ei scríbere legem tuam coram fíliis Israel,
+Ba	2	29	dicens : Si non audiéritis vocem meam, multitúdo hæc magna convertétur in mínimam inter gentes, quo ego eos dispérgam :
+Ba	2	30	quia scio quod me non áudiet pópulus : pópulus est enim dura cervíce. Et convertétur ad cor suum in terra captivitátis suæ,
+Ba	2	31	et scient quia ego sum Dóminus Deus eórum : et dabo eis cor, et intélligent ; aures, et áudient :
+Ba	2	32	et laudábunt me in terra captivitátis suæ, et mémores erunt nóminis mei,
+Ba	2	33	et avértent se a dorso suo duro, et a malignitátibus suis : quia reminiscéntur viam patrum suórum, qui peccavérunt in me.
+Ba	2	34	Et revocábo illos in terram quam iurávi pátribus eórum, Abraham, Isaac, et Iacob : et dominabúntur eius, et multiplicábo eos, et non minorabúntur :
+Ba	2	35	et státuam illis testaméntum álterum sempitérnum, ut sim illis in Deum, et ipsi erunt mihi in pópulum : et non movébo ámplius pópulum meum, fílios Israel, a terra quam dedi illis.
+Ba	3	1	Et nunc, Dómine omnípotens, Deus Israel, ánima in angústiis, et spíritus ánxius clamat ad te.
+Ba	3	2	Audi, Dómine, et miserére, quia Deus es miséricors : et miserére nostri, quia peccávimus ante te :
+Ba	3	3	quia tu sedes in sempitérnum, et nos, períbimus in ævum ?
+Ba	3	4	Dómine omnípotens, Deus Israel, audi nunc oratiónem mortuórum Israel, et filiórum ipsórum qui peccavérunt ante te, et non audiérunt vocem Dómini Dei sui, et agglutináta sunt nobis mala.
+Ba	3	5	Noli meminísse iniquitátum patrum nostrórum, sed meménto manus tuæ et nóminis tui in témpore isto :
+Ba	3	6	quia tu es Dóminus Deus noster, et laudábimus te, Dómine :
+Ba	3	7	quia propter hoc dedísti timórem tuum in córdibus nostris, et ut invocémus nomen tuum, et laudémus te in captivitáte nostra, quia convértimur ab iniquitáte patrum nostrórum, qui peccavérunt ante te.
+Ba	3	8	Et ecce nos in captivitáte nostra sumus hódie, qua nos dispersísti in impropérium, et in maledíctum, et in peccátum, secúndum omnes iniquitátes patrum nostrórum, qui recessérunt a te, Dómine Deus noster.
+Ba	3	9	Audi, Israel, mandáta vitæ : áuribus pércipe, ut scias prudéntiam.
+Ba	3	10	Quid est, Israel, quod in terra inimicórum es,
+Ba	3	11	inveterásti in terra aliéna, coinquinátus es cum mórtuis, deputátus es cum descendéntibus in inférnum ?
+Ba	3	12	Dereliquísti fontem sapiéntiæ :
+Ba	3	13	nam si in via Dei ambulásses, habitásses útique in pace sempitérna.
+Ba	3	14	Disce ubi sit prudéntia, ubi sit virtus, ubi sit intelléctus, ut scias simul ubi sit longitúrnitas vitæ et victus, ubi sit lumen oculórum, et pax.
+Ba	3	15	Quis invénit locum eius ? et quis intrávit in thesáuros eius ?
+Ba	3	16	Ubi sunt príncipes géntium, et qui dominántur super béstias quæ sunt super terram ?
+Ba	3	17	qui in ávibus cæli ludunt,
+Ba	3	18	qui argéntum thesaurízant, et aurum, in quo confídunt hómines, et non est finis acquisitiónis eórum ? qui argéntum fábricant, et sollíciti sunt, nec est invéntio óperum illórum ?
+Ba	3	19	Extermináti sunt, et ad ínferos descendérunt, et álii loco eórum surrexérunt.
+Ba	3	20	Iúvenes vidérunt lumen, et habitavérunt super terram, viam autem disciplínæ ignoravérunt,
+Ba	3	21	neque intellexérunt sémitas eius, neque fílii eórum suscepérunt eam : a fácie ipsórum longe facta est ;
+Ba	3	22	non est audíta in terra Chánaan, neque visa est in Theman.
+Ba	3	23	Fílii quoque Agar, qui exquírunt prudéntiam quæ de terra est, negotiatóres Merrhæ et Theman, et fabulatóres, et exquisitóres prudéntiæ et intelligéntiæ : viam autem sapiéntiæ nesciérunt, neque commemoráti sunt sémitas eius.
+Ba	3	24	O Israel, quam magna est domus Dei, et ingens locus possessiónis eius !
+Ba	3	25	magnus est, et non habet finem : excélsus, et imménsus.
+Ba	3	26	Ibi fuérunt Gigántes nomináti illi, qui ab inítio fuérunt, statúra magna, sciéntes bellum.
+Ba	3	27	Non hos elégit Dóminus, neque viam disciplínæ invenérunt : proptérea periérunt,
+Ba	3	28	et quóniam non habuérunt sapiéntiam, interiérunt propter suam insipiéntiam.
+Ba	3	29	Quis ascéndit in cælum, et accépit eam, et edúxit eam de núbibus ?
+Ba	3	30	Quis transfretávit mare, et invénit illam, et áttulit illam super aurum eléctum ?
+Ba	3	31	Non est qui possit scire vias eius, neque qui exquírat sémitas eius :
+Ba	3	32	sed qui scit univérsa novit eam, et adinvénit eam prudéntia sua qui præparávit terram in ætérno témpore : et replévit eam pecúdibus et quadrupédibus
+Ba	3	33	qui emíttit lumen, et vadit, et vocávit illud, et obédit illi in tremóre.
+Ba	3	34	Stellæ autem dedérunt lumen in custódiis suis, et lætátæ sunt :
+Ba	3	35	vocátæ sunt, et dixérunt : Adsumus, et luxérunt ei cum iucunditáte, qui fecit illas.
+Ba	3	36	Hic est Deus noster, et non æstimábitur álius advérsus eum.
+Ba	3	37	Hic adinvénit omnem viam disciplínæ, et trádidit illam Iacob púero suo, et Israel dilécto suo.
+Ba	3	38	Post hæc in terris visus est, et cum homínibus conversátus est.
+Ba	4	1	Hic liber mandatórum Dei, et lex quæ est in ætérnum : omnes qui tenent eam pervénient ad vitam : qui autem dereliquérunt eam, in mortem.
+Ba	4	2	Convértere, Iacob, et apprehénde eam : ámbula per viam ad splendórem eius contra lumen eius.
+Ba	4	3	Ne tradas álteri glóriam tuam, et dignitátem tuam genti aliénæ.
+Ba	4	4	Beáti sumus, Israel, quia quæ Deo placent manifésta sunt nobis.
+Ba	4	5	Animǽquior esto, pópulus Dei, memorábilis Israel :
+Ba	4	6	venúndati estis géntibus non in perditiónem : sed propter quod in ira ad iracúndiam provocástis Deum, tráditi estis adversáriis.
+Ba	4	7	Exacerbástis enim eum qui fecit vos, Deum ætérnum, immolántes dæmóniis, et non Deo.
+Ba	4	8	Oblíti enim estis Deum qui nutrívit vos, et contristástis nutrícem vestram Ierúsalem.
+Ba	4	9	Vidit enim iracúndiam a Deo veniéntem vobis, et dixit : Audíte, confínes Sion : addúxit enim mihi Deus luctum magnum.
+Ba	4	10	Vidi enim captivitátem pópuli mei, filiórum meórum et filiárum, quam superdúxit illis Ætérnus.
+Ba	4	11	Nutrívi enim illos cum iucunditáte ; dimísi autem illos cum fletu et luctu.
+Ba	4	12	Nemo gáudeat super me víduam et desolátam : a multis derelícta sum propter peccáta filiórum meórum, quia declinavérunt a lege Dei.
+Ba	4	13	Iustítias autem ipsíus nesciérunt, nec ambulavérunt per vias mandatórum Dei, neque per sémitas veritátis eius cum iustítia ingréssi sunt.
+Ba	4	14	Véniant confínes Sion, et memoréntur captivitátem filiórum et filiárum meárum, quam superdúxit illis Ætérnus.
+Ba	4	15	Addúxit enim super illos gentem de longínquo, gentem ímprobam, et altérius linguæ,
+Ba	4	16	qui non sunt reveríti senem, neque puerórum misérti sunt, et abduxérunt diléctos víduæ, et a fíliis únicam desolavérunt.
+Ba	4	17	Ego autem, quid possum adiuváre vos ?
+Ba	4	18	qui enim addúxit super vos mala, ipse vos erípiet de mánibus inimicórum vestrórum.
+Ba	4	19	Ambuláte, fílii, ambuláte : ego enim derelícta sum sola.
+Ba	4	20	Exui me stola pacis, índui autem me sacco obsecratiónis, et clamábo ad Altíssimum in diébus meis.
+Ba	4	21	Animæquióres estóte, fílii ; clamáte ad Dóminum, et erípiet vos de manu príncipum inimicórum.
+Ba	4	22	Ego enim sperávi in ætérnum salútem vestram, et venit mihi gáudium a Sancto, super misericórdia quæ véniet vobis ab ætérno salutári nostro.
+Ba	4	23	Emísi enim vos cum luctu et plorátu : redúcet autem vos mihi Dóminus cum gáudio et iucunditáte in sempitérnum.
+Ba	4	24	Sicut enim vidérunt vicínæ Sion captivitátem vestram a Deo, sic vidébunt et in celeritáte salútem vestram a Deo, quæ supervéniet vobis cum honóre magno et splendóre ætérno.
+Ba	4	25	Fílii, patiénter sustinéte iram quæ supervénit vobis : persecútus est enim te inimícus tuus : sed cito vidébis perditiónem ipsíus, et super cervíces ipsíus ascéndes.
+Ba	4	26	Delicáti mei ambulavérunt vias ásperas : ducti sunt enim ut grex diréptus ab inimícis.
+Ba	4	27	Animæquióres estóte, fílii, et proclamáte ad Dóminum : erit enim memória vestra ab eo qui duxit vos.
+Ba	4	28	Sicut enim fuit sensus vester ut errarétis a Deo, décies tantum íterum converténtes requirétis eum :
+Ba	4	29	qui enim indúxit vobis mala, ipse rursum addúcet vobis sempitérnam iucunditátem cum salúte vestra.
+Ba	4	30	Animǽquior esto, Ierúsalem : exhortátur enim te, qui te nominávit.
+Ba	4	31	Nocéntes períbunt, qui te vexavérunt : et qui gratuláti sunt in tua ruína, puniéntur.
+Ba	4	32	Civitátes quibus serviérunt fílii tui, puniéntur, et quæ accépit fílios tuos.
+Ba	4	33	Sicut enim gavísa est in tua ruína, et lætáta est in casu tuo, sic contristábitur in sua desolatióne,
+Ba	4	34	et amputábitur exsultátio multitúdinis eius, et gaudimónium eius erit in luctum.
+Ba	4	35	Ignis enim supervéniet ei ab Ætérno in longitúrnis diébus, et habitábitur a dæmóniis in multitúdine témporis.
+Ba	4	36	Circúmspice, Ierúsalem, ad oriéntem, et vide iucunditátem a Deo tibi veniéntem.
+Ba	4	37	Ecce enim véniunt fílii tui, quos dimisísti dispérsos : véniunt collécti ab oriénte usque ad occidéntem, in verbo Sancti, gaudéntes in honórem Dei.
+Ba	5	1	Exue te, Ierúsalem, stola luctus et vexatiónis tuæ, et índue te decóre, et honóre eius, quæ a Deo tibi est, sempitérnæ glóriæ.
+Ba	5	2	Circúmdabit te Deus diplóide iustítiæ, et impónet mitram cápiti honóris ætérni.
+Ba	5	3	Deus enim osténdet splendórem suum in te, omni qui sub cælo est.
+Ba	5	4	Nominábitur enim tibi nomen tuum a Deo in sempitérnum : pax iustítiæ, et honor pietátis.
+Ba	5	5	Exsúrge, Ierúsalem, et sta in excélso : et circúmspice ad oriéntem, et vide colléctos fílios tuos ab oriénte sole usque ad occidéntem, in verbo Sancti, gaudéntes Dei memória.
+Ba	5	6	Exiérunt enim abs te pédibus ducti ab inimícis : addúcet autem illos Dóminus ad te portátos in honóre sicut fílios regni :
+Ba	5	7	constítuit enim Deus humiliáre omnem montem excélsum et rupes perénnes, et conválles replére in æqualitátem terræ, ut ámbulet Israel diligénter in honórem Dei.
+Ba	5	8	Obumbravérunt autem et silvæ, et omne lignum suavitátis Israel ex mandáto Dei.
+Ba	5	9	Addúcet enim Deus Israel cum iucunditáte in lúmine maiestátis suæ, cum misericórdia et iustítia quæ est ex ipso.
+Ba	6	1	Propter peccáta quæ peccástis ante Deum, abducémini in Babylóniam captívi a Nabuchodónosor rege Babylónis.
+Ba	6	2	Ingréssi ítaque in Babylónem, éritis ibi annis plúrimis, et tempóribus longis, usque ad generatiónes septem : post hoc autem edúcam vos inde cum pace.
+Ba	6	3	Nunc autem vidébitis in Babylónia deos áureos et argénteos, et lapídeos et lígneos, in húmeris portári, ostentántes metum géntibus.
+Ba	6	4	Vidéte ergo ne et vos símiles efficiámini factis aliénis, et metuátis, et metus vos cápiat in ipsis.
+Ba	6	5	Visa ítaque turba de retro et ab ante, adorántes dícite in córdibus vestris : Te opórtet adorári, Dómine.
+Ba	6	6	Angelus enim meus vobíscum est : ipse autem exquíram ánimas vestras.
+Ba	6	7	Nam lingua ipsórum políta a fabro ; ipsa étiam inauráta et inargentáta : falsa sunt, et non possunt loqui.
+Ba	6	8	Et sicut vírgini amánti ornaménta, ita accépto auro fabricáti sunt.
+Ba	6	9	Corónas certe áureas habent super cápita sua dii illórum : unde súbtrahunt sacerdótes ab eis aurum et argéntum, et érogant illud in semetípsos.
+Ba	6	10	Dant autem et ex ipso prostitútis, et meretríces ornant : et íterum cum recéperint illud a meretrícibus, ornant deos suos.
+Ba	6	11	Hi autem non liberántur ab ærúgine et tínea.
+Ba	6	12	Opértis autem illis veste purpúrea, extérgunt fáciem ipsórum propter púlverem domus qui est plúrimus inter eos.
+Ba	6	13	Sceptrum autem habet ut homo, sicut iudex regiónis, qui in se peccántem non intérficit.
+Ba	6	14	Habet étiam in manu gládium et secúrim, se autem de bello et a latrónibus non líberat. Unde vobis notum sit quia non sunt dii :
+Ba	6	15	non ergo timuéritis eos. Sicut enim vas hóminis confráctum inútile effícitur, tales sunt et dii illórum.
+Ba	6	16	Constitútis illis in domo, óculi eórum pleni sunt púlvere a pédibus introeúntium.
+Ba	6	17	Et sicut álicui qui regem offéndit circumséptæ sunt iánuæ, aut sicut ad sepúlchrum addúctum mórtuum : ita tutántur sacerdótes óstia clausúris et seris, ne a latrónibus expoliéntur.
+Ba	6	18	Lucérnas accéndunt illis, et quidem multas, ex quibus nullam vidére possunt : sunt autem sicut trabes in domo.
+Ba	6	19	Corda vero eórum dicunt elíngere serpéntes qui de terra sunt, dum cómedunt eos, et vestiméntum ipsórum, et non séntiunt.
+Ba	6	20	Nigræ fiunt fácies eórum a fumo qui in domo fit.
+Ba	6	21	Supra corpus eórum et supra caput eórum volant nóctuæ, et hirúndines, et aves étiam, simíliter et cattæ.
+Ba	6	22	Unde sciátis quia non sunt dii : ne ergo timuéritis eos.
+Ba	6	23	Aurum étiam quod habent ad spéciem est : nisi áliquis extérserit ærúginem, non fulgébunt : neque enim dum conflaréntur, sentiébant.
+Ba	6	24	Ex omni prétio empta sunt, in quibus spíritus non inest ipsis.
+Ba	6	25	Sine pédibus, in húmeris portántur, ostentántes ignobilitátem suam homínibus : confundántur étiam qui colunt ea.
+Ba	6	26	Proptérea si cecíderint in terram, a semetípsis non consúrgunt : neque si quis eum statúerit rectum, per semetípsum stabit : sed sicut mórtuis múnera eórum illis apponéntur.
+Ba	6	27	Hóstias illórum vendunt sacerdótes ipsórum, et abutúntur : simíliter et mulíeres eórum decerpéntes, neque infírmo, neque mendicánti, áliquid impértiunt.
+Ba	6	28	De sacrifíciis eórum fœtæ et menstruátæ contíngunt. Sciens ítaque ex his quia non sunt dii, ne timeátis eos.
+Ba	6	29	Unde enim vocántur dii ? quia mulíeres appónunt diis argénteis, et áureis, et lígneis :
+Ba	6	30	et in dómibus eórum sacerdótes sedent habéntes túnicas scissas, et cápita et barbam rasam, quorum cápita nuda sunt.
+Ba	6	31	Rúgiunt autem clamántes contra deos suos sicut in cœna mórtui.
+Ba	6	32	Vestiménta eórum áuferunt sacerdótes, et véstiunt uxóres suas et fílios suos.
+Ba	6	33	Neque si quid mali patiúntur ab áliquo, neque si quid boni, póterunt retribúere : neque regem constitúere possunt, neque auférre.
+Ba	6	34	Simíliter neque dare divítias possunt, neque malum retribúere. Si quis illis votum vóverit et non reddíderit, neque hoc requírunt.
+Ba	6	35	Hóminem a morte non líberant, neque infírmum a potentióri erípiunt.
+Ba	6	36	Hóminem cæcum ad visum non restítuunt ; de necessitáte hóminem non liberábunt.
+Ba	6	37	Víduæ non miserebúntur, neque órphanis benefácient.
+Ba	6	38	Lapídibus de monte símiles sunt dii illórum, lígnei, et lapídei, et áurei, et argéntei : qui autem colunt ea, confundéntur.
+Ba	6	39	Quómodo ergo æstimándum est aut dicéndum illos esse deos ?
+Ba	6	40	Adhuc enim ipsis Chaldǽis non honorántibus ea : qui cum audíerint mutum non posse loqui, ófferunt illud ad Bel, postulántes ab eo loqui :
+Ba	6	41	quasi possint sentíre qui non habent motum ! Et ipsi, cum intelléxerint, relínquent ea : sensum enim non habent ipsi dii illórum.
+Ba	6	42	Mulíeres autem circúmdatæ fúnibus in viis sedent, succendéntes ossa olivárum :
+Ba	6	43	cum autem áliqua ex ipsis, attrácta ab áliquo transeúnte, dormíerit cum eo, próximæ suæ éxprobrat quod ea non sit digna hábita, sicut ipsa, neque funis eius dirúptus sit.
+Ba	6	44	Omnia autem quæ illi fiunt, falsa sunt : quómodo æstimándum aut dicéndum est illos esse deos ?
+Ba	6	45	A fabris autem et ab aurifícibus facta sunt : nihil aliud erunt, nisi id quod volunt esse sacerdótes.
+Ba	6	46	Artífices étiam ipsi, qui ea fáciunt, non sunt multi témporis : numquid ergo possunt ea, quæ fabricáta sunt ab ipsis, esse dii ?
+Ba	6	47	Reliquérunt autem falsa et oppróbrium póstea futúris.
+Ba	6	48	Nam cum supervénerit illis prǽlium et mala, cógitant sacerdótes apud se ubi se abscóndant cum illis.
+Ba	6	49	Quómodo ergo sentíri débeant quóniam dii sunt, qui nec de bello se líberant, neque de malis se erípiunt ?
+Ba	6	50	Nam cum sint lígnea, inauráta et inargentáta, sciétur póstea quia falsa sunt ab univérsis géntibus et régibus : quæ manifésta sunt quia non sunt dii, sed ópera mánuum hóminum, et nullum Dei opus cum illis.
+Ba	6	51	Unde ergo notum est quia non sunt dii, sed ópera mánuum hóminum, et nullum Dei opus in ipsis est.
+Ba	6	52	Regem regióni non súscitant, neque plúviam homínibus dabunt.
+Ba	6	53	Iudícium quoque non discérnent, neque regiónes liberábunt ab iniúria, quia nihil possunt, sicut cornículæ inter médium cæli et terræ.
+Ba	6	54	Etenim cum incíderit ignis in domum deórum ligneórum, argenteórum et aureórum, sacerdótes quidem ipsórum fúgient, et liberabúntur : ipsi vero sicut trabes in médio comburéntur.
+Ba	6	55	Regi autem et bello non resístent. Quómodo ergo æstimándum est aut recipiéndum quia dii sunt ?
+Ba	6	56	Non a fúribus, neque a latrónibus se liberábunt dii lígnei, et lapídei, et inauráti, et inargentáti : quibus hi qui fortióres sunt,
+Ba	6	57	aurum et argéntum, et vestiméntum quo opérti sunt, áuferent illis, et abíbunt, nec sibi auxílium ferent.
+Ba	6	58	Itaque mélius est esse regem ostentántem virtútem suam, aut vas in domo útile, in quo gloriábitur qui póssidet illud, vel óstium in domo, quod custódit quæ in ipsa sunt, quam falsi dii.
+Ba	6	59	Sol quidem et luna ac sídera, cum sint spléndida et emíssa ad utilitátes, obáudiunt :
+Ba	6	60	simíliter et fulgur cum apparúerit, perspícuum est : idípsum autem et spíritus in omni regióne spirat :
+Ba	6	61	et nubes, quibus cum imperátum fúerit a Deo perambuláre univérsum orbem, perfíciunt quod imperátum est eis :
+Ba	6	62	ignis étiam missus désuper, ut consúmat montes et silvas, facit quod præcéptum est ei : hæc autem neque speciébus, neque virtútibus, uni eórum simília sunt.
+Ba	6	63	Unde neque existimándum est, neque dicéndum illos esse deos, quando non possunt neque iudícium iudicáre, neque quidquam fácere homínibus.
+Ba	6	64	Sciéntes ítaque quia non sunt dii, ne ergo timuéritis eos.
+Ba	6	65	Neque enim régibus maledícent, neque benedícent.
+Ba	6	66	Signa étiam in cælo géntibus non osténdunt : neque ut sol lucébunt, neque illuminábunt ut luna.
+Ba	6	67	Béstiæ melióres sunt illis, quæ possunt fúgere sub tectum ac prodésse sibi.
+Ba	6	68	Nullo ítaque modo nobis est maniféstum quia sunt dii : propter quod ne timeátis eos.
+Ba	6	69	Nam sicut in cucumerário formído nihil custódit, ita sunt dii illórum lígnei, et argéntei, et inauráti.
+Ba	6	70	Eódem modo et in horto spina alba, supra quam omnis avis sedet, simíliter et mórtuo proiécto in ténebris, símiles sunt dii illórum lígnei, et inauráti, et inargentáti.
+Ba	6	71	A púrpura quoque et múrice, quæ supra illos tíneant, sciétis ítaque quia non sunt dii : ipsi étiam postrémo comedúntur, et erunt oppróbrium in regióne.
+Ba	6	72	Mélior est homo iustus qui non habet simulácra, nam erit longe ab oppróbriis.
 Mt	1	1	Liber generatiónis Iesu Christi fílii David, fílii Abraham.
 Mt	1	2	Abraham génuit Isaac. Isaac autem génuit Iacob. Iacob autem génuit Iudam, et fratres eius.
 Mt	1	3	Iudas autem génuit Phares, et Zaram de Thamar. Phares autem génuit Esron. Esron autem génuit Aram.
@@ -16151,7 +16518,7 @@ Rm	13	4	Dei enim miníster est tibi in bonum. Si autem malum féceris, time : no
 Rm	13	5	Ideo necessitáte súbditi estóte non solum propter iram, sed étiam propter consciéntiam.
 Rm	13	6	Ideo enim et tribúta præstátis : minístri enim Dei sunt, in hoc ipsum serviéntes.
 Rm	13	7	Réddite ergo ómnibus débita : cui tribulátum, tribútum : cui vectígal, vectígal : cui timórem, timórem : cui honórem, honórem.
-Rm	13	8	Némini quidquam debeátis, nisi ut ínvicem diligátis : qui enim dilig- it próximum, legem implévit.
+Rm	13	8	Némini quidquam debeátis, nisi ut ínvicem diligátis : qui enim diligit próximum, legem implévit.
 Rm	13	9	Nam : Non adulterábis : non occídes : non furáberis : non falsum testimónium dices : non concupísces : et si quod est aliud mandátum, in hoc verbo instaurátur : díliges próximum tuum sicut teípsum.
 Rm	13	10	Diléctio próximi malum non operátur. Plenitúdo ergo legis est diléctio.
 Rm	13	11	Et hoc sciéntes tempus : quia hora est iam nos de somno súrgere. Nunc enim própior est nostra salus, quam cum credídimus.
