@@ -13196,6 +13196,204 @@ Dn	14	39	Venit ergo rex die séptimo ut lugéret Daniélem : et venit ad lacum, 
 Dn	14	40	Et exclamávit voce magna rex, dicens : Magnus es, Dómine Deus Daniélis. Et extráxit eum de lacu leónum.
 Dn	14	41	Porro illos, qui perditiónis eius causa fúerant, intromísit in lacum, et devoráti sunt in moménto coram eo.
 Dn	14	42	Tunc rex ait : Páveant omnes habitántes in univérsa terra Deum Daniélis : quia ipse est salvátor, fáciens signa et mirabília in terra : qui liberávit Daniélem de lacu leónum.
+Os	1	1	Verbum Dómini, quod factum est ad Osee, fílium Béeri, in diébus Ozíæ, Ióathan, Achaz, Ezechíæ, regum Iuda ; et in diébus Ieróboam, fílii Ioas, regis Israel.
+Os	1	2	Princípium loquéndi Dómino in Osee. Et dixit Dóminus ad Osee : Vade, sume tibi uxórem fornicatiónum, et fac tibi fílios fornicatiónum, quia fórnicans fornicábitur terra a Dómino.
+Os	1	3	Et ábiit, et accépit Gomer, fíliam Debélaim : et concépit, et péperit ei fílium.
+Os	1	4	Et dixit Dóminus ad eum : Voca nomen eius Iézrahel, quóniam adhuc módicum, et visitábo sánguinem Iézrahel super domum Iehu, et quiéscere fáciam regnum domus Israel.
+Os	1	5	Et in illa die cónteram arcum Israel in valle Iézrahel.
+Os	1	6	Et concépit adhuc, et péperit fíliam. Et dixit ei : Voca nomen eius, Absque misericórdia, quia non addam ultra miseréri dómui Israel, sed oblivióne oblivíscar eórum.
+Os	1	7	Et dómui Iuda miserébor, et salvábo eos in Dómino Deo suo ; et non salvábo eos in arcu et gládio, et in bello, et in equis, et in equítibus.
+Os	1	8	Et ablactávit eam quæ erat Absque misericórdia. Et concépit, et péperit fílium.
+Os	1	9	Et dixit : Voca nomen eius, Non pópulus meus, quia vos non pópulus meus, et ego non ero vester.
+Os	1	10	Et erit númerus filiórum Israel quasi aréna maris, quæ sine mensúra est, et non numerábitur. Et erit in loco ubi dicétur eis : Non pópulus meus vos : dicétur eis : Fílii Dei vivéntis.
+Os	1	11	Et congregabúntur fílii Iuda et fílii Israel páriter ; et ponent sibímet caput unum, et ascéndent de terra, quia magnus dies Iézrahel.
+Os	2	1	Dícite frátribus vestris : Pópulus meus ; et soróri vestræ : Misericórdiam consecúta.
+Os	2	2	Iudicáte matrem vestram, iudicáte, quóniam ipsa non uxor mea, et ego non vir eius. Auferat fornicatiónes suas a fácie sua, et adultéria sua de médio úberum suórum ;
+Os	2	3	ne forte expóliem eam nudam, et státuam eam secúndum diem nativitátis suæ, et ponam eam quasi solitúdinem, et státuam eam velut terram ínviam, et interfíciam eam siti.
+Os	2	4	Et filiórum illíus non miserébor, quóniam fílii fornicatiónum sunt.
+Os	2	5	Quia fornicáta est mater eórum, confúsa est quæ concépit eos ; quia dixit : Vadam post amatóres meos, qui dant panes mihi, et aquas meas, lanam meam, et linum meum, óleum meum, et potum meum.
+Os	2	6	Propter hoc ecce ego sépiam viam tuam spinis, et sépiam eam macéria, et sémitas suas non invéniet.
+Os	2	7	Et sequétur amatóres suos, et non apprehéndet eos ; et quæret eos, et non invéniet : et dicet : Vadam, et revértar ad virum meum priórem, quia bene mihi erat tunc magis quam nunc.
+Os	2	8	Et hæc nescívit, quia ego dedi ei fruméntum, et vinum, et óleum, et argéntum multiplicávi ei, et aurum, quæ fecérunt Baal.
+Os	2	9	Idcírco convértar, et sumam fruméntum meum in témpore suo, et vinum meum in témpore suo. Et liberábo lanam meam et linum meum, quæ operiébant ignomíniam eius.
+Os	2	10	Et nunc revelábo stultítiam eius in óculis amatórum eius ; et vir non éruet eam de manu mea ;
+Os	2	11	et cessáre fáciam omne gáudium eius, solemnitátem eius, neoméniam eius, sábbatum eius, et ómnia festa témpora eius.
+Os	2	12	Et corrúmpam víneam eius, et ficum eius, de quibus dixit : Mercédes hæ meæ sunt, quas dedérunt mihi amatóres mei ; et ponam eam in saltum, et cómedet eam béstia agri.
+Os	2	13	Et visitábo super eam dies Báalim, quibus accendébat incénsum, et ornabátur in aure sua, et moníli suo. Et ibat post amatóres suos, et mei obliviscebátur, dicit Dóminus.
+Os	2	14	Propter hoc ecce ego lactábo eam, et ducam eam in solitúdinem, et loquar ad cor eius.
+Os	2	15	Et dabo ei vinitóres eius ex eódem loco, et vallem Achor, ad aperiéndam spem ; et canet ibi iuxta dies iuventútis suæ, et iuxta dies ascensiónis suæ de terra Ægýpti.
+Os	2	16	Et erit in die illa, ait Dóminus : vocábit me, Vir meus, et non vocábit me ultra Báali.
+Os	2	17	Et áuferam nómina Báalim de ore eius, et non recordábitur ultra nóminis eórum.
+Os	2	18	Et percútiam cum eis fœdus in die illa, cum béstia agri, et cum vólucre cæli, et cum réptili terræ ; et arcum, et gládium, et bellum cónteram de terra, et dormíre eos fáciam fiduciáliter.
+Os	2	19	Et sponsábo te mihi in sempitérnum ; et sponsábo te mihi in iustítia, et iudício, et in misericórdia, et in miseratiónibus.
+Os	2	20	Et sponsábo te mihi in fide ; et scies quia ego Dóminus.
+Os	2	21	Et erit in die illa : exáudiam, dicit Dóminus, exáudiam cælos, et illi exáudient terram.
+Os	2	22	Et terra exáudiet tríticum, et vinum, et óleum, et hæc exáudient Iézrahel.
+Os	2	23	Et seminábo eam mihi in terra, et miserébor eius quæ fuit Absque misericórdia.
+Os	2	24	Et dicam Non pópulo meo : Pópulus meus es tu ; et ipse dicet : Deus meus es tu.
+Os	3	1	Et dixit Dóminus ad me : Adhuc vade, et dílige mulíerem diléctam amíco et adúlteram, sicut díligit Dóminus fílios Israel, et ipsi respíciunt ad deos aliénos, et díligunt vinácia uvárum.
+Os	3	2	Et fodi eam mihi quíndecim argénteis, et Coro hórdei, et dimídio coro hórdei.
+Os	3	3	Et dixi ad eam : Dies multos exspectábis me ; non fornicáberis, et non eris viro ; sed et ego exspectábo te.
+Os	3	4	Quia dies multos sedébunt fílii Israel sine rege, et sine príncipe, et sine sacrifício, et sine altári, et sine ephod, et sine théraphim.
+Os	3	5	Et post hæc reverténtur fílii Israel, et quærent Dóminum Deum suum, et David regem suum : et pavébunt ad Dóminum, et ad bonum eius, in novíssimo diérum.
+Os	4	1	Audíte verbum Dómini, fílii Israel, quia iudícium Dómino cum habitatóribus terræ : non est enim véritas, et non est misericórdia, et non est sciéntia Dei in terra.
+Os	4	2	Maledíctum, et mendácium, et homicídium, et furtum, et adultérium inundavérunt, et sanguis sánguinem tétigit.
+Os	4	3	Propter hoc lugébit terra, et infirmábitur omnis qui hábitat in ea, in béstia agri, et in vólucre cæli ; sed et pisces maris congregabúntur.
+Os	4	4	Verúmtamen unusquísque non iúdicet, et non arguátur vir : pópulus enim tuus sicut hi qui contradícunt sacerdóti.
+Os	4	5	Et córrues hódie, et córruet étiam prophéta tecum. Nocte tacére feci matrem tuam.
+Os	4	6	Contícuit pópulus meus, eo quod non habúerit sciéntiam : quia tu sciéntiam repulísti, repéllam te, ne sacerdótio fungáris mihi ; et oblíta es legis Dei tui, oblivíscar filiórum tuórum et ego.
+Os	4	7	Secúndum multitúdinem eórum sic peccavérunt mihi : glóriam eórum in ignomíniam commutábo.
+Os	4	8	Peccáta pópuli mei cómedent, et ad iniquitátem eórum sublevábunt ánimas eórum.
+Os	4	9	Et erit sicut pópulus, sic sacérdos ; et visitábo super eum vias eius, et cogitatiónes eius reddam ei.
+Os	4	10	Et cómedent, et non saturabúntur ; fornicáti sunt, et non cessavérunt : quóniam Dóminum dereliquérunt in non custodiéndo.
+Os	4	11	Fornicátio, et vinum, et ebríetas áuferunt cor.
+Os	4	12	Pópulus meus in ligno suo interrogávit, et báculus eius annuntiávit ei ; spíritus enim fornicatiónum decépit eos, et fornicáti sunt a Deo suo.
+Os	4	13	Super cápita móntium sacrificábant, et super colles ascendébant thymiáma ; subtus quercum, et pópulum, et terebínthum, quia bona erat umbra eius ; ídeo fornicabúntur fíliæ vestræ, et sponsæ vestræ adúlteræ erunt.
+Os	4	14	Non visitábo super fílias vestras cum fúerint fornicátæ, et super sponsas vestras cum adulteráverint, quóniam ipsi cum meretrícibus conversabántur, et cum effeminátis sacrificábant ; et pópulus non intélligens vapulábit.
+Os	4	15	Si fornicáris tu, Israel, non delínquat saltem Iuda ; et nolíte íngredi in Gálgala, et ne ascendéritis in Betháven, neque iuravéritis : Vivit Dóminus !
+Os	4	16	Quóniam sicut vacca lascíviens declinávit Israel ; nunc pascet eos Dóminus, quasi agnum in latitúdine.
+Os	4	17	Párticeps idolórum Ephraim : dimítte eum.
+Os	4	18	Separátum est convívium eórum ; fornicatióne fornicáti sunt : dilexérunt afférre ignomíniam protectóres eius.
+Os	4	19	Ligávit eum spíritus in alis suis, et confundéntur a sacrifíciis suis.
+Os	5	1	Audíte hoc, sacerdótes, et atténdite, domus Israel, et domus regis, auscultáte : quia vobis iudícium est, quóniam láqueus facti estis speculatióni, et rete expánsum super Thabor.
+Os	5	2	Et víctimas declinástis in profúndum ; et ego erudítor ómnium eórum.
+Os	5	3	Ego scio Ephraim, et Israel non est abscónditus a me : quia nunc fornicátus est Ephraim ; contaminátus est Israel.
+Os	5	4	Non dabunt cogitatiónes suas ut revertántur ad Deum suum, quia spíritus fornicatiónum in médio eórum, et Dóminum non cognovérunt.
+Os	5	5	Et respondébit arrogántia Israel in fácie eius, et Israel et Ephraim ruent in iniquitáte sua : ruet étiam Iudas cum eis.
+Os	5	6	In grégibus suis et in arméntis suis vadent ad quæréndum Dóminum, et non invénient : ablátus est ab eis.
+Os	5	7	In Dóminum prævaricáti sunt, quia fílios aliénos genuérunt : nunc devorábit eos mensis, cum pártibus suis.
+Os	5	8	Clángite búccina in Gábaa, tuba in Rama ; ululáte in Betháven, post tergum tuum, Béniamin.
+Os	5	9	Ephraim in desolatióne erit in die correptiónis ; in tríbubus Israel osténdi fidem.
+Os	5	10	Facti sunt príncipes Iuda quasi assuméntes términum ; super eos effúndam quasi aquam iram meam.
+Os	5	11	Calúmniam pátiens est Ephraim, fractus iudício, quóniam cœpit abíre post sordes.
+Os	5	12	Et ego quasi tínea Ephraim, et quasi putrédo dómui Iuda.
+Os	5	13	Et vidit Ephraim languórem suum, et Iuda vínculum suum ; et ábiit Ephraim ad Assur, et misit ad regem ultórem : et ipse non póterit sanáre vos, nec sólvere póterit a vobis vínculum.
+Os	5	14	Quóniam ego quasi leǽna Ephraim, et quasi cátulus leónis dómui Iuda. Ego, ego cápiam, et vadam ; tollam, et non est qui éruat.
+Os	5	15	Vadens revértar ad locum meum, donec deficiátis, et quærátis fáciem meam.
+Os	6	1	In tribulatióne sua mane consúrgent ad me : Veníte, et revertámur ad Dóminum,
+Os	6	2	quia ipse cepit, et sanábit nos ; percútiet, et curábit nos.
+Os	6	3	Vivificábit nos post duos dies ; in die tértia suscitábit nos, et vivémus in conspéctu eius. Sciémus, sequemúrque ut cognoscámus Dóminum : quasi dilúculum præparátus est egréssus eius, et véniet quasi imber nobis temporáneus et serótinus terræ.
+Os	6	4	Quid fáciam tibi, Ephraim ? quid fáciam tibi, Iuda ? misericórdia vestra quasi nubes matutína, et quasi ros mane pertránsiens.
+Os	6	5	Propter hoc dolávi in prophétis ; occídi eos in verbis oris mei : et iudícia tua quasi lux egrediéntur.
+Os	6	6	Quia misericórdiam vólui, et non sacrifícium ; et sciéntiam Dei plus quam holocáusta.
+Os	6	7	Ipsi autem sicut Adam transgréssi sunt pactum : ibi prævaricáti sunt in me.
+Os	6	8	Gálaad cívitas operántium idólum, supplantáta sánguine.
+Os	6	9	Et quasi fauces virórum latrónum, párticeps sacerdótum, in via interficiéntium pergéntes de Sichem : quia scelus operáti sunt.
+Os	6	10	In domo Israel vidi horréndum : ibi fornicatiónes Ephraim, contaminátus est Israel.
+Os	6	11	Sed et Iuda, pone messem tibi, cum convértero captivitátem pópuli mei.
+Os	7	1	Cum sanáre vellem Israel, reveláta est iníquitas Ephraim, et malítia Samaríæ, quia operáti sunt mendácium ; et fur ingréssus est spólians, latrúnculus foris.
+Os	7	2	Et ne forte dicant in córdibus suis, omnem malítiam eórum me recordátum, nunc circumdedérunt eos adinventiónes suæ : coram fácie mea factæ sunt.
+Os	7	3	In malítia sua lætificavérunt regem, et in mendáciis suis príncipes.
+Os	7	4	Omnes adulterántes, quasi clíbanus succénsus a coquénte ; quiévit páululum cívitas a commistióne ferménti, donec fermentarétur totum.
+Os	7	5	Dies regis nostri : cœpérunt príncipes fúrere a vino ; exténdit manum suam cum illusóribus.
+Os	7	6	Quia applicuérunt quasi clíbanum cor suum, cum insidiarétur eis ; tota nocte dormívit coquens eos : mane ipse succénsus quasi ignis flammæ.
+Os	7	7	Omnes calefácti sunt quasi clíbanus, et devoravérunt iúdices suos : omnes reges eórum cecidérunt ; non est qui clamat in eis ad me.
+Os	7	8	Ephraim in pópulis ipse commiscebátur ; Ephraim factus est subcinerícius panis, qui non reversátur.
+Os	7	9	Comedérunt aliéni robur eius, et ipse nescívit ; sed et cani effúsi sunt in eo, et ipse ignorávit.
+Os	7	10	Et humiliábitur supérbia Israel in fácie eius ; nec revérsi sunt ad Dóminum Deum suum, et non quæsiérunt eum in ómnibus his.
+Os	7	11	Et factus est Ephraim quasi colúmba sedúcta non habens cor. Ægýptum invocábant ; ad Assýrios abiérunt.
+Os	7	12	Et cum profécti fúerint, expándam super eos rete meum : quasi vólucrem cæli détraham eos ; cædam eos secúndum auditiónem cœtus eórum.
+Os	7	13	Væ eis, quóniam recessérunt a me ! vastabúntur, quia prævaricáti sunt in me, et ego redémi eos, et ipsi locúti sunt contra me mendácia.
+Os	7	14	Et non clamavérunt ad me in corde suo, sed ululábant in cubílibus suis : super tríticum et vinum ruminábant ; recessérunt a me.
+Os	7	15	Et ego erudívi eos, et confortávi bráchia eórum, et in me cogitavérunt malítiam.
+Os	7	16	Revérsi sunt ut essent absque iugo ; facti sunt quasi arcus dolósus : cadent in gládio príncipes eórum, a furóre linguæ suæ. Ista subsannátio eórum in terra Ægýpti.
+Os	8	1	In gútture tuo sit tuba quasi áquila super domum Dómini, pro eo quod transgréssi sunt fœdus meum, et legem meam prævaricáti sunt.
+Os	8	2	Me invocábunt : Deus meus, cognóvimus te Israel.
+Os	8	3	Proiécit Israel bonum : inimícus persequétur eum.
+Os	8	4	Ipsi regnavérunt, et non ex me ; príncipes exstitérunt, et non cognóvi : argéntum suum et aurum suum fecérunt sibi idóla, ut interírent.
+Os	8	5	Proiéctus est vítulus tuus, Samaría ; irátus est furor meus in eos. Usquequo non póterunt emundári ?
+Os	8	6	Quia ex Israel et ipse est : ártifex fecit illum, et non est deus ; quóniam in araneárum telas erit vítulus Samaríæ.
+Os	8	7	Quia ventum seminábunt, et túrbinem metent : culmus stans non est in eo ; germen non fáciet farínam : quod etsi fécerit, aliéni cómedent eam.
+Os	8	8	Devorátus est Israel ; nunc factus est in natiónibus quasi vas immúndum.
+Os	8	9	Quia ipsi ascendérunt ad Assur, ónager solitárius sibi ; Ephraim múnera dedérunt amatóribus.
+Os	8	10	Sed et cum mercéde condúxerint natiónes, nunc congregábo eos, et quiéscent paulísper ab ónere regis et príncipum.
+Os	8	11	Quia multiplicávit Ephraim altária ad peccándum ; factæ sunt ei aræ in delíctum.
+Os	8	12	Scribam ei multíplices leges meas, quæ velut aliénæ computátæ sunt.
+Os	8	13	Hóstias ófferent, immolábunt carnes et cómedent, et Dóminus non suscípiet eas : nunc recordábitur iniquitátis eórum, et visitábit peccáta eórum : ipsi in Ægýptum converténtur.
+Os	8	14	Et oblítus est Israel factóris sui, et ædificávit delúbra ; et Iudas multiplicávit urbes munítas ; et mittam ignem in civitátes eius, et devorábit ædes illíus.
+Os	9	1	Noli lætári, Israel ; noli exsultáre sicut pópuli : quia fornicátus es a Deo tuo ; dilexísti mercédem super omnes áreas trítici.
+Os	9	2	Area et tórcular non pascet eos, et vinum mentiétur eis :
+Os	9	3	non habitábunt in terra Dómini. Revérsus est Ephraim in Ægýptum, et in Assýriis pollútum comédit.
+Os	9	4	Non libábunt Dómino vinum, et non placébunt ei. Sacrifícia eórum quasi panis lugéntium ; omnes qui cómedent eum, contaminabúntur : quia panis eórum ánimæ ipsórum : non intrábit in domum Dómini.
+Os	9	5	Quid faciétis in die solémni, in die festivitátis Dómini ?
+Os	9	6	Ecce enim profécti sunt a vastitáte : Ægýptus congregábit eos ; Memphis sepéliet eos : desiderábile argéntum eórum urtíca hæreditábit, lappa in tabernáculis eórum.
+Os	9	7	Venérunt dies visitatiónis, venérunt dies retributiónis. Scitóte, Israel, stultum prophétam, insánum virum spirituálem, propter multitúdinem iniquitátis tuæ, et multitúdinem améntiæ.
+Os	9	8	Speculátor Ephraim cum Deo meo, prophéta láqueus ruínæ factus est super omnes vias eius ; insánia in domo Dei eius.
+Os	9	9	Profúnde peccavérunt, sicut in diébus Gábaa. Recordábitur iniquitátis eórum, et visitábit peccáta eórum.
+Os	9	10	Quasi uvas in desérto invéni Israel, quasi prima poma ficúlneæ in cacúmine eius vidi patres eórum : ipsi autem intravérunt ad Beélphegor, et abalienáti sunt in confusiónem, et facti sunt abominábiles sicut ea quæ dilexérunt.
+Os	9	11	Ephraim quasi avis avolávit ; glória eórum a partu, et ab útero, et a concéptu.
+Os	9	12	Quod etsi enutríerint fílios suos, absque líberis eos fáciam in homínibus ; sed et væ eis cum recéssero ab eis !
+Os	9	13	Ephraim, ut vidi, Tyrus erat fundáta in pulchritúdine ; et Ephraim edúcet ad interfectórem fílios suos.
+Os	9	14	Da eis, Dómine. Quid dabis eis ? da eis vulvam sine líberis et úbera aréntia.
+Os	9	15	Omnes nequítiæ eórum in Galgal, quia ibi exósos hábui eos. Propter malítiam adinventiónum eórum, de domo mea eíciam eos ; non addam ut díligam eos : omnes príncipes eórum recedéntes.
+Os	9	16	Percússus est Ephraim ; radix eórum exsiccáta est : fructum nequáquam fácient, quod etsi genúerint, interfíciam amantíssima úteri eórum.
+Os	9	17	Abíciet eos Deus meus, quia non audiérunt eum, et erunt vagi in natiónibus.
+Os	10	1	Vitis frondósa Israel, fructus adæquátus est ei : secúndum multitúdinem fructus sui multiplicávit altária, iuxta ubertátem terræ suæ exuberávit simulácris.
+Os	10	2	Divísum est cor eórum, nunc interíbunt ; ipse confrínget simulácra eórum, depopulábitur aras eórum.
+Os	10	3	Quia nunc dicent : Non est rex nobis, non enim timémus Dóminum ; et rex quid fáciet nobis ?
+Os	10	4	Loquímini verba visiónis inútilis, et feriétis fœdus ; et germinábit quasi amaritúdo iudícium super sulcos agri.
+Os	10	5	Vaccas Betháven coluérunt habitatóres Samaríæ ; quia luxit super eum pópulus eius, et ædítui eius super eum exsultavérunt in glória eius, quia migrávit ab eo.
+Os	10	6	Síquidem et ipse in Assur delátus est, munus regi ultóri. Confúsio Ephraim cápiet, et confundétur Israel in voluntáte sua.
+Os	10	7	Transíre fecit Samaría regem suum quasi spumam super fáciem aquæ.
+Os	10	8	Et disperdéntur excélsa idóli, peccátum Israel ; lappa et tríbulus ascéndet super aras eórum : et dicent móntibus : Operíte nos, et cóllibus : Cádite super nos.
+Os	10	9	Ex diébus Gábaa peccávit Israel ; ibi stetérunt. Non comprehéndet eos in Gábaa prǽlium super fílios iniquitátis.
+Os	10	10	Iuxta desidérium meum corrípiam eos : congregabúntur super eos pópuli, cum corripiéntur propter duas iniquitátes suas.
+Os	10	11	Ephraim vítula docta dilígere tritúram, et ego transívi super pulchritúdinem colli eius : ascéndam super Ephraim, arábit Iudas ; confrínget sibi sulcos Iacob.
+Os	10	12	Semináte vobis in iustítia, et métite in ore misericórdiæ. Innováte vobis novále ; tempus autem requiréndi Dóminum, cum vénerit qui docébit vos iustítiam.
+Os	10	13	Arástis impietátem, iniquitátem messuístis : comedístis frugem mendácii, quia confísus es in viis tuis, in multitúdine fórtium tuórum.
+Os	10	14	Consúrget tumúltus in pópulo tuo ; et omnes munitiónes tuæ vastabúntur, sicut vastátus est Sálmana a domo eius qui iudicávit Baal in die prǽlii, matre super fílios allísa.
+Os	10	15	Sic fecit vobis Bethel, a fácie malítiæ nequitiárum vestrárum.
+Os	11	1	Sicut mane tránsiit, pertránsiit rex Israel. Quia puer Israel, et diléxi eum ; et ex Ægýpto vocávi fílium meum.
+Os	11	2	Vocavérunt eos, sic abiérunt a fácie eórum ; Báalim immolábant, et simulácris sacrificábant.
+Os	11	3	Et ego quasi nutrítius Ephraim : portábam eos in bráchiis meis, et nesciérunt quod curárem eos.
+Os	11	4	In funículis Adam traham eos, in vínculis caritátis ; et ero eis quasi exáltans iugum super maxíllas eórum, et declinávi ad eum ut vescerétur.
+Os	11	5	Non revertétur in terram Ægýpti, et Assur ipse rex eius, quóniam noluérunt convérti.
+Os	11	6	Cœpit gládius in civitátibus eius, et consúmet eléctos eius, et cómedet cápita eórum.
+Os	11	7	Et pópulus meus pendébit ad réditum meum ; iugum autem imponétur eis simul, quod non auferétur.
+Os	11	8	Quómodo dabo te, Ephraim ? prótegam te, Israel ? Quómodo dabo te sicut Adama, ponam te ut Séboim ? Convérsum est in me cor meum, páriter conturbáta est pœnitúdo mea.
+Os	11	9	Non fáciam furórem iræ meæ ; non convértar ut dispérdam Ephraim, quóniam Deus ego, et non homo ; in médio tui sanctus, et non ingrédiar civitátem.
+Os	11	10	Post Dóminum ambulábunt ; quasi leo rúgiet, quia ipse rúgiet, et formidábunt fílii maris.
+Os	11	11	Et avolábunt quasi avis ex Ægýpto, et quasi colúmba de terra Assyriórum : et collocábo eos in dómibus suis, dicit Dóminus.
+Os	11	12	Circúmdedit me in negatióne Ephraim, et in dolo domus Israel ; Iudas autem testis descéndit cum Deo, et cum sanctis fidélis.
+Os	12	1	Ephraim pascit ventum, et séquitur æstum ; tota die mendácium et vastitátem multíplicat : et fœdus cum Assýriis íniit, et óleum in Ægýptum ferébat.
+Os	12	2	Iudícium ergo Dómini cum Iuda, et visitátio super Iacob : iuxta vias eius, et iuxta adinventiónes eius reddet ei.
+Os	12	3	In útero supplantávit fratrem suum, et in fortitúdine sua diréctus est cum ángelo.
+Os	12	4	Et inváluit ad ángelum, et confortátus est ; flevit, et rogávit eum. In Bethel invénit eum, et ibi locútus est nobíscum.
+Os	12	5	Et Dóminus Deus exercítuum, Dóminus memoriále eius.
+Os	12	6	Et tu ad Deum tuum convertéris ; misericórdiam et iudícium custódi, et spera in Deo tuo semper.
+Os	12	7	Chánaan, in manu eius statéra dolósa, calúmniam diléxit.
+Os	12	8	Et dixit Ephraim : Verúmtamen dives efféctus sum ; invéni idólum mihi : omnes labóres mei non invénient mihi iniquitátem quam peccávi.
+Os	12	9	Et ego Dóminus Deus tuus ex terra Ægýpti : adhuc sedére te fáciam in tabernáculis, sicut in diébus festivitátis.
+Os	12	10	Et locútus sum super prophétas, et ego visiónem multiplicávi, et in manu prophetárum assimilátus sum.
+Os	12	11	Si Gálaad idólum, ergo frustra erant in Galgal bobus immolántes ; nam et altária eórum quasi acérvi super sulcos agri.
+Os	12	12	Fugit Iacob in regiónem Sýriæ, et servívit Israel in uxórem, et in uxórem servávit.
+Os	12	13	In prophéta autem edúxit Dóminus Israel de Ægýpto, et in prophéta servátus est.
+Os	12	14	Ad iracúndiam me provocávit Ephraim in amaritudínibus suis : et sanguis eius super eum véniet, et oppróbrium eius restítuet ei Dóminus suus.
+Os	13	1	Loquénte Ephraim, horror invásit Israel ; et delíquit in Baal, et mórtuus est.
+Os	13	2	Et nunc addidérunt ad peccándum ; fecerúntque sibi conflátile de argénto suo quasi similitúdinem idolórum : factúra artíficum totum est : his ipsi dicunt : Immoláte hómines, vítulos adorántes.
+Os	13	3	Idcírco erunt quasi nubes matutína, et sicut ros matutínus prætériens ; sicut pulvis túrbine raptus ex área, et sicut fumus de fumário.
+Os	13	4	Ego autem Dóminus Deus tuus, ex terra Ægýpti ; et Deum absque me néscies, et salvátor non est præter me.
+Os	13	5	Ego cognóvi te in desérto, in terra solitúdinis.
+Os	13	6	Iuxta páscua sua adimpléti sunt et saturáti sunt ; et levavérunt cor suum, et oblíti sunt mei.
+Os	13	7	Et ego ero eis quasi leǽna, sicut pardus in via Assyriórum.
+Os	13	8	Occúrram eis quasi ursa raptis cátulis, et dirúmpam interióra iécoris eórum, et consúmam eos ibi quasi leo : béstia agri scindet eos.
+Os	13	9	Perdítio tua, Israel : tantúmmodo in me auxílium tuum.
+Os	13	10	Ubi est rex tuus ? máxime nunc salvet te in ómnibus úrbibus tuis ; et iúdices tui, de quibus dixísti : Da mihi regem et príncipes.
+Os	13	11	Dabo tibi regem in furóre meo, et áuferam in indignatióne mea.
+Os	13	12	Colligáta est iníquitas Ephraim ; abscónditum peccátum eius.
+Os	13	13	Dolóres parturiéntis vénient ei : ipse fílius non sápiens : nunc enim non stabit in contritióne filiórum.
+Os	13	14	De manu mortis liberábo eos ; de morte rédimam eos. Ero mors tua, o mors ! morsus tuus ero, inférne ! consolátio abscóndita est ab óculis meis.
+Os	13	15	Quia ipse inter fratres dívidet : addúcet uréntem ventum Dóminus de desérto ascendéntem, et siccábit venas eius, et desolábit fontem eius : et ipse dirípiet thesáurum omnis vasis desiderábilis.
+Os	14	1	Péreat Samaría, quóniam ad amaritúdinem concitávit Deum suum ! in gládio péreant, párvuli eórum elidántur, et fœtæ eius discindántur !
+Os	14	2	Convértere, Israel, ad Dóminum Deum tuum, quóniam corruísti in iniquitáte tua.
+Os	14	3	Tóllite vobíscum verba, et convertímini ad Dóminum ; et dícite ei : Omnem aufer iniquitátem, áccipe bonum, et reddémus vítulos labiórum nostrórum.
+Os	14	4	Assur non salvábit nos : super equum non ascendémus, nec dicémus ultra, Dii nostri ópera mánuum nostrárum : quia eius, qui in te est, miseréberis pupílli.
+Os	14	5	Sanábo contritiónes eórum ; díligam eos spontánee : quia avérsus est furor meus ab eis.
+Os	14	6	Ero quasi ros ; Israel germinábit sicut lílium, et erúmpet radix eius ut Líbani.
+Os	14	7	Ibunt rami eius, et erit quasi olíva glória eius, et odor eius ut Líbani.
+Os	14	8	Converténtur sedéntes in umbra eius ; vivent trítico, et germinábunt quasi vínea ; memoriále eius sicut vinum Líbani.
+Os	14	9	Ephraim, quid mihi ultra idóla ? Ego exáudiam, et dírigam eum ego ut abiétem viréntem ; ex me fructus tuus invéntus est.
+Os	14	10	Quis sápiens, et intélliget ista ? intélligens, et sciet hæc ? quia rectæ viæ Dómini, et iusti ambulábunt in eis ; prævaricatóres vero córruent in eis.
 Mt	1	1	Liber generatiónis Iesu Christi fílii David, fílii Abraham.
 Mt	1	2	Abraham génuit Isaac. Isaac autem génuit Iacob. Iacob autem génuit Iudam, et fratres eius.
 Mt	1	3	Iudas autem génuit Phares, et Zaram de Thamar. Phares autem génuit Esron. Esron autem génuit Aram.
