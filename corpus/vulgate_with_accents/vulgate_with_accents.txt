@@ -13394,6 +13394,399 @@ Os	14	7	Ibunt rami eius, et erit quasi olíva glória eius, et odor eius ut Líb
 Os	14	8	Converténtur sedéntes in umbra eius ; vivent trítico, et germinábunt quasi vínea ; memoriále eius sicut vinum Líbani.
 Os	14	9	Ephraim, quid mihi ultra idóla ? Ego exáudiam, et dírigam eum ego ut abiétem viréntem ; ex me fructus tuus invéntus est.
 Os	14	10	Quis sápiens, et intélliget ista ? intélligens, et sciet hæc ? quia rectæ viæ Dómini, et iusti ambulábunt in eis ; prævaricatóres vero córruent in eis.
+Jl	1	1	Verbum Dómini, quod factum est ad Ioel, fílium Phátuel.
+Jl	1	2	Audíte hoc, senes, et áuribus percípite, omnes habitatóres terræ : si factum est istud in diébus vestris, aut in diébus patrum vestrórum ?
+Jl	1	3	Super hoc fíliis vestris narráte, et fílii vestri fíliis suis, et fílii eórum generatióni álteræ.
+Jl	1	4	Resíduum erúcæ comédit locústa, et resíduum locústæ comédit bruchus, et resíduum bruchi comédit rubígo.
+Jl	1	5	Expergiscímini, ébrii, et flete et ululáte, omnes qui bíbitis vinum in dulcédine, quóniam périit ab ore vestro.
+Jl	1	6	Gens enim ascéndit super terram meam, fortis et innumerábilis : dentes eius ut dentes leónis, et moláres eius ut cátuli leónis.
+Jl	1	7	Pósuit víneam meam in desértum, et ficum meam decorticávit ; nudans spoliávit eam, et proiécit : albi facti sunt rami eius.
+Jl	1	8	Plange quasi virgo accíncta sacco super virum pubertátis suæ.
+Jl	1	9	Périit sacrifícium et libátio de domo Dómini ; luxérunt sacerdótes, minístri Dómini.
+Jl	1	10	Depopuláta est régio, luxit humus, quóniam devastátum est tríticum, confúsum est vinum, elánguit óleum.
+Jl	1	11	Confúsi sunt agrícolæ, ululavérunt vinitóres super fruménto et hórdeo, quia périit messis agri.
+Jl	1	12	Vínea confúsa est, et ficus elánguit ; malogranátum, et palma, et malum, et ómnia ligna agri aruérunt, quia confúsum est gáudium a fíliis hóminum.
+Jl	1	13	Accíngite vos, et plángite, sacerdótes : ululáte, minístri altáris ; ingredímini, cubáte in sacco, minístri Dei mei, quóniam intériit de domo Dei vestri sacrifícium et libátio.
+Jl	1	14	Sanctificáte ieiúnium, vocáte cœtum, congregáte senes, omnes habitatóres terræ in domum Dei vestri, et clamáte ad Dóminum :
+Jl	1	15	A, a, a, diéi ! quia prope est dies Dómini, et quasi vástitas a poténte véniet.
+Jl	1	16	Numquid non coram óculis vestris aliménta periérunt de domo Dei nostri, lætítia et exsultátio ?
+Jl	1	17	Computruérunt iuménta in stércore suo, demolíta sunt hórrea, dissipátæ sunt apothécæ, quóniam confúsum est tríticum.
+Jl	1	18	Quid ingémuit ánimal, mugiérunt greges arménti ? quia non est páscua eis ; sed et greges pécorum disperiérunt.
+Jl	1	19	Ad te, Dómine, clamábo, quia ignis comédit speciósa desérti, et flamma succéndit ómnia ligna regiónis.
+Jl	1	20	Sed et béstiæ agri, quasi área sítiens imbrem, suspexérunt ad te, quóniam exsiccáti sunt fontes aquárum, et ignis devorávit speciósa desérti.
+Jl	2	1	Cánite tuba in Sion, ululáte in monte sancto meo, conturbéntur omnes habitatóres terræ : quia venit dies Dómini, quia prope est.
+Jl	2	2	Dies tenebrárum et calíginis, dies nubis et túrbinis ; quasi mane expánsum super montes pópulus multus et fortis : símilis ei non fuit a princípio, et post eum non erit usque in annos generatiónis et generatiónis.
+Jl	2	3	Ante fáciem eius ignis vorans, et post eum exúrens flamma. Quasi hortus voluptátis terra coram eo, et post eum solitúdo desérti, neque est qui effúgiat eum.
+Jl	2	4	Quasi aspéctus equórum, aspéctus eórum ; et quasi équites, sic current.
+Jl	2	5	Sicut sónitus quadrigárum super cápita móntium exílient, sicut sónitus flammæ ignis devorántis stípulam, velut pópulus fortis præparátus ad prǽlium.
+Jl	2	6	A fácie eius cruciabúntur pópuli ; omnes vultus redigéntur in ollam.
+Jl	2	7	Sicut fortes current ; quasi viri bellatóres ascéndent murum : viri in viis suis gradiéntur, et non declinábunt a sémitis suis.
+Jl	2	8	Unusquísque fratrem suum non coarctábit, sínguli in calle suo ambulábunt ; sed et per fenéstras cadent, et non demoliéntur.
+Jl	2	9	Urbem ingrediéntur, in muro current, domos conscéndent, per fenéstras intrábunt quasi fur.
+Jl	2	10	A fácie eius contrémuit terra, moti sunt cæli, sol et luna obtenebráti sunt, et stellæ retraxérunt splendórem suum.
+Jl	2	11	Et Dóminus dedit vocem suam ante fáciem exércitus sui, quia multa sunt nimis castra eius, quia fórtia et faciéntia verbum eius : magnus enim dies Dómini, et terríbilis valde, et quis sustinébit eum ?
+Jl	2	12	Nunc ergo, dicit Dóminus, convertímini ad me in toto corde vestro, in ieiúnio, et in fletu, et in planctu.
+Jl	2	13	Et scíndite corda vestra, et non vestiménta vestra ; et convertímini ad Dóminum Deum vestrum, quia benígnus et miséricors est, pátiens et multæ misericórdiæ, et præstábilis super malítia.
+Jl	2	14	Quis scit si convertátur, et ignóscat, et relínquat post se benedictiónem, sacrifícium et libámen Dómino Deo vestro ?
+Jl	2	15	Cánite tuba in Sion, sanctificáte ieiúnium, vocáte cœtum :
+Jl	2	16	congregáte pópulum, sanctificáte ecclésiam, coadunáte senes, congregáte párvulos, et sugéntes úbera ; egrediátur sponsus de cubíli suo, et sponsa de thálamo suo.
+Jl	2	17	Inter vestíbulum et altáre plorábunt sacerdótes, minístri Dómini, et dicent : Parce, Dómine, parce pópulo tuo ; et ne des hæreditátem tuam in oppróbrium, ut dominéntur eis natiónes. Quare dicunt in pópulis : Ubi est Deus eórum ?
+Jl	2	18	Zelátus est Dóminus terram suam, et pepércit pópulo suo.
+Jl	2	19	Et respóndit Dóminus, et dixit pópulo suo : Ecce ego mittam vobis fruméntum, et vinum, et óleum, et replebímini eis ; et non dabo vos ultra oppróbrium in géntibus.
+Jl	2	20	Et eum qui ab aquilóne est procul fáciam a vobis, et expéllam eum in terram ínviam et desértam : fáciem eius contra mare orientále, et extrémum eius ad mare novíssimum : et ascéndet fœtor eius, et ascéndet putrédo eius, quia supérbe egit.
+Jl	2	21	Noli timére, terra : exsúlta, et lætáre, quóniam magnificávit Dóminus ut fáceret.
+Jl	2	22	Nolíte timére, animália regiónis, quia germinavérunt speciósa desérti ; quia lignum áttulit fructum suum, ficus et vínea dedérunt virtútem suam.
+Jl	2	23	Et, fílii Sion, exsultáte, et lætámini in Dómino Deo vestro, quia dedit vobis doctórem iustítiæ, et descéndere fáciet ad vos imbrem matutínum et serótinum, sicut in princípio.
+Jl	2	24	Et implebúntur áreæ fruménto, et redundábunt torculária vino et óleo.
+Jl	2	25	Et reddam vobis annos, quos comédit locústa, bruchus, et rubígo, et erúca : fortitúdo mea magna quam misi in vos.
+Jl	2	26	Et comedétis vescéntes, et saturabímini ; et laudábitis nomen Dómini Dei vestri, qui fecit mirabília vobíscum ; et non confundétur pópulus meus in sempitérnum.
+Jl	2	27	Et sciétis quia in médio Israel ego sum, et ego Dóminus Deus vester, et non est ámplius ; et non confundétur pópulus meus in ætérnum.
+Jl	2	28	Et erit post hæc : effúndam spíritum meum super omnem carnem, et prophetábunt fílii vestri et fíliæ vestræ : senes vestri sómnia somniábunt, et iúvenes vestri visiónes vidébunt.
+Jl	2	29	Sed et super servos meos et ancíllas in diébus illis effúndam spíritum meum.
+Jl	2	30	Et dabo prodígia in cælo et in terra, sánguinem, et ignem, et vapórem fumi.
+Jl	2	31	Sol convertétur in ténebras, et luna in sánguinem, ántequam véniat dies Dómini magnus et horríbilis.
+Jl	2	32	Et erit : omnis qui invocáverit nomen Dómini, salvus erit : quia in monte Sion et in Ierúsalem erit salvátio, sicut dixit Dóminus, et in resíduis quos Dóminus vocáverit.
+Jl	3	1	Quia ecce in diébus illis, et in témpore illo, cum convértero captivitátem Iuda et Ierúsalem,
+Jl	3	2	congregábo omnes gentes, et dedúcam eas in vallem Iósaphat ; et disceptábo cum eis ibi super pópulo meo, et hæreditáte mea Israel, quos dispersérunt in natiónibus, et terram meam divisérunt.
+Jl	3	3	Et super pópulum meum misérunt sortem ; et posuérunt púerum in prostíbulo, et puéllam vendidérunt pro vino ut bíberent.
+Jl	3	4	Verum quid mihi et vobis, Tyrus et Sidon, et omnis términus Palæstinórum ? numquid ultiónem vos reddétis mihi ? et si ulciscímini vos contra me, cito velóciter reddam vicissitúdinem vobis super caput vestrum.
+Jl	3	5	Argéntum enim meum et aurum tulístis, et desiderabília mea et pulchérrima intulístis in delúbra vestra.
+Jl	3	6	Et fílios Iuda et fílios Ierúsalem vendidístis fíliis Græcórum, ut longe facerétis eos de fínibus suis.
+Jl	3	7	Ecce ego suscitábo eos de loco in quo vendidístis eos, et convértam retributiónem vestram in caput vestrum.
+Jl	3	8	Et vendam fílios vestros et fílias vestras in mánibus filiórum Iuda, et venundábunt eos Sabǽis, genti longínquæ, quia Dóminus locútus est.
+Jl	3	9	Clamáte hoc in géntibus, sanctificáte bellum, suscitáte robústos : accédant, ascéndant omnes viri bellatóres.
+Jl	3	10	Concídite arátra vestra in gládios, et ligónes vestros in lánceas. Infírmus dicat : Quia fortis ego sum.
+Jl	3	11	Erúmpite, et veníte, omnes gentes de circúitu, et congregámini ; ibi occúmbere fáciet Dóminus robústos tuos.
+Jl	3	12	Consúrgant, et ascéndant gentes in vallem Iósaphat, quia ibi sedébo ut iúdicem omnes gentes in circúitu.
+Jl	3	13	Míttite falces, quóniam maturávit messis ; veníte, et descéndite, quia plenum est tórcular, exúberant torculária : quia multiplicáta est malítia eórum.
+Jl	3	14	Pópuli, pópuli, in valle concisiónis, quia iuxta est dies Dómini in valle concisiónis.
+Jl	3	15	Sol et luna obtenebráti sunt, et stellæ retraxérunt splendórem suum.
+Jl	3	16	Et Dóminus de Sion rúgiet, et de Ierúsalem dabit vocem suam, et movebúntur cæli et terra ; et Dóminus spes pópuli sui, et fortitúdo filiórum Israel.
+Jl	3	17	Et sciétis quia ego Dóminus Deus vester, hábitans in Sion monte sancto meo ; et erit Ierúsalem sancta, et aliéni non transíbunt per eam ámplius.
+Jl	3	18	Et erit in die illa : stillábunt montes dulcédinem, et colles fluent lacte, et per omnes rivos Iuda ibunt aquæ ; et fons de domo Dómini egrediétur, et irrigábit torréntem spinárum.
+Jl	3	19	Ægýptus in desolatiónem erit, et Idumǽa in desértum perditiónis, pro eo quod iníque égerint in fílios Iuda, et effúderint sánguinem innocéntem in terra sua.
+Jl	3	20	Et Iudǽa in ætérnum habitábitur, et Ierúsalem in generatiónem et generatiónem.
+Jl	3	21	Et mundábo sánguinem eórum, quem non mundáveram ; et Dóminus commorábitur in Sion.
+Am	1	1	Verba Amos, qui fuit in pastóribus de Thécue, quæ vidit super Israel in diébus Ozíæ, regis Iuda, et in diébus Ieróboam, fílii Ioas, regis Israel, ante duos annos terræmótus.
+Am	1	2	Et dixit : Dóminus de Sion rúgiet, et de Ierúsalem dabit vocem suam ; et luxérunt speciósa pastórum, et exsiccátus est vertex Carméli.
+Am	1	3	Hæc dicit Dóminus : Super tribus sceléribus Damásci, et super quátuor non convértam eum, eo quod trituráverint in plaustris férreis Gálaad.
+Am	1	4	Et mittam ignem in domum Azæl, et devorábit domos Bénadad.
+Am	1	5	Et cónteram vectem Damásci : et dispérdam habitatórem de campo idóli, et tenéntem sceptrum de domo voluptátis : et transferétur pópulus Sýriæ Cyrénen, dicit Dóminus.
+Am	1	6	Hæc dicit Dóminus : Super tribus sceléribus Gazæ, et super quátuor non convértam eum, eo quod transtúlerint captivitátem perféctam, ut conclúderent eam in Idumǽa.
+Am	1	7	Et mittam ignem in murum Gazæ, et devorábit ædes eius.
+Am	1	8	Et dispérdam habitatórem de Azóto, et tenéntem sceptrum de Ascalóne : et convértam manum meam super Accaron, et períbunt réliqui Philisthinórum, dicit Dóminus Deus.
+Am	1	9	Hæc dicit Dóminus : Super tribus sceléribus Tyri, et super quátuor non convértam eum, eo quod conclúserint captivitátem perféctam in Idumǽa, et non sint recordáti fœ́deris fratrum.
+Am	1	10	Et mittam ignem in murum Tyri, et devorábit ædes eius.
+Am	1	11	Hæc dicit Dóminus : Super tribus sceléribus Edom, et super quátuor non convértam eum, eo quod persecútus sit in gládio fratrem suum, et violáverit misericórdiam eius, et tenúerit ultra furórem suum, et indignatiónem suam serváverit usque in finem.
+Am	1	12	Mittam ignem in Theman, et devorábit ædes Bosræ.
+Am	1	13	Hæc dicit Dóminus : Super tribus sceléribus filiórum Ammon, et super quátuor non convértam eum, eo quod dissecúerit prægnántes Gálaad ad dilatándum términum suum.
+Am	1	14	Et succéndam ignem in muro Rabba, et devorábit ædes eius in ululátu in die belli, et in túrbine in die commotiónis.
+Am	1	15	Et ibit Melchom in captivitátem, ipse et príncipes eius simul, dicit Dóminus.
+Am	2	1	Hæc dicit Dóminus : Super tribus sceléribus Moab, et super quátuor non convértam eum, eo quod incénderit ossa regis Idumǽæ usque ad cínerem.
+Am	2	2	Et mittam ignem in Moab, et devorábit ædes Carioth : et moriétur in sónitu Moab, in clangóre tubæ.
+Am	2	3	Et dispérdam iúdicem de médio eius, et omnes príncipes eius interfíciam cum eo, dicit Dóminus.
+Am	2	4	Hæc dicit Dóminus : Super tribus sceléribus Iuda, et super quátuor non convértam eum, eo quod abiécerit legem Dómini et mandáta eius non custodíerit : decéperant enim eos idóla sua, post quæ abíerant patres eórum.
+Am	2	5	Et mittam ignem in Iuda, et devorábit ædes Ierúsalem.
+Am	2	6	Hæc dicit Dóminus : Super tribus sceléribus Israel, et super quátuor non convértam eum, pro eo quod vendíderit pro argénto iustum, et páuperem pro calceaméntis.
+Am	2	7	Qui cónterunt super púlverem terræ cápita páuperum, et viam humílium declínant : et fílius ac pater eius iérunt ad puéllam, ut violárent nomen sanctum meum.
+Am	2	8	Et super vestiméntis pignorátis accubuérunt iuxta omne altáre, et vinum damnatórum bibébant in domo Dei sui.
+Am	2	9	Ego autem exterminávi Amorrhǽum a fácie eórum, cuius altitúdo, cedrórum altitúdo eius, et fortis ipse quasi quercus ; et contrívi fructum eius désuper, et radíces eius subter.
+Am	2	10	Ego sum qui ascéndere vos feci de terra Ægýpti, et duxi vos in desérto quadragínta annis, ut possiderétis terram Amorrhǽi.
+Am	2	11	Et suscitávi de fíliis vestris in prophétas, et de iuvénibus vestris Nazarǽos. Numquid non ita est, fílii Israel ? dicit Dóminus.
+Am	2	12	Et propinábitis Nazarǽis vinum, et prophétis mandábitis, dicéntes : Ne prophetétis.
+Am	2	13	Ecce ego stridébo subter vos, sicut stridet plaustrum onústum fœno.
+Am	2	14	Et períbit fuga a velóce, et fortis non obtinébit virtútem suam, et robústus non salvábit ánimam suam :
+Am	2	15	et tenens arcum non stabit, et velox pédibus suis non salvábitur, et ascénsor equi non salvábit ánimam suam :
+Am	2	16	et robústus corde inter fortes nudus fúgiet in illa die, dicit Dóminus.
+Am	3	1	Audíte verbum quod locútus est Dóminus super vos, fílii Israel, super omnem cognatiónem quam edúxi de terra Ægýpti, dicens :
+Am	3	2	Tantúmmodo vos cognóvi ex ómnibus cognatiónibus terræ ; idcírco visitábo super vos omnes iniquitátes vestras.
+Am	3	3	Numquid ambulábunt duo páriter, nisi convénerit eis ?
+Am	3	4	numquid rúgiet leo in saltu, nisi habúerit prædam ? numquid dabit cátulus leónis vocem de cubíli suo, nisi áliquid apprehénderit ?
+Am	3	5	numquid cadet avis in láqueum terræ absque áucupe ? numquid auferétur láqueus de terra ántequam quid céperit ?
+Am	3	6	si clanget tuba in civitáte, et pópulus non expavéscet ? si erit malum in civitáte, quod Dóminus non fécerit ?
+Am	3	7	Quia non facit Dóminus Deus verbum, nisi reveláverit secrétum suum ad servos suos prophétas.
+Am	3	8	Leo rúgiet, quis non timébit ? Dóminus Deus locútus est, quis non prophetábit ?
+Am	3	9	Audítum fácite in ǽdibus Azóti, et in ǽdibus terræ Ægýpti, et dícite : Congregámini super montes Samaríæ, et vidéte insánias multas in médio eius, et calúmniam patiéntes in penetrálibus eius.
+Am	3	10	Et nesciérunt fácere rectum, dicit Dóminus, thesaurizántes iniquitátem et rapínas in ǽdibus suis.
+Am	3	11	Proptérea hæc dicit Dóminus Deus : Tribulábitur et circuiétur terra : et detrahétur ex te fortitúdo tua, et diripiéntur ædes tuæ.
+Am	3	12	Hæc dicit Dóminus : Quómodo si éruat pastor de ore leónis duo crura, aut extrémum aurículæ, sic eruéntur fílii Israel, qui hábitant in Samaría in plaga léctuli, et in Damásci grabáto.
+Am	3	13	Audíte, et contestámini in domo Iacob, dicit Dóminus Deus exercítuum ;
+Am	3	14	quia in die cum visitáre cœ́pero prævaricatiónes Israel, super eum visitábo, et super altária Bethel ; et amputabúntur córnua altáris, et cadent in terram.
+Am	3	15	Et percútiam domum hiemálem cum domo æstíva, et períbunt domus ebúrneæ, et dissipabúntur ædes multæ, dicit Dóminus.
+Am	4	1	Audíte verbum hoc, vaccæ pingues, quæ estis in monte Samaríæ, quæ calúmniam fácitis egénis et confríngitis páuperes ; quæ dícitis dóminis vestris : Afférte, et bibémus.
+Am	4	2	Iurávit Dóminus Deus in sancto suo, quia ecce dies vénient super vos, et levábunt vos in contis, et relíquias vestras in ollis fervéntibus.
+Am	4	3	Et per apertúras exíbitis áltera contra álteram, et proiciémini in Armon, dicit Dóminus.
+Am	4	4	Veníte ad Bethel, et ímpie ágite ; ad Gálgalam, et multiplicáte prævaricatiónem : et afférte mane víctimas vestras, tribus diébus décimas vestras.
+Am	4	5	Et sacrificáte de fermentáto laudem, et vocáte voluntárias oblatiónes, et annuntiáte ; sic enim voluístis, fílii Israel, dicit Dóminus Deus.
+Am	4	6	Unde et ego dedi vobis stupórem déntium in cunctis úrbibus vestris, et indigéntiam panum in ómnibus locis vestris ; et non estis revérsi ad me, dicit Dóminus.
+Am	4	7	Ego quoque prohíbui a vobis imbrem, cum adhuc tres menses superéssent usque ad messem : et plui super unam civitátem, et super álteram civitátem non plui ; pars una complúta est, et pars super quam non plui, áruit.
+Am	4	8	Et venérunt duæ et tres civitátes ad unam civitátem ut bíberent aquam, et non sunt satiátæ ; et non redístis ad me, dicit Dóminus.
+Am	4	9	Percússi vos in vento urénte, et in aurúgine : multitúdinem hortórum vestrórum et vineárum vestrárum, olivéta vestra et ficéta vestra comédit erúca : et non redístis ad me, dicit Dóminus.
+Am	4	10	Misi in vos mortem in via Ægýpti ; percússi in gládio iúvenes vestros, usque ad captivitátem equórum vestrórum, et ascéndere feci putrédinem castrórum vestrórum in nares vestras : et non redístis ad me, dicit Dóminus.
+Am	4	11	Subvérti vos sicut subvértit Deus Sódomam et Gomórrham, et facti estis quasi torris raptus ab incéndio : et non redístis ad me, dicit Dóminus.
+Am	4	12	Quaprópter hæc fáciam tibi, Israel : postquam autem hæc fécero tibi, præparáre in occúrsum Dei tui, Israel.
+Am	4	13	Quia ecce formans montes, et creans ventum, et annúntians hómini elóquium suum, fáciens matutínam nébulam, et grádiens super excélsa terræ : Dóminus Deus exercítuum nomen eius.
+Am	5	1	Audíte verbum istud, quod ego levo super vos planctum : domus Israel cécidit, et non adíciet ut resúrgat.
+Am	5	2	Virgo Israel proiécta est in terram suam, non est qui súscitet eam.
+Am	5	3	Quia hæc dicit Dóminus Deus : Urbs de qua egrediebántur mille, relinquéntur in ea centum ; et de qua egrediebántur centum, relinquéntur in ea decem in domo Israel.
+Am	5	4	Quia hæc dicit Dóminus dómui Israel : Quǽrite me, et vivétis.
+Am	5	5	Et nolíte quǽrere Bethel, et in Gálgalam nolíte intráre, et in Bersabée non transíbitis, quia Gálgala captíva ducétur, et Bethel erit inútilis.
+Am	5	6	Quǽrite Dóminum, et vívite (ne forte comburátur ut ignis domus Ioseph, et devorábit, et non erit qui extínguat Bethel :
+Am	5	7	qui convértitis in absínthium iudícium, et iustítiam in terra relínquitis) :
+Am	5	8	faciéntem Arctúrum et Oriónem, et converténtem in mane ténebras, et diem in noctem mutántem ; qui vocat aquas maris, et effúndit eas super fáciem terræ ; Dóminus nomen est eius :
+Am	5	9	qui subrídet vastitátem super robústum, et depopulatiónem super poténtem affert.
+Am	5	10	Odio habuérunt corripiéntem in porta, et loquéntem perfécte abomináti sunt.
+Am	5	11	Idcírco, pro eo quod diripiebátis páuperem, et prædam eléctam tollebátis ab eo, domos quadro lápide ædificábitis, et non habitábitis in eis ; víneas plantábis amantíssimas, et non bibétis vinum eárum.
+Am	5	12	Quia cognóvi multa scélera vestra, et fórtia peccáta vestra : hostes iusti, accipiéntes munus, et páuperes depriméntes in porta.
+Am	5	13	Ideo prudens in témpore illo tacébit, quia tempus malum est.
+Am	5	14	Quǽrite bonum, et non malum, ut vivátis ; et erit Dóminus Deus exercítuum vobíscum, sicut dixístis.
+Am	5	15	Odíte malum et dilígite bonum, et constitúite in porta iudícium : si forte misereátur Dóminus Deus exercítuum relíquiis Ioseph.
+Am	5	16	Proptérea hæc dicit Dóminus Deus exercítuum, dominátor : In ómnibus platéis planctus ; et in cunctis quæ foris sunt, dicétur : Væ, væ ! et vocábunt agrícolam ad luctum, et ad planctum eos qui sciunt plángere.
+Am	5	17	Et in ómnibus víneis erit planctus, quia pertransíbo in médio tui, dicit Dóminus.
+Am	5	18	Væ desiderántibus diem Dómini ! ad quid eam vobis ? Dies Dómini ista, ténebræ, et non lux.
+Am	5	19	Quómodo si fúgiat vir a fácie leónis, et occúrrat ei ursus ; et ingrediátur domum, et innitátur manu sua super paríetem, et mórdeat eum cóluber.
+Am	5	20	Numquid non ténebræ dies Dómini, et non lux ; et calígo, et non splendor in ea ?
+Am	5	21	Odi, et proiéci festivitátes vestras, et non cápiam odórem cœ́tuum vestrórum.
+Am	5	22	Quod si obtuléritis mihi holocautómata, et múnera vestra, non suscípiam ; et vota pínguium vestrórum non respíciam.
+Am	5	23	Aufer a me tumúltum cárminum tuórum ; et cántica lyræ tuæ non áudiam.
+Am	5	24	Et revelábitur quasi aqua iudícium, et iustítia quasi torrens fortis.
+Am	5	25	Numquid hóstias et sacrifícium obtulístis mihi in desérto quadragínta annis, domus Israel ?
+Am	5	26	et portástis tabernáculum Moloch vestro, et imáginem idolórum vestrórum, sidus dei vestri, quæ fecístis vobis.
+Am	5	27	Et migráre vos fáciam trans Damáscum, dicit Dóminus : Deus exercítuum nomen eius.
+Am	6	1	Væ qui opulénti estis in Sion, et confíditis in monte Samaríæ : optimátes cápita populórum, ingrediéntes pompátice domum Israel !
+Am	6	2	Transíte in Chaláne, et vidéte, et ite inde in Emath magnam, et descéndite in Geth Palæstinórum, et ad óptima quæque regna horum : si látior términus eórum término vestro est.
+Am	6	3	Qui separáti estis in diem malum, et appropinquátis sólio iniquitátis ;
+Am	6	4	qui dormítis in lectis ebúrneis, et lascivítis in stratis vestris ; qui coméditis agnum de grege, et vítulos de médio arménti ;
+Am	6	5	qui cánitis ad vocem psaltérii, sicut David putavérunt se habére vasa cántici,
+Am	6	6	bibéntes vinum in phíalis, et óptimo unguénto delibúti, et nihil patiebántur super contritióne Ioseph.
+Am	6	7	Quaprópter nunc migrábunt in cápite transmigrántium, et auferétur fáctio lasciviéntium.
+Am	6	8	Iurávit Dóminus Deus in ánima sua, dicit Dóminus Deus exercítuum : Detéstor ego supérbiam Iacob, et domos eius odi, et tradam civitátem cum habitatóribus suis.
+Am	6	9	Quod si réliqui fúerint decem viri in domo una, et ipsi moriéntur.
+Am	6	10	Et tollet eum propínquus suus, et combúret eum, ut éfferat ossa de domo ; et dicet ei, qui in penetrálibus domus est : Numquid adhuc est penes te ?
+Am	6	11	Et respondébit : Finis est. Et dicet ei : Tace, et non recordéris nóminis Dómini.
+Am	6	12	Quia ecce Dóminus mandábit, et percútiet domum maiórem ruínis, et domum minórem scissiónibus.
+Am	6	13	Numquid cúrrere queunt in petris equi, aut arári potest in búbalis ? quóniam convertístis in amaritúdinem iudícium, et fructum iustítiæ in absínthium.
+Am	6	14	Qui lætámini in níhilo ; qui dícitis : Numquid non in fortitúdine nostra assúmpsimus nobis córnua ?
+Am	6	15	Ecce enim suscitábo super vos, domus Israel, dicit Dóminus Deus exercítuum, gentem, et cónteret vos ab intróitu Emath usque ad torréntem desérti.
+Am	7	1	Hæc osténdit mihi Dóminus Deus : et ecce fictor locústæ in princípio germinántium serótini imbris, et ecce serótinus post tonsiónem regis.
+Am	7	2	Et factum est, cum consummásset comédere herbam terræ, dixi : Dómine Deus, propítius esto, óbsecro ; quis suscitábit Iacob, quia párvulus est ?
+Am	7	3	Misértus est Dóminus super hoc : Non erit, dixit Dóminus.
+Am	7	4	Hæc osténdit mihi Dóminus Deus : et ecce vocábat iudícium ad ignem Dóminus Deus ; et devorávit abýssum multam, et comédit simul partem.
+Am	7	5	Et dixi : Dómine Deus, quiésce, óbsecro ; quis suscitábit Iacob, quia párvulus est ?
+Am	7	6	Misértus est Dóminus super hoc : Sed et istud non erit, dixit Dóminus Deus.
+Am	7	7	Hæc osténdit mihi Dóminus : et ecce Dóminus stans super murum litum, et in manu eius trulla cæmentárii.
+Am	7	8	Et dixit Dóminus ad me : Quid tu vides, Amos ? Et dixi : Trullam cæmentárii. Et dixit Dóminus : Ecce ego ponam trullam in médio pópuli mei Israel ; non adíciam ultra superindúcere eum.
+Am	7	9	Et demoliéntur excélsa idóli, et sanctificatiónes Israel desolabúntur, et consúrgam super domum Ieróboam in gládio.
+Am	7	10	Et misit Amasías, sacérdos Bethel, ad Ieróboam, regem Israel, dicens : Rebellávit contra te Amos in médio domus Israel ; non póterit terra sustinére univérsos sermónes eius.
+Am	7	11	Hæc enim dicit Amos : In gládio moriétur Ieróboam, et Israel captívus migrábit de terra sua.
+Am	7	12	Et dixit Amasías ad Amos : Qui vides, grádere : fuge in terram Iuda, et cómede ibi panem, et prophetábis ibi.
+Am	7	13	Et in Bethel non adícies ultra ut prophétes, quia sanctificátio regis est, et domus regni est.
+Am	7	14	Respondítque Amos, et dixit ad Amasíam : Non sum prophéta, et non sum fílius prophétæ : sed armentárius ego sum véllicans sycómoros.
+Am	7	15	Et tulit me Dóminus cum séquerer gregem, et dixit Dóminus ad me : Vade, prophéta ad pópulum meum Israel.
+Am	7	16	Et nunc audi verbum Dómini : Tu dicis : Non prophetábis super Israel, et non stillábis super domum idóli.
+Am	7	17	Propter hoc hæc dicit Dóminus : Uxor tua in civitáte fornicábitur, et fílii tui et fíliæ tuæ in gládio cadent, et humus tua funículo metiétur : et tu in terra pollúta moriéris, et Israel captívus migrábit de terra sua.
+Am	8	1	Hæc osténdit mihi Dóminus Deus : et ecce uncínus pomórum.
+Am	8	2	Et dixit : Quid tu vides, Amos ? Et dixi : Uncínum pomórum. Et dixit Dóminus ad me : Venit finis super pópulum meum Israel ; non adíciam ultra ut pertránseam eum.
+Am	8	3	Et stridébunt cárdines templi in die illa, dicit Dóminus Deus : multi moriéntur ; in omni loco proiciétur siléntium.
+Am	8	4	Audíte hoc, qui contéritis páuperem, et defícere fácitis egénos terræ,
+Am	8	5	dicéntes : Quando transíbit mensis, et venundábimus merces ? et sábbatum, et aperiémus fruméntum, ut imminuámus mensúram, et augeámus siclum, et supponámus statéras dolósas,
+Am	8	6	ut possideámus in argénto egénos et páuperes pro calceaméntis, et quisquílias fruménti vendámus ?
+Am	8	7	Iurávit Dóminus in supérbiam Iacob : Si oblítus fúero usque ad finem ómnia ópera eórum.
+Am	8	8	Numquid super isto non commovébitur terra, et lugébit omnis habitátor eius, et ascéndet quasi flúvius univérsus, et eicicétur, et défluet, quasi rivus Ægýpti ?
+Am	8	9	Et erit in die illa, dicit Dóminus Deus : óccidet sol in merídie, et tenebréscere fáciam terram in die lúminis :
+Am	8	10	et convértam festivitátes vestras in luctum, et ómnia cántica vestra in planctum, et indúcam super omne dorsum vestrum saccum, et super omne caput calvítium : et ponam eam quasi luctum unigéniti, et novíssima eius quasi diem amárum.
+Am	8	11	Ecce dies véniunt, dicet Dóminus, et mittam famem in terram : non famem panis, neque sitim aquæ, sed audiéndi verbum Dómini.
+Am	8	12	Et commovebúntur a mari usque ad mare, et ab aquilóne usque ad oriéntem : circuíbunt quæréntes verbum Dómini, et non invénient.
+Am	8	13	In die illa defícient vírgines pulchræ et adolescéntes in siti,
+Am	8	14	qui iurant in delícto Samaríæ, et dicunt : Vivit Deus tuus, Dan, et vivit via Bersabée ; et cadent, et non resúrgent ultra.
+Am	9	1	Vidi Dóminum stantem super altáre, et dixit : Pércute cárdinem, et commoveántur superliminária : avarítia enim in cápite ómnium, et novíssimum eórum in gládio interfíciam ; non erit fuga eis. Fúgient, et non salvábitur ex eis qui fúgerit.
+Am	9	2	Si descénderint usque ad inférnum, inde manus mea edúcet eos ; et si ascénderint usque in cælum, inde détraham eos.
+Am	9	3	Et si abscónditi fúerint in vértice Carméli, inde scrutans áuferam eos ; et si celáverint se ab óculis meis in profúndo maris, ibi mandábo serpénti, et mordébit eos.
+Am	9	4	Et si abíerint in captivitátem coram inimícis suis, ibi mandábo gládio, et occídet eos : et ponam óculos meos super eos in malum, et non in bonum.
+Am	9	5	Et Dóminus Deus exercítuum, qui tangit terram, et tabéscet, et lugébunt omnes habitántes in ea : et ascéndet sicut rivus omnis, et défluet sicut flúvius Ægýpti.
+Am	9	6	Qui ædíficat in cælo ascensiónem suam, et fascículum suum super terram fundávit ; qui vocat aquas maris, et effúndit eas super fáciem terræ : Dóminus nomen eius.
+Am	9	7	Numquid non ut fílii Æthíopum vos estis mihi, fílii Israel ? ait Dóminus. Numquid non Israel ascéndere feci de terra Ægýpti, et Palæstínos de Cappadócia, et Syros de Cyréne ?
+Am	9	8	Ecce óculi Dómini Dei super regnum peccans : et cónteram illud a fácie terræ ; verúmtamen cónterens non cónteram domum Iacob, dicit Dóminus.
+Am	9	9	Ecce enim mandábo ego, et concútiam in ómnibus géntibus domum Israel, sicut concútitur tríticum in cribro, et non cadet lapíllus super terram.
+Am	9	10	In gládio moriéntur omnes peccatóres pópuli mei, qui dicunt : Non appropinquábit, et non véniet super nos malum.
+Am	9	11	In die illa suscitábo tabernáculum David, quod cécidit : et reædificábo apertúras murórum eius, et ea quæ corrúerant instaurábo : et reædificábo illud sicut in diébus antíquis,
+Am	9	12	ut possídeant relíquias Idumǽæ, et omnes natiónes : eo quod invocátum sit nomen meum super eos, dicit Dóminus fáciens hæc.
+Am	9	13	Ecce dies véniunt, dicit Dóminus, et comprehéndet arátor messórem, et calcátor uvæ mitténtem semen : et stillábunt montes dulcédinem, et omnes colli culti erunt.
+Am	9	14	Et convértam captivitátem pópuli mei Israel ; et ædificábunt civitátes desértas, et inhabitábunt ; et plantábunt víneas, et bibent vinum eárum, et fácient hortos, et cómedent fructus eórum.
+Am	9	15	Et plantábo eos super humum suam, et non evéllam eos ultra de terra sua, quam dedi eis, dicit Dóminus Deus tuus.
+Ab	1	1	Vísio Abdíæ. Hæc dicit Dóminus Deus ad Edom : Audítum  audívimus a Dómino, et legátum ad gentes misit : súrgite, et consurgámus advérsus eum in prǽlium.
+Ab	1	2	Ecce párvulum dedi te in géntibus : contemptíbilis tu es valde.
+Ab	1	3	Supérbia cordis tui éxtulit te, habitántem in scissúris petrárum, exaltántem sólium tuum ; qui dicis in corde tuo : Quis détrahet me in terram ?
+Ab	1	4	Si exaltátus fúeris ut áquila, et si inter sídera posúeris nidum tuum, inde détraham te, dicit Dóminus.
+Ab	1	5	Si fures introíssent ad te, si latrónes per noctem, quómodo conticuísses ? nonne furáti essent sufficiéntia sibi ? Si vindemiatóres introíssent ad te, numquid saltem racémum reliquíssent tibi ?
+Ab	1	6	Quómodo scrutáti sunt Esau ; investigavérunt abscóndita eius ?
+Ab	1	7	Usque ad términum emisérunt te : omnes viri fœ́deris tui illusérunt tibi : invaluérunt advérsum te viri pacis tuæ, qui cómedunt tecum, ponent insídias subter te ; non est prudéntia in eo.
+Ab	1	8	Numquid non in die illa, dicit Dóminus, perdam sapiéntes de Idumǽa, et prudéntiam de monte Esau ?
+Ab	1	9	Et timébunt fortes tui a merídie, ut intéreat vir de monte Esau.
+Ab	1	10	Propter interfectiónem, et propter iniquitátem in fratrem tuum Iacob, opériet te confúsio, et períbis in ætérnum.
+Ab	1	11	In die cum stares advérsus eum, quando capiébant aliéni exércitum eius, et extránei ingrediebántur portas eius, et super Ierúsalem mittébant sortem, tu quoque eras quasi unus ex eis.
+Ab	1	12	Et non despícies in die fratris tui, in die peregrinatiónis eius : et non lætáberis super fílios Iuda in die perditiónis eórum : et non magnificábis os tuum in die angústiæ.
+Ab	1	13	Neque ingrediéris portam pópuli mei in die ruínæ eórum ; neque despícies et tu in malis eius in die vastitátis illíus. Et non emittéris advérsus exércitum eius in die vastitátis illíus,
+Ab	1	14	neque stabis in exítibus ut interfícias eos qui fúgerint, et non conclúdes réliquos eius in die tribulatiónis.
+Ab	1	15	Quóniam iuxta est dies Dómini super omnes gentes : sicut fecísti, fiet tibi ; retributiónem tuam convértet in caput tuum.
+Ab	1	16	Quómodo enim bibístis super montem sanctum meum, bibent omnes gentes iúgiter : et bibent, et absorbébunt, et erunt quasi non sint.
+Ab	1	17	Et in monte Sion erit salvátio, et erit sanctus ; et possidébit domus Iacob eos qui se posséderant.
+Ab	1	18	Et erit domus Iacob ignis, et domus Ioseph flamma, et domus Esau stípula : et succendéntur in eis, et devorábunt eos, et non erunt relíquiæ domus Esau, quia Dóminus locútus est.
+Ab	1	19	Et hæreditábunt hi, qui ad austrum sunt, montem Esau, et qui in campéstribus, Philísthiim : et possidébunt regiónem Ephraim et regiónem Samaríæ, et Béniamin possidébit Gálaad.
+Ab	1	20	Et transmigrátio exércitus huius filiórum Israel, ómnia loca Chananæórum usque ad Saréptam : et transmigrátio Ierúsalem, quæ in Bósphoro est, possidébit civitátes austri.
+Ab	1	21	Et ascéndent salvatóres in montem Sion iudicáre montem Esau, et erit Dómino regnum.
+Jon	1	1	Et factum est verbum Dómini ad Ionam, fílium Amáthi, dicens :
+Jon	1	2	Surge, et vade in Níniven, civitátem grandem, et prǽdica in ea, quia ascéndit malítia eius coram me.
+Jon	1	3	Et surréxit Ionas, ut fúgeret in Tharsis a fácie Dómini, et descéndit in Ioppen : et invénit navem eúntem in Tharsis, et dedit naulum eius, et descéndit in eam ut iret cum eis in Tharsis a fácie Dómini.
+Jon	1	4	Dóminus autem misit ventum magnum in mare : et facta est tempéstas magna in mari, et navis periclitabátur cónteri.
+Jon	1	5	Et timuérunt nautæ, et clamavérunt viri ad deum suum, et misérunt vasa quæ erant in navi, in mare, ut alleviarétur ab eis ; et Ionas descéndit ad interióra navis, et dormiébat sopóre gravi.
+Jon	1	6	Et accéssit ad eum gubernátor, et dixit ei : Quid tu sopóre deprímeris ? surge, ínvoca Deum tuum, si forte recógitet Deus de nobis, et non pereámus.
+Jon	1	7	Et dixit vir ad collégam suum : Veníte et mittámus sortes, et sciámus quare hoc malum sit nobis. Et misérunt sortes, et cécidit sors super Ionam.
+Jon	1	8	Et dixérunt ad eum : Indica nobis cuius causa malum istud sit nobis : quod est opus tuum? quæ terra tua, et quo vadis ? vel ex quo pópulo es tu ?
+Jon	1	9	Et dixit ad eos : Hebrǽus ego sum, et Dóminum Deum cæli ego tímeo, qui fecit mare et áridam.
+Jon	1	10	Et timuérunt viri timóre magno, et dixérunt ad eum : Quid hoc fecísti ? cognovérunt enim viri quod a fácie Dómini fúgeret, quia indicáverat eis.
+Jon	1	11	Et dixérunt ad eum : Quid faciémus tibi, et cessábit mare a nobis ? quia mare ibat, et intumescébat.
+Jon	1	12	Et dixit ad eos : Tóllite me, et míttite in mare, et cessábit mare a vobis : scio enim ego quóniam propter me tempéstas hæc grandis venit super vos.
+Jon	1	13	Et remigábant viri ut reverteréntur ad áridam, et non valébant, quia mare ibat, et intumescébat super eos.
+Jon	1	14	Et clamavérunt ad Dóminum, et dixérunt : Quǽsumus, Dómine, ne pereámus in ánima viri istíus, et ne des super nos sánguinem innocéntem : quia tu, Dómine, sicut voluísti, fecísti.
+Jon	1	15	Et tulérunt Ionam, et misérunt in mare : et stetit mare a fervóre suo.
+Jon	1	16	Et timuérunt viri timóre magno Dóminum : et immolavérunt hóstias Dómino, et vovérunt vota.
+Jon	2	1	Et præparávit Dóminus piscem grandem ut deglutíret Ionam : et erat Ionas in ventre piscis tribus diébus et tribus nóctibus.
+Jon	2	2	Et orávit Ionas ad Dóminum Deum suum de ventre piscis,
+Jon	2	3	et dixit : Clamávi de tribulatióne mea ad Dóminum, et exaudívit me ; de ventre ínferi clamávi, et exaudísti vocem meam.
+Jon	2	4	Et proiecísti me in profúndum in corde maris, et flumen circúmdedit me : omnes gúrgites tui, et fluctus tui super me transiérunt.
+Jon	2	5	Et ego dixi : Abiéctus sum a conspéctu oculórum tuórum ; verúmtamen rursus vidébo templum sanctum tuum.
+Jon	2	6	Circumdedérunt me aquæ usque ad ánimam : abýssus vallávit me, pélagus opéruit caput meum.
+Jon	2	7	Ad extréma móntium descéndi ; terræ vectes conclusérunt me in ætérnum : et sublevábis de corruptióne vitam meam, Dómine Deus meus.
+Jon	2	8	Cum angustiarétur in me ánima mea, Dómini recordátus sum : ut véniat ad te orátio mea, ad templum sanctum tuum.
+Jon	2	9	Qui custódiunt vanitátes frustra, misericórdiam suam derelínquunt.
+Jon	2	10	Ego autem in voce laudis immolábo tibi : quæcúmque vovi, reddam pro salúte Dómino.
+Jon	2	11	Et dixit Dóminus pisci, et evómuit Ionam in áridam.
+Jon	3	1	Et factum est verbum Dómini ad Ionam secúndo, dicens :
+Jon	3	2	Surge, et vade in Níniven, civitátem magnam, et prǽdica in ea prædicatiónem quam ego loquor ad te.
+Jon	3	3	Et surréxit Ionas, et ábiit in Níniven iuxta verbum Dómini : et Nínive erat cívitas magna, itínere trium diérum.
+Jon	3	4	Et cœpit Ionas introíre in civitátem itínere diéi uníus : et clamávit, et dixit : Adhuc quadragínta dies, et Nínive subvertétur.
+Jon	3	5	Et credidérunt viri Ninivítæ in Deum, et prædicavérunt ieiúnium, et vestíti sunt saccis, a maióre usque ad minórem.
+Jon	3	6	Et pervénit verbum ad regem Nínive : et surréxit de sólio suo, et abiécit vestiméntum suum a se, et indútus est sacco, et sedit in cínere.
+Jon	3	7	Et clamávit, et dixit in Nínive ex ore regis et príncipum eius, dicens : Hómines, et iuménta, et boves, et pécora non gustent quidquam : nec pascántur, et aquam non bibant.
+Jon	3	8	Et operiántur saccis hómines et iuménta, et clament ad Dóminum in fortitúdine : et convertátur vir a via sua mala, et ab iniquitáte quæ est in mánibus eórum.
+Jon	3	9	Quis scit si convertátur et ignóscat Deus, et revertátur a furóre iræ suæ, et non períbimus ?
+Jon	3	10	Et vidit Deus ópera eórum, quia convérsi sunt de via sua mala : et misértus est Deus super malítiam quam locútus fúerat ut fáceret eis, et non fecit.
+Jon	4	1	Et afflíctus est Ionas afflictióne magna, et irátus est :
+Jon	4	2	et orávit ad Dóminum, et dixit : Obsecro, Dómine, numquid non hoc est verbum meum cum adhuc essem in terra mea ? propter hoc præoccupávi ut fúgerem in Tharsis : scio enim quia tu Deus clemens et miséricors es, pátiens et multæ miseratiónis, et ignóscens super malítia.
+Jon	4	3	Et nunc, Dómine, tolle, quæso, ánimam meam a me, quia mélior est mihi mors quam vita.
+Jon	4	4	Et dixit Dóminus : Putásne bene irásceris tu ?
+Jon	4	5	Et egréssus est Ionas de civitáte, et sedit contra oriéntem civitátis : et fecit sibímet umbráculum ibi, et sedébat subter illud in umbra, donec vidéret quid accíderet civitáti.
+Jon	4	6	Et præparávit Dóminus Deus héderam, et ascéndit super caput Ionæ, ut esset umbra super caput eius, et protégeret eum (laboráverat enim) : et lætátus est Ionas super hédera lætítia magna.
+Jon	4	7	Et parávit Deus vermen ascénsu dilúculi in crástinum : et percússit héderam, et exáruit.
+Jon	4	8	Et cum ortus fuísset sol, præcépit Dóminus vento cálido et urénti : et percússit sol super caput Ionæ, et æstuábat : et petívit ánimæ suæ ut morerétur, et dixit : Mélius est mihi mori quam vívere.
+Jon	4	9	Et dixit Dóminus ad Ionam : Putásne bene irásceris tu super hédera ? Et dixit : Bene iráscor ego usque ad mortem.
+Jon	4	10	Et dixit Dóminus : Tu doles super héderam in qua non laborásti, neque fecísti ut crésceret ; quæ sub una nocte nata est, et sub una nocte périit :
+Jon	4	11	et ego non parcam Nínive, civitáti magnæ, in qua sunt plus quam centum vigínti míllia hóminum qui nésciunt quid sit inter déxteram et sinístram suam, et iuménta multa ?
+Mi	1	1	Verbum Dómini, quod factum est ad Michǽam Morasthíten, in diébus Ióathan, Achaz, et Ezechíæ, regum Iuda, quod vidit super Samaríam et Ierúsalem.
+Mi	1	2	Audíte, pópuli omnes, et atténdat terra, et plenitúdo eius : et sit Dóminus Deus vobis in testem, Dóminus de templo sancto suo.
+Mi	1	3	Quia ecce Dóminus egrediétur de loco suo, et descéndet, et calcábit super excélsa terræ.
+Mi	1	4	Et consuméntur montes subtus eum, et valles scindéntur sicut cera a fácie ignis, et sicut aquæ quæ decúrrunt in præceps.
+Mi	1	5	In scélere Iacob omne istud, et in peccátis domus Israel. Quod scelus Iacob ? nonne Samaría ? et quæ excélsa Iudæ ? nonne Ierúsalem ?
+Mi	1	6	Et ponam Samaríam quasi acérvum lápidum in agro, cum plantátur vínea ; et détraham in vallem lápides eius, et fundaménta eius revelábo.
+Mi	1	7	Et ómnia sculptília eius concidéntur, et omnes mercédes eius comburéntur igne, et ómnia idóla eius ponam in perditiónem, quia de mercédibus meretrícis congregáta sunt, et usque ad mercédem meretrícis reverténtur.
+Mi	1	8	Super hoc plangam, et ululábo ; vadam spoliátus, et nudus ; fáciam planctum velut dracónum, et luctum quasi struthiónum :
+Mi	1	9	quia desperáta est plaga eius, quia venit usque ad Iudam ; tétigit portam pópuli mei usque ad Ierúsalem.
+Mi	1	10	In Geth nolíte annuntiáre ; lácrimis ne plorétis ; in domo púlveris púlvere vos conspérgite.
+Mi	1	11	Et transíte vobis, habitátio pulchra, confúsa ignomínia : non est egréssa quæ hábitat in éxitu : planctum domus vicína accípiet ex vobis, quæ stetit sibímet.
+Mi	1	12	Quia infirmáta est in bonum, quæ hábitat in amaritudínibus ; quia descéndit malum a Dómino in portam Ierúsalem.
+Mi	1	13	Tumúltus quadrígæ stupóris habitánti Lachis : princípium peccáti est fíliæ Sion, quia in te invénta sunt scélera Israel.
+Mi	1	14	Proptérea dabit emissários super hæreditátem Geth, domus mendácii in deceptiónem régibus Israel.
+Mi	1	15	Adhuc hærédem addúcam tibi quæ hábitas in Marésa ; usque ad Odóllam véniet glória Israel.
+Mi	1	16	Decalváre, et tondére super fílios deliciárum tuárum ; diláta calvítium tuum sicut áquila, quóniam captívi ducti sunt ex te.
+Mi	2	1	Væ qui cogitátis inútile, et operámini malum in cubílibus vestris ! In luce matutína fáciunt illud, quóniam contra Deum est manus eórum.
+Mi	2	2	Et concupiérunt agros, et violénter tulérunt : et rapuérunt domos, et calumniabántur virum, et domum eius : virum, et hæreditátem eius.
+Mi	2	3	Idcírco hæc dicit Dóminus : Ecce ego cógito super famíliam istam malum, unde non auferétis colla vestra, et non ambulábitis supérbi : quóniam tempus péssimum est.
+Mi	2	4	In die illa sumétur super vos parábola, et cantábitur cánticum cum suavitáte, dicéntium : Depopulatióne vastáti sumus ; pars pópuli mei commutáta est : quómodo recédet a me, cum revertátur, qui regiónes nostras dívidat ?
+Mi	2	5	Propter hoc non erit tibi mittens funículum sortis in cœtu Dómini.
+Mi	2	6	Ne loquámini loquéntes ; non stillábit super istos, non comprehéndet confúsio.
+Mi	2	7	Dicit domus Iacob : Numquid abbreviátus est spíritus Dómini, aut tales sunt cogitatiónes eius ? nonne verba mea bona sunt cum eo qui recte gráditur ?
+Mi	2	8	et e contrário pópulus meus in adversárium consurréxit. Désuper túnica pállium sustulístis : et eos qui transíbant simplíciter convertístis in bellum.
+Mi	2	9	Mulíeres pópuli mei eiecístis de domo deliciárum suárum ; a párvulis eárum tulístis laudem meam in perpétuum.
+Mi	2	10	Súrgite, et ite, quia non habétis hic réquiem : propter immundítiam eius corrumpétur putrédine péssima.
+Mi	2	11	Utinam non essem vir habens spíritum, et mendácium pótius lóquerer ! Stillábo tibi in vinum et in ebrietátem ; et erit super quem stillátur pópulus iste.
+Mi	2	12	Congregatióne congregábo, Iacob, totum te ; in unum condúcam relíquias Israel : páriter ponam illum quasi gregem in ovíli, quasi pecus in médio caulárum : tumultuabúntur a multitúdine hóminum.
+Mi	2	13	Ascéndet enim pandens iter ante eos : dívident, et transíbunt portam, et ingrediéntur per eam : et transíbit rex eórum coram eis, et Dóminus in cápite eórum.
+Mi	3	1	Et dixi : Audíte, príncipes Iacob, et duces domus Israel : numquid non vestrum est scire iudícium,
+Mi	3	2	qui ódio habétis bonum, et dilígitis malum ; qui violénter tóllitis pelles eórum désuper eis, et carnem eórum désuper óssibus eórum ;
+Mi	3	3	qui comedérunt carnem pópuli mei, et pellem eórum désuper excoriavérunt, et ossa eórum confregérunt, et concidérunt sicut in lebéte, et quasi carnem in médio ollæ ?
+Mi	3	4	Tunc clamábunt ad Dóminum, et non exáudiet eos, et abscóndet fáciem suam ab eis in témpore illo, sicut néquiter egérunt in adinventiónibus suis.
+Mi	3	5	Hæc dicit Dóminus super prophétas, qui sedúcunt pópulum meum : qui mordent déntibus suis, et prǽdicant pacem ; et si quis non déderit in ore eórum quíppiam, sanctíficant super eum prǽlium.
+Mi	3	6	Proptérea nox vobis pro visióne erit, et ténebræ vobis pro divinatióne ; et occúmbet sol super prophétas, et obtenebrábitur super eos dies.
+Mi	3	7	Et confundéntur qui vident visiónes, et confundéntur divíni ; et opérient omnes vultos suos, quia non est respónsum Dei.
+Mi	3	8	Verúmtamen ego replétus sum fortitúdine spíritus Dómini, iudício, et virtúte, ut annúntiem Iacob scelus suum, et Israel peccátum suum.
+Mi	3	9	Audíte hoc, príncipes domus Iacob, et iúdices domus Israel, qui abominámini iudícium, et ómnia recta pervértitis :
+Mi	3	10	qui ædificátis Sion in sanguínibus, et Ierúsalem in iniquitáte.
+Mi	3	11	Príncipes eius in munéribus iudicábant, et sacerdótes eius in mercéde docébant, et prophétæ eius in pecúnia divinábant : et super Dóminum requiescébant, dicéntes : Numquid non Dóminus in médio nostrum ? non vénient super nos mala.
+Mi	3	12	Propter hoc, causa vestri, Sion quasi ager arábitur, et Ierúsalem quasi acérvus lápidum erit, et mons templi in excélsa silvárum.
+Mi	4	1	Et erit : in novíssimo diérum erit mons domus Dómini præparátus in vértice móntium, et sublímis super colles : et fluent ad eum pópuli,
+Mi	4	2	et properábunt gentes multæ, et dicent : Veníte, ascendámus ad montem Dómini, et ad domum Dei Iacob : et docébit nos de viis suis, et íbimus in sémitis eius, quia de Sion egrediétur lex, et verbum Dómini de Ierúsalem.
+Mi	4	3	Et iudicábit inter pópulos multos, et corrípiet gentes fortes usque in longínquum : et concídent gládios suos in vómeres, et hastas suas in ligónes : non sumet gens advérsus gentem gládium, et non discent ultra belligeráre.
+Mi	4	4	Et sedébit vir subtus vitem suam et subtus ficum suam, et non erit qui detérreat, quia os Dómini exercítuum locútum est.
+Mi	4	5	Quia omnes pópuli ambulábunt unusquísque in nómine dei sui ; nos autem ambulábimus in nómine Dómini Dei nostri, in ætérnum et ultra.
+Mi	4	6	In die illa, dicit Dóminus, congregábo claudicántem, et eam quam eiéceram cólligam, et quam afflíxeram :
+Mi	4	7	et ponam claudicántem in relíquias, et eam quæ laboráverat, in gentem robústam : et regnábit Dóminus super eos in monte Sion, ex hoc nunc et usque in ætérnum.
+Mi	4	8	Et tu, turris gregis nebulósa fíliæ Sion, usque ad te véniet, et véniet potéstas prima, regnum fíliæ Ierúsalem.
+Mi	4	9	Nunc quare mœróre contráheris ? numquid rex non est tibi, aut consiliárius tuus périit, quia comprehéndit te dolor sicut parturiéntem ?
+Mi	4	10	Dole et sátage, fília Sion, quasi partúriens, quia nunc egrediéris de civitáte, et habitábis in regióne, et vénies usque ad Babylónem : ibi liberáberis, ibi rédimet te Dóminus de manu inimicórum tuórum.
+Mi	4	11	Et nunc congregátæ sunt super te gentes multæ, quæ dicunt : Lapidétur, et aspíciat in Sion óculus noster.
+Mi	4	12	Ipsi autem non cognovérunt cogitatiónes Dómini, et non intellexérunt consílium eius, quia congregávit eos quasi fœnum áreæ.
+Mi	4	13	Surge, et tritúra, fília Sion, quia cornu tuum ponam férreum, et úngulas tuas ponam ǽreas ; et commínues pópulos multos, et interfícies Dómino rapínas eórum, et fortitúdinem eórum Dómino univérsæ terræ.
+Mi	5	1	Nunc vastáberis, fília latrónis. Obsidiónem posuérunt super nos : in virga percútient maxíllam iúdicis Israel.
+Mi	5	2	Et tu, Béthlehem Ephráta, párvulus es in míllibus Iuda ; ex te mihi egrediétur qui sit dominátor in Israel, et egréssus eius ab inítio, a diébus æternitátis.
+Mi	5	3	Propter hoc dabit eos usque ad tempus in quo partúriens páriet, et relíquiæ fratrum eius converténtur ad fílios Israel.
+Mi	5	4	Et stabit, et pascet in fortitúdine Dómini, in sublimitáte nóminis Dómini Dei sui : et converténtur, quia nunc magnificábitur usque ad términos terræ.
+Mi	5	5	Et erit iste pax : cum vénerit Assýrius in terram nostram, et quando calcáverit dómibus nostris, et suscitábimus super eum septem pastóres et octo primátes hómines ;
+Mi	5	6	et pascent terram Assur in gládio, et terram Nemrod in lánceis eius, et liberábit ab Assur cum vénerit in terram nostram, et cum calcáverit in fínibus nostris.
+Mi	5	7	Et erunt relíquiæ Iacob in médio populórum multórum quasi ros a Dómino, et quasi stillæ super herbam, quæ non exspéctat virum, et non præstolátur fílios hóminum.
+Mi	5	8	Et erunt relíquiæ Iacob in géntibus, in médio populórum multórum, quasi leo in iuméntis silvárum, et quasi cátulus leónis in grégibus pécorum, qui cum transíerit, et conculcáverit, et céperit, non est qui éruat.
+Mi	5	9	Exaltábitur manus tua super hostes tuos, et omnes inimíci tui interíbunt.
+Mi	5	10	Et erit in die illa, dicit Dóminus : áuferam equos tuos de médio tui, et dispérdam quadrígas tuas.
+Mi	5	11	Et perdam civitátes terræ tuæ, et déstruam omnes munitiónes tuas : et áuferam malefícia de manu tua, et divinatiónes non erunt in te :
+Mi	5	12	et períre fáciam sculptília tua et státuas tuas de médio tui, et non adorábis ultra ópera mánuum tuárum :
+Mi	5	13	et evéllam lucos tuos de médio tui, et cónteram civitátes tuas.
+Mi	5	14	Et fáciam, in furóre et in indignatióne, ultiónem in ómnibus géntibus quæ non audiérunt.
+Mi	6	1	Audíte quæ Dóminus lóquitur : Surge, conténde iudício advérsum montes, et áudiant colles vocem tuam.
+Mi	6	2	Audiant montes iudícium Dómini, et fórtia fundaménta terræ ; quia iudícium Dómini cum pópulo suo, et cum Israel diiudicábitur.
+Mi	6	3	Pópule meus, quid feci tibi ? aut quid moléstus fui tibi ? Respónde mihi.
+Mi	6	4	Quia edúxi te de terra Ægýpti, et de domo serviéntium liberávi te, et misi ante fáciem tuam Móysen, et Aaron, et Maríam.
+Mi	6	5	Pópule meus, meménto, quæso, quid cogitáverit Balach, rex Moab, et quid respónderit ei Bálaam, fílius Beor, de Setim usque ad Gálgalam, ut cognósceres iustítias Dómini.
+Mi	6	6	Quid dignum ófferam Dómino ? curvábo genu Deo excélso ? Numquid ófferam ei holocautómata et vítulos annículos ?
+Mi	6	7	numquid placári potest Dóminus in míllibus aríetum, aut in multis míllibus hircórum pínguium ? numquid dabo primogénitum meum pro scélere meo, fructum ventris mei pro peccáto ánimæ meæ ?
+Mi	6	8	Indicábo tibi, o homo, quid sit bonum, et quid Dóminus requírat a te : útique fácere iudícium, et dilígere misericórdiam, et sollícitum ambuláre cum Deo tuo.
+Mi	6	9	Vox Dómini ad civitátem clamat, et salus erit timéntibus nomen tuum : audíte, tribus, et quis approbábit illud ?
+Mi	6	10	Adhuc ignis in domo ímpii thesáuri iniquitátis, et mensúra minor iræ plena.
+Mi	6	11	Numquid iustificábo statéram ímpiam, et saccélli póndera dolósa ?
+Mi	6	12	In quibus dívites eius repléti sunt iniquitáte, et habitántes in ea loquebántur mendácium, et lingua eórum fraudulénta in ore eórum.
+Mi	6	13	Et ego ergo cœpi percútere te perditióne super peccátis tuis.
+Mi	6	14	Tu cómedes, et non saturáberis, et humiliátio tua in médio tui : et apprehéndes, et non salvábis, et quos salváveris, in gládium dabo.
+Mi	6	15	Tu seminábis, et non metes : tu calcábis olívam, et non ungéris óleo ; et mustum, et non bibes vinum.
+Mi	6	16	Et custodísti præcépta Amri, et omne opus domus Achab, et ambulásti in voluntátibus eórum : ut darem te in perditiónem, et habitántes in ea in síbilum, et oppróbrium pópuli mei portábitis.
+Mi	7	1	Væ mihi, quia factus sum sicut qui cólligit in autúmno racémos vindémiæ ! non est botrus ad comedéndum, prǽcoquas ficus desiderávit ánima mea.
+Mi	7	2	Périit sanctus de terra, et rectus in homínibus non est : omnes in sánguine insidiántur ; vir fratrem suum ad mortem venátur.
+Mi	7	3	Malum mánuum suárum dicunt bonum : princeps póstulat, et iudex in reddéndo est ; et magnus locútus est desidérium ánimæ suæ, et conturbavérunt eam.
+Mi	7	4	Qui óptimus in eis est, quasi paliúrus, et qui rectus, quasi spina de sepe. Dies speculatiónis tuæ, visitátio tua venit : nunc erit vástitas eórum.
+Mi	7	5	Nolíte crédere amíco, et nolíte confídere in duce : ab ea quæ dormit in sinu tuo custódi claustra oris tui.
+Mi	7	6	Quia fílius contuméliam facit patri, et fília consúrgit advérsus matrem suam : nurus advérsus socrum suam, et inimíci hóminis doméstici eius.
+Mi	7	7	Ego autem ad Dóminum aspíciam ; exspectábo Deum, salvatórem meum : áudiet me Deus meus.
+Mi	7	8	Ne lætéris, inimíca mea, super me, quia cécidi : consúrgam cum sédero in ténebris : Dóminus lux mea est.
+Mi	7	9	Iram Dómini portábo, quóniam peccávi ei, donec causam meam iúdicet, et fáciat iudícium meum. Edúcet me in lucem : vidébo iustítiam eius.
+Mi	7	10	Et aspíciet inimíca mea, et operiétur confusióne, quæ dicit ad me : Ubi est Dóminus Deus tuus ? Oculi mei vidébunt in eam : nunc erit in conculcatiónem ut lutum plateárum.
+Mi	7	11	Dies, ut ædificéntur macériæ tuæ ; in die illa longe fiet lex.
+Mi	7	12	In die illa et usque ad te véniet de Assur, et usque ad civitátes munítas, et a civitátibus munítis usque ad flumen, et ad mare de mari, et ad montem de monte.
+Mi	7	13	Et terra erit in desolatiónem propter habitatóres suos, et propter fructum cogitatiónum eórum.
+Mi	7	14	Pasce pópulum tuum in virga tua, gregem hæreditátis tuæ, habitántes solos, in saltu, in médio Carméli. Pascéntur Basan et Gálaad iuxta dies antíquos.
+Mi	7	15	Secúndum dies egressiónis tuæ de terra Ægýpti, osténdam ei mirabília.
+Mi	7	16	Vidébunt gentes, et confundéntur super omni fortitúdine sua. Ponent manum super os, aures eórum surdæ erunt.
+Mi	7	17	Lingent púlverem sicut serpéntes ; velut reptília terræ perturbabúntur in ǽdibus suis. Dóminum Deum nostrum formidábunt, et timébunt te.
+Mi	7	18	Quis, Deus, símilis tui, qui aufers iniquitátem, et transis peccátum reliquiárum hæreditátis tuæ ? Non immíttet ultra furórem suum, quóniam volens misericórdiam est.
+Mi	7	19	Revertétur, et miserébitur nostri ; depónet iniquitátes nostras, et proíciet in profúndum maris ómnia peccáta nostra.
+Mi	7	20	Dabis veritátem Iacob, misericórdiam Abraham, quæ iurásti pátribus nostris a diébus antíquis.
 Mt	1	1	Liber generatiónis Iesu Christi fílii David, fílii Abraham.
 Mt	1	2	Abraham génuit Isaac. Isaac autem génuit Iacob. Iacob autem génuit Iudam, et fratres eius.
 Mt	1	3	Iudas autem génuit Phares, et Zaram de Thamar. Phares autem génuit Esron. Esron autem génuit Aram.
