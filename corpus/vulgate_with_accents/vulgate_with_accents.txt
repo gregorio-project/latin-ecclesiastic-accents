@@ -4222,7 +4222,7 @@ Num	16	33	descenderúntque vivi in inférnum opérti humo, et periérunt de méd
 Num	16	34	At vero omnis Israel, qui stabat per gyrum, fugit ad clamórem pereúntium, dicens : Ne forte et nos terra deglútiat.
 Num	16	35	Sed et ignis egréssus a Dómino interfécit ducéntos quinquagínta viros, qui offerébant incénsum.
 Num	16	36	Locutúsque est Dóminus ad Móysen, dicens :
-Num	16	37	Prǽcipe Eleazáro fílio Aaron sacerdóti ut tollat thuríbula quæ iacent in incéndio, et ignem huc illúcque dispérgat : quóniam sanctificáta sunt
+Num	16	37	Prǽcipe Eleázaro fílio Aaron sacerdóti ut tollat thuríbula quæ iacent in incéndio, et ignem huc illúcque dispérgat : quóniam sanctificáta sunt
 Num	16	38	in mórtibus peccatórum : producátque ea in láminas, et affígat altári, eo quod oblátum sit in eis incénsum Dómino, et sanctificáta sint, ut cernant ea pro signo et moniménto fílii Israel.
 Num	16	39	Tulit ergo Eleázar sacérdos thuríbula ǽnea, in quibus obtúlerant hi quos incéndium devorávit, et prodúxit ea in láminas, affígens altári :
 Num	16	40	ut habérent póstea fílii Israel, quibus commoneréntur ne quis accédat alienígena, et qui non est de sémine Aaron ad offeréndum incénsum Dómino, ne patiátur sicut passus est Core, et omnis congregátio eius, loquénte Dómino ad Móysen.
@@ -4283,7 +4283,7 @@ Num	18	31	et comedétis eas in ómnibus locis vestris, tam vos quam famíliæ ve
 Num	18	32	Et non peccábitis super hoc, egrégia vobis et pínguia reservántes, ne polluátis oblatiónes filiórum Israel, et moriámini.
 Num	19	1	Locutúsque est Dóminus ad Móysen et Aaron, dicens :
 Num	19	2	Ista est relígio víctimæ, quam constítuit Dóminus. Prǽcipe fíliis Israel, ut addúcant ad te vaccam rufam ætátis íntegræ, in qua nulla sit mácula, nec portáverit iugum :
-Num	19	3	tradetísque eam Eleazáro sacerdóti, qui edúctam extra castra, immolábit in conspéctu ómnium :
+Num	19	3	tradetísque eam Eleázaro sacerdóti, qui edúctam extra castra, immolábit in conspéctu ómnium :
 Num	19	4	et tingens dígitum in sánguine eius, aspérget contra fores tabernáculi septem vícibus,
 Num	19	5	comburétque eam cunctis vidéntibus, tam pelle et cárnibus eius quam sánguine et fimo flammæ tráditis.
 Num	19	6	Lignum quoque cédrinum, et hyssópum, coccúmque bis tinctum sacérdos mittet in flammam, quæ vaccam vorat.
@@ -4328,10 +4328,10 @@ Num	20	22	Cumque castra movíssent de Cades, venérunt in montem Hor, qui est in
 Num	20	23	ubi locútus est Dóminus ad Móysen :
 Num	20	24	Pergat, inquit, Aaron ad pópulos suos : non enim intrábit terram, quam dedi fíliis Israel, eo quod incrédulus fúerit ori meo, ad aquas contradictiónis.
 Num	20	25	Tolle Aaron et fílium eius cum eo, et duces eos in montem Hor.
-Num	20	26	Cumque nudáveris patrem veste sua, índues ea Eleazárum fílium eius : Aaron colligétur, et moriétur ibi.
+Num	20	26	Cumque nudáveris patrem veste sua, índues ea Eleázarum fílium eius : Aaron colligétur, et moriétur ibi.
 Num	20	27	Fecit Móyses ut præcéperat Dóminus : et ascendérunt in montem Hor coram omni multitúdine.
-Num	20	28	Cumque Aaron spoliásset véstibus suis, índuit eis Eleazárum fílium eius.
-Num	20	29	Illo mórtuo in montis supercílio, descéndit cum Eleazáro.
+Num	20	28	Cumque Aaron spoliásset véstibus suis, índuit eis Eleázarum fílium eius.
+Num	20	29	Illo mórtuo in montis supercílio, descéndit cum Eleázaro.
 Num	20	30	Omnis autem multitúdo videns occubuísse Aaron, flevit super eo trigínta diébus per cunctas famílias suas.
 Num	21	1	Quod cum audísset Chananǽus rex Arad, qui habitábat ad merídiem, venísse scílicet Israel per exploratórum viam, pugnávit contra illum, et victor exístens, duxit ex eo prædam.
 Num	21	2	At Israel voto se Dómino óbligans, ait : Si tradíderis pópulum istum in manu mea, delébo urbes eius.
@@ -4470,11 +4470,11 @@ Num	25	3	Initiatúsque est Israel Beélphegor : et irátus Dóminus,
 Num	25	4	ait ad Móysen : Tolle cunctos príncipes pópuli, et suspénde eos contra solem in patíbulis, ut avertátur furor meus ab Israel.
 Num	25	5	Dixítque Móyses ad iúdices Israel : Occídat unusquísque próximos suos, qui initiáti sunt Beélphegor.
 Num	25	6	Et ecce unus de fíliis Israel intrávit coram frátribus suis ad scortum Madianítidem, vidénte Móyse, et omni turba filiórum Israel, qui flebant ante fores tabernáculi.
-Num	25	7	Quod cum vidísset Phínees fílius Eleazári fílii Aaron sacerdótis, surréxit de médio multitúdinis, et arrépto pugióne,
+Num	25	7	Quod cum vidísset Phínees fílius Eleázari fílii Aaron sacerdótis, surréxit de médio multitúdinis, et arrépto pugióne,
 Num	25	8	ingréssus est post virum Israelítem in lupánar, et perfódit ambos simul, virum scílicet et mulíerem in locis genitálibus. Cessavítque plaga a fíliis Israel :
 Num	25	9	et occísi sunt vigínti quátuor míllia hóminum.
 Num	25	10	Dixítque Dóminus ad Móysen :
-Num	25	11	Phínees fílius Eleazári fílii Aaron sacerdótis avértit iram meam a fíliis Israel : quia zelo meo commótus est contra eos, ut non ipse delérem fílios Israel in zelo meo.
+Num	25	11	Phínees fílius Eleázari fílii Aaron sacerdótis avértit iram meam a fíliis Israel : quia zelo meo commótus est contra eos, ut non ipse delérem fílios Israel in zelo meo.
 Num	25	12	Idcírco lóquere ad eum : Ecce do ei pacem fœ́deris mei,
 Num	25	13	et erit tam ipsi quam sémini eius pactum sacerdótii sempitérnum : quia zelátus est pro Deo suo, et expiávit scelus filiórum Israel.
 Num	25	14	Erat autem nomen viri Israelítæ, qui occísus est cum Madianítide, Zambri fílius Salv, dux de cognatióne et tribu Simeónis.
@@ -4482,7 +4482,7 @@ Num	25	15	Porro múlier Madianítis, quæ páriter interfécta est, vocabátur C
 Num	25	16	Locutúsque est Dóminus ad Móysen, dicens :
 Num	25	17	Hostes vos séntiant Madianítæ, et percútite eos :
 Num	25	18	quia et ipsi hostíliter egérunt contra vos, et decepére insídiis per idólum Phogor, et Cozbi fíliam ducis Mádian sorórem suam, quæ percússa est in die plagæ pro sacrilégio Phogor.
-Num	26	1	Postquam noxiórum sanguis effúsus est, dixit Dóminus ad Móysen et Eleazárum fílium Aaron sacerdótem :
+Num	26	1	Postquam noxiórum sanguis effúsus est, dixit Dóminus ad Móysen et Eleázarum fílium Aaron sacerdótem :
 Num	26	2	Numeráte omnem summam filiórum Israel a vigínti annis et supra, per domos et cognatiónes suas, cunctos qui possunt ad bella procédere.
 Num	26	3	Locúti sunt ítaque Móyses et Eleázar sacérdos, in campéstribus Moab super Iordánem contra Iéricho, ad eos qui erant
 Num	26	4	a vigínti annis et supra, sicut Dóminus imperáverat, quorum iste est númerus.
@@ -4544,11 +4544,11 @@ Num	26	59	qui hábuit uxórem Ióchabed fíliam Levi, quæ nata est ei in Ægýp
 Num	26	60	De Aaron orti sunt Nadab et Abiu, et Eleázar et Ithamar :
 Num	26	61	quorum Nadab et Abiu mórtui sunt, cum obtulíssent ignem aliénum coram Dómino.
 Num	26	62	Fuerúntque omnes qui numeráti sunt, vigínti tria míllia géneris masculíni ab uno mense et supra : quia non sunt recensíti inter fílios Israel, nec eis cum céteris data posséssio est.
-Num	26	63	Hic est númerus filiórum Israel, qui descrípti sunt a Móyse et Eleazáro sacerdóte, in campéstribus Moab supra Iordánem contra Iéricho :
+Num	26	63	Hic est númerus filiórum Israel, qui descrípti sunt a Móyse et Eleázaro sacerdóte, in campéstribus Moab supra Iordánem contra Iéricho :
 Num	26	64	inter quos, nullus fuit eórum qui ante numeráti sunt a Móyse et Aaron in desérto Sínai :
 Num	26	65	prædíxerat enim Dóminus quod omnes moreréntur in solitúdine. Nullúsque remánsit ex eis, nisi Caleb fílius Iéphone, et Iósue fílius Nun.
 Num	27	1	Accessérunt autem fíliæ Sálphaad, fílii Hepher, fílii Gálaad, fílii Machir, fílii Manásse, qui fuit fílius Ioseph : quarum sunt nómina, Máala, et Noa, et Hegla, et Melcha, et Thersa.
-Num	27	2	Steterúntque coram Móyse et Eleazáro sacerdóte et cunctis princípibus pópuli ad óstium tabernáculi fœ́deris, atque dixérunt :
+Num	27	2	Steterúntque coram Móyse et Eleázaro sacerdóte et cunctis princípibus pópuli ad óstium tabernáculi fœ́deris, atque dixérunt :
 Num	27	3	Pater noster mórtuus est in desérto, nec fuit in seditióne, quæ concitáta est contra Dóminum sub Core, sed in peccáto suo mórtuus est : hic non hábuit mares fílios. Cur tóllitur nomen illíus de família sua, quia non hábuit fílium ? date nobis possessiónem inter cognátos patris nostri.
 Num	27	4	Retulítque Móyses causam eárum ad iudícium Dómini.
 Num	27	5	Qui dixit ad eum :
@@ -4565,10 +4565,10 @@ Num	27	15	Cui respóndit Móyses :
 Num	27	16	Provídeat Dóminus Deus spirítuum omnis carnis hóminem, qui sit super multitúdinem hanc :
 Num	27	17	et possit exíre et intráre ante eos, et edúcere eos vel introdúcere : ne sit pópulus Dómini sicut oves absque pastóre.
 Num	27	18	Dixítque Dóminus ad eum : Tolle Iósue fílium Nun, virum in quo est spíritus, et pone manum tuam super eum.
-Num	27	19	Qui stabit coram Eleazáro sacerdóte et omni multitúdine :
+Num	27	19	Qui stabit coram Eleázaro sacerdóte et omni multitúdine :
 Num	27	20	et dabis ei præcépta cunctis vidéntibus, et partem glóriæ tuæ, ut áudiat eum omnis synagóga filiórum Israel.
 Num	27	21	Pro hoc, si quid agéndum erit, Eleázar sacérdos cónsulet Dóminum. Ad verbum eius egrediétur et ingrediétur ipse, et omnes fílii Israel cum eo, et cétera multitúdo.
-Num	27	22	Fecit Móyses ut præcéperat Dóminus : cumque tulísset Iósue, státuit eum coram Eleazáro sacerdóte et omni frequéntia pópuli.
+Num	27	22	Fecit Móyses ut præcéperat Dóminus : cumque tulísset Iósue, státuit eum coram Eleázaro sacerdóte et omni frequéntia pópuli.
 Num	27	23	Et impósitis cápiti eius mánibus, cuncta replicávit quæ mandáverat Dóminus.
 Num	28	1	Dixit quoque Dóminus ad Móysen :
 Num	28	2	Prǽcipe fíliis Israel, et dices ad eos : Oblatiónem meam et panes, et incénsum odóris suavíssimi offérte per témpora sua.
@@ -4662,13 +4662,13 @@ Num	31	2	Ulcíscere prius fílios Israel de Madianítis, et sic colligéris ad p
 Num	31	3	Statímque Móyses : Armáte, inquit, ex vobis viros ad pugnam, qui possint ultiónem Dómini expétere de Madianítis.
 Num	31	4	Mille viri de síngulis tríbubus eligántur ex Israel qui mittántur ad bellum.
 Num	31	5	Dederúntque millénos de síngulis tríbubus, id est, duódecim míllia expeditórum ad pugnam :
-Num	31	6	quos misit Móyses cum Phínees fílio Eleazári sacerdótis, vasa quoque sancta, et tubas ad clangéndum trádidit ei.
+Num	31	6	quos misit Móyses cum Phínees fílio Eleázari sacerdótis, vasa quoque sancta, et tubas ad clangéndum trádidit ei.
 Num	31	7	Cumque pugnássent contra Madianítas atque vicíssent, omnes mares occidérunt,
 Num	31	8	et reges eórum, Evi, et Recem, et Sur, et Hur, et Rebe, quinque príncipes gentis : Bálaam quoque fílium Beor interfecérunt gládio.
 Num	31	9	Ceperúntque mulíeres eórum, et párvulos, omniáque pécora, et cunctam supelléctilem : quidquid habére potúerant depopuláti sunt :
 Num	31	10	tam urbes quam vículos et castélla flamma consúmpsit.
 Num	31	11	Et tulérunt prædam, et univérsa quæ céperant tam ex homínibus quam ex iuméntis,
-Num	31	12	et adduxérunt ad Móysen, et Eleazárum sacerdótem, et ad omnem multitúdinem filiórum Israel : réliqua autem utensília portavérunt ad castra in campéstribus Moab iuxta Iordánem contra Iéricho.
+Num	31	12	et adduxérunt ad Móysen, et Eleázarum sacerdótem, et ad omnem multitúdinem filiórum Israel : réliqua autem utensília portavérunt ad castra in campéstribus Moab iuxta Iordánem contra Iéricho.
 Num	31	13	Egréssi sunt autem Móyses et Eleázar sacérdos, et omnes príncipes synagógæ, in occúrsum eórum extra castra.
 Num	31	14	Iratúsque Móyses princípibus exércitus, tribúnis, et centuriónibus qui vénerant de bello,
 Num	31	15	ait : Cur féminas reservástis ?
@@ -4685,7 +4685,7 @@ Num	31	25	Dixit quoque Dóminus ad Móysen :
 Num	31	26	Tóllite summam eórum quæ capta sunt, ab hómine usque ad pecus, tu et Eleázar sacérdos et príncipes vulgi :
 Num	31	27	dividésque ex æquo prædam inter eos qui pugnavérunt egressíque sunt ad bellum, et inter omnem réliquam multitúdinem.
 Num	31	28	Et separábis partem Dómino ab his qui pugnavérunt et fuérunt in bello, unam ánimam de quingéntis, tam ex homínibus quam ex bobus et ásinis et óvibus,
-Num	31	29	et dabis eam Eleazáro sacerdóti, quia primítiæ Dómini sunt.
+Num	31	29	et dabis eam Eleázaro sacerdóti, quia primítiæ Dómini sunt.
 Num	31	30	Ex média quoque parte filiórum Israel accípies quinquagésimum caput hóminum, et boum, et asinórum, et óvium, cunctórum animántium, et dabis ea Levítis, qui éxcubant in custódiis tabernáculi Dómini.
 Num	31	31	Fecerúntque Móyses et Eleázar sicut præcéperat Dóminus.
 Num	31	32	Fuit autem præda, quam exércitus céperat, óvium sexcénta septuagínta quinque míllia,
@@ -4697,7 +4697,7 @@ Num	31	37	e quibus in partem Dómini supputátæ sunt oves sexcéntæ septuagín
 Num	31	38	et de bobus trigínta sex míllibus, boves septuagínta et duo :
 Num	31	39	de ásinis trigínta míllibus quingéntis, ásini sexagínta unus :
 Num	31	40	de animábus hóminum sédecim míllibus, cessérunt in partem Dómini trigínta duæ ánimæ.
-Num	31	41	Tradidítque Móyses númerum primitiárum Dómini Eleazáro sacerdóti, sicut fúerat ei imperátum,
+Num	31	41	Tradidítque Móyses númerum primitiárum Dómini Eleázaro sacerdóti, sicut fúerat ei imperátum,
 Num	31	42	ex média parte filiórum Israel, quam separáverat his qui in prǽlio fúerant.
 Num	31	43	De média vero parte, quæ contígerat réliquæ multitúdini, id est, de óvibus trecéntis trigínta septem míllibus quingéntis,
 Num	31	44	et de bobus trigínta sex míllibus,
@@ -4712,7 +4712,7 @@ Num	31	52	pondo sédecim míllia septingéntos quinquagínta siclos, a tribúnis
 Num	31	53	Unusquísque enim quod in præda rapúerat, suum erat.
 Num	31	54	Et suscéptum intulérunt in tabernáculum testimónii, in moniméntum filiórum Israel coram Dómino.
 Num	32	1	Fílii autem Ruben et Gad habébant pécora multa, et erat illis in iuméntis infiníta substántia. Cumque vidíssent Iazer et Gálaad aptas animálibus aléndis terras,
-Num	32	2	venérunt ad Móysen, et ad Eleazárum sacerdótem, et príncipes multitúdinis, atque dixérunt :
+Num	32	2	venérunt ad Móysen, et ad Eleázarum sacerdótem, et príncipes multitúdinis, atque dixérunt :
 Num	32	3	Ataroth, et Dibon, et Iazer, et Nemra, Hésebon, et Eleále, et Saban, et Nebo, et Beon,
 Num	32	4	terra, quam percússit Dóminus in conspéctu filiórum Israel, régio ubérrima est ad pastum animálium : et nos servi tui habémus iuménta plúrima,
 Num	32	5	precamúrque si invénimus grátiam coram te, ut des nobis fámulis tuis eam in possessiónem, nec fácias nos transíre Iordánem.
@@ -4738,7 +4738,7 @@ Num	32	24	Ædificáte ergo urbes párvulis vestris, et caulas, et stábula óvib
 Num	32	25	Dixerúntque fílii Gad et Ruben ad Móysen : Servi tui sumus : faciémus quod iubet dóminus noster.
 Num	32	26	Párvulos nostros, et mulíeres, et pécora, ac iuménta relinquémus in úrbibus Gálaad :
 Num	32	27	nos autem fámuli tui omnes expedíti pergémus ad bellum, sicut tu, dómine, lóqueris.
-Num	32	28	Præcépit ergo Móyses Eleazáro sacerdóti, et Iósue fílio Nun, et princípibus familiárum per tribus Israel, et dixit ad eos :
+Num	32	28	Præcépit ergo Móyses Eleázaro sacerdóti, et Iósue fílio Nun, et princípibus familiárum per tribus Israel, et dixit ad eos :
 Num	32	29	Si transíerint fílii Gad et fílii Ruben vobíscum Iordánem omnes armáti ad bellum coram Dómino, et vobis fúerit terra subiécta, date eis Gálaad in possessiónem.
 Num	32	30	Sin autem nolúerint transíre armáti vobíscum in terram Chánaan, inter vos habitándi accípiant loca.
 Num	32	31	Responderúntque fílii Gad et fílii Ruben : Sicut locútus est Dóminus servis suis, ita faciémus :
