@@ -8371,6 +8371,921 @@ Ps	150	3	Laudáte eum in sono tubæ ; laudáte eum in psaltério et cíthara.
 Ps	150	4	Laudáte eum in týmpano et choro ; laudáte eum in chordis et órgano.
 Ps	150	5	Laudáte eum in cýmbalis benesonántibus ; laudáte eum in cýmbalis iubilatiónis.
 Ps	150	6	Omnis spíritus laudet Dóminum ! Allelúia.
+Pr	1	1	Parábolæ Salomónis, fílii David, regis Israel,
+Pr	1	2	ad sciéndam sapiéntiam et disciplínam ;
+Pr	1	3	ad intelligénda verba prudéntiæ, et suscipiéndam eruditiónem doctrínæ, iustítiam, et iudícium, et æquitátem :
+Pr	1	4	ut detur párvulis astútia, adolescénti sciéntia et intelléctus.
+Pr	1	5	Audiens sápiens, sapiéntior erit, et intélligens gubernácula possidébit.
+Pr	1	6	Animadvértet parábolam et interpretatiónem, verba sapiéntum et ænígmata eórum.
+Pr	1	7	Timor Dómini princípium sapiéntiæ ; sapiéntiam atque doctrínam stulti despíciunt.
+Pr	1	8	Audi, fili mi, disciplínam patris tui, et ne dimíttas legem matris tuæ :
+Pr	1	9	ut addátur grátia cápiti tuo, et torques collo tuo.
+Pr	1	10	Fili mi, si te lactáverint peccatóres, ne acquiéscas eis.
+Pr	1	11	Si díxerint : Veni nobíscum, insidiémur sánguini ; abscondámus tendículas contra insóntem frustra ;
+Pr	1	12	deglutiámus eum sicut inférnus vivéntem, et íntegrum quasi descendéntem in lacum ;
+Pr	1	13	omnem pretiósam substántiam reperiémus ; implébimus domos nostras spóliis :
+Pr	1	14	sortem mitte nobíscum, marsúpium unum sit ómnium nostrum :
+Pr	1	15	fili mi, ne ámbules cum eis ; próhibe pedem tuum a sémitis eórum :
+Pr	1	16	pedes enim illórum ad malum currunt, et festínant ut effúndant sánguinem.
+Pr	1	17	Frustra autem iácitur rete ante óculos pennatórum.
+Pr	1	18	Ipsi quoque contra sánguinem suum insidiántur, et moliúntur fraudes contra ánimas suas.
+Pr	1	19	Sic sémitæ omnis avári : ánimas possidéntium rápiunt.
+Pr	1	20	Sapiéntia foris prǽdicat ; in platéis dat vocem suam :
+Pr	1	21	in cápite turbárum clámitat ; in fóribus portárum urbis profert verba sua, dicens :
+Pr	1	22	Usquequo, párvuli, dilígitis infántiam, et stulti ea quæ sibi sunt nóxia cúpient, et imprudéntes odíbunt sciéntiam ?
+Pr	1	23	convertímini ad correptiónem meam. En próferam vobis spíritum meum, et osténdam vobis verba mea.
+Pr	1	24	Quia vocávi, et renuístis ; exténdi manum meam, et non fuit qui aspíceret :
+Pr	1	25	despexístis omne consílium meum, et increpatiónes meas neglexístis.
+Pr	1	26	Ego quoque in intéritu vestro ridébo, et subsannábo cum vobis id quod timebátis advénerit.
+Pr	1	27	Cum irrúerit repentína calámitas, et intéritus quasi tempéstas ingrúerit ; quando vénerit super vos tribulátio et angústia :
+Pr	1	28	tunc invocábunt me, et non exáudiam ; mane consúrgent, et non invénient me :
+Pr	1	29	eo quod exósam habúerint disciplínam, et timórem Dómini non suscéperint,
+Pr	1	30	nec acquiéverint consílio meo, et detráxerint univérsæ correptióni meæ.
+Pr	1	31	Cómedent ígitur fructus viæ suæ, suísque consíliis saturabúntur.
+Pr	1	32	Avérsio parvulórum interfíciet eos, et prospéritas stultórum perdet illos.
+Pr	1	33	Qui autem me audíerit, absque terróre requiéscet, et abundántia perfruétur, timóre malórum subláto.
+Pr	2	1	Fili mi, si suscéperis sermónes meos, et mandáta mea abscónderis penes te :
+Pr	2	2	ut áudiat sapiéntiam auris tua, inclína cor tuum ad cognoscéndam prudéntiam.
+Pr	2	3	Si enim sapiéntiam invocáveris, et inclináveris cor tuum prudéntiæ ;
+Pr	2	4	si quæsíeris eam quasi pecúniam, et sicut thesáuros effóderis illam :
+Pr	2	5	tunc intélliges timórem Dómini, et sciéntiam Dei invénies,
+Pr	2	6	quia Dóminus dat sapiéntiam, et ex ore eius prudéntia et sciéntia.
+Pr	2	7	Custódiet rectórum salútem, et próteget gradiéntes simplíciter,
+Pr	2	8	servans sémitas iustítiæ, et vias sanctórum custódiens.
+Pr	2	9	Tunc intélliges iustítiam, et iudícium, et æquitátem, et omnem sémitam bonam.
+Pr	2	10	Si intráverit sapiéntia cor tuum, et sciéntia ánimæ tuæ placúerit,
+Pr	2	11	consílium custódiet te, et prudéntia servábit te :
+Pr	2	12	ut eruáris a via mala, et ab hómine qui pervérsa lóquitur ;
+Pr	2	13	qui relínquunt iter rectum, et ámbulant per vias tenebrósas ;
+Pr	2	14	qui lætántur cum malefécerint, et exsúltant in rebus péssimis ;
+Pr	2	15	quorum viæ pervérsæ sunt, et infámes gressus eórum.
+Pr	2	16	Ut eruáris a mulíere aliéna, et ab extránea quæ mollit sermónes suos,
+Pr	2	17	et relínquit ducem pubertátis suæ,
+Pr	2	18	et pacti Dei sui oblíta est. Inclináta est enim ad mortem domus eius, et ad ínferos sémitæ ipsíus.
+Pr	2	19	Omnes qui ingrediúntur ad eam non reverténtur, nec apprehéndent sémitas vitæ.
+Pr	2	20	Ut ámbules in via bona, et calles iustórum custódias :
+Pr	2	21	qui enim recti sunt habitábunt in terra, et símplices permanébunt in ea ;
+Pr	2	22	ímpii vero de terra perdéntur, et qui iníque agunt auferéntur ex ea.
+Pr	3	1	Fili mi, ne obliviscáris legis meæ, et præcépta mea cor tuum custódiat :
+Pr	3	2	longitúdinem enim diérum, et annos vitæ, et pacem, appónent tibi.
+Pr	3	3	Misericórdia et véritas te non déserant ; circúmda eas gútturi tuo, et descríbe in tábulis cordis tui :
+Pr	3	4	et invénies grátiam, et disciplínam bonam, coram Deo et homínibus.
+Pr	3	5	Habe fidúciam in Dómino ex toto corde tuo, et ne innitáris prudéntiæ tuæ.
+Pr	3	6	In ómnibus viis tuis cógita illum, et ipse díriget gressus tuos.
+Pr	3	7	Ne sis sápiens apud temetípsum ; time Deum, et recéde a malo :
+Pr	3	8	sánitas quippe erit umbilíco tuo, et irrigátio óssium tuórum.
+Pr	3	9	Honóra Dóminum de tua substántia, et de primítiis ómnium frugum tuárum da ei :
+Pr	3	10	et implebúntur hórrea tua saturitáte, et vino torculária tua redundábunt.
+Pr	3	11	Disciplínam Dómini, fili mi, ne abícias, nec defícias cum ab eo corríperis :
+Pr	3	12	quem enim díligit Dóminus, córripit, et quasi pater in fílio cómplacet sibi.
+Pr	3	13	Beátus homo qui invénit sapiéntiam, et qui áffluit prudéntia.
+Pr	3	14	Mélior est acquisítio eius negotiatióne argénti, et auri primi et puríssimi fructus eius.
+Pr	3	15	Pretiósior est cunctis ópibus, et ómnia quæ desiderántur huic non valent comparári.
+Pr	3	16	Longitúdo diérum in déxtera eius, et in sinístra illíus divítiæ et glória.
+Pr	3	17	Viæ eius viæ pulchræ, et omnes sémitæ illíus pacíficæ.
+Pr	3	18	Lignum vitæ est his qui apprehénderint eam, et qui tenúerit eam beátus.
+Pr	3	19	Dóminus sapiéntia fundávit terram ; stabilívit cælos prudéntia.
+Pr	3	20	Sapiéntia illíus erupérunt abýssi, et nubes rore concréscunt.
+Pr	3	21	Fili mi, ne éffluant hæc ab óculis tuis. Custódi legem atque consílium,
+Pr	3	22	et erit vita ánimæ tuæ, et grátia fáucibus tuis.
+Pr	3	23	Tunc ambulábis fiduciáliter in via tua, et pes tuus non impínget.
+Pr	3	24	Si dormíeris, non timébis ; quiésces, et suávis erit somnus tuus.
+Pr	3	25	Ne páveas repentíno terróre, et irruéntes tibi poténtias impiórum.
+Pr	3	26	Dóminus enim erit in látere tuo, et custódiet pedem tuum, ne capiáris.
+Pr	3	27	Noli prohibére benefácere eum qui potest : si vales, et ipse bénefac.
+Pr	3	28	Ne dicas amíco tuo : Vade, et revértere : cras dabo tibi : cum statim possis dare.
+Pr	3	29	Ne moliáris amíco tuo malum, cum ille in te hábeat fidúciam.
+Pr	3	30	Ne conténdas advérsus hóminem frustra, cum ipse tibi nihil mali fécerit.
+Pr	3	31	Ne æmuléris hóminem iniústum, nec imitéris vias eius :
+Pr	3	32	quia abominátio Dómini est omnis illúsor, et cum simplícibus sermocinátio eius.
+Pr	3	33	Egéstas a Dómino in domo ímpii ; habitácula autem iustórum benedicéntur.
+Pr	3	34	Ipse delúdet illusóres, et mansuétis dabit grátiam.
+Pr	3	35	Glóriam sapiéntes possidébunt ; stultórum exaltátio ignomínia.
+Pr	4	1	Audíte, fílii, disciplínam patris, et atténdite ut sciátis prudéntiam.
+Pr	4	2	Donum bonum tríbuam vobis : legem meam ne derelinquátis.
+Pr	4	3	Nam et ego fílius fui patris mei, tenéllus et unigénitus coram matre mea.
+Pr	4	4	Et docébat me, atque dicébat : Suscípiat verba mea cor tuum ; custódi præcépta mea, et vives.
+Pr	4	5	Pósside sapiéntiam, pósside prudéntiam : ne obliviscáris, neque declínes a verbis oris mei.
+Pr	4	6	Ne dimíttas eam, et custódiet te : dílige eam, et conservábit te.
+Pr	4	7	Princípium sapiéntiæ : pósside sapiéntiam, et in omni possessióne tua acquíre prudéntiam.
+Pr	4	8	Arripe illam, et exaltábit te ; glorificáberis ab ea cum eam fúeris amplexátus.
+Pr	4	9	Dabit cápiti tuo augménta gratiárum, et coróna ínclyta próteget te.
+Pr	4	10	Audi, fili mi, et súscipe verba mea, ut multiplicéntur tibi anni vitæ.
+Pr	4	11	Viam sapiéntiæ monstrábo tibi ; ducam te per sémitas æquitátis :
+Pr	4	12	quas cum ingréssus fúeris, non arctabúntur gressus tui, et currens non habébis offendículum.
+Pr	4	13	Tene disciplínam, ne dimíttas eam ; custódi illam, quia ipsa est vita tua.
+Pr	4	14	Ne delectéris in sémitis impiórum, nec tibi pláceat malórum via.
+Pr	4	15	Fuge ab ea, nec tránseas per illam ; declína, et désere eam.
+Pr	4	16	Non enim dórmiunt nisi malefécerint, et rápitur somnus ab eis nisi supplantáverint.
+Pr	4	17	Cómedunt panem impietátis, et vinum iniquitátis bibunt.
+Pr	4	18	Iustórum autem sémita quasi lux splendens procédit, et crescit usque ad perféctam diem.
+Pr	4	19	Via impiórum tenebrósa ; nésciunt ubi córruant.
+Pr	4	20	Fili mi, auscúlta sermónes meos, et ad elóquia mea inclína aurem tuam.
+Pr	4	21	Ne recédant ab óculis tuis : custódi ea in médio cordis tui :
+Pr	4	22	vita enim sunt inveniéntibus ea, et univérsæ carni sánitas.
+Pr	4	23	Omni custódia serva cor tuum, quia ex ipso vita procédit.
+Pr	4	24	Rémove a te os pravum, et detrahéntia lábia sint procul a te.
+Pr	4	25	Oculi tui recta vídeant, et pálpebræ tuæ præcédant gressus tuos.
+Pr	4	26	Dírige sémitam pédibus tuis, et omnes viæ tuæ stabiliéntur.
+Pr	4	27	Ne declínes ad déxteram neque ad sinístram ; avérte pedem tuum a malo : vias enim quæ a dextris sunt novit Dóminus : pervérsæ vero sunt quæ a sinístris sunt. Ipse autem rectos fáciet cursus tuos, itínera autem tua in pace prodúcet.
+Pr	5	1	Fili mi, atténde ad sapiéntiam meam, et prudéntiæ meæ inclína aurem tuam :
+Pr	5	2	ut custódias cogitatiónes, et disciplínam lábia tua consérvent. Ne atténdas falláciæ mulíeris ;
+Pr	5	3	favus enim distíllans lábia meretrícis, et nitídius óleo guttur eius :
+Pr	5	4	novíssima autem illíus amára quasi absínthium, et acúta quasi gládius biceps.
+Pr	5	5	Pedes eius descéndunt in mortem, et ad ínferos gressus illíus pénetrant.
+Pr	5	6	Per sémitam vitæ non ámbulant ; vagi sunt gressus eius et investigábiles.
+Pr	5	7	Nunc ergo fili mi, audi me, et ne recédas a verbis oris mei.
+Pr	5	8	Longe fac ab ea viam tuam, et ne appropínques fóribus domus eius.
+Pr	5	9	Ne des aliénis honórem tuum, et annos tuos crudéli :
+Pr	5	10	ne forte impléntur extránei víribus tuis, et labóres tui sint in domo aliéna,
+Pr	5	11	et gemas in novíssimis, quando consúmpseris carnes tuas et corpus tuum, et dicas :
+Pr	5	12	Cur detestátus sum disciplínam, et increpatiónibus non acquiévit cor meum,
+Pr	5	13	nec audívi vocem docéntium me, et magístris non inclinávi aurem meam ?
+Pr	5	14	pene fui in omni malo, in médio ecclésiæ et synagógæ.
+Pr	5	15	Bibe aquam de cistérna tua, et fluénta pútei tui ;
+Pr	5	16	derivéntur fontes tui foras, et in platéis aquas tuas dívide.
+Pr	5	17	Habéto eas solus, nec sint aliéni partícipes tui.
+Pr	5	18	Sit vena tua benedícta, et lætáre cum mulíere adolescéntiæ tuæ.
+Pr	5	19	Cerva caríssima, et gratíssimus hínnulus : úbera eius inébrient te in omni témpore ; in amóre eius delectáre iúgiter.
+Pr	5	20	Quare sedúceris, fili mi, ab aliéna, et fovéris in sinu altérius ?
+Pr	5	21	Réspicit Dóminus vias hóminis, et omnes gressus eius consíderat.
+Pr	5	22	Iniquitátes suas cápiunt ímpium, et fúnibus peccatórum suórum constríngitur.
+Pr	5	23	Ipse moriétur, quia non hábuit disciplínam, et in multitúdine stultítiæ suæ decipiétur.
+Pr	6	1	Fili mi, si spopónderis pro amíco tuo, defixísti apud extráneum manum tuam :
+Pr	6	2	illaqueátus es verbis oris tui, et captus própriis sermónibus.
+Pr	6	3	Fac ergo quod dico, fili mi, et temetípsum líbera, quia incidísti in manum próximi tui. Discúrre, festína, súscita amícum tuum.
+Pr	6	4	Ne déderis somnum óculis tuis, nec dormítent pálpebræ tuæ.
+Pr	6	5	Erúere quasi dámula de manu, et quasi avis de manu áucupis.
+Pr	6	6	Vade ad formícam, o piger, et consídera vias eius, et disce sapiéntiam.
+Pr	6	7	Quæ cum non hábeat ducem, nec præceptórem, nec príncipem,
+Pr	6	8	parat in æstáte cibum sibi, et cóngregat in messe quod cómedat.
+Pr	6	9	Usquequo, piger, dórmies ? quando consúrges e somno tuo ?
+Pr	6	10	Páululum dórmies, páululum dormitábis, páululum cónseres manus ut dórmias ;
+Pr	6	11	et véniet tibi quasi viátor egéstas, et paupéries quasi vir armátus. Si vero ímpiger fúeris, véniet ut fons messis tua, et egéstas longe fúgiet a te.
+Pr	6	12	Homo apóstata, vir inútilis, gráditur ore pervérso ;
+Pr	6	13	ánnuit óculis, terit pede, dígito lóquitur,
+Pr	6	14	pravo corde machinátur malum, et omni témpore iúrgia séminat.
+Pr	6	15	Huic extémplo véniet perdítio sua, et súbito conterétur, nec habébit ultra medicínam.
+Pr	6	16	Sex sunt quæ odit Dóminus, et séptimum detestátur ánima eius :
+Pr	6	17	óculos sublímes, linguam mendácem, manus effundéntes innóxium sánguinem,
+Pr	6	18	cor máchinans cogitatiónes péssimas, pedes velóces ad curréndum in malum,
+Pr	6	19	proferéntem mendácia testem fallácem, et eum qui séminat inter fratres discórdias.
+Pr	6	20	Consérva, fili mi, præcépta patris tui, et ne dimíttas legem matris tuæ.
+Pr	6	21	Liga ea in corde tuo iúgiter, et circúmda gútturi tuo.
+Pr	6	22	Cum ambuláveris, gradiántur tecum ; cum dormíeris, custódiant te : et evígilans lóquere cum eis.
+Pr	6	23	Quia mandátum lucérna est, et lex lux, et via vitæ increpátio disciplínæ :
+Pr	6	24	ut custódiant te a mulíere mala, et a blanda lingua extráneæ.
+Pr	6	25	Non concupíscat pulchritúdinem eius cor tuum, nec capiáris nútibus illíus :
+Pr	6	26	prétium enim scorti vix est uníus panis, múlier autem viri pretiósam ánimam capit.
+Pr	6	27	Numquid potest homo abscóndere ignem in sinu suo, ut vestiménta illíus non árdeant ?
+Pr	6	28	aut ambuláre super prunas, ut non comburántur plantæ eius ?
+Pr	6	29	sic qui ingréditur ad mulíerem próximi sui, non erit mundus cum tetígerit eam.
+Pr	6	30	Non grandis est culpa cum quis furátus fúerit : furátur enim ut esuriéntem ímpleat ánimam ;
+Pr	6	31	deprehénsus quoque reddet séptuplum, et omnem substántiam domus suæ tradet.
+Pr	6	32	Qui autem adúlter est, propter cordis inópiam perdet ánimam suam ;
+Pr	6	33	turpitúdinem et ignomíniam cóngregat sibi, et oppróbrium illíus non delébitur :
+Pr	6	34	quia zelus et furor viri non parcet in die vindíctæ,
+Pr	6	35	nec acquiéscet cuiúsquam précibus, nec suscípiet pro redemptióne dona plúrima.
+Pr	7	1	Fili mi, custódi sermónes meos, et præcépta mea recónde tibi. Fili,
+Pr	7	2	serva mandáta mea, et vives ; et legem meam quasi pupíllam óculi tui :
+Pr	7	3	liga eam in dígitis tuis, scribe illam in tábulis cordis tui.
+Pr	7	4	Dic sapiéntiæ : Soror mea es, et prudéntiam voca amícam tuam :
+Pr	7	5	ut custódiant te a mulíere extránea, et ab aliéna quæ verba sua dúlcia facit.
+Pr	7	6	De fenéstra enim domus meæ per cancéllos prospéxi,
+Pr	7	7	et vídeo párvulos ; consídero vecórdem iúvenem,
+Pr	7	8	qui transit per platéam iuxta ángulum et prope viam domus illíus gráditur :
+Pr	7	9	in obscúro, advesperascénte die, in noctis ténebris et calígine.
+Pr	7	10	Et ecce occúrrit illi múlier ornátu meretrício, præparáta ad capiéndas ánimas : gárrula et vaga,
+Pr	7	11	quiétis impátiens, nec valens in domo consístere pédibus suis ;
+Pr	7	12	nunc foris, nunc in platéis, nunc iuxta ángulos insídians.
+Pr	7	13	Apprehensúmque deosculátur iúvenem, et procáci vultu blandítur, dicens :
+Pr	7	14	Víctimas pro salúte vovi ; hódie réddidi vota mea :
+Pr	7	15	idcírco egréssa sum in occúrsum tuum, desíderans te vidére, et réperi.
+Pr	7	16	Intéxui fúnibus léctulum meum ; stravi tapétibus pictis ex Ægýpto :
+Pr	7	17	aspérsi cubíle meum myrrha, et áloe, et cinnamómo.
+Pr	7	18	Veni, inebriémur ubéribus, et fruámur cupítis ampléxibus donec illucéscat dies.
+Pr	7	19	Non est enim vir in domo sua : ábiit via longíssima :
+Pr	7	20	sácculum pecúniæ secum tulit ; in die plenæ lunæ reversúrus est in domum suam.
+Pr	7	21	Irretívit eum multis sermónibus, et blandítiis labiórum protráxit illum.
+Pr	7	22	Statim eam séquitur quasi bos ductus ad víctimam, et quasi agnus lascíviens, et ignórans quod ad víncula stultus trahátur :
+Pr	7	23	donec transfígat sagítta iecur eius, velut si avis festínet ad láqueum, et nescit quod de perículo ánimæ illíus ágitur.
+Pr	7	24	Nunc ergo, fili mi, audi me, et atténde verbis oris mei.
+Pr	7	25	Ne abstrahátur in viis illíus mens tua, neque decipiáris sémitis eius ;
+Pr	7	26	multos enim vulnerátos deiécit, et fortíssimi quique interfécti sunt ab ea.
+Pr	7	27	Viæ ínferi domus eius, penetrántes in interióra mortis.
+Pr	8	1	Numquid non sapiéntia clámitat, et prudéntia dat vocem suam ?
+Pr	8	2	In summis excelsísque vertícibus supra viam, in médiis sémitis stans,
+Pr	8	3	iuxta portas civitátis, in ipsis fóribus lóquitur, dicens :
+Pr	8	4	O viri, ad vos clámito, et vox mea ad fílios hóminum.
+Pr	8	5	Intellígite, párvuli, astútiam, et insipiéntes, animadvértite.
+Pr	8	6	Audíte, quóniam de rebus magnis locutúra sum, et aperiéntur lábia mea ut recta prǽdicent.
+Pr	8	7	Veritátem meditábitur guttur meum, et lábia mea detestabúntur ímpium.
+Pr	8	8	Iusti sunt omnes sermónes mei : non est in eis pravum quid, neque pervérsum ;
+Pr	8	9	recti sunt intelligéntibus, et æqui inveniéntibus sciéntiam.
+Pr	8	10	Accípite disciplínam meam, et non pecúniam ; doctrínam magis quam aurum elígite :
+Pr	8	11	mélior est enim sapiéntia cunctis pretiosíssimis, et omne desiderábile ei non potest comparári.
+Pr	8	12	Ego sapiéntia, hábito in consílio, et erudítis intérsum cogitatiónibus.
+Pr	8	13	Timor Dómini odit malum : arrogántiam, et supérbiam, et viam pravam, et os bilíngue, detéstor.
+Pr	8	14	Meum est consílium et ǽquitas ; mea est prudéntia, mea est fortitúdo.
+Pr	8	15	Per me reges regnant, et legum conditóres iusta decérnunt ;
+Pr	8	16	per me príncipes ímperant, et poténtes decérnunt iustítiam.
+Pr	8	17	Ego diligéntes me díligo, et qui mane vígilant ad me, invénient me.
+Pr	8	18	Mecum sunt divítiæ et glória, opes supérbæ et iustítia.
+Pr	8	19	Mélior est enim fructus meus auro et lápide pretióso, et genímina me argénto elécto.
+Pr	8	20	In viis iustítiæ ámbulo, in médio semitárum iudícii :
+Pr	8	21	ut ditem diligéntes me, et thesáuros eórum répleam.
+Pr	8	22	Dóminus possédit me in inítio viárum suárum ántequam quidquam fáceret a princípio.
+Pr	8	23	Ab ætérno ordináta sum, et ex antíquis ántequam terra fíeret.
+Pr	8	24	Nondum erant abýssi, et ego iam concépta eram : necdum fontes aquárum erúperant,
+Pr	8	25	necdum montes gravi mole constíterant : ante colles ego parturiébar.
+Pr	8	26	Adhuc terram non fécerat, et flúmina, et cárdines orbis terræ.
+Pr	8	27	Quando præparábat cælos, áderam ; quando certa lege et gyro vallábat abýssos ;
+Pr	8	28	quando ǽthera firmábat sursum, et librábat fontes aquárum ;
+Pr	8	29	quando circúmdabat mari términum suum, et legem ponébat aquis, ne transírent fines suos ; quando appendébat fundaménta terræ :
+Pr	8	30	cum eo eram, cuncta compónens. Et delectábar per síngulos dies, ludens coram eo omni témpore,
+Pr	8	31	ludens in orbe terrárum ; et delíciæ meæ esse cum fíliis hóminum.
+Pr	8	32	Nunc ergo, fílii, audíte me : beáti qui custódiunt vias meas.
+Pr	8	33	Audíte disciplínam, et estóte sapiéntes, et nolíte abícere eam.
+Pr	8	34	Beátus homo qui audit me, et qui vígilat ad fores meas quotídie, et obsérvat ad postes óstii mei.
+Pr	8	35	Qui me invénerit, invéniet vitam, et háuriet salútem a Dómino.
+Pr	8	36	Qui autem in me peccáverit, lædet ánimam suam ; omnes qui me odérunt díligunt mortem.
+Pr	9	1	Sapiéntia ædificávit sibi domum : excídit colúmnas septem.
+Pr	9	2	Immolávit víctimas suas, míscuit vinum, et propósuit mensam suam.
+Pr	9	3	Misit ancíllas suas ut vocárent ad arcem et ad mœ́nia civitátis.
+Pr	9	4	Si quis est párvulus, véniat ad me. Et insipiéntibus locúta est :
+Pr	9	5	Veníte, comédite panem meum, et bíbite vinum quod míscui vobis.
+Pr	9	6	Relínquite infántiam, et vívite, et ambuláte per vias prudéntiæ.
+Pr	9	7	Qui érudit derisórem, ipse iniúriam sibi facit, et qui árguit ímpium, sibi máculam génerat.
+Pr	9	8	Noli argúere derisórem, ne óderit te : árgue sapiéntem, et díliget te.
+Pr	9	9	Da sapiénti occasiónem, et addétur ei sapiéntia ; doce iustum, et festinábit accípere.
+Pr	9	10	Princípium sapiéntiæ timor Dómini, et sciéntia sanctórum prudéntia.
+Pr	9	11	Per me enim multiplicabúntur dies tui, et addéntur tibi anni vitæ.
+Pr	9	12	Si sápiens fúeris, tibimetípsi eris ; si autem illúsor, solus portábis malum.
+Pr	9	13	Múlier stulta et clamósa, plenáque illécebris, et nihil omníno sciens,
+Pr	9	14	sedit in fóribus domus suæ, super sellam in excélso urbis loco,
+Pr	9	15	ut vocáret transeúntes per viam, et pergéntes itínere suo :
+Pr	9	16	Qui est párvulus declínet ad me. Et vecórdi locúta est :
+Pr	9	17	Aquæ furtívæ dulcióres sunt, et panis abscónditus suávior.
+Pr	9	18	Et ignorávit quod ibi sint Gigántes, et in profúndis inférni convívæ eius.
+Pr	10	1	Fílius sápiens lætíficat patrem, fílius vero stultus mœstítia est matris suæ.
+Pr	10	2	Nil próderunt thesáuri impietátis, iustítia vero liberábit a morte.
+Pr	10	3	Non afflíget Dóminus fame ánimam iusti, et insídias impiórum subvértet.
+Pr	10	4	Egestátem operáta est manus remíssa ; manus autem fórtium divítias parat. Qui nítitur mendáciis, hic pascit ventos ; idem autem ipse séquitur aves volántes.
+Pr	10	5	Qui cóngregat in messe, fílius sápiens est ; qui autem stertit æstáte, fílius confusiónis.
+Pr	10	6	Benedíctio Dómini super caput iusti ; os autem impiórum óperit iníquitas.
+Pr	10	7	Memória iusti cum láudibus, et nomen impiórum putréscet.
+Pr	10	8	Sápiens corde præcépta súscipit ; stultus cǽditur lábiis.
+Pr	10	9	Qui ámbulat simplíciter ámbulat confidénter ; qui autem deprávat vias suas maniféstus erit.
+Pr	10	10	Qui ánnuit óculo dabit dolórem ; et stultus lábiis verberábitur.
+Pr	10	11	Vena vitæ os iusti, et os impiórum óperit iniquitátem.
+Pr	10	12	Odium súscitat rixas, et univérsa delícta óperit cáritas.
+Pr	10	13	In lábiis sapiéntis invenítur sapiéntia, et virga in dorso eius qui índiget corde.
+Pr	10	14	Sapiéntes abscóndunt sciéntiam ; os autem stulti confusióni próximum est.
+Pr	10	15	Substántia dívitis, urbs fortitúdinis eius ; pavor páuperum egéstas eórum.
+Pr	10	16	Opus iusti ad vitam, fructus autem ímpii ad peccátum.
+Pr	10	17	Via vitæ custodiénti disciplínam ; qui autem increpatiónes relínquit, errat.
+Pr	10	18	Abscóndunt ódium lábia mendácia ; qui profert contuméliam, insípiens est.
+Pr	10	19	In multilóquio non déerit peccátum, qui autem moderátur lábia sua prudentíssimus est.
+Pr	10	20	Argéntum eléctum lingua iusti ; cor autem impiórum pro níhilo.
+Pr	10	21	Lábia iusti erúdiunt plúrimos ; qui autem indócti sunt in cordis egestáte moriéntur.
+Pr	10	22	Benedíctio Dómini dívites facit, nec sociábitur eis afflíctio.
+Pr	10	23	Quasi per risum stultus operátur scelus, sapiéntia autem est viro prudéntia.
+Pr	10	24	Quod timet ímpius véniet super eum ; desidérium suum iustus dábitur.
+Pr	10	25	Quasi tempéstas tránsiens non erit ímpius ; iustus autem quasi fundaméntum sempitérnum.
+Pr	10	26	Sicut acétum déntibus, et fumus óculis, sic piger his qui misérunt eum.
+Pr	10	27	Timor Dómini appónet dies, et anni impiórum breviabúntur.
+Pr	10	28	Exspectátio iustórum lætítia, spes autem impiórum períbit.
+Pr	10	29	Fortitúdo símplicis via Dómini, et pavor his qui operántur malum.
+Pr	10	30	Iustus in ætérnum non commovébitur, ímpii autem non habitábunt super terram.
+Pr	10	31	Os iusti partúriet sapiéntiam ; lingua pravórum períbit.
+Pr	10	32	Lábia iusti consíderant plácita, et os impiórum pervérsa.
+Pr	11	1	Statéra dolósa abominátio est apud Dóminum, et pondus æquum volúntas eius.
+Pr	11	2	Ubi fúerit supérbia, ibi erit et contumélia ; ubi autem est humílitas, ibi et sapiéntia.
+Pr	11	3	Simplícitas iustórum díriget eos, et supplantátio perversórum vastábit illos.
+Pr	11	4	Non próderunt divítiæ in die ultiónis ; iustítia autem liberábit a morte.
+Pr	11	5	Iustítia símplicis díriget viam eius, et in impietáte sua córruet ímpius.
+Pr	11	6	Iustítia rectórum liberábit eos, et in insídiis suis capiéntur iníqui.
+Pr	11	7	Mórtuo hómine ímpio, nulla erit ultra spes, et exspectátio sollicitórum períbit.
+Pr	11	8	Iustus de angústia liberátus est, et tradétur ímpius pro eo.
+Pr	11	9	Simulátor ore décipit amícum suum ; iusti autem liberabúntur sciéntia.
+Pr	11	10	In bonis iustórum exsultábit cívitas, et in perditióne impiórum erit laudátio.
+Pr	11	11	Benedictióne iustórum exaltábitur cívitas, et ore impiórum subvertétur.
+Pr	11	12	Qui déspicit amícum suum índigens corde est ; vir autem prudens tacébit.
+Pr	11	13	Qui ámbulat fraudulénter, revélat arcána ; qui autem fidélis est ánimi, celat amíci commíssum.
+Pr	11	14	Ubi non est gubernátor, pópulus córruet ; salus autem, ubi multa consília.
+Pr	11	15	Affligétur malo qui fidem facit pro extráneo ; qui autem cavet láqueos secúrus erit.
+Pr	11	16	Múlier gratiósa invéniet glóriam, et robústi habébunt divítias.
+Pr	11	17	Benéfacit ánimæ suæ vir miséricors ; qui autem crudélis est, étiam propínquos ábicit.
+Pr	11	18	Impius facit opus instábile, seminánti autem iustítiam merces fidélis.
+Pr	11	19	Cleméntia prǽparat vitam, et sectátio malórum mortem.
+Pr	11	20	Abominábile Dómino cor pravum, et volúntas eius in iis qui simplíciter ámbulant.
+Pr	11	21	Manus in manu non erit ínnocens malus ; semen autem iustórum salvábitur.
+Pr	11	22	Círculus áureus in náribus suis, múlier pulchra et fátua.
+Pr	11	23	Desidérium iustórum omne bonum est ; præstolátio impiórum furor.
+Pr	11	24	Alii dívidunt própria, et ditióres fiunt ; álii rápiunt non sua, et semper in egestáte sunt.
+Pr	11	25	Anima quæ benedícit impinguábitur, et qui inébriat, ipse quoque inebriábitur.
+Pr	11	26	Qui abscóndit fruménta maledicétur in pópulis ; benedíctio autem super caput vendéntium.
+Pr	11	27	Bene consúrgit dilúculo qui quærit bona ; qui autem investigátor malórum est, opprimétur ab eis.
+Pr	11	28	Qui confídit in divítiis suis córruet : iusti autem quasi virens fólium germinábunt.
+Pr	11	29	Qui contúrbat domum suam possidébit ventos, et qui stultus est sérviet sapiénti.
+Pr	11	30	Fructus iusti lignum vitæ, et qui súscipit ánimas sápiens est.
+Pr	11	31	Si iustus in terra récipit, quanto magis ímpius et peccátor !
+Pr	12	1	Qui díligit disciplínam díligit sciéntiam ; qui autem odit increpatiónes insípiens est.
+Pr	12	2	Qui bonus est háuriet grátiam a Dómino ; qui autem confídit in cogitatiónibus suis ímpie agit.
+Pr	12	3	Non roborábitur homo ex impietáte, et radix iustórum non commovébitur.
+Pr	12	4	Múlier díligens coróna est viro suo ; et putrédo in óssibus eius, quæ confusióne res dignas gerit.
+Pr	12	5	Cogitatiónes iustórum iudícia, et consília impiórum fraudulénta.
+Pr	12	6	Verba impiórum insidiántur sánguini ; os iustórum liberábit eos.
+Pr	12	7	Verte ímpios, et non erunt ; domus autem iustórum permanébit.
+Pr	12	8	Doctrína sua noscétur vir ; qui autem vanus et excors est patébit contémptui.
+Pr	12	9	Mélior est pauper et suffíciens sibi quam gloriósus et índigens pane.
+Pr	12	10	Novit iustus iumentórum suórum ánimas ; víscera autem impiórum crudélia.
+Pr	12	11	Qui operátur terram suam satiábitur pánibus ; qui autem sectátur ótium stultíssimus est. Qui suávis est in vini demoratiónibus, in suis munitiónibus relínquit contuméliam.
+Pr	12	12	Desidérium ímpii muniméntum est pessimórum ; radix autem iustórum profíciet.
+Pr	12	13	Propter peccáta labiórum ruína próximat malo ; effúgiet autem iustus de angústia.
+Pr	12	14	De fructu oris sui unusquísque replébitur bonis, et iuxta ópera mánuum suárum retribuétur ei.
+Pr	12	15	Via stulti recta in óculis eius ; qui autem sápiens est audit consília.
+Pr	12	16	Fátuus statim índicat iram suam ; qui autem dissímulat iniúriam cállidus est.
+Pr	12	17	Qui quod novit lóquitur, index iustítiæ est ; qui autem mentítur, testis est frauduléntus.
+Pr	12	18	Est qui promíttit, et quasi gládio púngitur consciéntiæ : lingua autem sapiéntium sánitas est.
+Pr	12	19	Lábium veritátis firmum erit in perpétuum ; qui autem testis est repentínus, concínnat linguam mendácii.
+Pr	12	20	Dolus in corde cogitántium mala ; qui autem pacis íneunt consília, séquitur eos gáudium.
+Pr	12	21	Non contristábit iustum quidquid ei accíderit : ímpii autem replebúntur malo.
+Pr	12	22	Abominátio est Dómino lábia mendácia ; qui autem fidéliter agunt placent ei.
+Pr	12	23	Homo versátus celat sciéntiam, et cor insipiéntium próvocat stultítiam.
+Pr	12	24	Manus fórtium dominábitur ; quæ autem remíssa est, tribútis sérviet.
+Pr	12	25	Mœror in corde viri humiliábit illum, et sermóne bono lætificábitur.
+Pr	12	26	Qui négligit damnum propter amícum, iustus est ; iter autem impiórum decípiet eos.
+Pr	12	27	Non invéniet frauduléntus lucrum, et substántia hóminis erit auri prétium.
+Pr	12	28	In sémita iustítiæ vita ; iter autem dévium ducit ad mortem.
+Pr	13	1	Fílius sápiens doctrína patris ; qui autem illúsor est non audit cum argúitur.
+Pr	13	2	De fructu oris sui homo satiábitur bonis : ánima autem prævaricatórum iníqua.
+Pr	13	3	Qui custódit os suum custódit ánimam suam ; qui autem inconsiderátus est ad loquéndum, séntiet mala.
+Pr	13	4	Vult et non vult piger ; ánima autem operántium impinguábitur.
+Pr	13	5	Verbum mendax iustus detestábitur ; ímpius autem confúndit, et confundétur.
+Pr	13	6	Iustítia custódit innocéntis viam, impíetas autem peccatórem supplántat.
+Pr	13	7	Est quasi dives, cum nihil hábeat, et est quasi pauper, cum in multis divítiis sit.
+Pr	13	8	Redémptio ánimæ viri divítiæ suæ ; qui autem pauper est, increpatiónem non sústinet.
+Pr	13	9	Lux iustórum lætíficat : lucérna autem impiórum extinguétur.
+Pr	13	10	Inter supérbos semper iúrgia sunt ; qui autem agunt ómnia cum consílio, regúntur sapiéntia.
+Pr	13	11	Substántia festináta minuétur ; quæ autem paulátim collígitur manu, multiplicábitur.
+Pr	13	12	Spes quæ différtur afflígit ánimam ; lignum vitæ desidérium véniens.
+Pr	13	13	Qui détrahit álicui rei, ipse se in futúrum óbligat ; qui autem timet præcéptum, in pace versábitur. Animæ dolósæ errant in peccátis : iusti autem misericórdes sunt, et miserántur.
+Pr	13	14	Lex sapiéntis fons vitæ, ut declínet a ruína mortis.
+Pr	13	15	Doctrína bona dabit grátiam ; in itínere contemptórum vorágo.
+Pr	13	16	Astútus ómnia agit cum consílio ; qui autem fátuus est áperit stultítiam.
+Pr	13	17	Núntius ímpii cadet in malum ; legátus autem fidélis, sánitas.
+Pr	13	18	Egéstas et ignomínia ei qui déserit disciplínam ; qui autem acquiéscit arguénti glorificábitur.
+Pr	13	19	Desidérium si compleátur deléctat ánimam ; detestántur stulti eos qui fúgiunt mala.
+Pr	13	20	Qui cum sapiéntibus gráditur sápiens erit ; amícus stultórum símilis efficiétur.
+Pr	13	21	Peccatóres perséquitur malum, et iustis retribuéntur bona.
+Pr	13	22	Bonus relíquit hærédes fílios et nepótes, et custodítur iusto substántia peccatóris.
+Pr	13	23	Multi cibi in noválibus patrum, et áliis congregántur absque iudício.
+Pr	13	24	Qui parcit virgæ odit fílium suum ; qui autem díligit illum instánter érudit.
+Pr	13	25	Iustus cómedit et replet ánimam suam ; venter autem impiórum insaturábilis.
+Pr	14	1	Sápiens múlier ædíficat domum suam ; insípiens exstrúctam quoque mánibus déstruet.
+Pr	14	2	Ambulans recto itínere, et timens Deum, despícitur ab eo qui infámi gráditur via.
+Pr	14	3	In ore stulti virga supérbiæ ; lábia autem sapiéntium custódiunt eos.
+Pr	14	4	Ubi non sunt boves, præsépe vácuum est ; ubi autem plúrimæ ségetes, ibi manifésta est fortitúdo bovis.
+Pr	14	5	Testis fidélis non mentítur ; profert autem mendácium dolósus testis.
+Pr	14	6	Quærit derísor sapiéntiam, et non ínvenit ; doctrína prudéntium fácilis.
+Pr	14	7	Vade contra virum stultum, et nescit lábia prudéntiæ.
+Pr	14	8	Sapiéntia cállidi est intellígere viam suam, et imprudéntia stultórum errans.
+Pr	14	9	Stultus illúdet peccátum, et inter iustos morábitur grátia.
+Pr	14	10	Cor quod novit amaritúdinem ánimæ suæ, in gáudio eius non miscébitur extráneus.
+Pr	14	11	Domus impiórum delébitur : tabernácula vero iustórum germinábunt.
+Pr	14	12	Est via quæ vidétur hómini iusta, novíssima autem eius dedúcunt ad mortem.
+Pr	14	13	Risus dolóre miscébitur, et extréma gáudii luctus óccupat.
+Pr	14	14	Viis suis replébitur stultus, et super eum erit vir bonus.
+Pr	14	15	Innocens credit omni verbo ; astútus consíderat gressus suos. Fílio dolóso nihil erit boni ; servo autem sapiénti prósperi erunt actus, et dirigétur via eius.
+Pr	14	16	Sápiens timet, et declínat a malo ; stultus tránsilit, et confídit.
+Pr	14	17	Impátiens operábitur stultítiam, et vir versútus odiósus est.
+Pr	14	18	Possidébunt párvuli stultítiam, et exspectábunt astúti sciéntiam.
+Pr	14	19	Iacébunt mali ante bonos, et ímpii ante portas iustórum.
+Pr	14	20	Etiam próximo suo pauper odiósus erit : amíci vero dívitum multi.
+Pr	14	21	Qui déspicit próximum suum peccat ; qui autem miserétur páuperis beátus erit. Qui credit in Dómino misericórdiam díligit.
+Pr	14	22	Errant qui operántur malum ; misericórdia et véritas prǽparant bona.
+Pr	14	23	In omni ópere erit abundántia ; ubi autem verba sunt plúrima, ibi frequénter egéstas.
+Pr	14	24	Coróna sapiéntium divítiæ eórum ; fatúitas stultórum imprudéntia.
+Pr	14	25	Líberat ánimas testis fidélis, et profert mendácia versipéllis.
+Pr	14	26	In timóre Dómini fidúcia fortitúdinis, et fíliis eius erit spes.
+Pr	14	27	Timor Dómini fons vitæ, ut declínent a ruína mortis.
+Pr	14	28	In multitúdine pópuli dígnitas regis, et in paucitáte plebis ignomínia príncipis.
+Pr	14	29	Qui pátiens est multa gubernátur prudéntia ; qui autem impátiens est exáltat stultítiam suam.
+Pr	14	30	Vita cárnium sánitas cordis ; putrédo óssium invídia.
+Pr	14	31	Qui calumniátur egéntem éxprobrat factóri eius ; honórat autem eum qui miserétur páuperis.
+Pr	14	32	In malítia sua expellétur ímpius : sperat autem iustus in morte sua.
+Pr	14	33	In corde prudéntis requiéscit sapiéntia, et indóctos quosque erúdiet.
+Pr	14	34	Iustítia élevat gentem ; míseros autem facit pópulos peccátum.
+Pr	14	35	Accéptus est regi miníster intélligens ; iracúndiam eius inútilis sustinébit.
+Pr	15	1	Respónsio mollis frangit iram ; sermo durus súscitat furórem.
+Pr	15	2	Lingua sapiéntium ornat sciéntiam ; os fatuórum ebúllit stultítiam.
+Pr	15	3	In omni loco, óculi Dómini contemplántur bonos et malos.
+Pr	15	4	Lingua placábilis lignum vitæ ; quæ autem immoderáta est cónteret spíritum.
+Pr	15	5	Stultus irrídet disciplínam patris sui ; qui autem custódit increpatiónes astútior fiet. In abundánti iustítia virtus máxima est : cogitatiónes autem impiórum eradicabúntur.
+Pr	15	6	Domus iusti plúrima fortitúdo, et in frúctibus ímpii conturbátio.
+Pr	15	7	Lábia sapiéntium disseminábunt sciéntiam ; cor stultórum dissímile erit.
+Pr	15	8	Víctimæ impiórum abominábiles Dómino ; vota iustórum placabília.
+Pr	15	9	Abominátio est Dómino via ímpii ; qui séquitur iustítiam dilígitur ab eo.
+Pr	15	10	Doctrína mala deserénti viam vitæ ; qui increpatiónes odit, moriétur.
+Pr	15	11	Inférnus et perdítio coram Dómino ; quanto magis corda filiórum hóminum !
+Pr	15	12	Non amat péstilens eum qui se córripit, nec ad sapiéntes gráditur.
+Pr	15	13	Cor gaudens exhílarat fáciem ; in mœróre ánimi deícitur spíritus.
+Pr	15	14	Cor sapiéntis quærit doctrínam, et os stultórum páscitur imperítia.
+Pr	15	15	Omnes dies páuperis, mali ; secúra mens quasi iuge convívium.
+Pr	15	16	Mélius est parum cum timóre Dómini, quam thesáuri magni et insatiábiles.
+Pr	15	17	Mélius est vocári ad ólera cum caritáte, quam ad vítulum saginátum cum ódio.
+Pr	15	18	Vir iracúndus próvocat rixas ; qui pátiens est mítigat suscitátas.
+Pr	15	19	Iter pigrórum quasi sepes spinárum ; via iustórum absque offendículo.
+Pr	15	20	Fílius sápiens lætíficat patrem, et stultus homo déspicit matrem suam.
+Pr	15	21	Stultítia gáudium stulto, et vir prudens dírigit gressus suos.
+Pr	15	22	Dissipántur cogitatiónes ubi non est consílium ; ubi vero sunt plures consiliárii, confirmántur.
+Pr	15	23	Lætátur homo in senténtia oris sui, et sermo opportúnus est óptimus.
+Pr	15	24	Sémita vitæ super erudítum, ut declínet de inférno novíssimo.
+Pr	15	25	Domum superbórum demoliétur Dóminus, et firmos fáciet términos víduæ.
+Pr	15	26	Abominátio Dómini cogitatiónes malæ, et purus sermo pulchérrimus firmábitur ab eo.
+Pr	15	27	Contúrbat domum suam qui sectátur avarítiam ; qui autem odit múnera, vivet. Per misericórdiam et fidem purgántur peccáta : per timórem autem Dómini declínat omnis a malo.
+Pr	15	28	Mens iusti meditátur obediéntiam ; os impiórum redúndat malis.
+Pr	15	29	Longe est Dóminus ab ímpiis, et oratiónes iustórum exáudiet.
+Pr	15	30	Lux oculórum lætíficat ánimam ; fama bona impínguat ossa.
+Pr	15	31	Auris quæ audit increpatiónes vitæ in médio sapiéntium commorábitur.
+Pr	15	32	Qui ábicit disciplínam déspicit ánimam suam ; qui autem acquiéscit increpatiónibus posséssor est cordis.
+Pr	15	33	Timor Dómini disciplína sapiéntiæ, et glóriam præcédit humílitas.
+Pr	16	1	Hóminis est ánimam præparáre, et Dómini gubernáre linguam.
+Pr	16	2	Omnes viæ hóminis patent óculis eius ; spirítuum ponderátor est Dóminus.
+Pr	16	3	Revéla Dómino ópera tua, et dirigéntur cogitatiónes tuæ.
+Pr	16	4	Univérsa propter semetípsum operátus est Dóminus ; ímpium quoque ad diem malum.
+Pr	16	5	Abominátio Dómini est omnis árrogans ; etiámsi manus ad manum fúerit, non est ínnocens. Inítium viæ bonæ fácere iustítiam ; accépta est autem apud Deum magis quam immoláre hóstias.
+Pr	16	6	Misericórdia et veritáte redímitur iníquitas, et in timóre Dómini declinátur a malo.
+Pr	16	7	Cum placúerint Dómino viæ hóminis, inimícos quoque eius convértet ad pacem.
+Pr	16	8	Mélius est parum cum iustítia quam multi fructus cum iniquitáte.
+Pr	16	9	Cor hóminis dispónit viam suam, sed Dómini est dirígere gressus eius.
+Pr	16	10	Divinátio in lábiis regis ; in iudício non errábit os eius.
+Pr	16	11	Pondus et statéra iudícia Dómini sunt, et ópera eius omnes lápides sácculi.
+Pr	16	12	Abominábiles regi qui agunt ímpie, quóniam iustítia firmátur sólium.
+Pr	16	13	Volúntas regum lábia iusta ; qui recta lóquitur diligétur.
+Pr	16	14	Indignátio regis núntii mortis, et vir sápiens placábit eam.
+Pr	16	15	In hilaritáte vultus regis vita, et cleméntia eius quasi imber serótinus.
+Pr	16	16	Pósside sapiéntiam, quia auro mélior est, et acquíre prudéntiam, quia pretiósior est argénto.
+Pr	16	17	Sémita iustórum declínat mala ; custos ánimæ suæ servat viam suam.
+Pr	16	18	Contritiónem præcédit supérbia, et ante ruínam exaltátur spíritus.
+Pr	16	19	Mélius est humiliári cum mítibus quam divídere spólia cum supérbis.
+Pr	16	20	Erudítus in verbo repériet bona, et qui sperat in Dómino beátus est.
+Pr	16	21	Qui sápiens est corde appellábitur prudens, et qui dulcis elóquio maióra percípiet.
+Pr	16	22	Fons vitæ erudítio possidéntis ; doctrína stultórum fatúitas.
+Pr	16	23	Cor sapiéntis erúdiet os eius, et lábiis eius addet grátiam.
+Pr	16	24	Favus mellis compósita verba ; dulcédo ánimæ sánitas óssium.
+Pr	16	25	Est via quæ vidétur hómini recta, et novíssima eius ducunt ad mortem.
+Pr	16	26	Anima laborántis labórat sibi, quia cómpulit eum os suum.
+Pr	16	27	Vir ímpius fodit malum, et in lábiis eius ignis ardéscit.
+Pr	16	28	Homo pervérsus súscitat lites, et verbósus séparat príncipes.
+Pr	16	29	Vir iníquus lactat amícum suum, et ducit eum per viam non bonam.
+Pr	16	30	Qui attónitis óculis cógitat prava, mordens lábia sua pérficit malum.
+Pr	16	31	Coróna dignitátis senéctus, quæ in viis iustítiæ reperiétur.
+Pr	16	32	Mélior est pátiens viro forti, et qui dominátur ánimo suo expugnatóre úrbium.
+Pr	16	33	Sortes mittúntur in sinum, sed a Dómino temperántur.
+Pr	17	1	Mélior est buccélla sicca cum gáudio quam domus plena víctimis cum iúrgio.
+Pr	17	2	Servus sápiens dominábitur fíliis stultis, et inter fratres hæreditátem dívidet.
+Pr	17	3	Sicut igne probátur argéntum et aurum camíno, ita corda probat Dóminus.
+Pr	17	4	Malus obédit linguæ iníquæ, et fallax obtémperat lábiis mendácibus.
+Pr	17	5	Qui déspicit páuperem éxprobrat factóri eius, et qui ruína lætátur altérius non erit impunítus.
+Pr	17	6	Coróna senum fílii filiórum, et glória filiórum patres eórum.
+Pr	17	7	Non decent stultum verba compósita, nec príncipem lábium méntiens.
+Pr	17	8	Gemma gratíssima exspectátio præstolántis ; quocúmque se vertit, prudénter intélligit.
+Pr	17	9	Qui celat delíctum quærit amicítias ; qui áltero sermóne répetit, séparat fœderátos.
+Pr	17	10	Plus próficit corréptio apud prudéntem, quam centum plagæ apud stultum.
+Pr	17	11	Semper iúrgia quærit malus : ángelus autem crudélis mittétur contra eum.
+Pr	17	12	Expedit magis ursæ occúrrere raptis fœ́tibus, quam fátuo confidénti in stultítia sua.
+Pr	17	13	Qui reddit mala pro bonis, non recédet malum de domo eius.
+Pr	17	14	Qui dimíttit aquam caput est iurgiórum, et ántequam patiátur contuméliam iudícium déserit.
+Pr	17	15	Qui iustíficat ímpium, et qui condémnat iustum, abominábilis est utérque apud Deum.
+Pr	17	16	Quid prodest stulto habére divítias, cum sapiéntiam émere non possit ? Qui altum facit domum suam quærit ruínam, et qui evítat díscere íncidet in mala.
+Pr	17	17	Omni témpore díligit qui amícus est, et frater in angústiis comprobátur.
+Pr	17	18	Stultus homo plaudet mánibus, cum spopónderit pro amíco suo.
+Pr	17	19	Qui meditátur discórdias díligit rixas, et qui exáltat óstium quærit ruínam.
+Pr	17	20	Qui pervérsi cordis est non invéniet bonum, et qui vertit linguam íncidet in malum.
+Pr	17	21	Natus est stultus in ignomíniam suam ; sed nec pater in fátuo lætábitur.
+Pr	17	22	Animus gaudens ætátem flóridam facit ; spíritus tristis exsíccat ossa.
+Pr	17	23	Múnera de sinu ímpius áccipit, ut pervértat sémitas iudícii.
+Pr	17	24	In fácie prudéntis lucet sapiéntia ; óculi stultórum in fínibus terræ.
+Pr	17	25	Ira patris fílius stultus, et dolor matris quæ génuit eum.
+Pr	17	26	Non est bonum damnum inférre iusto, nec percútere príncipem qui recta iúdicat.
+Pr	17	27	Qui moderátur sermónes suos doctus et prudens est, et pretiósi spíritus vir erudítus.
+Pr	17	28	Stultus quoque, si tacúerit, sápiens reputábitur, et si comprésserit lábia sua, intélligens.
+Pr	18	1	Occasiónes quærit qui vult recédere ab amíco : omni témpore erit exprobrábilis.
+Pr	18	2	Non récipit stultus verba prudéntiæ, nisi ea díxeris quæ versántur in corde eius.
+Pr	18	3	Impius, cum in profúndum vénerit peccatórum, contémnit ; sed séquitur eum ignomínia et oppróbrium.
+Pr	18	4	Aqua profúnda verba ex ore viri, et torrens redúndans fons sapiéntiæ.
+Pr	18	5	Accípere persónam ímpii non est bonum, ut declínes a veritáte iudícii.
+Pr	18	6	Lábia stulti miscent se rixis, et os eius iúrgia próvocat.
+Pr	18	7	Os stulti contrítio eius, et lábia ipsíus ruína ánimæ eius.
+Pr	18	8	Verba bilínguis quasi simplícia, et ipsa pervéniunt usque ad interióra ventris. Pigrum déicit timor ; ánimæ autem effeminatórum esúrient.
+Pr	18	9	Qui mollis et dissolútus est in ópere suo frater est sua ópera dissipántis.
+Pr	18	10	Turris fortíssima nomen Dómini ; ad ipsum currit iustus, et exaltábitur.
+Pr	18	11	Substántia dívitis urbs róboris eius, et quasi murus válidus circúmdans eum.
+Pr	18	12	Antequam conterátur, exaltátur cor hóminis, et ántequam glorificétur, humiliátur.
+Pr	18	13	Qui prius respóndet quam áudiat, stultum se esse demónstrat, et confusióne dignum.
+Pr	18	14	Spíritus viri susténtat imbecillitátem suam ; spíritum vero ad irascéndum fácilem quis póterit sustinére ?
+Pr	18	15	Cor prudens possidébit sciéntiam, et auris sapiéntium quærit doctrínam.
+Pr	18	16	Donum hóminis dilátat viam eius, et ante príncipes spátium ei facit.
+Pr	18	17	Iustus prior est accusátor sui : venit amícus eius, et investigábit eum.
+Pr	18	18	Contradictiónes cómprimit sors, et inter poténtes quoque diiúdicat.
+Pr	18	19	Frater qui adiuvátur a fratre quasi cívitas firma, et iudícia quasi vectes úrbium.
+Pr	18	20	De fructu oris viri replébitur venter eius, et genímina labiórum ipsíus saturábunt eum.
+Pr	18	21	Mors et vita in manu linguæ ; qui díligunt eam cómedent fructus eius.
+Pr	18	22	Qui ínvenit mulíerem bonam ínvenit bonum, et háuriet iucunditátem a Dómino. Qui expéllit mulíerem bonam expéllit bonum ; qui autem tenet adúlteram stultus est et ímpius.
+Pr	18	23	Cum obsecratiónibus loquétur pauper, et dives effábitur rígide.
+Pr	18	24	Vir amábilis ad societátem magis amícus erit quam frater.
+Pr	19	1	Mélior est pauper qui ámbulat in simplicitáte sua quam dives torquens lábia sua, et insípiens.
+Pr	19	2	Ubi non est sciéntia ánimæ, non est bonum, et qui festínus est pédibus offéndet.
+Pr	19	3	Stultítia hóminis supplántat gressus eius, et contra Deum fervet ánimo suo.
+Pr	19	4	Divítiæ addunt amícos plúrimos ; a páupere autem et hi quos hábuit separántur.
+Pr	19	5	Testis falsus non erit impunítus, et qui mendácia lóquitur non effúgiet.
+Pr	19	6	Multi colunt persónam  poténtis, et amíci sunt dona tribuéntis.
+Pr	19	7	Fratres hóminis páuperis odérunt eum ; ínsuper et amíci procul recessérunt ab eo. Qui tantum verba sectátur nihil habébit ;
+Pr	19	8	qui autem posséssor est mentis díligit ánimam suam, et custos prudéntiæ invéniet bona.
+Pr	19	9	Falsus testis non erit impunítus, et qui lóquitur mendácia períbit.
+Pr	19	10	Non decent stultum delíciæ, nec servum dominári princípibus.
+Pr	19	11	Doctrína viri per patiéntiam nóscitur, et glória eius est iníqua prætérgredi.
+Pr	19	12	Sicut frémitus leónis, ita et regis ira, et sicut ros super herbam, ita et hiláritas eius.
+Pr	19	13	Dolor patris fílius stultus, et tecta iúgiter perstillántia litigiósa múlier.
+Pr	19	14	Domus et divítiæ dantur a paréntibus ; a Dómino autem próprie uxor prudens.
+Pr	19	15	Pigrédo immíttit sopórem, et ánima dissolúta esúriet.
+Pr	19	16	Qui custódit mandátum custódit ánimam suam ; qui autem négligit viam suam mortificábitur.
+Pr	19	17	Fœnerátur Dómino qui miserétur páuperis, et vicissitúdinem suam reddet ei.
+Pr	19	18	Erudi fílium tuum ; ne despéres : ad interfectiónem autem eius ne ponas ánimam tuam.
+Pr	19	19	Qui impátiens est sustinébit damnum, et cum rapúerit, aliud appónet.
+Pr	19	20	Audi consílium, et súscipe disciplínam, ut sis sápiens in novíssimis tuis.
+Pr	19	21	Multæ cogitatiónes in corde viri ; volúntas autem Dómini permanébit.
+Pr	19	22	Homo índigens miséricors est, et mélior est pauper quam vir mendax.
+Pr	19	23	Timor Dómini ad vitam, et in plenitúdine commorábitur absque visitatióne péssima.
+Pr	19	24	Abscóndit piger manum suam sub ascélla, nec ad os suum ápplicat eam.
+Pr	19	25	Pestilénte flagelláto stultus sapiéntior erit ; si autem corripúeris sapiéntem, intélliget disciplínam.
+Pr	19	26	Qui afflígit patrem, et fugat matrem, ignominiósus est et infélix.
+Pr	19	27	Non cesses, fili, audíre doctrínam, nec ignóres sermónes sciéntiæ.
+Pr	19	28	Testis iníquus derídet iudícium, et os impiórum dévorat iniquitátem.
+Pr	19	29	Paráta sunt derisóribus iudícia, et mállei percutiéntes stultórum corpóribus.
+Pr	20	1	Luxuriósa res vinum, et tumultuósa ebríetas : quicúmque his delectátur non erit sápiens.
+Pr	20	2	Sicut rugítus leónis, ita et terror regis : qui próvocat eum peccat in ánimam suam.
+Pr	20	3	Honor est hómini qui séparat se a contentiónibus ; omnes autem stulti miscéntur contuméliis.
+Pr	20	4	Propter frigus piger aráre nóluit ; mendicábit ergo æstáte, et non dábitur illi.
+Pr	20	5	Sicut aqua profúnda, sic consílium in corde viri ; sed homo sápiens exháuriet illud.
+Pr	20	6	Multi hómines misericórdes vocántur ; virum autem fidélem quis invéniet ?
+Pr	20	7	Iustus qui ámbulat in simplicitáte sua beátos post se fílios derelínquet.
+Pr	20	8	Rex qui sedet in sólio iudícii díssipat omne malum intúitu suo.
+Pr	20	9	Quis potest dícere : Mundum est cor meum ; purus sum a peccáto ?
+Pr	20	10	Pondus et pondus, mensúra et mensúra : utrúmque abominábile est apud Deum.
+Pr	20	11	Ex stúdiis suis intellígitur puer, si munda et recta sint ópera eius.
+Pr	20	12	Aurem audiéntem, et óculum vidéntem : Dóminus fecit utrúmque.
+Pr	20	13	Noli dilígere somnum, ne te egéstas ópprimat : áperi óculos tuos, et saturáre pánibus.
+Pr	20	14	Malum est, malum est, dicit omnis emptor ; et cum recésserit, tunc gloriábitur.
+Pr	20	15	Est aurum et multitúdo gemmárum, et vas pretiósum lábia sciéntiæ.
+Pr	20	16	Tolle vestiméntum eius qui fideiússor éxtitit aliéni, et pro extráneis aufer pignus ab eo.
+Pr	20	17	Suávis est hómini panis mendácii, et póstea implébitur os eius cálculo.
+Pr	20	18	Cogitatiónes consíliis roborántur, et gubernáculis tractánda sunt bella.
+Pr	20	19	Ei qui revélat mystéria, et ámbulat fraudulénter, et dilátat lábia sua, ne commisceáris.
+Pr	20	20	Qui maledícit patri suo et matri, extinguétur lucérna eius in médiis ténebris :
+Pr	20	21	hæréditas ad quam festinátur in princípio, in novíssimo benedictióne carébit.
+Pr	20	22	Ne dicas : Reddam malum : exspécta Dóminum, et liberábit te.
+Pr	20	23	Abominátio est apud Dóminum pondus et pondus ; statéra dolósa non est bona.
+Pr	20	24	A Dómino dirigúntur gressus viri : quis autem hóminum intellígere potest viam suam ?
+Pr	20	25	Ruína est hómini devoráre sanctos, et post vota retractáre.
+Pr	20	26	Díssipat ímpios rex sápiens, et incúrvat super eos fórnicem.
+Pr	20	27	Lucérna Dómini spiráculum hóminis, quæ investígat ómnia secréta ventris.
+Pr	20	28	Misericórdia et véritas custódiunt regem, et roborátur cleméntia thronus eius.
+Pr	20	29	Exsultátio iúvenum fortitúdo eórum, et dígnitas senum caníties.
+Pr	20	30	Livor vúlneris abstérget mala, et plagæ in secretióribus ventris.
+Pr	21	1	Sicut divisiónes aquárum, ita cor regis in manu Dómini : quocúmque volúerit, inclinábit illud.
+Pr	21	2	Omnis via viri recta sibi vidétur : appéndit autem corda Dóminus.
+Pr	21	3	Fácere misericórdiam et iudícium magis placet Dómino quam víctimæ.
+Pr	21	4	Exaltátio oculórum est dilatátio cordis ; lucérna impiórum peccátum.
+Pr	21	5	Cogitatiónes robústi semper in abundántia ; omnis autem piger semper in egestáte est.
+Pr	21	6	Qui cóngregat thesáuros lingua mendácii vanus et excors est, et impingétur ad láqueos mortis.
+Pr	21	7	Rapínæ impiórum détrahent eos, quia noluérunt fácere iudícium.
+Pr	21	8	Pervérsa via viri aliéna est ; qui autem mundus est, rectum opus eius.
+Pr	21	9	Mélius est sedére in ángulo dómatis, quam cum mulíere litigiósa, et in domo commúni.
+Pr	21	10	Anima ímpii desíderat malum : non miserébitur próximo suo.
+Pr	21	11	Mulctáto pestilénte, sapiéntior erit párvulus, et si sectétur sapiéntem, sumet sciéntiam.
+Pr	21	12	Excógitat iustus de domo ímpii, ut détrahat ímpios a malo.
+Pr	21	13	Qui obtúrat aurem suam ad clamórem páuperis, et ipse clamábit, et non exaudiétur.
+Pr	21	14	Munus abscónditum extínguit iras, et donum in sinu indignatiónem máximam.
+Pr	21	15	Gáudium iusto est fácere iudícium, et pavor operántibus iniquitátem.
+Pr	21	16	Vir qui erráverit a via doctrínæ in cœtu Gigántum commorábitur.
+Pr	21	17	Qui díligit épulas in egestáte erit ; qui amat vinum et pínguia non ditábitur.
+Pr	21	18	Pro iusto datur ímpius, et pro rectis iníquus.
+Pr	21	19	Mélius est habitáre in terra desérta quam cum mulíere rixósa et iracúnda.
+Pr	21	20	Thesáurus desiderábilis, et óleum in habitáculo iusti : et imprúdens homo dissipábit illud.
+Pr	21	21	Qui séquitur iustítiam et misericórdiam invéniet vitam, iustítiam, et glóriam.
+Pr	21	22	Civitátem fórtium ascéndit sápiens, et destrúxit robur fidúciæ eius.
+Pr	21	23	Qui custódit os suum et linguam suam custódit ab angústiis ánimam suam.
+Pr	21	24	Supérbus et árrogans vocátur indóctus, qui in ira operátur supérbiam.
+Pr	21	25	Desidéria occídunt pigrum : noluérunt enim quidquam manus eius operári.
+Pr	21	26	Tota die concupíscit et desíderat ; qui autem iustus est, tríbuet, et non cessábit.
+Pr	21	27	Hóstiæ impiórum abominábiles, quia offerúntur ex scélere.
+Pr	21	28	Testis mendax períbit ; vir obédiens loquétur victóriam.
+Pr	21	29	Vir ímpius procáciter obfírmat vultum suum ; qui autem rectus est córrigit viam suam.
+Pr	21	30	Non est sapiéntia, non est prudéntia, non est consílium contra Dóminum.
+Pr	21	31	Equus parátur ad diem belli ; Dóminus autem salútem tríbuit.
+Pr	22	1	Mélius est nomen bonum quam divítiæ multæ ; super argéntum et aurum grátia bona.
+Pr	22	2	Dives et pauper obviavérunt sibi : utriúsque operátor est Dóminus.
+Pr	22	3	Cállidus vidit malum, et abscóndit se ; ínnocens pertránsiit, et afflíctus est damno.
+Pr	22	4	Finis modéstiæ timor Dómini, divítiæ, et glória, et vita.
+Pr	22	5	Arma et gládii in via pervérsi ; custos autem ánimæ suæ longe recédit ab eis.
+Pr	22	6	Provérbium est : adoléscens iuxta viam suam ; étiam cum senúerit, non recédet ab ea.
+Pr	22	7	Dives paupéribus ímperat, et qui áccipit mútuum servus est fœnerántis.
+Pr	22	8	Qui séminat iniquitátem metet mala, et virga iræ suæ consummábitur.
+Pr	22	9	Qui pronus est ad misericórdiam benedicétur : de pánibus enim suis dedit páuperi. Victóriam et honórem acquíret qui dat múnera ; ánimam autem aufert accipiéntium.
+Pr	22	10	Eice derisórem, et exíbit cum eo iúrgium, cessabúntque causæ et contuméliæ.
+Pr	22	11	Qui díligit cordis mundítiam, propter grátiam labiórum suórum habébit amícum regem.
+Pr	22	12	Oculi Dómini custódiunt sciéntiam, et supplantántur verba iníqui.
+Pr	22	13	Dicit piger : Leo est foris ; in médio plateárum occidéndus sum.
+Pr	22	14	Fóvea profúnda os aliénæ : cui irátus est Dóminus, íncidet in eam.
+Pr	22	15	Stultítia colligáta est in corde púeri, et virga disciplínæ fugábit eam.
+Pr	22	16	Qui calumniátur páuperem ut áugeat divítias suas, dabit ipse ditióri, et egébit.
+Pr	22	17	Inclína aurem tuam, et audi verba sapiéntium : appóne autem cor ad doctrínam meam,
+Pr	22	18	quæ pulchra erit tibi cum serváveris eam in ventre tuo, et redundábit in lábiis tuis :
+Pr	22	19	ut sit in Dómino fidúcia tua, unde et osténdi eam tibi hódie.
+Pr	22	20	Ecce descrípsi eam tibi triplíciter, in cogitatiónibus et sciéntia :
+Pr	22	21	ut osténderem tibi firmitátem et elóquia veritátis, respondére ex his illis qui misérunt te.
+Pr	22	22	Non fácias violéntiam páuperi quia pauper est, neque cónteras egénum in porta :
+Pr	22	23	quia iudicábit Dóminus causam eius, et confíget eos qui confixérunt ánimam eius.
+Pr	22	24	Noli esse amícus hómini iracúndo, neque ámbules cum viro furióso :
+Pr	22	25	ne forte discas sémitas eius, et sumas scándalum ánimæ tuæ.
+Pr	22	26	Noli esse cum his qui defígunt manus suas, et qui vades se ófferunt pro débitis :
+Pr	22	27	si enim non habes unde restítuas, quid causæ est ut tollat operiméntum de cubíli tuo ?
+Pr	22	28	Ne transgrediáris términos antíquos, quos posuérunt patres tui.
+Pr	22	29	Vidísti virum velócem in ópere suo ? coram régibus stabit, nec erit ante ignóbiles.
+Pr	23	1	Quando séderis ut cómedas cum príncipe, diligénter atténde quæ appósita sunt ante fáciem tuam.
+Pr	23	2	Et státue cultrum in gútture tuo : si tamen habes in potestáte ánimam tuam.
+Pr	23	3	Ne desíderes de cibis eius, in quo est panis mendácii.
+Pr	23	4	Noli laboráre ut ditéris, sed prudéntiæ tuæ pone modum.
+Pr	23	5	Ne érigas óculos tuos ad opes quas non potes habére, quia fácient sibi pennas quasi áquilæ, et volábunt in cælum.
+Pr	23	6	Ne cómedas cum hómine ínvido, et ne desíderes cibos eius :
+Pr	23	7	quóniam in similitúdinem aríoli et coniectóris ǽstimat quod ignórat. Cómede et bibe, dicet tibi ; et mens eius non est tecum.
+Pr	23	8	Cibos quos coméderas évomes, et perdes pulchros sermónes tuos.
+Pr	23	9	In áuribus insipiéntium ne loquáris, qui despícient doctrínam elóquii tui.
+Pr	23	10	Ne attíngas parvulórum términos, et agrum pupillórum ne intróeas :
+Pr	23	11	propínquus enim illórum fortis est, et ipse iudicábit contra te causam illórum.
+Pr	23	12	Ingrediátur ad doctrínam cor tuum, et aures tuæ ad verba sciéntiæ.
+Pr	23	13	Noli subtráhere a púero disciplínam : si enim percússeris eum virga, non moriétur.
+Pr	23	14	Tu virga percúties eum, et ánimam eius de inférno liberábis.
+Pr	23	15	Fili mi, si sápiens fúerit ánimus tuus, gaudébit tecum cor meum :
+Pr	23	16	et exsultábunt renes mei, cum locúta fúerint rectum lábia tua.
+Pr	23	17	Non æmulétur cor tuum peccatóres, sed in timóre Dómini esto tota die :
+Pr	23	18	quia habébis spem in novíssimo, et præstolátio tua non auferétur.
+Pr	23	19	Audi, fili mi, et esto sápiens, et dírige in via ánimum tuum.
+Pr	23	20	Noli esse in convíviis potatórum, nec in comessatiónibus eórum qui carnes ad vescéndum cónferunt :
+Pr	23	21	quia vacántes pótibus et dantes sýmbola consuméntur, et vestiétur pannis dormitátio.
+Pr	23	22	Audi patrem tuum, qui génuit te, et ne contémnas cum senúerit mater tua.
+Pr	23	23	Veritátem eme, et noli véndere sapiéntiam, et doctrínam, et intelligéntiam.
+Pr	23	24	Exsúltat gáudio pater iusti ; qui sapiéntem génuit, lætábitur in eo.
+Pr	23	25	Gáudeat pater tuus et mater tua, et exsúltet quæ génuit te.
+Pr	23	26	Præbe, fili mi, cor tuum mihi, et óculi tui vias meas custódiant.
+Pr	23	27	Fóvea enim profúnda est méretrix, et púteus angústus aliéna.
+Pr	23	28	Insidiátur in via quasi latro, et quos incáutos víderit, interfíciet.
+Pr	23	29	Cui væ ? cuius patri væ ? cui rixæ ? cui fóveæ ? cui sine causa vúlnera ? cui suffúsio oculórum ?
+Pr	23	30	nonne his qui commorántur in vino, et student calícibus epotándis ?
+Pr	23	31	Ne intueáris vinum quando flavéscit, cum splendúerit in vitro color eius : ingréditur blande,
+Pr	23	32	sed in novíssimo mordébit ut cóluber, et sicut régulus venéna diffúndet.
+Pr	23	33	Oculi tui vidébunt extráneas, et cor tuum loquétur pervérsa.
+Pr	23	34	Et eris sicut dórmiens in médio mari, et quasi sopítus gubernátor, amísso clavo.
+Pr	23	35	Et dices : Verberavérunt me, sed non dólui ; traxérunt me, et ego non sensi. Quando evigilábo, et rursus vina repériam ?
+Pr	24	1	Ne æmuléris viros malos, nec desíderes esse cum eis :
+Pr	24	2	quia rapínas meditátur mens eórum, et fraudes lábia eórum loquúntur.
+Pr	24	3	Sapiéntia ædificábitur domus, et prudéntia roborábitur.
+Pr	24	4	In doctrína replebúntur cellária, univérsa substántia pretiósa et pulchérrima.
+Pr	24	5	Vir sápiens fortis est, et vir doctus robústus et válidus :
+Pr	24	6	quia cum dispositióne inítur bellum, et erit salus ubi multa consília sunt.
+Pr	24	7	Excélsa stulto sapiéntia ; in porta non apériet os suum.
+Pr	24	8	Qui cógitat mala fácere stultus vocábitur :
+Pr	24	9	cogitátio stulti peccátum est, et abominátio hóminum detráctor.
+Pr	24	10	Si desperáveris lassus in die angústiæ, imminuétur fortitúdo tua.
+Pr	24	11	Erue eos qui ducúntur ad mortem, et qui trahúntur ad intéritum, liberáre ne cesses.
+Pr	24	12	Si díxeris : Vires non súppetunt ; qui inspéctor est cordis ipse intélligit : et servatórem ánimæ tuæ nihil fallit, reddétque hómini iuxta ópera sua.
+Pr	24	13	Cómede, fili mi, mel, quia bonum est, et favum dulcíssimum gútturi tuo.
+Pr	24	14	Sic et doctrína sapiéntiæ ánimæ tuæ : quam cum invéneris, habébis in novíssimis spem, et spes tua non períbit.
+Pr	24	15	Ne insidiéris, et quæras impietátem in domo iusti, neque vastes réquiem eius.
+Pr	24	16	Sépties enim cadet iustus, et resúrget : ímpii autem córruent in malum.
+Pr	24	17	Cum cecíderit inimícus tuus ne gáudeas, et in ruína eius ne exsúltet cor tuum :
+Pr	24	18	ne forte vídeat Dóminus, et displíceat ei, et áuferat ab eo iram suam.
+Pr	24	19	Ne conténdas cum péssimis, nec æmuléris ímpios :
+Pr	24	20	quóniam non habent futurórum spem mali, et lucérna impiórum extinguétur.
+Pr	24	21	Time Dóminum, fili mi, et regem, et cum detractóribus non commisceáris :
+Pr	24	22	quóniam repénte consúrget perdítio eórum, et ruínam utriúsque quis novit ?
+Pr	24	23	Hæc quoque sapiéntibus. Cognóscere persónam in iudício non est bonum.
+Pr	24	24	Qui dicunt ímpio : Iustus es : maledícent eis pópuli, et detestabúntur eos tribus.
+Pr	24	25	Qui árguunt eum laudabúntur, et super ipsos véniet benedíctio.
+Pr	24	26	Lábia deosculábitur qui recta verba respóndet.
+Pr	24	27	Prǽpara foris opus tuum, et diligénter exérce agrum tuum, ut póstea ædífices domum tuam.
+Pr	24	28	Ne sis testis frustra contra próximum tuum, nec lactes quemquam lábiis tuis.
+Pr	24	29	Ne dicas : Quómodo fecit mihi, sic fáciam ei ; reddam unicuíque secúndum opus suum.
+Pr	24	30	Per agrum hóminis pigri transívi, et per víneam viri stulti :
+Pr	24	31	et ecce totum repléverant urtícæ, et operúerant superfíciem eius spinæ, et macéria lápidum destrúcta erat.
+Pr	24	32	Quod cum vidíssem, pósui in corde meo, et exémplo dídici disciplínam.
+Pr	24	33	Parum, inquam, dórmies, módicum dormitábis ; pauxíllum manus cónseres ut quiéscas :
+Pr	24	34	et véniet tibi quasi cursor egéstas, et mendícitas quasi vir armátus.
+Pr	25	1	Hæ quoque parábolæ Salomónis, quas transtulérunt viri Ezechíæ regis Iuda.
+Pr	25	2	Glória Dei est celáre verbum, et glória regum investigáre sermónem.
+Pr	25	3	Cælum sursum, et terra deórsum, et cor regum inscrutábile.
+Pr	25	4	Aufer rubíginem de argénto, et egrediétur vas puríssimum.
+Pr	25	5	Aufer impietátem de vultu regis, et firmábitur iustítia thronus eius.
+Pr	25	6	Ne gloriósus appáreas coram rege, et in loco magnórum ne stéteris.
+Pr	25	7	Mélius est enim ut dicátur tibi : Ascénde huc, quam ut humiliéris coram príncipe.
+Pr	25	8	Quæ vidérunt óculi tui ne próferas in iúrgio cito, ne póstea emendáre non possis, cum dehonestáveris amícum tuum.
+Pr	25	9	Causam tuam tracta cum amíco tuo, et secrétum extráneo ne revéles :
+Pr	25	10	ne forte insúltet tibi cum audíerit, et exprobráre non cesset. Grátia et amicítia líberant : quas tibi serva, ne exprobrábilis fias.
+Pr	25	11	Mala áurea in lectis argénteis, qui lóquitur verbum in témpore suo.
+Pr	25	12	Ináuris áurea, et margarítum fulgens, qui árguit sapiéntem et aurem obediéntem.
+Pr	25	13	Sicut frigus nivis in die messis, ita legátus fidélis ei qui misit eum : ánimam ipsíus requiéscere facit.
+Pr	25	14	Nubes, et ventus, et plúviæ non sequéntes, vir gloriósus et promíssa non complens.
+Pr	25	15	Patiéntia leniétur princeps, et lingua mollis confrínget durítiam.
+Pr	25	16	Mel invenísti : cómede quod súfficit tibi, ne forte satiátus évomas illud.
+Pr	25	17	Súbtrahe pedem tuum de domo próximi tui, nequándo satiátus óderit te.
+Pr	25	18	Iáculum, et gládius, et sagítta acúta, homo qui lóquitur contra próximum suum falsum testimónium.
+Pr	25	19	Dens pútridus, et pes lassus, qui sperat super infidéli in die angústiæ,
+Pr	25	20	et amíttit pállium in die frígoris. Acétum in nitro, qui cantat cármina cordi péssimo. Sicut tínea vestiménto, et vermis ligno, ita tristítia viri nocet cordi.
+Pr	25	21	Si esuríerit inimícus tuus, ciba illum ; si sitíerit, da ei aquam bíbere :
+Pr	25	22	prunas enim congregábis super caput eius, et Dóminus reddet tibi.
+Pr	25	23	Ventus áquilo díssipat plúvias, et fácies tristis linguam detrahéntem.
+Pr	25	24	Mélius est sedére in ángulo dómatis quam cum mulíere litigiósa et in domo commúni.
+Pr	25	25	Aqua frígida ánimæ sitiénti, et núntius bonus de terra longínqua.
+Pr	25	26	Fons turbátus pede et vena corrúpta, iustus cadens coram ímpio.
+Pr	25	27	Sicut qui mel multum cómedit non est ei bonum, sic qui scrutátor est maiestátis opprimétur a glória.
+Pr	25	28	Sicut urbs patens et absque murórum ámbitu, ita vir qui non potest in loquéndo cohibére spíritum suum.
+Pr	26	1	Quómodo nix in æstáte, et plúviæ in messe, sic índecens est stulto glória.
+Pr	26	2	Sicut avis ad ália tránsvolans, et passer quólibet vadens, sic maledíctum frustra prolátum in quémpiam supervéniet.
+Pr	26	3	Flagéllum equo, et camus ásino, et virga in dorso imprudéntium.
+Pr	26	4	Ne respóndeas stulto iuxta stultítiam suam, ne efficiáris ei símilis.
+Pr	26	5	Respónde stulto iuxta stultítiam suam, ne sibi sápiens esse videátur.
+Pr	26	6	Claudus pédibus, et iniquitátem bibens, qui mittit verba per núntium stultum.
+Pr	26	7	Quómodo pulchras frustra habet claudus tíbias, sic índecens est in ore stultórum parábola.
+Pr	26	8	Sicut qui mittit lápidem in acérvum Mercúrii, ita qui tríbuit insipiénti honórem.
+Pr	26	9	Quómodo si spina nascátur in manu temulénti, sic parábola in ore stultórum.
+Pr	26	10	Iudícium detérminat causas, et qui impónit stulto siléntium iras mítigat.
+Pr	26	11	Sicut canis qui revértitur ad vómitum suum, sic imprúdens qui íterat stultítiam suam.
+Pr	26	12	Vidísti hóminem sapiéntem sibi vidéri ? magis illo spem habébit insípiens.
+Pr	26	13	Dicit piger : Leo est in via, et leǽna in itinéribus.
+Pr	26	14	Sicut óstium vértitur in cárdine suo, ita piger in léctulo suo.
+Pr	26	15	Abscóndit piger manum sub ascélla sua, et labórat si ad os suum eam convérterit.
+Pr	26	16	Sapiéntior sibi piger vidétur septem viris loquéntibus senténtias.
+Pr	26	17	Sicut qui apprehéndit áuribus canem, sic qui transit impátiens et commiscétur rixæ altérius.
+Pr	26	18	Sicut nóxius est qui mittit sagíttas et lánceas in mortem,
+Pr	26	19	ita vir fraudulénter nocet amíco suo, et cum fúerit deprehénsus dicit : Ludens feci.
+Pr	26	20	Cum defécerint ligna extinguétur ignis, et susurróne subtrácto, iúrgia conquiéscent.
+Pr	26	21	Sicut carbónes ad prunas, et ligna ad ignem, sic homo iracúndus súscitat rixas.
+Pr	26	22	Verba susurrónis quasi simplícia, et ipsa pervéniunt ad íntima ventris.
+Pr	26	23	Quómodo si argénto sórdido ornáre velis vas fíctile, sic lábia tuméntia cum péssimo corde sociáta.
+Pr	26	24	Lábiis suis intellígitur inimícus, cum in corde tractáverit dolos.
+Pr	26	25	Quando submíserit vocem suam, ne credíderis ei, quóniam septem nequítiæ sunt in corde illíus.
+Pr	26	26	Qui óperit ódium fraudulénter, revelábitur malítia eius in consílio.
+Pr	26	27	Qui fodit fóveam íncidet in eam, et qui volvit lápidem revertétur ad eum.
+Pr	26	28	Lingua fallax non amat veritátem, et os lúbricum operátur ruínas.
+Pr	27	1	Ne gloriéris in crástinum, ignórans quid superventúra páriat dies.
+Pr	27	2	Laudet te aliénus, et non os tuum ; extráneus, et non lábia tua.
+Pr	27	3	Grave est saxum, et onerósa aréna, sed ira stulti utróque grávior.
+Pr	27	4	Ira non habet misericórdiam nec erúmpens furor, et ímpetum concitáti ferre quis póterit ?
+Pr	27	5	Mélior est manifésta corréptio quam amor abscónditus.
+Pr	27	6	Melióra sunt vúlnera diligéntis quam fraudulénta óscula odiéntis.
+Pr	27	7	Anima saturáta calcábit favum, et ánima esúriens étiam amárum pro dulci sumet.
+Pr	27	8	Sicut avis tránsmigrans de nido suo, sic vir qui derelínquit locum suum.
+Pr	27	9	Unguénto et váriis odóribus delectátur cor, et bonis amíci consíliis ánima dulcorátur.
+Pr	27	10	Amícum tuum et amícum patris tui ne dimíseris, et domum fratris tui ne ingrediáris in die afflictiónis tuæ. Mélior est vicínus iuxta quam frater procul.
+Pr	27	11	Stude sapiéntiæ, fili mi, et lætífica cor meum, ut possis exprobránti respondére sermónem.
+Pr	27	12	Astútus videns malum, abscónditus est : párvuli transeúntes sustinuérunt dispéndia.
+Pr	27	13	Tolle vestiméntum eius qui spopóndit pro extráneo, et pro aliénis aufer ei pignus.
+Pr	27	14	Qui benedícit próximo suo voce grandi, de nocte consúrgens maledicénti símilis erit.
+Pr	27	15	Tecta perstillántia in die frígoris et litigiósa múlier comparántur.
+Pr	27	16	Qui rétinet eam quasi qui ventum téneat, et óleum déxteræ suæ vocábit.
+Pr	27	17	Ferrum ferro exacúitur, et homo exácuit fáciem amíci sui.
+Pr	27	18	Qui servat ficum cómedet fructus eius, et qui custos est dómini sui glorificábitur.
+Pr	27	19	Quómodo in aquis respléndent vultus prospiciéntium, sic corda hóminum manifésta sunt prudéntibus.
+Pr	27	20	Inférnus et perdítio numquam impléntur : simíliter et óculi hóminum insatiábiles.
+Pr	27	21	Quómodo probátur in conflatório argéntum et in fornáce aurum, sic probátur homo ore laudántis. Cor iníqui inquírit mala, cor autem rectum inquírit sciéntiam.
+Pr	27	22	Si contúderis stultum in pila quasi ptísanas feriénte désuper pilo, non auferétur ab eo stultítia eius.
+Pr	27	23	Diligénter agnósce vultum pécoris tui, tuósque greges consídera :
+Pr	27	24	non enim habébis iúgiter potestátem, sed coróna tribuétur in generatiónem et generatiónem.
+Pr	27	25	Apérta sunt prata, et apparuérunt herbæ viréntes, et collécta sunt fœna de móntibus.
+Pr	27	26	Agni ad vestiméntum tuum, et hædi ad agri prétium.
+Pr	27	27	Suffíciat tibi lac caprárum in cibos tuos, et in necessária domus tuæ, et ad victum ancíllis tuis.
+Pr	28	1	Fugit ímpius némine persequénte ; iustus autem, quasi leo confídens, absque terróre erit.
+Pr	28	2	Propter peccáta terræ multi príncipes eius ; et propter hóminis sapiéntiam, et horum sciéntiam quæ dicúntur, vita ducis lóngior erit.
+Pr	28	3	Vir pauper calúmnians páuperes símilis est imbri veheménti in quo parátur fames.
+Pr	28	4	Qui derelínquunt legem laudant ímpium ; qui custódiunt, succendúntur contra eum.
+Pr	28	5	Viri mali non cógitant iudícium ; qui autem inquírunt Dóminum animadvértunt ómnia.
+Pr	28	6	Mélior est pauper ámbulans in simplicitáte sua quam dives in pravis itinéribus.
+Pr	28	7	Qui custódit legem fílius sápiens est ; qui autem comessatóres pascit confúndit patrem suum.
+Pr	28	8	Qui coacérvat divítias usúris et fœ́nore, liberáli in páuperes cóngregat eas.
+Pr	28	9	Qui declínat aures suas ne áudiat legem, orátio eius erit execrábilis.
+Pr	28	10	Qui décipit iustos in via mala, in intéritu suo córruet, et símplices possidébunt bona eius.
+Pr	28	11	Sápiens sibi vidétur vir dives ; pauper autem prudens scrutábitur eum.
+Pr	28	12	In exsultatióne iustórum multa glória est ; regnántibus ímpiis, ruínæ hóminum.
+Pr	28	13	Qui abscóndit scélera sua non dirigétur ; qui autem conféssus fúerit et relíquerit ea, misericórdiam consequétur.
+Pr	28	14	Beátus homo qui semper est pávidus ; qui vero mentis est duræ córruet in malum.
+Pr	28	15	Leo rúgiens et ursus esúriens, princeps ímpius super pópulum páuperem.
+Pr	28	16	Dux índigens prudéntia multos ópprimet per calúmniam ; qui autem odit avarítiam, longi fient dies eius.
+Pr	28	17	Hóminem qui calumniátur ánimæ sánguinem, si usque ad lacum fúgerit, nemo sústinet.
+Pr	28	18	Qui ámbulat simplíciter salvus erit ; qui pervérsis gráditur viis cóncidet semel.
+Pr	28	19	Qui operátur terram suam satiábitur pánibus ; qui autem sectátur ótium replébitur egestáte.
+Pr	28	20	Vir fidélis multum laudábitur ; qui autem festínat ditári non erit ínnocens.
+Pr	28	21	Qui cognóscit in iudício fáciem non bene facit ; iste et pro buccélla panis déserit veritátem.
+Pr	28	22	Vir qui festínat ditári, et áliis ínvidet, ignórat quod egéstas supervéniet ei.
+Pr	28	23	Qui córripit hóminem grátiam póstea invéniet apud eum, magis quam ille qui per linguæ blandiménta décipit.
+Pr	28	24	Qui súbtrahit áliquid a patre suo et a matre, et dicit hoc non esse peccátum, párticeps homicídæ est.
+Pr	28	25	Qui se iactat et dilátat, iúrgia cóncitat ; qui vero sperat in Dómino sanábitur.
+Pr	28	26	Qui confídit in corde suo stultus est ; qui autem gráditur sapiénter, ipse salvábitur.
+Pr	28	27	Qui dat páuperi non indigébit ; qui déspicit deprecántem sustinébit penúriam.
+Pr	28	28	Cum surréxerint ímpii, abscondéntur hómines ; cum illi períerint, multiplicabúntur iusti.
+Pr	29	1	Viro qui corripiéntem dura cervíce contémnit, repentínus ei supervéniet intéritus, et eum sánitas non sequétur.
+Pr	29	2	In multiplicatióne iustórum lætábitur vulgus ; cum ímpii súmpserint principátum, gemet pópulus.
+Pr	29	3	Vir qui amat sapiéntiam lætíficat patrem suum ; qui autem nutrit scorta perdet substántiam.
+Pr	29	4	Rex iustus érigit terram ; vir avárus déstruet eam.
+Pr	29	5	Homo qui blandis fictísque sermónibus lóquitur amíco suo rete expándit gréssibus eius.
+Pr	29	6	Peccántem virum iníquum invólvet láqueus, et iustus laudábit atque gaudébit.
+Pr	29	7	Novit iustus causam páuperum ; ímpius ignórat sciéntiam.
+Pr	29	8	Hómines pestiléntes díssipant civitátem ; sapiéntes vero avértunt furórem.
+Pr	29	9	Vir sápiens si cum stulto conténderit, sive irascátur, sive rídeat, non invéniet réquiem.
+Pr	29	10	Viri sánguinum odérunt símplicem ; iusti autem quærunt ánimam eius.
+Pr	29	11	Totum spíritum suum profert stultus ; sápiens differt, et resérvat in pósterum.
+Pr	29	12	Princeps qui libénter audit verba mendácii, omnes minístros habet ímpios.
+Pr	29	13	Pauper et créditor obviavérunt sibi : utriúsque illuminátor est Dóminus.
+Pr	29	14	Rex qui iúdicat in veritáte páuperes, thronus eius in ætérnum firmábitur.
+Pr	29	15	Virga atque corréptio tríbuit sapiéntiam ; puer autem qui dimíttitur voluntáti suæ confúndit matrem suam.
+Pr	29	16	In multiplicatióne impiórum multiplicabúntur scélera, et iusti ruínas eórum vidébunt.
+Pr	29	17	Erudi fílium tuum, et refrigerábit te, et dabit delícias ánimæ tuæ.
+Pr	29	18	Cum prophetía defécerit, dissipábitur pópulus ; qui vero custódit legem beátus est.
+Pr	29	19	Servus verbis non potest erudíri, quia quod dicis intélligit, et respondére contémnit.
+Pr	29	20	Vidísti hóminem velócem ad loquéndum ? stultítia magis speránda est quam illíus corréptio.
+Pr	29	21	Qui delicáte a puerítia nutrit servum suum póstea séntiet eum contumácem.
+Pr	29	22	Vir iracúndus próvocat rixas, et qui ad indignándum fácilis est erit ad peccándum proclívior.
+Pr	29	23	Supérbum séquitur humílitas, et húmilem spíritu suscípiet glória.
+Pr	29	24	Qui cum fure partícipat odit ánimam suam ; adiurántem audit, et non índicat.
+Pr	29	25	Qui timet hóminem cito córruet ; qui sperat in Dómino sublevábitur.
+Pr	29	26	Multi requírunt fáciem príncipis, et iudícium a Dómino egréditur singulórum.
+Pr	29	27	Abominántur iusti virum ímpium, et abominántur ímpii eos qui in recta sunt via. Verbum custódiens fílius extra perditiónem erit.
+Pr	30	1	Verba Congregántis, fílii Voméntis. Vísio quam locútus est vir cum quo est Deus, et qui Deo secum moránte confortátus, ait :
+Pr	30	2	Stultíssimus sum virórum, et sapiéntia hóminum non est mecum.
+Pr	30	3	Non dídici sapiéntiam, et non novi sciéntiam sanctórum.
+Pr	30	4	Quis ascéndit in cælum, atque descéndit ? quis contínuit spíritum in mánibus suis ? quis colligávit aquas quasi in vestiménto ? quis suscitávit omnes términos terræ ? quod nomen est eius, et quod nomen fílii eius, si nosti ?
+Pr	30	5	Omnis sermo Dei ignítus : clýpeus est sperántibus in se.
+Pr	30	6	Ne addas quidquam verbis illíus, et arguáris, inveniarísque mendax.
+Pr	30	7	Duo rogávi te : ne déneges mihi ántequam móriar :
+Pr	30	8	vanitátem et verba mendácia longe fac a me ; mendicitátem et divítias ne déderis mihi : tríbue tantum víctui meo necessária,
+Pr	30	9	ne forte satiátus illíciar ad negándum, et dicam : Quis est Dóminus ? aut egestáte compúlsus, furer, et periúrem nomen Dei mei.
+Pr	30	10	Ne accúses servum ad dóminum suum, ne forte maledícat tibi, et córruas.
+Pr	30	11	Generátio quæ patri suo maledícit, et quæ matri suæ non benedícit ;
+Pr	30	12	generátio quæ sibi munda vidétur, et tamen non est lota a sórdibus suis ;
+Pr	30	13	generátio cuius excélsi sunt óculi, et pálpebræ eius in alta surréctæ ;
+Pr	30	14	generátio quæ pro déntibus gládios habet, et commándit moláribus suis, ut cómedat ínopes de terra, et páuperes ex homínibus.
+Pr	30	15	Sanguisúgæ duæ sunt fíliæ, dicéntes : Affer, affer. Tria sunt insaturabília, et quartum quod numquam dicit : Súfficit.
+Pr	30	16	Inférnus, et os vulvæ, et terra quæ non satiátur aqua : ignis vero numquam dicit : Súfficit.
+Pr	30	17	Oculum qui subsánnat patrem, et qui déspicit partum matris suæ, effódiant eum corvi de torréntibus, et cómedant eum fílii áquilæ !
+Pr	30	18	Tria sunt difficília mihi, et quartum pénitus ignóro :
+Pr	30	19	viam áquilæ in cælo, viam cólubri super petram, viam navis in médio mari, et viam viri in adolescéntia.
+Pr	30	20	Talis est et via mulíeris adúlteræ, quæ cómedit, et tergens os suum dicit : Non sum operáta malum.
+Pr	30	21	Per tria movétur terra, et quartum non potest sustinére :
+Pr	30	22	per servum, cum regnáverit ; per stultum, cum saturátus fúerit cibo ;
+Pr	30	23	per odiósam mulíerem, cum in matrimónio fúerit assúmpta ; et per ancíllam, cum fúerit hæres dóminæ suæ.
+Pr	30	24	Quátuor sunt mínima terræ, et ipsa sunt sapientióra sapiéntibus :
+Pr	30	25	formícæ, pópulus infírmus, qui prǽparat in messe cibum sibi ;
+Pr	30	26	lepúsculus, plebs inválida, qui cóllocat in petra cubíle suum ;
+Pr	30	27	regem locústa non habet, et egréditur univérsa per turmas suas ;
+Pr	30	28	stéllio mánibus nítitur, et morátur in ǽdibus regis.
+Pr	30	29	Tria sunt quæ bene gradiúntur, et quartum quod incédit felíciter :
+Pr	30	30	leo, fortíssimus bestiárum, ad nullíus pavébit occúrsum ;
+Pr	30	31	gallus succínctus lumbos ; et áries ; nec est rex, qui resístat ei.
+Pr	30	32	Est qui stultus appáruit postquam elevátus est in sublíme ; si enim intellexísset, ori suo imposuísset manum.
+Pr	30	33	Qui autem fórtiter premit úbera ad eliciéndum lac éxprimit bútyrum ; et qui veheménter emúngit élicit sánguinem ; et qui próvocat iras prodúcit discórdias.
+Pr	31	1	Verba Lamuélis regis. Vísio qua erudívit eum mater sua.
+Pr	31	2	Quid, dilécte mi ? quid, dilécte úteri mei ? quid, dilécte votórum meórum ?
+Pr	31	3	Ne déderis muliéribus substántiam tuam, et divítias tuas ad deléndos reges.
+Pr	31	4	Noli régibus, o Lámuel, noli régibus dare vinum, quia nullum secrétum est ubi regnat ebríetas ;
+Pr	31	5	et ne forte bibant, et obliviscántur iudiciórum, et mutent causam filiórum páuperis.
+Pr	31	6	Date síceram mœréntibus, et vinum his qui amáro sunt ánimo.
+Pr	31	7	Bibant, et obliviscántur egestátis suæ, et dolóris sui non recordéntur ámplius.
+Pr	31	8	Aperi os tuum muto, et causis ómnium filiórum qui pertránseunt.
+Pr	31	9	Aperi os tuum, decérne quod iustum est, et iúdica ínopem et páuperem.
+Pr	31	10	Mulíerem fortem quis invéniet ? procul et de últimis fínibus prétium eius.
+Pr	31	11	Confídit in ea cor viri sui, et spóliis non indigébit.
+Pr	31	12	Reddet ei bonum, et non malum, ómnibus diébus vitæ suæ.
+Pr	31	13	Quæsívit lanam et linum, et operáta est consília mánuum suárum.
+Pr	31	14	Facta est quasi navis institóris, de longe portans panem suum.
+Pr	31	15	Et de nocte surréxit, dedítque prædam domésticis suis, et cibária ancíllis suis.
+Pr	31	16	Considerávit agrum, et emit eum ; de fructu mánuum suárum plantávit víneam.
+Pr	31	17	Accínxit fortitúdine lumbos suos, et roborávit bráchium suum.
+Pr	31	18	Gustávit, et vidit quia bona est negotiátio eius ; non extinguétur in nocte lucérna eius.
+Pr	31	19	Manum suam misit ad fórtia, et dígiti eius apprehendérunt fusum.
+Pr	31	20	Manum suam apéruit ínopi, et palmas suas exténdit ad páuperem.
+Pr	31	21	Non timébit dómui suæ a frigóribus nivis ; omnes enim doméstici eius vestíti sunt duplícibus.
+Pr	31	22	Stragulátam vestem fecit sibi ; byssus et púrpura induméntum eius.
+Pr	31	23	Nóbilis in portis vir eius, quando séderit cum senatóribus terræ.
+Pr	31	24	Síndonem fecit, et véndidit, et cíngulum trádidit Chananǽo.
+Pr	31	25	Fortitúdo et decor induméntum eius, et ridébit in die novíssimo.
+Pr	31	26	Os suum apéruit sapiéntiæ, et lex cleméntiæ in lingua eius.
+Pr	31	27	Considerávit sémitas domus suæ, et panem otiósa non comédit.
+Pr	31	28	Surrexérunt fílii eius, et beatíssimam prædicavérunt ; vir eius, et laudávit eam.
+Pr	31	29	Multæ fíliæ congregavérunt divítias ; tu supergréssa es univérsas.
+Pr	31	30	Fallax grátia, et vana est pulchritúdo : múlier timens Dóminum, ipsa laudábitur.
+Pr	31	31	Date ei de fructu mánuum suárum, et laudent eam in portis ópera eius.
 Is	1	1	Vísio Isaíæ, fílii Amos, quam vidit super Iudam et Ierúsalem, in diébus Ozíæ, Ióathan, Achaz, et Ezechíæ, regum Iuda.
 Is	1	2	Audíte, cæli, et áuribus pércipe, terra, quóniam Dóminus locútus est. Fílios enutrívi, et exaltávi ; ipsi autem sprevérunt me.
 Is	1	3	Cognóvit bos possessórem suum, et ásinus præsépe dómini sui ; Israel autem me non cognóvit, et pópulus meus non intelléxit.
