@@ -9508,6 +9508,122 @@ Qo	12	11	Verba sapiéntium sicut stímuli, et quasi clavi in altum defíxi, quæ
 Qo	12	12	His ámplius, fili mi, ne requíras. Faciéndi plures libros nullus est finis ; frequénsque meditátio, carnis afflíctio est.
 Qo	12	13	Finem loquéndi páriter omnes audiámus. Deum time, et mandáta eius obsérva : hoc est enim omnis homo,
 Qo	12	14	et cuncta quæ fiunt addúcet Deus in iudícium pro omni erráto, sive bonum, sive malum illud sit.
+Ct	1	1	Osculétur me ósculo oris sui ; quia melióra sunt úbera tua vino,
+Ct	1	2	fragrántia unguéntis óptimis. Oleum effúsum nomen tuum ; ídeo adolescéntulæ dilexérunt te.
+Ct	1	3	Trahe me, post te currémus in odórem unguentórum tuórum. Introdúxit me rex in cellária sua ; exsultábimus et lætábimur in te, mémores úberum tuórum super vinum. Recti díligunt te.
+Ct	1	4	Nigra sum, sed formósa, fíliæ Ierúsalem, sicut tabernácula Cedar, sicut pelles Salomónis.
+Ct	1	5	Nolíte me consideráre quod fusca sim, quia decolorávit me sol. Fílii matris meæ pugnavérunt contra me ; posuérunt me custódem in víneis : víneam meam non custodívi.
+Ct	1	6	Indica mihi, quem díligit ánima mea, ubi pascas, ubi cubes in merídie, ne vagári incípiam post greges sodálium tuórum.
+Ct	1	7	Si ignóras te, o pulchérrima inter mulíeres, egrédere, et abi post vestígia gregum, et pasce hædos tuos iuxta tabernácula pastórum.
+Ct	1	8	Equitátui meo in cúrribus Pharaónis assimilávi te, amíca mea.
+Ct	1	9	Pulchræ sunt genæ tuæ sicut túrturis ; collum tuum sicut monília.
+Ct	1	10	Murénulas áureas faciémus tibi, vermiculátas argénto.
+Ct	1	11	Dum esset rex in accúbitu suo, nardus mea dedit odórem suum.
+Ct	1	12	Fascículus myrrhæ diléctus meus mihi ; inter úbera mea commorábitur.
+Ct	1	13	Botrus cypri diléctus meus mihi in víneis Engáddi.
+Ct	1	14	Ecce tu pulchra es, amíca mea ! ecce tu pulchra es ! Oculi tui columbárum.
+Ct	1	15	Ecce tu pulcher es, dilécte mi, et decórus ! Léctulus noster flóridus.
+Ct	1	16	Tigna domórum nostrárum cédrina, laqueária nostra cypréssina.
+Ct	2	1	Ego flos campi, et lílium convállium.
+Ct	2	2	Sicut lílium inter spinas, sic amíca mea inter fílias.
+Ct	2	3	Sicut malus inter ligna silvárum, sic diléctus meus inter fílios. Sub umbra illíus quem desideráveram sedi, et fructus eius dulcis gútturi meo.
+Ct	2	4	Introdúxit me in cellam vináriam ; ordinávit in me caritátem.
+Ct	2	5	Fulcíte me flóribus, stipáte me malis, quia amóre lángueo.
+Ct	2	6	Læva eius sub cápite meo, et déxtera illíus amplexábitur me.
+Ct	2	7	Adiúro vos, fíliæ Ierúsalem, per cápreas cervósque campórum, ne suscitétis, neque evigiláre faciátis diléctam, quoadúsque ipsa velit.
+Ct	2	8	Vox dilécti mei ; ecce iste venit, sáliens in móntibus, transíliens colles.
+Ct	2	9	Símilis est diléctus meus cápreæ, hinnulóque cervórum. En ipse stat post paríetem nostrum, respíciens per fenéstras, prospíciens per cancéllos.
+Ct	2	10	En diléctus meus lóquitur mihi. Surge, própera, amíca mea, colúmba mea, formósa mea, et veni :
+Ct	2	11	iam enim hiems tránsiit ; imber ábiit, et recéssit.
+Ct	2	12	Flores apparuérunt in terra nostra ; tempus putatiónis advénit : vox túrturis audíta est in terra nostra ;
+Ct	2	13	ficus prótulit grossos suos ; víneæ floréntes dedérunt odórem suum. Surge, amíca mea, speciósa mea, et veni :
+Ct	2	14	colúmba mea, in foramínibus petræ, in cavérna macériæ, osténde mihi fáciem tuam, sonet vox tua in áuribus meis : vox enim tua dulcis, et fácies tua decóra.
+Ct	2	15	Cápite nobis vulpes párvulas quæ demoliúntur víneas : nam vínea nostra flóruit.
+Ct	2	16	Diléctus meus mihi, et ego illi, qui páscitur inter lília,
+Ct	2	17	donec aspíret dies, et inclinéntur umbræ. Revértere ; símilis esto, dilécte mi, cápreæ, hinnulóque cervórum super montes Bether.
+Ct	3	1	In léctulo meo, per noctes, quæsívi quem díligit ánima mea : quæsívi illum, et non invéni.
+Ct	3	2	Surgam, et circuíbo civitátem : per vicos et platéas quæram quem díligit ánima mea : quæsívi illum, et non invéni.
+Ct	3	3	Invenérunt me vígiles qui custódiunt civitátem : Num quem díligit ánima mea vidístis ?
+Ct	3	4	Páululum cum pertransíssem eos, invéni quem díligit ánima mea : ténui eum, nec dimíttam, donec introdúcam illum in domum matris meæ, et in cubículum genetrícis meæ.
+Ct	3	5	Adiúro vos, fíliæ Ierúsalem, per cápreas cervósque campórum, ne suscitétis, neque evigiláre faciátis diléctam, donec ipsa velit.
+Ct	3	6	Quæ est ista quæ ascéndit per desértum sicut vírgula fumi ex aromátibus myrrhæ, et thuris, et univérsi púlveris pigmentárii ?
+Ct	3	7	En léctulum Salomónis sexagínta fortes ámbiunt ex fortíssimis Israel,
+Ct	3	8	omnes tenéntes gládios, et ad bella doctíssimi : uniuscuiúsque ensis super femur suum propter timóres noctúrnos.
+Ct	3	9	Férculum fecit sibi rex Sálomon de lignis Líbani ;
+Ct	3	10	colúmnas eius fecit argénteas, reclinatórium áureum, ascénsum purpúreum ; média caritáte constrávit, propter fílias Ierúsalem.
+Ct	3	11	Egredímini et vidéte, fíliæ Sion, regem Salomónem in diadémate quo coronávit illum mater sua in die desponsatiónis illíus, et in die lætítiæ cordis eius.
+Ct	4	1	Quam pulchra es, amíca mea ! quam pulchra es ! Oculi tui columbárum, absque eo quod intrínsecus latet. Capílli tui sicut greges caprárum quæ ascendérunt de monte Gálaad.
+Ct	4	2	Dentes tui sicut greges tonsárum quæ ascendérunt de lavácro ; omnes geméllis fœ́tibus, et stérilis non est inter eas.
+Ct	4	3	Sicut vitta coccínea lábia tua, et elóquium tuum dulce. Sicut fragmen mali púnici, ita genæ tuæ, absque eo quod intrínsecus latet.
+Ct	4	4	Sicut turris David collum tuum, quæ ædificáta est cum propugnáculis ; mille clýpei pendent ex ea, omnis armatúra fórtium.
+Ct	4	5	Duo úbera tua sicut duo hínnuli, cápreæ gemélli, qui pascúntur in líliis.
+Ct	4	6	Donec aspíret dies, et inclinéntur umbræ, vadam ad montem myrrhæ, et ad collem thuris.
+Ct	4	7	Tota pulchra es, amíca mea, et mácula non est in te.
+Ct	4	8	Veni de Líbano, sponsa mea : veni de Líbano, veni, coronáberis : de cápite Amana, de vértice Sanir et Hermon, de cubílibus leónum, de móntibus pardórum.
+Ct	4	9	Vulnerásti cor meum, soror mea, sponsa ; vulnerásti cor meum in uno oculórum tuórum, et in uno crine colli tui.
+Ct	4	10	Quam pulchræ sunt mammæ tuæ, soror mea sponsa ! pulchrióra sunt úbera tua vino, et odor unguentórum tuórum super ómnia arómata.
+Ct	4	11	Favus distíllans lábia tua, sponsa ; mel et lac sub lingua tua : et odor vestimentórum tuórum sicut odor thuris.
+Ct	4	12	Hortus conclúsus soror mea, sponsa, hortus conclúsus, fons signátus.
+Ct	4	13	Emissiónes tuæ paradísus malórum punicórum, cum pomórum frúctibus, cypri cum nardo.
+Ct	4	14	Nardus et crocus, fístula et cinnamómum, cum univérsis lignis Líbani ; myrrha et áloe, cum ómnibus primis unguéntis.
+Ct	4	15	Fons hortórum, púteus aquárum vivéntium, quæ fluunt ímpetu de Líbano.
+Ct	4	16	Surge, áquilo, et veni, auster : perfla hortum meum, et fluant arómata illíus.
+Ct	5	1	Véniat diléctus meus in hortum suum, et cómedat fructum pomórum suórum. Veni in hortum meum, soror mea, sponsa ; méssui myrrham meam cum aromátibus meis ; comédi favum cum melle meo ; bibi vinum meum cum lacte meo ; comédite, amíci, et bíbite, et inebriámini, caríssimi.
+Ct	5	2	Ego dórmio, et cor meum vígilat. Vox dilécti mei pulsántis : Aperi mihi, soror mea, amíca mea, colúmba mea, immaculáta mea, quia caput meum plenum est rore, et cincínni mei guttis nóctium.
+Ct	5	3	Expoliávi me túnica mea : quómodo índuar illa ? lavi pedes meos : quómodo inquinábo illos ?
+Ct	5	4	Diléctus meus misit manum suam per forámen, et venter meus intrémuit ad tactum eius.
+Ct	5	5	Surréxi ut aperírem dilécto meo ; manus meæ stillavérunt myrrham, et dígiti mei pleni myrrha probatíssima.
+Ct	5	6	Péssulum óstii mei apérui dilécto meo, at ille declináverat, atque transíerat. Anima mea liquefácta est, ut locútus est ; quæsívi, et non invéni illum ; vocávi, et non respóndit mihi.
+Ct	5	7	Invenérunt me custódes qui circúmeunt civitátem ; percussérunt me, et vulneravérunt me. Tulérunt pállium meum mihi custódes murórum.
+Ct	5	8	Adiúro vos, fíliæ Ierúsalem, si invenéritis diléctum meum, ut nuntiétis ei quia amóre lángueo.
+Ct	5	9	Qualis est diléctus tuus ex dilécto, o pulchérrima mulíerum ? qualis est diléctus tuus ex dilécto, quia sic adiurásti nos ?
+Ct	5	10	Diléctus meus cándidus et rubicúndus ; eléctus ex míllibus.
+Ct	5	11	Caput eius aurum óptimum ; comæ eius sicut elátæ palmárum, nigræ quasi corvus.
+Ct	5	12	Oculi eius sicut colúmbæ super rívulos aquárum, quæ lacte sunt lotæ, et résident iuxta fluénta pleníssima.
+Ct	5	13	Genæ illíus sicut aréolæ arómatum, cónsitæ a pigmentáriis. Lábia eius lília, distillántia myrrham primam.
+Ct	5	14	Manus illíus tornátiles, áureæ, plenæ hyacínthis. Venter eius ebúrneus, distínctus sapphíris.
+Ct	5	15	Crura illíus colúmnæ marmóreæ quæ fundátæ sunt super bases áureas. Spécies eius ut Líbani, eléctus ut cedri.
+Ct	5	16	Guttur illíus suavíssimum, et totus desiderábilis. Talis est diléctus meus, et ipse est amícus meus, fíliæ Ierúsalem.
+Ct	5	17	Quo ábiit diléctus tuus, o pulchérrima mulíerum ? quo declinávit diléctus tuus ? et quærémus eum tecum.
+Ct	6	1	Diléctus meus descéndit in hortum suum ad aréolam arómatum, ut pascátur in hortis, et lília cólligat.
+Ct	6	2	Ego dilécto meo, et diléctus meus mihi, qui páscitur inter lília.
+Ct	6	3	Pulchra es, amíca mea ; suávis, et decóra sicut Ierúsalem ; terríbilis ut castrórum ácies ordináta.
+Ct	6	4	Avérte óculos tuos a me, quia ipsi me avoláre fecérunt. Capílli tui sicut grex caprárum quæ apparuérunt de Gálaad.
+Ct	6	5	Dentes tui sicut grex óvium quæ ascendérunt de lavácro : omnes geméllis fœ́tibus, et stérilis non est in eis.
+Ct	6	6	Sicut cortex mali púnici, sic genæ tuæ, absque occúltis tuis.
+Ct	6	7	Sexagínta sunt regínæ, et octogínta concubínæ, et adolescentulárum non est númerus.
+Ct	6	8	Una est colúmba mea, perfécta mea, una est matris suæ, elécta genetríci suæ. Vidérunt eam fíliæ, et beatíssimam prædicavérunt ; regínæ et concubínæ, et laudavérunt eam.
+Ct	6	9	Quæ est ista quæ progréditur quasi auróra consúrgens, pulchra ut luna, elécta ut sol, terríbilis ut castrórum ácies ordináta ?
+Ct	6	10	Descéndi in hortum nucum, ut vidérem poma convállium, et inspícerem si floruísset vínea, et germinássent mala púnica.
+Ct	6	11	Nescívi : ánima mea conturbávit me, propter quadrígas Amínadab.
+Ct	6	12	Revértere, revértere, Sulamítis ! revértere, revértere, ut intueámur te.
+Ct	7	1	Quid vidébis in Sulamíte, nisi choros castrórum ? Quam pulchri sunt gressus tui in calceaméntis, fília príncipis ! Iunctúræ fémorum tuórum sicut monília quæ fabricáta sunt manu artíficis.
+Ct	7	2	Umbilícus tuus crater tornátilis, numquam índigens póculis. Venter tuus sicut acérvus trítici vallátus líliis.
+Ct	7	3	Duo úbera tua sicut duo hínnuli, gemélli cápreæ.
+Ct	7	4	Collum tuum sicut turris ebúrnea ; óculi tui sicut piscínæ in Hésebon quæ sunt in porta fíliæ multitúdinis. Nasus tuus sicut turris Líbani, quæ réspicit contra Damáscum.
+Ct	7	5	Caput tuum ut Carmélus ; et comæ cápitis tui sicut púrpura regis vincta canálibus.
+Ct	7	6	Quam pulchra es, et quam decóra, caríssima, in delíciis !
+Ct	7	7	Statúra tua assimiláta est palmæ, et úbera tua botris.
+Ct	7	8	Dixi : Ascéndam in palmam, et apprehéndam fructus eius ; et erunt úbera tua sicut botri víneæ, et odor oris tui sicut malórum.
+Ct	7	9	Guttur tuum sicut vinum óptimum, dignum dilécto meo ad potándum, labiísque et déntibus illíus ad ruminándum.
+Ct	7	10	Ego dilécto meo, et ad me convérsio eius.
+Ct	7	11	Veni, dilécte mi, egrediámur in agrum, commorémur in villis.
+Ct	7	12	Mane surgámus ad víneas : videámus si flóruit vínea, si flores fructus partúriunt, si floruérunt mala púnica ; ibi dabo tibi úbera mea.
+Ct	7	13	Mandrágoræ dedérunt odórem in portis nostris ómnia poma : nova et vétera, dilécte mi, servávi tibi.
+Ct	8	1	Quis mihi det te fratrem meum, sugéntem úbera matris meæ, ut invéniam te foris, et deósculer te, et iam me nemo despíciat ?
+Ct	8	2	Apprehéndam te, et ducam in domum matris meæ : ibi me docébis, et dabo tibi póculum ex vino condíto, et mustum malórum granatórum meórum.
+Ct	8	3	Læva eius sub cápite meo, et déxtera illíus amplexábitur me.
+Ct	8	4	Adiúro vos, fíliæ Ierúsalem, ne suscitétis, neque evigiláre faciátis diléctam, donec ipsa velit.
+Ct	8	5	Quæ est ista quæ ascéndit de desérto, delíciis áffluens, inníxa super diléctum suum ? Sub árbore malo suscitávi te ; ibi corrúpta est mater tua, ibi violáta est génitrix tua.
+Ct	8	6	Pone me ut signáculum super cor tuum, ut signáculum super bráchium tuum, quia fortis est ut mors diléctio, dura sicut inférnus æmulátio : lámpades eius lámpades ignis atque flammárum.
+Ct	8	7	Aquæ multæ non potuérunt extínguere caritátem, nec flúmina óbruent illam. Si déderit homo omnem substántiam domus suæ pro dilectióne, quasi nihil despíciet eam.
+Ct	8	8	Soror nostra parva, et úbera non habet ; quid faciémus soróri nostræ in die quando álloquenda est ?
+Ct	8	9	Si murus est, ædificémus super eum propugnácula argéntea ; si óstium est, compingámus illud tábulis cédrinis.
+Ct	8	10	Ego murus, et úbera mea sicut turris, ex quo facta sum coram eo, quasi pacem repériens.
+Ct	8	11	Vínea fuit pacífico in ea quæ habet pópulos : trádidit eam custódibus ; vir affert pro fructu eius mille argénteos.
+Ct	8	12	Vínea mea coram me est. Mille tui pacífici, et ducénti his qui custódiunt fructus eius.
+Ct	8	13	Quæ hábitas in hortis, amíci auscúltant ; fac me audíre vocem tuam.
+Ct	8	14	Fuge, dilécte mi, et assimiláre cápreæ, hinnulóque cervórum super montes arómatum.
 Is	1	1	Vísio Isaíæ, fílii Amos, quam vidit super Iudam et Ierúsalem, in diébus Ozíæ, Ióathan, Achaz, et Ezechíæ, regum Iuda.
 Is	1	2	Audíte, cæli, et áuribus pércipe, terra, quóniam Dóminus locútus est. Fílios enutrívi, et exaltávi ; ipsi autem sprevérunt me.
 Is	1	3	Cognóvit bos possessórem suum, et ásinus præsépe dómini sui ; Israel autem me non cognóvit, et pópulus meus non intelléxit.
