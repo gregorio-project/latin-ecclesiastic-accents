@@ -10063,6 +10063,1598 @@ Sap	19	17	In se enim eleménta dum convertúntur, sicut in órgano qualitátis s
 Sap	19	18	Agréstia enim in aquática convertebántur, et quæcúmque erant natántia, in terram transíbant.
 Sap	19	19	Ignis in aqua valébat supra suam virtútem, et aqua extinguéntis natúræ obliviscebátur.
 Sap	19	20	Flammæ e contrário corruptibílium animálium non vexavérunt carnes coambulántium, nec dissolvébant illam, quæ fácile dissolvebátur sicut glácies, bonam escam. In ómnibus enim magnificásti pópulum tuum, Dómine, et honorásti, et non despexísti, in omni témpore et in omni loco assístens eis.
+Si	1	1	[Prólogus. Multórum nobis et magnórum per legem, et prophétas, aliósque qui secúti sunt illos, sapiéntia demonstráta est, in quibus opórtet laudáre Israel doctrínæ et sapiéntiæ causa, quia non solum ipsos loquéntes necésse est esse perítos, sed étiam extráneos posse et dicéntes et scribéntes doctíssimos fíeri. Avus meus Iesus, postquam se ámplius dedit ad diligéntiam lectiónis legis, et prophetárum, et aliórum librórum qui nobis a paréntibus nostris tráditi sunt, vóluit et ipse scríbere áliquid horum quæ ad doctrínam et sapiéntiam pértinent, ut desiderántes díscere, et illórum períti facti, magis magísque atténdant ánimo, et confirméntur ad legítimam vitam. Hortor ítaque veníre vos cum benevoléntia, et attentióri stúdio lectiónem fácere, et véniam habére in illis, in quibus vidémur, sequéntes imáginem sapiéntiæ, defícere in verbórum compositióne. Nam defíciunt verba hebráica, quando fúerint transláta ad álteram linguam : non autem solum hæc, sed et ipsa lex, et prophétæ, ceteráque aliórum librórum non parvam habent differéntiam quando inter se dicúntur. Nam in octávo et trigésimo anno tempóribus Ptolemǽi Evergétis regis, postquam pervéni in Ægýptum, et cum multum témporis ibi fuíssem, invéni ibi libros relíctos, non parvæ neque contemnéndæ doctrínæ. Itaque bonum et necessárium putávi et ipse áliquam áddere diligéntiam et labórem interpretándi librum istum : et multa vigília áttuli doctrínam in spátio témporis, ad illa quæ ad finem ducunt, librum istum dare, et illis qui volunt ánimum inténdere, et díscere quemádmodum opórteat institúere mores, qui secúndum legem Dómini proposúerint vitam ágere.] Omnis sapiéntia a Dómino Deo est : et cum illo fuit semper, et est ante ævum.
+Si	1	2	Arénam maris, et plúviæ guttas, et dies sǽculi, quis dinumerávit ? altitúdinem cæli, et latitúdinem terræ, et profúndum abýssi, quis diménsus est ?
+Si	1	3	sapiéntiam Dei præcedéntem ómnia, quis investigávit ?
+Si	1	4	Prior ómnium creáta est sapiéntia, et intelléctus prudéntiæ ab ævo.
+Si	1	5	Fons sapiéntiæ verbum Dei in excélsis, et ingréssus illíus mandáta ætérna.
+Si	1	6	Radix sapiéntiæ cui reveláta est ? et astútias illíus quis agnóvit ?
+Si	1	7	disciplína sapiéntiæ cui reveláta est et manifestáta ? et multiplicatiónem ingréssus illíus quis intelléxit ?
+Si	1	8	Unus est altíssimus, Creátor omnípotens, et rex potens et metuéndus nimis, sedens super thronum illíus, et dóminans Deus.
+Si	1	9	Ipse creávit illam in Spíritu Sancto, et vidit, et dinumerávit, et mensus est :
+Si	1	10	et effúdit illam super ómnia ópera sua, et super omnem carnem, secúndum datum suum, et prǽbuit illam diligéntibus se.
+Si	1	11	Timor Dómini glória, et gloriátio, et lætítia, et coróna exsultatiónis.
+Si	1	12	Timor Dómini delectábit cor, et dabit lætítiam, et gáudium, et longitúdinem diérum.
+Si	1	13	Timénti Dóminum bene erit in extrémis, et in die defunctiónis suæ benedicétur.
+Si	1	14	Diléctio Dei honorábilis sapiéntia :
+Si	1	15	quibus autem apparúerit in visu díligunt eam in visióne, et in agnitióne magnálium suórum.
+Si	1	16	Inítium sapiéntiæ timor Dómini : et cum fidélibus in vulva concreátus est : cum eléctis féminis gráditur, et cum iustis et fidélibus agnóscitur.
+Si	1	17	Timor Dómini sciéntiæ religiósitas :
+Si	1	18	religiósitas custódiet et iustificábit cor ; iucunditátem atque gáudium dabit.
+Si	1	19	Timénti Dóminum bene erit, et in diébus consummatiónis illíus benedicétur.
+Si	1	20	Plenitúdo sapiéntiæ est timére Deum, et plenitúdo a frúctibus illíus.
+Si	1	21	Omnem domum illíus implébit a generatiónibus, et receptácula a thesáuris illíus.
+Si	1	22	Coróna sapiéntiæ timor Dómini, replens pacem et salútis fructum :
+Si	1	23	et vidit, et dinumerávit eam : útraque autem sunt dona Dei.
+Si	1	24	Sciéntiam et intelléctum prudéntiæ sapiéntia compartiétur, et glóriam tenéntium se exáltat.
+Si	1	25	Radix sapiéntiæ est timére Dóminum, et rami illíus longǽvi.
+Si	1	26	In thesáuris sapiéntiæ intelléctus et sciéntiæ religiósitas : execrátio autem peccatóribus sapiéntia.
+Si	1	27	Timor Dómini expéllit peccátum :
+Si	1	28	nam qui sine timóre est non póterit iustificári : iracúndia enim animositátis illíus subvérsio illíus est.
+Si	1	29	Usque in tempus sustinébit pátiens, et póstea reddítio iucunditátis.
+Si	1	30	Bonus sensus usque in tempus abscóndet verba illíus, et lábia multórum enarrábunt sensum illíus.
+Si	1	31	In thesáuris sapiéntiæ significátio disciplínæ :
+Si	1	32	execrátio autem peccatóri cultúra Dei.
+Si	1	33	Fili, concupíscens sapiéntiam, consérva iustítiam, et Deus præbébit illam tibi.
+Si	1	34	Sapiéntia enim et disciplína timor Dómini : et quod beneplácitum est illi,
+Si	1	35	fides et mansuetúdo, et adimplébit thesáuros illíus.
+Si	1	36	Ne sis incredíbilis timóri Dómini, et ne accésseris ad illum dúplici corde.
+Si	1	37	Ne fúeris hypócrita in conspéctu hóminum, et non scandalizéris in lábiis tuis.
+Si	1	38	Atténde in illis, ne forte cadas, et addúcas ánimæ tuæ inhonoratiónem :
+Si	1	39	et revélet Deus abscónsa tua, et in médio synagógæ elídat te :
+Si	1	40	quóniam accessísti malígne ad Dóminum, et cor tuum plenum est dolo et fallácia.
+Si	2	1	Fili, accédens ad servitútem Dei sta in iustítia et timóre, et prǽpara ánimam tuam ad tentatiónem.
+Si	2	2	Déprime cor tuum, et sústine : inclína aurem tuam, et súscipe verba intelléctus : et ne festínes in témpore obductiónis.
+Si	2	3	Sústine sustentatiónes Dei : coniúngere Deo, et sústine, ut crescat in novíssimo vita tua.
+Si	2	4	Omne quod tibi applicítum fúerit áccipe : et in dolóre sústine, et in humilitáte tua patiéntiam habe :
+Si	2	5	quóniam in igne probátur aurum et argéntum, hómines vero receptíbiles in camíno humiliatiónis.
+Si	2	6	Crede Deo, et recuperábit te : et dírige viam tuam, et spera in illum : serva timórem illíus, et in illo veterásce.
+Si	2	7	Metuéntes Dóminum, sustinéte misericórdiam eius : et non deflectátis ab illo, ne cadátis.
+Si	2	8	Qui timétis Dóminum, crédite illi, et non evacuábitur merces vestra.
+Si	2	9	Qui timétis Dóminum, speráte in illum, et in oblectatiónem véniet vobis misericórdia.
+Si	2	10	Qui timétis Dóminum, dilígite illum, et illuminabúntur corda vestra.
+Si	2	11	Respícite, fílii, natiónes hóminum : et scitóte quia nullus sperávit in Dómino et confúsus est.
+Si	2	12	Quis enim permánsit in mandátis eius, et derelíctus est ? aut quis invocávit eum, et despéxit illum ?
+Si	2	13	Quóniam pius et miséricors est Deus, et remíttet in die tribulatiónis peccáta, et protéctor est ómnibus exquiréntibus se in veritáte.
+Si	2	14	Væ dúplici corde, et lábiis sceléstis, et mánibus malefaciéntibus, et peccatóri terram ingrediénti duábus viis !
+Si	2	15	Væ dissolútis corde, qui non credunt Deo, et ídeo non protegéntur ab eo !
+Si	2	16	Væ his qui perdidérunt sustinéntiam, et qui dereliquérunt vias rectas, et divertérunt in vias pravas !
+Si	2	17	Et quid fácient cum inspícere cœ́perit Dóminus ?
+Si	2	18	Qui timent Dóminum non erunt incredíbiles verbo illíus : et qui díligunt illum conservábunt viam illíus.
+Si	2	19	Qui timent Dóminum inquírent quæ beneplácita sunt ei, et qui díligunt eum replebúntur lege ipsíus.
+Si	2	20	Qui timent Dóminum præparábunt corda sua, et in conspéctu illíus sanctificábunt ánimas suas.
+Si	2	21	Qui timent Dóminum custódiunt mandáta illíus, et patiéntiam habébunt usque ad inspectiónem illíus,
+Si	2	22	dicéntes : Si pœniténtiam non egérimus, incidémus in manus Dómini, et non in manus hóminum.
+Si	2	23	Secúndum enim magnitúdinem ipsíus, sic et misericórdia illíus cum ipso est.
+Si	3	1	Fílii sapiéntiæ ecclésia iustórum, et nátio illórum obediéntia et diléctio.
+Si	3	2	Iudícium patris audíte, fílii, et sic fácite, ut salvi sitis.
+Si	3	3	Deus enim honorávit patrem in fíliis : et iudícium matris exquírens, firmávit in fílios.
+Si	3	4	Qui díligit Deum exorábit pro peccátis, et continébit se ab illis, et in oratióne diérum exaudiétur.
+Si	3	5	Et sicut qui thesaurízat, ita et qui honoríficat matrem suam.
+Si	3	6	Qui honórat patrem suum iucundábitur in fíliis, et in die oratiónis suæ exaudiétur.
+Si	3	7	Qui honórat patrem suum vita vivet longióre, et qui obédit patri refrigerábit matrem.
+Si	3	8	Qui timet Dóminum honórat paréntes, et quasi dóminis sérviet his qui se genuérunt.
+Si	3	9	In ópere, et sermóne, et omni patiéntia, honóra patrem tuum,
+Si	3	10	ut supervéniat tibi benedíctio ab eo, et benedíctio illíus in novíssimo máneat.
+Si	3	11	Benedíctio patris firmat domos filiórum : maledíctio autem matris eradícat fundaménta.
+Si	3	12	Ne gloriéris in contumélia patris tui : non enim est tibi glória eius confúsio.
+Si	3	13	Glória enim hóminis ex honóre patris sui, et dédecus fílii pater sine honóre.
+Si	3	14	Fili, súscipe senéctam patris tui, et non contrístes eum in vita illíus :
+Si	3	15	et si defécerit sensu, véniam da, et ne spernas eum in virtúte tua : eleemósyna enim patris non erit in oblivióne.
+Si	3	16	Nam pro peccáto matris restituétur tibi bonum :
+Si	3	17	et in iustítia ædificábitur tibi, et in die tribulatiónis commemorábitur tui, et sicut in seréno glácies, solvéntur peccáta tua.
+Si	3	18	Quam malæ famæ est qui derelínquit patrem, et est maledíctus a Deo qui exásperat matrem !
+Si	3	19	Fili, in mansuetúdine ópera tua pérfice, et super hóminum glóriam diligéris.
+Si	3	20	Quanto magnus es, humília te in ómnibus, et coram Deo invénies grátiam :
+Si	3	21	quóniam magna poténtia Dei solíus, et ab humílibus honorátur.
+Si	3	22	Altióra te ne quæsíeris, et fortióra te ne scrutátus fúeris : sed quæ præcépit tibi Deus, illa cógita semper, et in plúribus opéribus eius ne fúeris curiósus.
+Si	3	23	Non est enim tibi necessárium ea, quæ abscóndita sunt, vidére óculis tuis.
+Si	3	24	In supervácuis rebus noli scrutári multiplíciter, et in plúribus opéribus eius non eris curiósus.
+Si	3	25	Plúrima enim super sensum hóminum osténsa sunt tibi :
+Si	3	26	multos quoque supplantávit suspício illórum, et in vanitáte detínuit sensus illórum.
+Si	3	27	Cor durum habébit male in novíssimo, et qui amat perículum in illo períbit.
+Si	3	28	Cor ingrédiens duas vias non habébit succéssus, et pravus corde in illis scandalizábitur.
+Si	3	29	Cor nequam gravábitur in dolóribus, et peccátor adíciet ad peccándum.
+Si	3	30	Synagógæ superbórum non erit sánitas, frutex enim peccáti radicábitur in illis, et non intelligétur.
+Si	3	31	Cor sapiéntis intellígitur in sapiéntia, et auris bona áudiet cum omni concupiscéntia sapiéntiam.
+Si	3	32	Sápiens cor et intelligíbile abstinébit se a peccátis, et in opéribus iustítiæ succéssus habébit.
+Si	3	33	Ignem ardéntem exstínguit aqua, et eleemósyna resístit peccátis :
+Si	3	34	et Deus prospéctor est eius qui reddit grátiam : méminit eius in pósterum, et in témpore casus sui invéniet firmaméntum.
+Si	4	1	Fili, eleemósynam páuperis ne defráudes, et óculos tuos ne transvértas a páupere.
+Si	4	2	Animam esuriéntem ne despéxeris, et non exásperes páuperem in inópia sua.
+Si	4	3	Cor ínopis ne afflíxeris, et non prótrahas datum angustiánti.
+Si	4	4	Rogatiónem contribuláti ne abícias, et non avértas fáciem tuam ab egéno.
+Si	4	5	Ab ínope ne avértas óculos tuos propter iram : et non relínquas quæréntibus tibi retro maledícere.
+Si	4	6	Maledicéntis enim tibi in amaritúdine ánimæ, exaudiétur deprecátio illíus : exáudiet autem eum qui fecit illum.
+Si	4	7	Congregatióni páuperum affábilem te fácito : et presbýtero humília ánimam tuam, et magnáto humília caput tuum.
+Si	4	8	Declína páuperi sine tristítia aurem tuam, et redde débitum tuum, et respónde illi pacífica in mansuetúdine.
+Si	4	9	Líbera eum qui iniúriam pátitur de manu supérbi, et non ácide feras in ánima tua.
+Si	4	10	In iudicándo esto pupíllis miséricors ut pater, et pro viro matri illórum :
+Si	4	11	et eris tu velut fílius Altíssimi obédiens, et miserébitur tui magis quam mater.
+Si	4	12	Sapiéntia fíliis suis vitam inspírat : et súscipit inquiréntes se, et præíbit in via iustítiæ.
+Si	4	13	Et qui illam díligit, díligit vitam, et qui vigiláverint ad illam complecténtur placórem eius.
+Si	4	14	Qui tenúerint illam, vitam hæreditábunt : et quo introíbit benedícet Deus.
+Si	4	15	Qui sérviunt ei obsequéntes erunt sancto : et eos qui díligunt illam, díligit Deus.
+Si	4	16	Qui audit illam iudicábit gentes : et qui intuétur illam permanébit confídens.
+Si	4	17	Si credíderit ei, hæreditábit illam, et erunt in confirmatióne creatúræ illíus :
+Si	4	18	quóniam in tentatióne ámbulat cum eo, et in primis éligit eum.
+Si	4	19	Timórem, et metum, et probatiónem indúcet super illum : et cruciábit illum in tribulatióne doctrínæ suæ, donec tentet eum in cogitatiónibus suis, et credat ánimæ illíus.
+Si	4	20	Et firmábit illum, et iter addúcet diréctum ad illum, et lætificábit illum :
+Si	4	21	et denudábit abscónsa sua illi, et thesaurizábit super illum sciéntiam et intelléctum iustítiæ.
+Si	4	22	Si autem oberráverit, derelínquet eum, et tradet eum in manus inimíci sui.
+Si	4	23	Fili, consérva tempus, et devíta a malo.
+Si	4	24	Pro ánima tua ne confundáris dícere verum :
+Si	4	25	est enim confúsio addúcens peccátum, et est confúsio addúcens glóriam et grátiam.
+Si	4	26	Ne accípias fáciem advérsus fáciem tuam, nec advérsus ánimam tuam mendácium.
+Si	4	27	Ne revereáris próximum tuum in casu suo,
+Si	4	28	nec retíneas verbum in témpore salútis. Non abscóndas sapiéntiam tuam in décore suo :
+Si	4	29	in lingua enim sapiéntia dignóscitur : et sensus, et sciéntia, et doctrína in verbo sensáti, et firmaméntum in opéribus iustítiæ.
+Si	4	30	Non contradícas verbo veritátis ullo modo, et de mendácio ineruditiónis tuæ confúndere.
+Si	4	31	Non confundáris confitéri peccáta tua, et ne subícias te omni hómini pro peccáto.
+Si	4	32	Noli resístere contra fáciem poténtis, nec conéris contra ictum flúvii.
+Si	4	33	Pro iustítia agonizáre pro ánima tua, et usque ad mortem certa pro iustítia : et Deus expugnábit pro te inimícos tuos.
+Si	4	34	Noli citátus esse in lingua tua, et inútilis, et remíssus in opéribus tuis.
+Si	4	35	Noli esse sicut leo in domo tua, evértens domésticos tuos, et ópprimens subiéctos tibi.
+Si	4	36	Non sit porrécta manus tua ad accipiéndum, et ad dandum collécta.
+Si	5	1	Noli atténdere ad possessiónes iníquas, et ne díxeris : Est mihi suffíciens vita : nihil enim próderit in témpore vindíctæ et obductiónis.
+Si	5	2	Ne sequáris in fortitúdine tua concupiscéntiam cordis tui,
+Si	5	3	et ne díxeris : Quómodo pótui ? aut, Quis me subíciet propter facta mea ? Deus enim víndicans vindicábit.
+Si	5	4	Ne díxeris : Peccávi : et quid mihi áccidit triste ? Altíssimus enim est pátiens rédditor.
+Si	5	5	De propitiátio peccáto noli esse sine metu, neque adícias peccátum super peccátum.
+Si	5	6	Et ne dicas : Miserátio Dómini magna est, multitúdinis peccatórum meórum miserébitur :
+Si	5	7	misericórdia enim et ira ab illo cito próximant, et in peccatóres réspicit ira illíus.
+Si	5	8	Non tardes convérti ad Dóminum, et ne dífferas de die in diem :
+Si	5	9	súbito enim véniet ira illíus, et in témpore vindíctæ dispérdet te.
+Si	5	10	Noli ánxius esse in divítiis iniústis : non enim próderunt tibi in die obductiónis et vindíctæ.
+Si	5	11	Non véntiles te in omnem ventum, et non eas in omnem viam : sic enim omnis peccátor probátur in dúplici lingua.
+Si	5	12	Esto firmus in via Dómini, et in veritáte sensus tui et sciéntia : et prosequátur te verbum pacis et iustítiæ.
+Si	5	13	Esto mansuétus ad audiéndum verbum, ut intélligas, et cum sapiéntia próferas respónsum verum.
+Si	5	14	Si est tibi intelléctus, respónde próximo : sin autem, sit manus tua super os tuum, ne capiáris in verbo indisciplináto, et confundáris.
+Si	5	15	Honor et glória in sermóne sensáti : lingua vero imprudéntis subvérsio est ipsíus.
+Si	5	16	Non appelléris susúrro, et lingua tua ne capiáris et confundáris :
+Si	5	17	super furem enim est confúsio et pœniténtia, et denotátio péssima super bilínguem : susurratóri autem ódium, et inimicítia, et contumélia.
+Si	5	18	Iustífica pusíllum et magnum simíliter.
+Si	6	1	Noli fíeri pro amíco inimícus próximo : impropérium enim et contuméliam malus hæreditábit : et omnis peccátor ínvidus et bilínguis.
+Si	6	2	Non te extóllas in cogitatióne ánimæ tuæ velut taurus, ne forte elidátur virtus tua per stultítiam :
+Si	6	3	et fólia tua cómedat, et fructus tuos perdat, et relinquáris velut lignum áridum in erémo.
+Si	6	4	Anima enim nequam dispérdet qui se habet, et in gáudium inimícis dat illum, et dedúcet in sortem impiórum.
+Si	6	5	Verbum dulce multíplicat amícos et mítigat inimícos, et lingua éucharis in bono hómine abúndat.
+Si	6	6	Multi pacífici sint tibi : et consiliárius sit tibi unus de mille.
+Si	6	7	Si póssides amícum, in tentatióne pósside eum, et ne fácile credas ei.
+Si	6	8	Est enim amícus secúndum tempus suum, et non permanébit in die tribulatiónis.
+Si	6	9	Et est amícus qui convértitur ad inimicítiam, et est amícus qui ódium et rixam et convítia denudábit.
+Si	6	10	Est autem amícus sócius mensæ, et non permanébit in die necessitátis.
+Si	6	11	Amícus si permánserit fixus, erit tibi quasi coæquális, et in domésticis tuis fiduciáliter aget.
+Si	6	12	Si humiliáverit se contra te, et a fácie tua abscónderit se, unánimem habébis amicítiam bonam.
+Si	6	13	Ab inimícis tuis separáre, et ab amícis tuis atténde.
+Si	6	14	Amícus fidélis protéctio fortis : qui autem invénit illum, invénit thesáurum.
+Si	6	15	Amíco fidéli nulla est comparátio, et non est digna ponderátio auri et argénti contra bonitátem fídei illíus.
+Si	6	16	Amícus fidélis medicaméntum vitæ et immortalitátis : et qui métuunt Dóminum, invénient illum.
+Si	6	17	Qui timet Deum æque habébit amicítiam bonam, quóniam secúndum illum erit amícus illíus.
+Si	6	18	Fili, a iuventúte tua éxcipe doctrínam, et usque ad canos invénies sapiéntiam.
+Si	6	19	Quasi is qui arat et séminat accéde ad eam, et sústine bonos fructus illíus.
+Si	6	20	In ópere enim ipsíus exíguum laborábis, et cito edes de generatiónibus illíus.
+Si	6	21	Quam áspera est nímium sapiéntia indóctis homínibus ! et non permanébit in illa excors.
+Si	6	22	Quasi lápidis virtus probátio erit in illis : et non demorabúntur proícere illam.
+Si	6	23	Sapiéntia enim doctrínæ secúndum nomen est eius, et non est multis manifestáta : quibus autem cógnita est, pérmanet usque ad conspéctum Dei.
+Si	6	24	Audi, fili, et áccipe consílium intelléctus, et ne abícias consílium meum.
+Si	6	25	Inice pedem tuum in cómpedes illíus, et in torques illíus collum tuum.
+Si	6	26	Súbice húmerum tuum, et porta illam, et ne acediéris vínculis eius.
+Si	6	27	In omni ánimo tuo accéde ad illam, et in omni virtúte tua consérva vias eius.
+Si	6	28	Investíga illam, et manifestábitur tibi : et cóntinens factus, ne derelínquas eam :
+Si	6	29	in novíssimis enim invénies réquiem in ea, et convertétur tibi in oblectatiónem.
+Si	6	30	Et erunt tibi cómpedes eius in protectiónem fortitúdinis et bases virtútis, et torques illíus in stolam glóriæ :
+Si	6	31	decor enim vitæ est in illa, et víncula illíus alligatúra salutáris.
+Si	6	32	Stolam glóriæ índues eam, et corónam gratulatiónis superpónes tibi.
+Si	6	33	Fili, si atténderis mihi, disces : et si accommodáveris ánimum tuum, sápiens eris.
+Si	6	34	Si inclináveris aurem tuam, excípies doctrínam : et si diléxeris audíre, sápiens eris.
+Si	6	35	In multitúdine presbyterórum prudéntium sta, et sapiéntiæ illórum ex corde coniúngere, ut omnem narratiónem Dei possis audíre, et provérbia laudis non effúgiant a te.
+Si	6	36	Et si víderis sensátum, evígila ad eum, et gradus ostiórum illíus éxterat pes tuus.
+Si	6	37	Cogitátum tuum habe in præcéptis Dei, et in mandátis illíus máxime assíduus esto : et ipse dabit tibi cor, et concupiscéntia sapiéntiæ dábitur tibi.
+Si	7	1	Noli fácere mala, et non te apprehéndent :
+Si	7	2	discéde ab iníquo, et defícient mala abs te.
+Si	7	3	Fili, non sémines mala in sulcis iniustítiæ, et non metes ea in séptuplum.
+Si	7	4	Noli quǽrere a Dómino ducátum, neque a rege cáthedram honóris.
+Si	7	5	Non te iustífices ante Deum, quóniam ágnitor cordis ipse est : et penes regem noli velle vidéri sápiens.
+Si	7	6	Noli quǽrere fíeri iudex, nisi váleas virtúte irrúmpere iniquitátes : ne forte extiméscas fáciem poténtis, et ponas scándalum in æquitáte tua.
+Si	7	7	Non pecces in multitúdinem civitátis, nec te immíttas in pópulum :
+Si	7	8	neque álliges duplícia peccáta, nec enim in uno eris immúnis.
+Si	7	9	Noli esse pusillánimis in ánimo tuo :
+Si	7	10	exoráre et fácere eleemósynam ne despícias.
+Si	7	11	Ne dicas : In multitúdine múnerum meórum respíciet Deus, et offerénte me Deo altíssimo, múnera mea suscípiet.
+Si	7	12	Non irrídeas hóminem in amaritúdine ánimæ : est enim qui humíliat et exáltat circumspéctor Deus.
+Si	7	13	Noli amáre mendácium advérsus fratrem tuum, neque in amícum simíliter fácias.
+Si	7	14	Noli velle mentíri omne mendácium : assidúitas enim illíus non est bona.
+Si	7	15	Noli verbósus esse in multitúdine presbyterórum, et non íteres verbum in oratióne tua.
+Si	7	16	Non óderis laboriósa ópera, et rusticatiónem creátam ab Altíssimo.
+Si	7	17	Non te réputes in multitúdine indisciplinatórum.
+Si	7	18	Meménto iræ, quóniam non tardábit.
+Si	7	19	Humília valde spíritum tuum, quóniam vindícta carnis ímpii ignis et vermis.
+Si	7	20	Noli prævaricári in amícum pecúniam differéntem, neque fratrem caríssimum auro spréveris.
+Si	7	21	Noli discédere a mulíere sensáta et bona, quam sortítus es in timóre Dómini : grátia enim verecúndiæ illíus super aurum.
+Si	7	22	Non lædas servum in veritáte operántem, neque mercenárium dantem ánimam suam.
+Si	7	23	Servus sensátus sit tibi diléctus quasi ánima tua : non defráudes illum libertáte, neque ínopem derelínquas illum.
+Si	7	24	Pécora tibi sunt, atténde illis : et si sunt utília, persevérent apud te.
+Si	7	25	Fílii tibi sunt ? érudi illos, et curva illos a puerítia illórum.
+Si	7	26	Fíliæ tibi sunt ? serva corpus illárum, et non osténdas hílarem fáciem tuam ad illas.
+Si	7	27	Trade fíliam, et grande opus féceris : et hómini sensáto da illam.
+Si	7	28	Múlier si est tibi secúndum ánimam tuam, non proícias illam : et odíbili non credas te. In toto corde tuo
+Si	7	29	honóra patrem tuum, et gémitus matris tuæ ne obliviscáris :
+Si	7	30	meménto quóniam nisi per illos natus non fuísses : et retríbue illis, quómodo et illi tibi.
+Si	7	31	In tota ánima tua time Dóminum, et sacerdótes illíus sanctífica.
+Si	7	32	In omni virtúte tua dílige eum qui te fecit, et minístros eius ne derelínquas.
+Si	7	33	Honóra Deum ex tota ánima tua, et honorífica sacerdótes, et propúrga te cum bráchiis.
+Si	7	34	Da illis partem, sicut mandátum est tibi, primitiárum et purgatiónis, et de negligéntia tua purga te cum paucis.
+Si	7	35	Datum brachiórum tuórum, et sacrifícium sanctificatiónis ófferes Dómino, et inítia sanctórum.
+Si	7	36	Et páuperi porríge manum tuam, ut perficiátur propitiátio et benedíctio tua.
+Si	7	37	Grátia dati in conspéctu omnis vivéntis, et mórtuo non prohíbeas grátiam.
+Si	7	38	Non desis plorántibus in consolatióne, et cum lugéntibus ámbula.
+Si	7	39	Non te pígeat visitáre infírmum : ex his enim in dilectióne firmáberis.
+Si	7	40	In ómnibus opéribus tuis memoráre novíssima tua, et in ætérnum non peccábis.
+Si	8	1	Non lítiges cum hómine poténte, ne forte íncidas in manus illíus.
+Si	8	2	Non conténdas cum viro locupléte, ne forte contra te constítuat litem tibi :
+Si	8	3	multos enim pérdidit aurum et argéntum, et usque ad cor regum exténdit et convértit.
+Si	8	4	Non lítiges cum hómine linguáto, et non strues in ignem illíus ligna.
+Si	8	5	Non commúnices hómini indócto, ne male de progénie tua loquátur.
+Si	8	6	Ne despícias hóminem averténtem se a peccáto, neque impróperes ei : meménto quóniam omnes in correptióne sumus.
+Si	8	7	Ne spernas hóminem in sua senectúte, étenim ex nobis senéscunt.
+Si	8	8	Noli de mórtuo inimíco tuo gaudére : sciens quóniam omnes mórimur, et in gáudium nólumus veníre.
+Si	8	9	Ne despícias narratiónem presbyterórum sapiéntium, et in provérbiis eórum conversáre :
+Si	8	10	ab ipsis enim disces sapiéntiam et doctrínam intelléctus, et servíre magnátis sine queréla.
+Si	8	11	Non te prætéreat narrátio seniórum, ipsi enim didicérunt a pátribus suis :
+Si	8	12	quóniam ab ipsis disces intelléctum, et in témpore necessitátis dare respónsum.
+Si	8	13	Non incéndas carbónes peccatórum árguens eos, et ne incendáris flamma ignis peccatórum illórum.
+Si	8	14	Ne contra fáciem stes contumeliósi, ne sédeat quasi insidiátor ori tuo.
+Si	8	15	Noli fœnerári hómini fortióri te : quod si fœneráveris, quasi pérditum habe.
+Si	8	16	Non spóndeas super virtútem tuam : quod si spopónderis, quasi restítuens cógita.
+Si	8	17	Non iúdices contra iúdicem, quóniam secúndum quod iustum est iúdicat.
+Si	8	18	Cum audáce non eas in via, ne forte gravet mala sua in te : ipse enim secúndum voluntátem suam vadit, et simul cum stultítia illíus péries.
+Si	8	19	Cum iracúndo non fácias rixam, et cum audáce non eas in desértum : quóniam quasi nihil est ante illum sanguis, et ubi non est adiutórium, elídet te.
+Si	8	20	Cum fátuis consílium non hábeas : non enim póterunt dilígere nisi quæ eis placent.
+Si	8	21	Coram extráneo ne fácias consílium : nescis enim quid páriet.
+Si	8	22	Non omni hómini cor tuum maniféstes, ne forte ínferat tibi grátiam falsam, et conviciétur tibi.
+Si	9	1	Non zeles mulíerem sinus tui, ne osténdat super te malítiam doctrínæ nequam.
+Si	9	2	Non des mulíeri potestátem ánimæ tuæ, ne ingrediátur in virtútem tuam, et confundáris.
+Si	9	3	Ne respícias mulíerem multívolam, ne forte íncidas in láqueos illíus.
+Si	9	4	Cum saltatríce ne assíduus sis, nec áudias illam, ne forte péreas in efficácia illíus.
+Si	9	5	Vírginem ne conspícias, ne forte scandalizéris in decóre illíus.
+Si	9	6	Ne des fornicáriis ánimam tuam in ullo, ne perdas te et hæreditátem tuam.
+Si	9	7	Noli circumspícere in vicis civitátis, nec oberráveris in platéis illíus.
+Si	9	8	Avérte fáciem tuam a mulíere compta, et ne circumspícias spéciem aliénam.
+Si	9	9	Propter spéciem mulíeris multi periérunt : et ex hoc concupiscéntia quasi ignis exardéscit.
+Si	9	10	Omnis múlier quæ est fornicária, quasi stercus in via conculcábitur.
+Si	9	11	Spéciem mulíeris aliénæ multi admiráti, réprobi facti sunt : collóquium enim illíus quasi ignis exardéscit.
+Si	9	12	Cum aliéna mulíere ne sédeas omníno, nec accúmbas cum ea super cúbitum :
+Si	9	13	et non altercéris cum illa in vino, ne forte declínet cor tuum in illam, et sánguine tuo labáris in perditiónem.
+Si	9	14	Ne derelínquas amícum antíquum : novus enim non erit símilis illi.
+Si	9	15	Vinum novum amícus novus : veteráscet, et cum suavitáte bibes illud.
+Si	9	16	Non zeles glóriam et opes peccatóris : non enim scis quæ futúra sit illíus subvérsio.
+Si	9	17	Non pláceat tibi iniúria iniustórum, sciens quóniam usque ad ínferos non placébit ímpius.
+Si	9	18	Longe abésto ab hómine potestátem habénte occidéndi, et non suspicáberis timórem mortis.
+Si	9	19	Et si accésseris ad illum, noli áliquid commíttere, ne forte áuferat vitam tuam.
+Si	9	20	Communiónem mortis scito, quóniam in médio laqueórum ingrediéris, et super doléntium arma ambulábis.
+Si	9	21	Secúndum virtútem tuam cave te a próximo tuo, et cum sapiéntibus et prudéntibus tracta.
+Si	9	22	Viri iusti sint tibi convívæ, et in timóre Dei sit tibi gloriátio :
+Si	9	23	et in sensu sit tibi cogitátus Dei, et omnis enarrátio tua in præcéptis Altíssimi.
+Si	9	24	In manu artíficum ópera laudabúntur, et princeps pópuli in sapiéntia sermónis sui, in sensu vero seniórum verbum.
+Si	9	25	Terríbilis est in civitáte sua homo linguósus : et temerárius in verbo suo odíbilis erit.
+Si	10	1	Iudex sápiens iudicábit pópulum suum, et principátus sensáti stábilis erit.
+Si	10	2	Secúndum iúdicem pópuli, sic et minístri eius : et qualis rector est civitátis, tales et inhabitántes in ea.
+Si	10	3	Rex insípiens perdet pópulum suum : et civitátes inhabitabúntur per sensum poténtium.
+Si	10	4	In manu Dei potéstas terræ : et útilem rectórem suscitábit in tempus super illam.
+Si	10	5	In manu Dei prospéritas hóminis, et super fáciem scribæ impónet honórem suum.
+Si	10	6	Omnis iniúriæ próximi ne memíneris, et nihil agas in opéribus iniúriæ.
+Si	10	7	Odíbilis coram Deo est et homínibus supérbia, et execrábilis omnis iníquitas géntium.
+Si	10	8	Regnum a gente in gentem transfértur propter iniustítias, et iniúrias, et contumélias, et divérsos dolos.
+Si	10	9	Aváro autem nihil est sceléstius. Quid supérbit terra et cinis ?
+Si	10	10	Nihil est iníquius quam amáre pecúniam : hic enim et ánimam suam venálem habet, quóniam in vita sua proiécit íntima sua.
+Si	10	11	Omnis potentátus brevis vita ; languor prolíxior gravat médicum.
+Si	10	12	Brevem languórem præcídit médicus : sic et rex hódie est, et cras moriétur.
+Si	10	13	Cum enim moriétur homo, hæreditábit serpéntes, et béstias, et vermes.
+Si	10	14	Inítium supérbiæ hóminis apostatáre a Deo :
+Si	10	15	quóniam ab eo qui fecit illum recéssit cor eius, quóniam inítium omnis peccáti est supérbia. Qui tenúerit illam adimplébitur maledíctis, et subvértet eum in finem.
+Si	10	16	Proptérea exhonorávit Dóminus convéntus malórum, et destrúxit eos usque in finem.
+Si	10	17	Sedes ducum superbórum destrúxit Deus, et sedére fecit mites pro eis.
+Si	10	18	Radíces géntium superbárum arefécit Deus, et plantávit húmiles ex ipsis géntibus.
+Si	10	19	Terras géntium evértit Dóminus, et pérdidit eas usque ad fundaméntum.
+Si	10	20	Arefécit ex ipsis, et dispérdidit eos, et cessáre fecit memóriam eórum a terra.
+Si	10	21	Memória superbórum pérdidit Deus, et relíquit memóriam humílium sensu.
+Si	10	22	Non est creáta homínibus supérbia, neque iracúndia natióni mulíerum.
+Si	10	23	Semen hóminum honorábitur hoc, quod timet Deum : semen autem hoc exhonorábitur, quod prǽterit mandáta Dómini.
+Si	10	24	In médio fratrum rector illórum in honóre : et qui timent Dóminum erunt in óculis illíus.
+Si	10	25	Glória dívitum, honoratórum, et páuperum, timor Dei est.
+Si	10	26	Noli despícere hóminem iustum páuperem, et noli magnificáre virum peccatórem dívitem.
+Si	10	27	Magnus, et iudex, et potens est in honóre : et non est maior illo qui timet Deum.
+Si	10	28	Servo sensáto líberi sérvient : et vir prudens et disciplinátus non murmurábit corréptus, et ínscius non honorábitur.
+Si	10	29	Noli extóllere te in faciéndo ópere tuo, et noli cunctári in témpore angústiæ.
+Si	10	30	Mélior est qui operátur et abúndat in ómnibus, quam qui gloriátur et eget pane.
+Si	10	31	Fili, in mansuetúdine serva ánimam tuam, et da illi honórem secúndum méritum suum.
+Si	10	32	Peccántem in ánimam suam quis iustificábit ? et quis honorificábit exhonorántem ánimam suam ?
+Si	10	33	Pauper gloriátur per disciplínam et timórem suum : et est homo qui honorificátur propter substántiam suam.
+Si	10	34	Qui autem gloriátur in paupertáte, quanto magis in substántia ! et qui gloriátur in substántia, paupertátem vereátur.
+Si	11	1	Sapiéntia humiliáti exaltábit caput illíus, et in médio magnatórum consedére illum fáciet.
+Si	11	2	Non laudes virum in spécie sua, neque spernas hóminem in visu suo.
+Si	11	3	Brevis in volatílibus est apis, et inítium dulcóris habet fructus illíus.
+Si	11	4	In vestítu ne gloriéris umquam, nec in die honóris tui extolláris : quóniam mirabília ópera Altíssimi solíus, et gloriósa, et abscónsa, et invísa ópera illíus.
+Si	11	5	Multi tyránni sedérunt in throno : et insuspicábilis portávit diadéma.
+Si	11	6	Multi poténtes oppréssi sunt válide, et gloriósi tráditi sunt in manus alterórum.
+Si	11	7	Priúsquam intérroges, ne vitúperes quemquam : et cum interrogáveris, córripe iuste.
+Si	11	8	Priúsquam áudias, ne respóndeas verbum : et in médio sermónum ne adícias loqui.
+Si	11	9	De ea re quæ te non moléstat, ne certéris : et in iudício peccántium ne consístas.
+Si	11	10	Fili, ne in multis sint actus tui : et si dives fúeris, non eris immúnis a delícto. Si enim secútus fúeris, non apprehéndes : et non effúgies, si præcucúrreris.
+Si	11	11	Est homo labórans et festínans, et dolens : ímpius, et tanto magis non abundábit.
+Si	11	12	Est homo márcidus egens recuperatióne, plus defíciens virtúte, et abúndans paupertáte :
+Si	11	13	et óculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput eius : et miráti sunt in illo multi, et honoravérunt Deum.
+Si	11	14	Bona et mala, vita et mors, paupértas et honéstas, a Deo sunt :
+Si	11	15	sapiéntia, et disciplína, et sciéntia legis, apud Deum : diléctio, et viæ bonórum, apud ipsum.
+Si	11	16	Error et ténebræ peccatóribus concreáta sunt : qui autem exsúltant in malis consenéscunt in malo.
+Si	11	17	Dátio Dei pérmanet iustis, et proféctus illíus succéssus habébit in ætérnum.
+Si	11	18	Est qui locupletátur parce agéndo, et hæc est pars mercédis illíus.
+Si	11	19	In eo quod dicit : Invéni réquiem mihi, et nunc manducábo de bonis meis solus :
+Si	11	20	et nescit quod tempus praetériet, et mors appropínquet, et relínquat ómnia áliis, et moriétur.
+Si	11	21	Sta in testaménto tuo, et in illo collóquere, et in ópere mandatórum tuórum veterásce.
+Si	11	22	Ne mánseris in opéribus peccatórum : confíde autem in Deo, et mane in loco tuo.
+Si	11	23	Fácile est enim in óculis Dei súbito honestáre páuperem.
+Si	11	24	Benedíctio Dei in mercédem iusti festínat, et in hora velóci procéssus illíus fructíficat.
+Si	11	25	Ne dicas : Quid est mihi opus ? et quæ erunt mihi ex hoc bona ?
+Si	11	26	Ne dicas : Suffíciens mihi sum : et quid ex hoc pessimábor ?
+Si	11	27	In die bonórum ne ímmemor sis malórum, et in die malórum ne ímmemor sis bonórum :
+Si	11	28	quóniam fácile est coram Deo in die óbitus retribúere unicuíque secúndum vias suas.
+Si	11	29	Malítia horæ obliviónem facit luxúriæ magnæ, et in fine hóminis denudátio óperum illíus.
+Si	11	30	Ante mortem ne laudes hóminem quemquam : quóniam in fíliis suis agnóscitur vir.
+Si	11	31	Non omnem hóminem indúcas in domum tuam : multæ enim sunt insídiæ dolósi.
+Si	11	32	Sicut enim erúctant præcórdia fœténtium, et sicut perdix indúcitur in cáveam, et ut cáprea in láqueum : sic et cor superbórum, et sicut prospéctor videns casum próximi sui.
+Si	11	33	Bona enim in mala convértens insidiátur, et in eléctis impónet máculam.
+Si	11	34	A scintílla una augétur ignis, et ab uno dolóso augétur sanguis : homo vero peccátor sánguini insidiátur.
+Si	11	35	Atténde tibi a pestífero, fábricat enim mala, ne indúcat super te subsannatiónem in perpétuum.
+Si	11	36	Admítte ad te alienígenam : et subvértet te in túrbine, et abalienábit te a tuis própriis.
+Si	12	1	Si beneféceris, scito cui féceris, et erit grátia in bonis tuis multa.
+Si	12	2	Bénefac iusto, et invénies retributiónem magnam : et si non ab ipso, certe a Dómino.
+Si	12	3	Non est enim ei bene qui assíduus est in malis, et eleemósynas non danti : quóniam et Altíssimus ódio habet peccatóres, et misértus est pœniténtibus.
+Si	12	4	Da misericórdi, et ne suscípias peccatórem : et ímpiis et peccatóribus reddet vindíctam, custódiens eos in diem vindíctæ.
+Si	12	5	Da bono, et non recéperis peccatórem.
+Si	12	6	Bénefac húmili, et non déderis ímpio : próhibe panes illi dari, ne in ipsis poténtior te sit :
+Si	12	7	nam duplícia mala invénies in ómnibus bonis quæcúmque féceris illi, quóniam et Altíssimus ódio habet peccatóres, et ímpiis reddet vindíctam.
+Si	12	8	Non agnoscétur in bonis amícus, et non abscondétur in malis inimícus.
+Si	12	9	In bonis viri, inimíci illíus in tristítia : et in malítia illíus, amícus ágnitus est.
+Si	12	10	Non credas inimíco tuo in ætérnum : sicut enim æraméntum ærúginat nequítia illíus :
+Si	12	11	et si humiliátus vadat curvus, ádice ánimum tuum, et custódi te ab illo.
+Si	12	12	Non státuas illum penes te, nec sédeat ad déxteram tuam, ne forte convérsus in locum tuum, inquírat cáthedram tuam, et in novíssimo agnósces verba mea, et in sermónibus meis stimuléris.
+Si	12	13	Quis miserébitur incantatóri a serpénte percússo, et ómnibus qui apprópiant béstiis ? et sic qui comitátur cum viro iníquo, et obvolútus est in peccátis eius.
+Si	12	14	Una hora tecum permanébit : si autem declináveris, non supportábit.
+Si	12	15	In lábiis suis indúlcat inimícus, et in corde suo insidiátur ut subvértat te in fóveam.
+Si	12	16	In óculis suis lacrimátur inimícus, et si invénerit tempus, non satiábitur sánguine.
+Si	12	17	Et si incúrrerint tibi mala, invénies eum illic priórem.
+Si	12	18	In óculis suis lacrimátur inimícus, et quasi ádiuvans suffódiet plantas tuas.
+Si	12	19	Caput suum movébit, et plaudet manu, et multa susúrrans commutábit vultum suum.
+Si	13	1	Qui tetígerit picem inquinábitur ab ea : et qui communicáverit supérbo índuet supérbiam.
+Si	13	2	Pondus super se tollat qui honestióri se commúnicat, et ditióri te ne sócius fúeris.
+Si	13	3	Quid communicábit cácabus ad ollam ? quando enim se collíserint, confringétur.
+Si	13	4	Dives iniúste egit, et fremet : pauper autem læsus tacébit.
+Si	13	5	Si largítus fúeris, assúmet te : et si non habúeris, derelínquet te.
+Si	13	6	Si habes, convívet tecum, et evacuábit te : et ipse non dolébit super te.
+Si	13	7	Si necessárius illi fúeris, supplantábit te, et subrídens spem dabit, narrans tibi bona, et dicet : Quid opus est tibi ?
+Si	13	8	Et confúndet te in cibis suis, donec te exinániat bis et ter : et in novíssimo deridébit te, et póstea videns derelínquet te, et caput suum movébit ad te.
+Si	13	9	Humiliáre Deo, et exspécta manus eius.
+Si	13	10	Atténde ne sedúctus in stultítiam humiliéris.
+Si	13	11	Noli esse húmilis in sapiéntia tua, ne humiliátus in stultítiam seducáris.
+Si	13	12	Advocátus a potentióre, discéde : ex hoc enim magis te advocábit.
+Si	13	13	Ne ímprobus sis, ne impingáris : et ne longe sis ab eo, ne eas in obliviónem.
+Si	13	14	Ne retíneas ex æquo loqui cum illo, nec credas multis verbis illíus : ex multa enim loquéla tentábit te, et subrídens interrogábit te de abscónditis tuis.
+Si	13	15	Immítis ánimus illíus conservábit verba tua : et non parcet de malítia, et de vínculis.
+Si	13	16	Cave tibi, et atténde diligénter audítui tuo, quóniam cum subversióne tua ámbulas :
+Si	13	17	áudiens vero illa, quasi in somnis vide, et vigilábis.
+Si	13	18	Omni vita tua dílige Deum, et ínvoca illum in salúte tua.
+Si	13	19	Omne ánimal díligit símile sibi, sic et omnis homo próximum sibi.
+Si	13	20	Omnis caro ad símilem sibi coniungétur, et omnis homo símili sui sociábitur.
+Si	13	21	Si communicábit lupus agno aliquándo, sic peccátor iusto.
+Si	13	22	Quæ communicátio sancto hómini ad canem ? aut quæ pars díviti ad páuperem ?
+Si	13	23	Venátio leónis ónager in erémo : sic et páscua dívitum sunt páuperes.
+Si	13	24	Et sicut abominátio est supérbo humílitas, sic et execrátio dívitis pauper.
+Si	13	25	Dives commótus confirmátur ab amícis suis : húmilis autem cum cecíderit, expellétur et a notis.
+Si	13	26	Díviti decépto multi recuperatóres : locútus est supérbia, et iustificavérunt illum.
+Si	13	27	Húmilis decéptus est, ínsuper et argúitur : locútus est sensáte, et non est datus ei locus.
+Si	13	28	Dives locútus est, et omnes tacuérunt, et verbum illíus usque ad nubes perdúcent.
+Si	13	29	Pauper locútus est, et dicunt : Quis est hic ? et si offénderit, subvértent illum.
+Si	13	30	Bona est substántia cui non est peccátum in consciéntia : et nequíssima paupértas in ore ímpii.
+Si	13	31	Cor hóminis immútat fáciem illíus, sive in bona, sive in mala.
+Si	13	32	Vestígium cordis boni et fáciem bonam diffícile invénies, et cum labóre.
+Si	14	1	Beátus vir qui non est lapsus verbo ex ore suo, et non est stimulátus in tristítia delícti.
+Si	14	2	Felix qui non hábuit ánimi sui tristítiam, et non éxcidit a spe sua.
+Si	14	3	Viro cúpido et tenáci sine ratióne est substántia : et hómini lívido ad quid aurum ?
+Si	14	4	Qui acérvat ex ánimo suo iniúste, áliis cóngregat, et in bonis illíus álius luxuriábitur.
+Si	14	5	Qui sibi nequam est, cui álii bonus erit ? et non iucundábitur in bonis suis.
+Si	14	6	Qui sibi ínvidet, nihil est illo néquius : et hæc reddítio est malítiæ illíus.
+Si	14	7	Et si bene fécerit, ignoránter et non volens facit : et in novíssimo maniféstat malítiam suam.
+Si	14	8	Nequam est óculus lívidi : et avértens fáciem suam, et despíciens ánimam suam.
+Si	14	9	Insatiábilis óculus cúpidi in parte iniquitátis : non satiábitur donec consúmat arefáciens ánimam suam.
+Si	14	10	Oculus malus ad mala, et non saturábitur pane, sed índigens et in tristítia erit super mensam suam.
+Si	14	11	Fili, si habes, bénefac tecum, et Deo dignas oblatiónes offer.
+Si	14	12	Memor esto quóniam mors non tardat, et testaméntum inferórum, quia demonstrátum est tibi : testaméntum enim huius mundi morte moriétur.
+Si	14	13	Ante mortem bénefac amíco tuo, et secúndum vires tuas expórrigens da páuperi.
+Si	14	14	Non defraudéris a die bono, et partícula boni doni non te prætéreat.
+Si	14	15	Nonne áliis relínques dolóres et labóres tuos in divisióne sortis ?
+Si	14	16	Da et áccipe, et iustífica ánimam tuam.
+Si	14	17	Ante óbitum tuum operáre iustítiam, quóniam non est apud ínferos inveníre cibum.
+Si	14	18	Omnis caro sicut fœnum veteráscet, et sicut fólium fructíficans in árbore víridi.
+Si	14	19	Alia generántur, et ália deiciúntur : sic generátio carnis et sánguinis, ália finítur, et ália náscitur.
+Si	14	20	Omne opus corruptíbile in fine defíciet, et qui illud operátur ibit cum illo.
+Si	14	21	Et omne opus eléctum iustificábitur, et qui operátur illud honorábitur in illo.
+Si	14	22	Beátus vir qui in sapiéntia morábitur, et qui in iustítia sua meditábitur, et in sensu cogitábit circumspectiónem Dei :
+Si	14	23	qui excógitat vias illíus in corde suo, et in abscónditis suis intélligens, vadens post illam quasi investigátor, et in viis illíus consístens :
+Si	14	24	qui réspicit per fenéstras illíus, et in iánuis illíus áudiens :
+Si	14	25	qui requiéscit iuxta domum illíus, et in pariétibus illíus figens palum, státuet cásulam suam ad manus illíus, et requiéscent in cásula illíus bona per ævum.
+Si	14	26	Státuet fílios suos sub tégmine illíus, et sub ramis eius morábitur.
+Si	14	27	Protegétur sub tégmine illíus a fervóre, et in glória eius requiéscet.
+Si	15	1	Qui timet Deum fáciet bona, et qui cóntinens est iustítiæ apprehéndet illam :
+Si	15	2	et obviábit illi quasi mater honorificáta, et quasi múlier a virginitáte suscípiet illum.
+Si	15	3	Cibábit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potábit illum : et firmábitur in illo, et non flectétur :
+Si	15	4	et continébit illum, et non confundétur : et exaltábit illum apud próximos suos,
+Si	15	5	et in médio ecclésiæ apériet os eius, et adimplébit illum spíritu sapiéntiæ et intelléctus, et stola glóriæ véstiet illum.
+Si	15	6	Iucunditátem et exsultatiónem thesaurizábit super illum, et nómine ætérno hæreditábit illum.
+Si	15	7	Hómines stulti non apprehéndent illam, et hómines sensáti obviábunt illi. Hómines stulti non vidébunt eam : longe enim abest a supérbia et dolo.
+Si	15	8	Viri mendáces non erunt illíus mémores : et viri veráces inveniéntur in illa, et succéssum habébunt usque ad inspectiónem Dei.
+Si	15	9	Non est speciósa laus in ore peccatóris,
+Si	15	10	quóniam a Deo profécta est sapiéntia. Sapiéntiæ enim Dei asstábit laus, et in ore fidéli abundábit, et Dominátor dabit eam illi.
+Si	15	11	Non díxeris : Per Deum abest : quæ enim odit ne féceris.
+Si	15	12	Non dicas : Ille me implanávit : non enim necessárii sunt ei hómines ímpii.
+Si	15	13	Omne execraméntum erróris odit Dóminus, et non erit amábile timéntibus eum.
+Si	15	14	Deus ab inítio constítuit hóminem, et relíquit illum in manu consílii sui :
+Si	15	15	adiécit mandáta et præcépta sua.
+Si	15	16	Si volúeris mandáta serváre, conservábunt te, et in perpétuum fidem plácitam fácere.
+Si	15	17	Appósuit tibi aquam et ignem, ad quod volúeris porríge manum tuam.
+Si	15	18	Ante hóminem vita et mors, bonum et malum : quod placúerit ei dábitur illi :
+Si	15	19	quóniam multa sapiéntia Dei, et fortis in poténtia, videns omnes sine intermissióne.
+Si	15	20	Oculi Dómini ad timéntes eum, et ipse agnóscit omnem óperam hóminis.
+Si	15	21	Némini mandávit ímpie ágere, et némini dedit spátium peccándi :
+Si	15	22	non enim concupíscit multitúdinem filiórum infidélium et inutílium.
+Si	16	1	Ne iucundéris in fíliis ímpiis, si multiplicéntur : nec oblectéris super ipsos, si non est timor Dei in illis.
+Si	16	2	Non credas vitæ illórum, et ne respéxeris in labóres eórum.
+Si	16	3	Mélior est enim unus timens Deum, quam mille fílii ímpii :
+Si	16	4	et útile est mori sine fíliis, quam relínquere fílios ímpios.
+Si	16	5	Ab uno sensáto inhabitábitur pátria : tribus impiórum deserétur.
+Si	16	6	Multa tália vidit óculis meus, et fortióra horum audívit auris mea.
+Si	16	7	In synagóga peccántium exardébit ignis, et in gente incredíbili exardéscet ira.
+Si	16	8	Non exoravérunt pro peccátis suis antíqui Gigántes, qui destrúcti sunt confidéntes suæ virtúti.
+Si	16	9	Et non pepércit peregrinatióni Lot, et execrátus est eos præ supérbia verbi illórum.
+Si	16	10	Non misértus est illis, gentem totam perdens, et extolléntem se in peccátis suis.
+Si	16	11	Et sicut sexcénta míllia péditum, qui congregáti sunt in durítia cordis sui : et si unus fuísset cervicátus, mirum si fuísset immúnis.
+Si	16	12	Misericórdia enim et ira est cum illo : potens exorátio, et effúndens iram.
+Si	16	13	Secúndum misericórdiam suam, sic corréptio illíus hómines secúndum ópera sua iúdicat.
+Si	16	14	Non effúgiet in rapína peccátor, et non retardábit sufferéntia misericórdiam faciéntis.
+Si	16	15	Omnis misericórdia fáciet locum unicuíque, secúndum méritum óperum suórum, et secúndum intelléctum peregrinatiónis ipsíus.
+Si	16	16	Non dicas : A Deo abscóndar : et ex summo, quis mei memorábitur ?
+Si	16	17	in pópulo magno non agnóscar : quæ est enim ánima mea in tam imménsa creatúra ?
+Si	16	18	Ecce cælum et cæli cælórum, abýssus, et univérsa terra, et quæ in eis sunt, in conspéctu illíus commovebúntur.
+Si	16	19	Montes simul, et colles, et fundaménta terræ, cum conspéxerit illa Deus, tremóre concutiéntur.
+Si	16	20	Et in ómnibus his insensátum est cor, et omne cor intellígitur ab illo.
+Si	16	21	Et vias illíus quis intélligit, et procéllam quam nec óculus vidébit hóminis ?
+Si	16	22	Nam plúrima illíus ópera sunt in abscónsis : sed ópera iustítiæ eius quis enuntiábit, aut quis sustinébit ? longe enim est testaméntum a quibúsdam, et interrogátio ómnium in consummatióne est.
+Si	16	23	Qui minorátur corde cógitat inánia, et vir imprúdens et errans cógitat stulta.
+Si	16	24	Audi me, fili, et disce disciplínam sensus, et in verbis meis atténde in corde tuo :
+Si	16	25	et dicam in æquitáte disciplínam, et scrutábor enarráre sapiéntiam : et in verbis meis atténde in corde tuo, et dico in æquitáte spíritus virtútes quas pósuit Deus in ópera sua ab inítio, et in veritáte enúntio sciéntiam eius.
+Si	16	26	In iudício Dei ópera eius ab inítio, et ab institutióne ipsórum distínxit partes illórum, et inítia eórum in géntibus suis.
+Si	16	27	Ornávit in ætérnum ópera illórum : nec esuriérunt, nec laboravérunt, et non destitérunt ab opéribus suis.
+Si	16	28	Unusquísque próximum sibi non angustiábit in ætérnum :
+Si	16	29	non sis incredíbilis verbo illíus.
+Si	16	30	Post hæc Deus in terram respéxit, et implévit illam bonis suis :
+Si	16	31	ánima omnis vitális denuntiávit ante fáciem ipsíus, et in ipsam íterum revérsio illórum.
+Si	17	1	Deus creávit de terra hóminem, et secúndum imáginem suam fecit illum :
+Si	17	2	et íterum convértit illum in ipsam, et secúndum se vestívit illum virtúte.
+Si	17	3	Númerum diérum et tempus dedit illi, et dedit illi potestátem eórum quæ sunt super terram.
+Si	17	4	Pósuit timórem illíus super omnem carnem, et dominátus est bestiárum et volatílium.
+Si	17	5	Creávit ex ipso adiutórium símile sibi : consílium, et linguam, et óculos, et aures, et cor dedit illis excogitándi, et disciplína intelléctus replévit illos.
+Si	17	6	Creávit illis sciéntiam spíritus, sensu implévit cor illórum, et mala et bona osténdit illis.
+Si	17	7	Pósuit óculum suum super corda illórum, osténdere illis magnália óperum suórum :
+Si	17	8	ut nomen sanctificatiónis colláudent, et gloriári in mirabílibus illíus ; ut magnália enárrent óperum eius.
+Si	17	9	Addidit illis disciplínam, et legem vitæ hæreditávit illos.
+Si	17	10	Testaméntum ætérnum constítuit cum illis, et iustítiam et iudícia sua osténdit illis.
+Si	17	11	Et magnália honóris eius vidit óculus illórum, et honórem vocis audiérunt aures illórum. Et dixit illis : Atténdite ab omni iníquo.
+Si	17	12	Et mandávit illis unicuíque de próximo suo.
+Si	17	13	Viæ illórum coram ipso sunt semper : non sunt abscónsæ ab óculis ipsíus.
+Si	17	14	In unamquámque gentem præpósuit rectórem :
+Si	17	15	et pars Dei Israel facta est manifésta.
+Si	17	16	Et ómnia ópera illórum velut sol in conspéctu Dei : et óculi eius sine intermissióne inspiciéntes in viis eórum.
+Si	17	17	Non sunt abscónsa testaménta per iniquitátem illórum, et omnes iniquitátes eórum in conspéctu Dei.
+Si	17	18	Eleemósyna viri quasi signáculum cum ipso, et grátiam hóminis quasi pupíllam conservábit.
+Si	17	19	Et póstea resúrget, et retríbuet illis retributiónem, unicuíque in caput ipsórum, et convértet in interióres partes terræ.
+Si	17	20	Pœniténtibus autem dedit viam iustítiæ, et confirmávit deficiéntes sustinére, et destinávit illis sortem veritátis.
+Si	17	21	Convértere ad Dóminum, et relínque peccáta tua :
+Si	17	22	precáre ante fáciem Dómini, et mínue offendícula.
+Si	17	23	Revértere ad Dóminum, et avértere ab iniustítia tua, et nimis ódito execratiónem :
+Si	17	24	et cognósce iustítias et iudícia Dei, et sta in sorte propositiónis, et oratiónis altíssimi Dei.
+Si	17	25	In partes vade sǽculi sancti, cum vivis et dántibus confessiónem Deo.
+Si	17	26	Non demoréris in erróre impiórum : ante mortem confitére : a mórtuo, quasi nihil, perit conféssio.
+Si	17	27	Confitéberis vivens, vivus et sanus confitéberis : et laudábis Deum, et gloriáberis in miseratiónibus illíus.
+Si	17	28	Quam magna misericórdia Dómini, et propitiátio illíus converténtibus ad se !
+Si	17	29	Nec enim ómnia possunt esse in homínibus, quóniam non est immortális fílius hóminis, et in vanitáte malítiæ placuérunt.
+Si	17	30	Quid lucídius sole ? et hic defíciet ; aut quid néquius quam quod excogitávit caro et sanguis ? et hoc arguétur.
+Si	17	31	Virtútem altitúdinis cæli ipse cónspicit : et omnes hómines terra et cinis.
+Si	18	1	Qui vivit in ætérnum creávit ómnia simul. Deus solus iustificábitur, et manet invíctus rex in ætérnum.
+Si	18	2	Quis súfficit enarráre ópera illíus ?
+Si	18	3	quis enim investigábit magnália eius ?
+Si	18	4	virtútem autem magnitúdinis eius quis enuntiábit ? aut quis adíciet enarráre misericórdiam eius ?
+Si	18	5	Non est minúere neque adícere, nec est inveníre magnália Dei.
+Si	18	6	Cum consummáverit homo, tunc incípiet : et cum quiéverit, aporiábitur.
+Si	18	7	Quid est homo ? et quæ est grátia illíus ? et quid bonum aut quid nequam illíus ?
+Si	18	8	Númerus diérum hóminum, ut multum centum anni, quasi gutta aquæ maris deputáti sunt : et sicut cálculus arénæ, sic exígui anni in die ævi.
+Si	18	9	Propter hoc pátiens est Deus in illis, et effúndit super eos misericórdiam suam.
+Si	18	10	Vidit præsumptiónem cordis eórum, quóniam mala est : et cognóvit subversiónem illórum, quóniam nequam est.
+Si	18	11	Ideo adimplévit propitiatiónem suam in illis, et osténdit eis viam æquitátis.
+Si	18	12	Miserátio hóminis circa próximum suum : misericórdia autem Dei super omnem carnem.
+Si	18	13	Qui misericórdiam habet, docet et érudit quasi pastor gregem suum.
+Si	18	14	Miserétur excipiéntis doctrínam miseratiónis, et qui festínat in iudíciis eius.
+Si	18	15	Fili, in bonis non des querélam, et in omni dato non des tristítiam verbi mali.
+Si	18	16	Nonne ardórem refrigerábit ros ? sic et verbum mélius quam datum.
+Si	18	17	Nonne ecce verbum super datum bonum ? sed útraque cum hómine iustificáto.
+Si	18	18	Stultus ácriter improperábit : et datus indisciplináti tabéscere facit óculos.
+Si	18	19	Ante iudícium para iustítiam tibi, et ántequam loquáris, disce.
+Si	18	20	Ante languórem ádhibe medicínam : et ante iudícium intérroga teípsum, et in conspéctu Dei invénies propitiatiónem.
+Si	18	21	Ante languórem humília te, et in témpore infirmitátis osténde conversatiónem tuam.
+Si	18	22	Non impediáris oráre semper, et ne vereáris usque ad mortem iustificári, quóniam merces Dei manet in ætérnum.
+Si	18	23	Ante oratiónem prǽpara ánimam tuam, et noli esse quasi homo qui tentat Deum.
+Si	18	24	Meménto iræ in die consummatiónis, et tempus retributiónis in conversatióne faciéi.
+Si	18	25	Meménto paupertátis in témpore abundántiæ, et necessitátum paupertátis in die divitiárum.
+Si	18	26	A mane usque ad vésperam immutábitur tempus, et hæc ómnia citáta in óculis Dei.
+Si	18	27	Homo sápiens in ómnibus métuet, et in diébus delictórum atténdet ab inértia.
+Si	18	28	Omnis astútus agnóscit sapiéntiam, et inveniénti eam dabit confessiónem.
+Si	18	29	Sensáti in verbis et ipsi sapiénter egérunt, et intellexérunt veritátem et iustítiam, et implevérunt provérbia et iudícia.
+Si	18	30	Post concupiscéntias tuas non eas, et a voluntáte tua avértere.
+Si	18	31	Si præstes ánimæ tuæ concupiscéntias eius, fáciat te in gáudium inimícis tuis.
+Si	18	32	Ne oblectéris in turbis nec in módicis : assídua enim est commíssio illórum.
+Si	18	33	Ne fúeris medíocris in contentióne ex fœ́nore, et est tibi nihil in sácculo : eris enim ínvidus vitæ tuæ.
+Si	19	1	Operárius ebriósus non locupletábitur : et qui spernit módica paulátim décidet.
+Si	19	2	Vinum et mulíeres apostatáre fáciunt sapiéntes, et árguent sensátos.
+Si	19	3	Et qui se iungit fornicáriis erit nequam : putrédo et vermes hæreditábunt illum : et extollétur in exémplum maius, et tollétur de número ánima eius.
+Si	19	4	Qui credit cito levis corde est, et minorábitur : et qui delínquit in ánimam suam, ínsuper habébitur.
+Si	19	5	Qui gaudet iniquitáte, denotábitur : et qui odit correptiónem, minuétur vita : et qui odit loquacitátem, extínguit malítiam.
+Si	19	6	Qui peccat in ánimam suam, pœnitébit : et qui iucundátur in malítia, denotábitur.
+Si	19	7	Ne íteres verbum nequam et durum, et non minoráberis.
+Si	19	8	Amíco et inimíco noli narráre sensum tuum : et si est tibi delíctum, noli denudáre :
+Si	19	9	áudiet enim te, et custódiet te, et quasi deféndens peccátum, ódiet te, et sic áderit tibi semper.
+Si	19	10	Audísti verbum advérsus próximum tuum ? commoriátur in te, fidens quóniam non te dirúmpet.
+Si	19	11	A fácie verbi párturit fátuus, tamquam gémitus partus infántis.
+Si	19	12	Sagítta infíxa fémori carnis, sic verbum in corde stulti.
+Si	19	13	Córripe amícum, ne forte non intelléxerit, et dicat : Non feci : aut, si fécerit, ne íterum addat fácere.
+Si	19	14	Córripe próximum, ne forte non díxerit : et si díxerit, ne forte íteret.
+Si	19	15	Córripe amícum, sæpe enim fit commíssio :
+Si	19	16	et non omni verbo credas. Est qui lábitur lingua, sed non ex ánimo :
+Si	19	17	quis est enim qui non delíquerit in lingua sua ? Córripe próximum ántequam comminéris,
+Si	19	18	et da locum timóri Altíssimi : quia omnis sapiéntia timor Dei, et in illa timére Deum, et in omni sapiéntia disposítio legis.
+Si	19	19	Et non est sapiéntia nequítiæ disciplína, et non est cogitátus peccatórum prudéntia.
+Si	19	20	Est nequítia, et in ipsa execrátio, et est insípiens qui minúitur sapiéntia.
+Si	19	21	Mélior est homo qui minúitur sapiéntia, et defíciens sensu, in timóre, quam qui abúndat sensu, et transgréditur legem Altíssimi.
+Si	19	22	Est solértia certa, et ipsa iníqua :
+Si	19	23	et est qui emíttit verbum certum enárrans veritátem. Est qui néquiter humíliat se, et interióra eius plena sunt dolo :
+Si	19	24	et est qui se nímium submíttit a multa humilitáte : et est qui inclínat fáciem suam, et fingit se non vidére quod ignorátum est :
+Si	19	25	et si ab imbecillitáte vírium vetétur peccáre, si invénerit tempus malefaciéndi, malefáciet.
+Si	19	26	Ex visu cognóscitur vir, et ab occúrsu faciéi cognóscitur sensátus.
+Si	19	27	Amíctus córporis, et risus déntium, et ingréssus hóminis, enúntiant de illo.
+Si	19	28	Est corréptio mendax in ira contumeliósi, et est iudícium quod non probátur esse bonum : et est tacens, et ipse est prudens.
+Si	20	1	Quam bonum est argúere, quam irásci, et confiténtem in oratióne non prohibére !
+Si	20	2	Concupiscéntia spadónis devirginábit iuvénculam :
+Si	20	3	sic qui facit per vim iudícium iníquum.
+Si	20	4	Quam bonum est corréptum manifestáre pœniténtiam ! sic enim effúgies voluntárium peccátum.
+Si	20	5	Est tacens qui invenítur sápiens : et est odíbilis qui procax est ad loquéndum.
+Si	20	6	Est tacens non habens sensum loquélæ : et est tacens sciens tempus aptum.
+Si	20	7	Homo sápiens tacébit usque ad tempus : lascívus autem et imprúdens non servábunt tempus.
+Si	20	8	Qui multis útitur verbis lædet ánimam suam : et qui potestátem sibi sumit iniúste, odiétur.
+Si	20	9	Est procéssio in malis viro indisciplináto, et est invéntio in detriméntum.
+Si	20	10	Est datum quod non est útile, et est datum cuius retribútio duplex.
+Si	20	11	Est propter glóriam minorátio, et est qui ab humilitáte levábit caput.
+Si	20	12	Est qui multa rédimat módico prétio, et restítuens ea in séptuplum.
+Si	20	13	Sápiens in verbis seípsum amábilem facit : grátiæ autem fatuórum effundéntur.
+Si	20	14	Datus insipiéntis non erit útilis tibi : óculi enim illíus septémplices sunt.
+Si	20	15	Exígua dabit, et multa improperábit : et apértio oris illíus inflammátio est.
+Si	20	16	Hódie fœnerátur quis, et cras éxpetit : odíbilis est homo huiúsmodi.
+Si	20	17	Fátuo non erit amícus, et non erit grátia bonis illíus :
+Si	20	18	qui enim edunt panem illíus, falsæ linguæ sunt. Quóties et quanti irridébunt eum !
+Si	20	19	neque enim quod habéndum erat dirécto sensu distríbuit ; simíliter et quod non erat habéndum.
+Si	20	20	Lapsus falsæ linguæ quasi qui in paviménto cadens : sic casus malórum festinánter véniet.
+Si	20	21	Homo ácharis quasi fábula vana, in ore indisciplinatórum assídua erit.
+Si	20	22	Ex ore fátui reprobábitur parábola : non enim dicit illam in témpore suo.
+Si	20	23	Est qui vetátur peccáre præ inópia, et in réquie sua stimulábitur.
+Si	20	24	Est qui perdet ánimam suam præ confusióne, et ab imprudénti persóna perdet eam : persónæ autem acceptióne perdet se.
+Si	20	25	Est qui præ confusióne promíttit amíco, et lucrátus est eum inimícum gratis.
+Si	20	26	Oppróbrium nequam in hómine mendácium : et in ore indisciplinatórum assídue erit.
+Si	20	27	Pótior fur quam assidúitas viri mendácis : perditiónem autem ambo hæreditábunt.
+Si	20	28	Mores hóminum mendácium sine honóre, et confúsio illórum cum ipsis sine intermissióne.
+Si	20	29	Sápiens in verbis prodúcet seípsum, et homo prudens placébit magnátis.
+Si	20	30	Qui operátur terram suam inaltábit acérvum frugum, et qui operátur iustítiam, ipse exaltábitur : qui vero placet magnátis effúgiet iniquitátem.
+Si	20	31	Xénia et dona excǽcant óculos iúdicum, et quasi mutus, in ore avértit correptiónes eórum.
+Si	20	32	Sapiéntia abscónsa, et thesáurus invísus, quæ utílitas in utrísque ?
+Si	20	33	Mélior est qui celat insipiéntiam suam, quam homo qui abscóndit sapiéntiam suam.
+Si	21	1	Fili, peccásti, non adícias íterum : sed et de prístinis deprecáre, ut tibi dimittántur.
+Si	21	2	Quasi a fácie cólubri fuge peccáta : et si accésseris ad illa, suscípient te.
+Si	21	3	Dentes leónis dentes eius, interficiéntes ánimas hóminum.
+Si	21	4	Quasi rhomphǽa bis acúta omnis iníquitas : plagæ illíus non est sánitas.
+Si	21	5	Obiurgátio et iniúriæ annullábunt substántiam, et domus quæ nimis lócuples est annullábitur supérbia : sic substántia supérbi eradicábitur.
+Si	21	6	Deprecátio páuperis ex ore usque ad aures eius pervéniet, et iudícium festináto advéniet illi.
+Si	21	7	Qui odit correptiónem vestígium est peccatóris, et qui timet Deum convertétur ad cor suum.
+Si	21	8	Notus a longe potens lingua audáci, et sensátus scit labi se ab ipso.
+Si	21	9	Qui ædíficat domum suam impéndiis aliénis, quasi qui cólligat lápides suos in híeme.
+Si	21	10	Stupa collécta synagóga peccántium, et consummátio illórum flamma ignis.
+Si	21	11	Via peccatórum complanáta lapídibus : et in fine illórum ínferi, et ténebræ, et pœnæ.
+Si	21	12	Qui custódit iustítiam, continébit sensum eius.
+Si	21	13	Consummátio timóris Dei, sapiéntia et sensus.
+Si	21	14	Non erudiétur qui non est sápiens in bono.
+Si	21	15	Est autem sapiéntia quæ abúndat in malo, et non est sensus ubi est amaritúdo.
+Si	21	16	Sciéntia sapiéntis tamquam inundátio abundábit, et consílium illíus sicut fons vitæ pérmanet.
+Si	21	17	Cor fátui quasi vas confráctum, et omnem sapiéntiam non tenébit.
+Si	21	18	Verbum sápiens quodcúmque audíerit scius, laudábit, et ad se adíciet : audívit luxuriósus, et displicébit illi, et proíciet illud post dorsum suum.
+Si	21	19	Narrátio fátui quasi sárcina in via : nam in lábiis sensáti inveniétur grátia.
+Si	21	20	Os prudéntis quǽritur in ecclésia, et verba illíus cogitábunt in córdibus suis.
+Si	21	21	Tamquam domus extermináta, sic fátuo sapiéntia : et sciéntia insensáti inenarrabília verba.
+Si	21	22	Cómpedes in pédibus, stulto doctrína : et quasi víncula mánuum super manum dextram.
+Si	21	23	Fátuus in risu exáltat vocem suam : vir autem sápiens vix tácite ridébit.
+Si	21	24	Ornaméntum áureum prudénti doctrína, et quasi brachiále in bráchio dextro.
+Si	21	25	Pes fátui fácilis in domum próximi : et homo perítus confundétur a persóna poténtis.
+Si	21	26	Stultus a fenéstra respíciet in domum : vir autem erudítus foris stabit.
+Si	21	27	Stultítia hóminis auscultáre per óstium : et prudens gravábitur contumélia.
+Si	21	28	Lábia imprudéntium stulta narrábunt ; verba autem prudéntium statéra ponderabúntur.
+Si	21	29	In ore fatuórum cor illórum, et in corde sapiéntium os illórum.
+Si	21	30	Dum maledícit ímpius diábolum, maledícit ipse ánimam suam.
+Si	21	31	Susúrro coinquinábit ánimam suam, et in ómnibus odiétur, et qui cum eo mánserit odiósus erit : tácitus et sensátus honorábitur.
+Si	22	1	In lápide lúteo lapidátus est piger : et omnes loquéntur super aspernatiónem illíus.
+Si	22	2	De stércore boum lapidátus est piger : et omnis qui tetígerit eum excútiet manus.
+Si	22	3	Confúsio patris est de fílio indisciplináto : fília autem in deminoratióne fiet.
+Si	22	4	Fília prudens hæréditas viro suo : nam quæ confúndit, in contuméliam fit genitóris.
+Si	22	5	Patrem et virum confúndit audax, et ab ímpiis non minorábitur : ab utrísque autem inhonorábitur.
+Si	22	6	Música in luctu importúna narrátio : flagélla et doctrína in omni témpore sapiéntia.
+Si	22	7	Qui docet fátuum, quasi qui conglútinat testam.
+Si	22	8	Qui narrat verbum non audiénti, quasi qui éxcitat dormiéntem de gravi somno.
+Si	22	9	Cum dormiénte lóquitur qui enárrat stulto sapiéntiam : et in fine narratiónis dicit : Quis est hic ?
+Si	22	10	Supra mórtuum plora, defécit enim lux eius : et supra fátuum plora, defécit enim sensus.
+Si	22	11	Módicum plora super mórtuum, quóniam requiévit :
+Si	22	12	nequíssimi enim nequíssima vita super mortem fátui.
+Si	22	13	Luctus mórtui septem dies : fátui autem et ímpii omnes dies vitæ illórum.
+Si	22	14	Cum stulto ne multum loquáris, et cum insensáto ne abíeris.
+Si	22	15	Serva te ab illo, ut non moléstiam hábeas, et non coinquináberis peccáto illíus.
+Si	22	16	Deflécte ab illo, et invénies réquiem, et non acediáberis in stultítia illíus.
+Si	22	17	Super plumbum quid gravábitur ? et quod illi aliud nomen quam fátuus ?
+Si	22	18	Arénam, et salem, et massam ferri facílius est ferre quam hóminem imprudéntem, et fátuum, et ímpium.
+Si	22	19	Loraméntum lígneum colligátum in fundaménto ædifícii non dissolvétur, sic et cor confirmátum in cogitatióne consílii.
+Si	22	20	Cogitátus sensáti in omni témpore metu non depravábitur.
+Si	22	21	Sicut pali in excélsis, et cæménta sine impénsa pósita, contra fáciem venti non permanébunt :
+Si	22	22	sic et cor tímidum in cogitatióne stulti contra ímpetum timóris non resístet.
+Si	22	23	Sicut cor trépidum in cogitatióne fátui omni témpore non métuet, sic et qui in præcéptis Dei pérmanet semper.
+Si	22	24	Pungens óculum dedúcit lácrimas, et qui pungit cor profert sensum.
+Si	22	25	Mittens lápidem in volatília, deíciet illa : sic et qui conviciátur amíco, dissólvit amicítiam.
+Si	22	26	Ad amícum etsi prodúxeris gládium, non despéres : est enim regréssus. Ad amícum
+Si	22	27	si aperúeris os triste, non tímeas : est enim concordátio : excépto convítio, et impropério, et supérbia, et mystérii revelatióne, et plaga dolósa : in his ómnibus effúgiet amícus.
+Si	22	28	Fidem pósside cum amíco in paupertáte illíus, ut et in bonis illíus lætéris.
+Si	22	29	In témpore tribulatiónis illíus pérmane illi fidélis, ut et in hæreditáte illíus cohǽres sis.
+Si	22	30	Ante ignem camíni vapor et fumus ignis inaltátur : sic et ante sánguinem maledícta, et contuméliæ, et minæ.
+Si	22	31	Amícum salutáre non confúndar, a fácie illíus non me abscóndam : et si mala mihi evénerint per illum, sustinébo.
+Si	22	32	Omnis qui áudiet cavébit se ab eo.
+Si	22	33	Quis dabit ori meo custódiam, et super lábia mea signáculum certum, ut non cadam ab ipsis, et lingua mea perdat me ?
+Si	23	1	Dómine, pater et dominátor vitæ meæ, ne derelínquas me in consílio eórum, nec sinas me cádere in illis.
+Si	23	2	Quis superpónet in cogitátu meo flagélla, et in corde meo doctrínam sapiéntiæ, ut ignoratiónibus eórum non parcant mihi, et non appáreant delícta eórum,
+Si	23	3	et ne adincréscant ignorántiæ meæ, et multiplicéntur delícta mea, et peccáta mea abúndent, et íncidam in conspéctu adversariórum meórum, et gáudeat super me inimícus meus ?
+Si	23	4	Dómine, pater et Deus vitæ meæ, ne derelínquas me in cogitátu illórum.
+Si	23	5	Extolléntiam oculórum meórum ne déderis mihi, et omne desidérium avérte a me.
+Si	23	6	Aufer a me ventris concupiscéntias, et concúbitus concupiscéntiæ ne apprehéndant me, et ánimæ irreverénti et infrunítæ ne tradas me.
+Si	23	7	Doctrínam oris audíte, fílii : et qui custodíerit illam non périet lábiis, nec scandalizábitur in opéribus nequíssimis.
+Si	23	8	In vanitáte sua apprehénditur peccátor : et supérbus et malédicus scandalizábitur in illis.
+Si	23	9	Iuratióni non assuéscat os tuum : multi enim casus in illa.
+Si	23	10	Nominátio vero Dei non sit assídua in ore tuo, et nomínibus sanctórum non admisceáris, quóniam non erit immúnis ab eis.
+Si	23	11	Sicut enim servus interrogátus assídue a livóre non minúitur, sic omnis iurans et nóminans in toto a peccáto non purgábitur.
+Si	23	12	Vir multum iurans implébitur iniquitáte, et non discédet a domo illíus plaga.
+Si	23	13	Et si frustráverit, delíctum illíus super ipsum erit : et si dissimuláverit, delínquit duplíciter :
+Si	23	14	et si in vácuum iuráverit, non iustificábitur : replébitur enim retributióne domus illíus.
+Si	23	15	Est et ália loquéla contrária morti : non inveniátur in hæreditáte Iacob.
+Si	23	16	Etenim a misericórdibus ómnia hæc auferéntur, et in delíctis non volutabúntur.
+Si	23	17	Indisciplinátæ loquélæ non assuéscat os tuum : est enim in illa verbum peccáti.
+Si	23	18	Meménto patris et matris tuæ : in médio enim magnatórum consístis :
+Si	23	19	ne forte obliviscátur te Deus in conspéctu illórum, et assiduitáte tua infatuátus, impropérium patiáris, et maluísses non nasci, et diem nativitátis tuæ maledícas.
+Si	23	20	Homo assuétus in verbis impropérii in ómnibus diébus suis non erudiétur.
+Si	23	21	Duo génera abúndant in peccátis, et tértium addúcit iram et perditiónem.
+Si	23	22	Anima cálida quasi ignis ardens, non extinguétur donec áliquid glútiat :
+Si	23	23	et homo nequam in ore carnis suæ non désinet donec incéndat ignem.
+Si	23	24	Hómini fornicário omnis panis dulcis : non fatigábitur transgrédiens usque ad finem.
+Si	23	25	Omnis homo qui transgréditur lectum suum, contémnens in ánimam suam, et dicens : Quis me videt ?
+Si	23	26	Ténebræ circúmdant me, et paríetes coopériunt me, et nemo circúmspicit me : quem véreor ? delictórum meórum non memorábitur Altíssimus.
+Si	23	27	Et non intélligit quóniam ómnia videt óculus illíus, quóniam expéllit a se timórem Dei huiúsmodi hóminis timor, et óculi hóminum timéntes illum :
+Si	23	28	et non cognóvit quóniam óculi Dómini multo plus lucidióres sunt super solem, circumspiciéntes omnes vias hóminum, et profúndum abýssi, et hóminum corda, intuéntes in abscónditas partes.
+Si	23	29	Dómino enim Deo ántequam crearéntur ómnia sunt ágnita : sic et post perféctum réspicit ómnia.
+Si	23	30	Hic in platéis civitátis vindicábitur, et quasi pullus equínus fugábitur, et ubi non sperávit apprehendétur.
+Si	23	31	Et erit dédecus ómnibus, eo quod non intelléxerit timórem Dómini.
+Si	23	32	Sic et múlier omnis relínquens virum suum, et státuens hæreditátem ex aliéno matrimónio :
+Si	23	33	primo enim in lege Altíssimi incredíbilis fuit : secúndo in virum suum delíquit : tértio in adultério fornicáta est, et ex álio viro fílios státuit sibi.
+Si	23	34	Hæc in ecclésiam adducétur, et in fílios eius respiciétur :
+Si	23	35	non tradent fílii eius radíces, et rami eius non dabunt fructum :
+Si	23	36	derelínquet in maledíctum memóriam eius, et dédecus illíus non delébitur.
+Si	23	37	Et agnóscent qui derelícti sunt, quóniam nihil mélius est quam timor Dei, et nihil dúlcius quam respícere in mandátis Dómini.
+Si	23	38	Glória magna est sequi Dóminum : longitúdo enim diérum assumétur ab eo.
+Si	24	1	Sapiéntia laudábit ánimam suam, et in Deo honorábitur, et in médio pópuli sui gloriábitur,
+Si	24	2	et in ecclésiis Altíssimi apériet os suum, et in conspéctu virtútis illíus gloriábitur,
+Si	24	3	et in médio pópuli sui exaltábitur, et in plenitúdine sancta admirábitur,
+Si	24	4	et in multitúdine electórum habébit laudem, et inter benedíctos benedicétur, dicens :
+Si	24	5	Ego ex ore Altíssimi prodívi, primogénita ante omnem creatúram.
+Si	24	6	Ego feci in cælis ut orirétur lumen indefíciens, et sicut nébula texi omnem terram.
+Si	24	7	Ego in altíssimis habitávi, et thronus meus in colúmna nubis.
+Si	24	8	Gyrum cæli circuívi sola, et profúndum abýssi penetrávi : in flúctibus maris ambulávi.
+Si	24	9	Et in omni terra steti : et in omni pópulo,
+Si	24	10	et in omni gente primátum hábui :
+Si	24	11	et ómnium excelléntium et humílium corda virtúte calcávi. Et in his ómnibus réquiem quæsívi, et in hæreditáte Dómini morábor.
+Si	24	12	Tunc præcépit, et dixit mihi Creátor ómnium : et qui creávit me, requiévit in tabernáculo meo.
+Si	24	13	Et dixit mihi : In Iacob inhábita, et in Israel hæreditáre, et in eléctis meis mitte radíces.
+Si	24	14	Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam : et in habitatióne sancta coram ipso ministrávi.
+Si	24	15	Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Ierúsalem potéstas mea.
+Si	24	16	Et radicávi in pópulo honorificáto, et in parte Dei mei hæréditas illíus, et in plenitúdine sanctórum deténtio mea.
+Si	24	17	Quasi cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion :
+Si	24	18	quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Iéricho :
+Si	24	19	quasi olíva speciósa in campis, et quasi plátanus exaltáta sum iuxta aquam in platéis.
+Si	24	20	Sicut cinnamómum et bálsamum aromatízans odórem dedi ; quasi myrrha elécta dedi suavitátem odóris :
+Si	24	21	et quasi storax, et gálbanus, et úngula, et gutta, et quasi Líbanus non incísus vaporávi habitatiónem meam, et quasi bálsamum non mistum odor meus.
+Si	24	22	Ego quasi terebínthus exténdi ramos meos, et rami mei honóris et grátiæ.
+Si	24	23	Ego quasi vitis fructificávi suavitátem odóris : et flores mei fructus honóris et honestátis.
+Si	24	24	Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei.
+Si	24	25	In me grátia omnis viæ et veritátis : in me omnis spes vitæ et virtútis.
+Si	24	26	Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis implémini :
+Si	24	27	spíritus enim meus super mel dulcis, et hæréditas mea super mel et favum.
+Si	24	28	Memória mea in generatióne sæculórum.
+Si	24	29	Qui edunt me, adhuc esúrient, et qui bibunt me, adhuc sítient.
+Si	24	30	Qui audit me non confundétur, et qui operántur in me non peccábunt :
+Si	24	31	qui elúcidant me, vitam ætérnam habébunt.
+Si	24	32	Hæc ómnia liber vitæ, et testaméntum Altíssimi, et agnítio veritátis.
+Si	24	33	Legem mandávit Móyses in præcéptis iustitiárum, et hæreditátem dómui Iacob, et Israel promissiónes.
+Si	24	34	Pósuit David, púero suo, excitáre regem ex ipso fortíssimum, et in throno honóris sedéntem in sempitérnum.
+Si	24	35	Qui implet quasi Phison sapiéntiam, et sicut Tigris in diébus novórum :
+Si	24	36	qui adímplet quasi Euphrátes sensum, qui multíplicat quasi Iordánis in témpore messis :
+Si	24	37	qui mittit disciplínam sicut lucem, et assístens quasi Gehon in die vindémiæ.
+Si	24	38	Qui pérficit primus scire ipsam, et infírmior non investigábit eam.
+Si	24	39	A mari enim abundávit cogitátio eius, et consílium illíus ab abýsso magna.
+Si	24	40	Ego sapiéntiam effúdi flúmina :
+Si	24	41	ego quasi trames aquæ imménsæ de flúvio : ego quasi flúvii dióryx, et sicut aquædúctus exívi de paradíso.
+Si	24	42	Dixi : Rigábo hortum meum plantatiónum, et inebriábo prati mei fructum.
+Si	24	43	Et ecce factus est mihi trames abúndans, et flúvius meus appropinquávit ad mare :
+Si	24	44	quóniam doctrínam quasi antelucánum illúmino ómnibus, et enarrábo illam usque ad longínquum.
+Si	24	45	Penetrábo omnes inferióres partes terræ, et inspíciam omnes dormiéntes, et illuminábo omnes sperántes in Dómino.
+Si	24	46	Adhuc doctrínam quasi prophetíam effúndam, et relínquam illam quæréntibus sapiéntiam, et non désinam in progénies illórum usque in ævum sanctum.
+Si	24	47	Vidéte quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem.
+Si	25	1	In tribus plácitum est spirítui meo, quæ sunt probáta coram Deo et homínibus :
+Si	25	2	concórdia fratrum, et amor proximórum, et vir et múlier bene sibi consentiéntes.
+Si	25	3	Tres spécies odívit ánima mea, et ággravor valde ánimæ illórum :
+Si	25	4	páuperem supérbum, dívitem mendácem, senem fátuum et insensátum.
+Si	25	5	Quæ in iuventúte tua non congregásti, quómodo in senectúte tua invénies ?
+Si	25	6	Quam speciósum canitiéi iudícium, et presbýteris cognóscere consílium !
+Si	25	7	Quam speciósa veteránis sapiéntia, et gloriósus intelléctus et consílium !
+Si	25	8	Coróna senum multa perítia, et glória illórum timor Dei.
+Si	25	9	Novem insuspicabília cordis magnificávi : et décimum dicam in lingua homínibus :
+Si	25	10	homo qui iucundátur in fíliis, vivens et videns subversiónem inimicórum suórum.
+Si	25	11	Beátus qui hábitat cum mulíere sensáta, et qui lingua sua non est lapsus, et qui non servívit indígnis se.
+Si	25	12	Beátus qui invénit amícum verum, et qui enárrat iustítiam auri audiénti.
+Si	25	13	Quam magnus qui invénit sapiéntiam et sciéntiam ! sed non est super timéntem Dóminum.
+Si	25	14	Timor Dei super ómnia se superpósuit.
+Si	25	15	Beátus homo cui donátum est habére timórem Dei : qui tenet illum, cui assimilábitur ?
+Si	25	16	Timor Dei inítium dilectiónis eius : fídei autem inítium agglutinándum est ei.
+Si	25	17	Omnis plaga tristítia cordis est, et omnis malítia nequítia mulíeris.
+Si	25	18	Et omnem plagam, et non plagam vidébit cordis :
+Si	25	19	et omnem nequítiam, et non nequítiam mulíeris :
+Si	25	20	et omnem obdúctum, et non obdúctum odiéntium :
+Si	25	21	et omnem vindíctam, et non vindíctam inimicórum.
+Si	25	22	Non est caput néquius super caput cólubri,
+Si	25	23	et non est ira super iram mulíeris. Commorári leóni et dracóni placébit, quam habitáre cum mulíere nequam.
+Si	25	24	Nequítia mulíeris immútat fáciem eius : et obcǽcat vultum suum tamquam ursus, et quasi saccum osténdit. In médio proximórum eius
+Si	25	25	ingémuit vir eius, et áudiens suspirávit módicum.
+Si	25	26	Brevis omnis malítia super malítiam mulíeris : sors peccatórum cadat super illam.
+Si	25	27	Sicut ascénsus arenósus in pédibus veteráni, sic múlier linguáta hómini quiéto.
+Si	25	28	Ne respícias in mulíeris spéciem, et non concupíscas mulíerem in spécie.
+Si	25	29	Mulíeris ira, et irreveréntia, et confúsio magna.
+Si	25	30	Múlier si primátum hábeat, contrária est viro suo.
+Si	25	31	Cor húmile, et fácies tristis, et plaga cordis, múlier nequam.
+Si	25	32	Manus débiles et génua dissolúta, múlier quæ non beatíficat virum suum.
+Si	25	33	A mulíere inítium factum est peccáti, et per illam omnes mórimur.
+Si	25	34	Non des aquæ tuæ éxitum, nec módicum : nec mulíeri nequam véniam prodeúndi.
+Si	25	35	Si non ambuláverit ad manum tuam, confúndet te in conspéctu inimicórum.
+Si	25	36	A cárnibus tuis abscínde illam, ne semper te abutátur.
+Si	26	1	Mulíeris bonæ beátus vir : númerus enim annórum illíus duplex.
+Si	26	2	Múlier fortis obléctat virum suum, et annos vitæ illíus in pace implébit.
+Si	26	3	Pars bona múlier bona, in parte timéntium Deum dábitur viro pro factis bonis :
+Si	26	4	dívitis autem et páuperis cor bonum, in omni témpore vultus illórum hílaris.
+Si	26	5	A tribus tímuit cor meum, et in quarto fácies mea métuit :
+Si	26	6	delatúram civitátis, et collectiónem pópuli :
+Si	26	7	calúmniam mendácem super mortem ómnia grávia :
+Si	26	8	dolor cordis et luctus, múlier zelótypa.
+Si	26	9	In mulíere zelótypa flagéllum linguæ, ómnibus commúnicans.
+Si	26	10	Sicut boum iugum quod movétur, ita et múlier nequam : qui tenet illam quasi qui apprehéndit scorpiónem.
+Si	26	11	Múlier ebriósa ira magna, et contumélia : et turpitúdo illíus non tegétur.
+Si	26	12	Fornicátio mulíeris in extolléntia oculórum, et in pálpebris illíus agnoscétur.
+Si	26	13	In fília non averténte se, firma custódiam, ne invénta occasióne utátur se.
+Si	26	14	Ab omni irreveréntia oculórum eius cave, et ne miréris si te negléxerit.
+Si	26	15	Sicut viátor sítiens ad fontem os apériet, et ab omni aqua próxima bibet, et contra omnem palum sedébit, et contra omnem sagíttam apériet pháretram donec defíciat.
+Si	26	16	Grátia mulíeris sédulæ delectábit virum suum, et ossa illíus impinguábit.
+Si	26	17	Disciplína illíus datum Dei est.
+Si	26	18	Múlier sensáta et tácita, non est immutátio erudítæ ánimæ.
+Si	26	19	Grátia super grátiam múlier sancta et pudoráta.
+Si	26	20	Omnis autem ponderátio non est digna continéntis ánimæ.
+Si	26	21	Sicut sol óriens mundo in altíssimis Dei, sic mulíeris bonæ spécies in ornaméntum domus eius.
+Si	26	22	Lucérna splendens super candelábrum sanctum, et spécies faciéi super ætátem stábilem.
+Si	26	23	Colúmnæ áureæ super bases argénteas, et pedes firmi super plantas stábilis mulíeris.
+Si	26	24	Fundaménta ætérna supra petram sólidam, et mandáta Dei in corde mulíeris sanctæ.
+Si	26	25	In duóbus contristátum est cor meum, et in tértio iracúndia mihi advénit :
+Si	26	26	vir bellátor defíciens per inópiam ; et vir sensátus contémptus ;
+Si	26	27	et qui transgréditur a iustítia ad peccátum : Deus parávit eum ad rhomphǽam.
+Si	26	28	Duæ spécies diffíciles et periculósæ mihi apparuérunt : diffícile exúitur negótians a negligéntia, et non iustificábitur caupo a peccátis labiórum.
+Si	27	1	Propter inópiam multi deliquérunt : et qui quærit locupletári avértit óculum suum.
+Si	27	2	Sicut in médio compáginis lápidum palus fígitur, sic et inter médium venditiónis et emptiónis angustiábitur peccátum :
+Si	27	3	conterétur cum delinquénte delíctum.
+Si	27	4	Si non in timóre Dómini tenúeris te instánter, cito subvertétur domus tua.
+Si	27	5	Sicut in percussúra cribri remanébit pulvis, sic apória hóminis in cogitátu illíus.
+Si	27	6	Vasa fíguli probat fornax, et hómines iustos tentátio tribulatiónis.
+Si	27	7	Sicut rusticátio de ligno osténdit fructum illíus, sic verbum ex cogitátu cordis hóminis.
+Si	27	8	Ante sermónem non laudes virum : hæc enim tentátio est hóminum.
+Si	27	9	Si sequáris iustítiam, apprehéndes illam, et índues quasi podérem honóris : et inhabitábis cum ea, et próteget te in sempitérnum, et in die agnitiónis invénies firmaméntum.
+Si	27	10	Volatília ad sibi simília convéniunt : et véritas ad eos qui operántur illam revertétur.
+Si	27	11	Leo venatióni insidiátur semper : sic peccáta operántibus iniquitátes.
+Si	27	12	Homo sanctus in sapiéntia manet sicut sol : nam stultus sicut luna mutátur.
+Si	27	13	In médio insensatórum serva verbum témpori : in médio autem cogitántium assíduus esto.
+Si	27	14	Narrátio peccántium odiósa, et risus illórum in delíciis peccáti.
+Si	27	15	Loquéla multum iurans horripilatiónem cápiti státuet, et irreveréntia ipsíus obturátio áurium.
+Si	27	16	Effúsio sánguinis in rixa superbórum, et maledíctio illórum audítus gravis.
+Si	27	17	Qui denúdat arcána amíci fidem perdit, et non invéniet amícum ad ánimum suum.
+Si	27	18	Dílige próximum, et coniúngere fide cum illo.
+Si	27	19	Quod si denudáveris abscónsa illíus, non persequéris post eum.
+Si	27	20	Sicut enim homo qui perdit amícum suum, sic et qui perdit amicítiam próximi sui.
+Si	27	21	Et sicut qui dimíttit avem de manu sua, sic dereliquísti próximum tuum, et non eum cápies.
+Si	27	22	Non illum sequáris, quóniam longe abest : effúgit enim quasi cáprea de láqueo, quóniam vulneráta est ánima eius :
+Si	27	23	ultra eum non póteris colligáre. Et maledícti est concordátio :
+Si	27	24	denudáre autem amíci mystéria, desperátio est ánimæ infelícis.
+Si	27	25	Annuens óculo fábricat iníqua, et nemo eum abíciet.
+Si	27	26	In conspéctu oculórum tuórum condulcábit os suum, et super sermónes tuos admirábitur : novíssime autem pervértet os suum, et in verbis tuis dabit scándalum.
+Si	27	27	Multa odívi, et non coæquávi ei, et Dóminus ódiet illum.
+Si	27	28	Qui in altum mittit lápidem, super caput eius cadet : et plaga dolósa dolósi dívidet vúlnera.
+Si	27	29	Et qui fóveam fodit íncidet in eam : et qui státuit lápidem próximo offéndet in eo : et qui láqueum álii ponit, períbit in illo.
+Si	27	30	Faciénti nequíssimum consílium, super ipsum devolvétur, et non agnóscet unde advéniat illi.
+Si	27	31	Illúsio et impropérium superbórum, et vindícta sicut leo insidiábitur illi.
+Si	27	32	Láqueo períbunt qui oblectántur casu iustórum, dolor autem consúmet illos ántequam moriántur.
+Si	27	33	Ira et furor útraque execrabília sunt, et vir peccátor cóntinens erit illórum.
+Si	28	1	Qui vindicári vult, a Dómino invéniet vindíctam, et peccáta illíus servans servábit.
+Si	28	2	Relínque próximo tuo nocénti te, et tunc deprecánti tibi peccáta solvéntur.
+Si	28	3	Homo hómini resérvat iram, et a Deo quærit medélam :
+Si	28	4	in hóminem símilem sibi non habet misericórdiam, et de peccátis suis deprecátur.
+Si	28	5	Ipse cum caro sit resérvat iram, et propitiatiónem petit a Deo : quis exorábit pro delíctis illíus ?
+Si	28	6	Meménto novissimórum, et désine inimicári :
+Si	28	7	tabitúdo enim et mors ímminent in mandátis eius.
+Si	28	8	Memoráre timórem Dei, et non irascáris próximo.
+Si	28	9	Memoráre testaméntum Altíssimi, et déspice ignorántiam próximi.
+Si	28	10	Abstine te a lite, et mínues peccáta.
+Si	28	11	Homo enim iracúndus incéndit litem, et vir peccátor turbábit amícos, et in médio pacem habéntium immíttet inimicítiam.
+Si	28	12	Secúndum enim ligna silvæ sic ignis exardéscit : et secúndum virtútem hóminis sic iracúndia illíus erit, et secúndum substántiam suam exaltábit iram suam.
+Si	28	13	Certámen festinátum incéndit ignem, et lis festínans effúndit sánguinem : et lingua testíficans addúcit mortem.
+Si	28	14	Si suffláveris in scintíllam, quasi ignis exardébit : et si exspúeris super illam, extinguétur : útraque ex ore proficiscúntur.
+Si	28	15	Susúrro et bilínguis maledíctus, multos enim turbábit pacem habéntes.
+Si	28	16	Lingua tértia multos commóvit, et dispérsit illos de gente in gentem.
+Si	28	17	Civitátes murátas dívitum destrúxit, et domus magnatórum effódit.
+Si	28	18	Virtútes populórum concídit, et gentes fortes dissólvit.
+Si	28	19	Lingua tértia mulíeres virátas eiécit, et privávit illas labóribus suis.
+Si	28	20	Qui réspicit illam non habébit réquiem, nec habébit amícum in quo requiéscat.
+Si	28	21	Flagélli plaga livórem facit : plaga autem linguæ commínuet ossa.
+Si	28	22	Multi cecidérunt in ore gládii : sed non sic quasi qui interiérunt per linguam suam.
+Si	28	23	Beátus qui tectus est a lingua nequam, qui in iracúndiam illíus non transívit, et qui non attráxit iugum illíus, et in vínculis eius non est ligátus :
+Si	28	24	iugum enim illíus iugum férreum est, et vínculum illíus vínculum ǽreum est ;
+Si	28	25	mors illíus mors nequíssima : et útilis pótius inférnus quam illa.
+Si	28	26	Perseverántia illíus non permanébit, sed obtinébit vias iniustórum, et in flamma sua non combúret iustos.
+Si	28	27	Qui relínquunt Deum íncident in illam, et exardébit in illis, et non extinguétur, et immittétur in illos quasi leo, et quasi pardus lædet illos.
+Si	28	28	Sepi aures tuas spinis : linguam nequam noli audíre : et ori tuo fácito óstia et seras.
+Si	28	29	Aurum tuum et argéntum tuum confla, et verbis tuis fácito statéram, et frenos ori tuo rectos :
+Si	28	30	et atténde ne forte labáris in lingua, et cadas in conspéctu inimicórum insidiántium tibi, et sit casus tuus insanábilis in mortem.
+Si	29	1	Qui facit misericórdiam fœnerátur próximo suo : et qui prǽvalet manu mandáta servat.
+Si	29	2	Fœneráre próximo tuo in témpore necessitátis illíus : et íterum redde próximo in témpore suo.
+Si	29	3	Confírma verbum, et fidéliter age cum illo : et in omni témpore invénies quod tibi necessárium est.
+Si	29	4	Multi quasi inventiónem æstimavérunt fœnus, et præstitérunt moléstiam his qui se adiuvérunt.
+Si	29	5	Donec accípiant, osculántur manus dantis, et in promissiónibus humíliant vocem suam :
+Si	29	6	et in témpore redditiónis postulábit tempus, et loquétur verba tǽdii et murmuratiónum, et tempus causábitur.
+Si	29	7	Si autem potúerit réddere, adversábitur : sólidi vix reddet dimídium, et computábit illud quasi inventiónem :
+Si	29	8	sin autem, fraudábit illum pecúnia sua, et possidébit illum inimícum gratis :
+Si	29	9	et convítia et maledícta reddet illi, et pro honóre et benefício reddet illi contuméliam.
+Si	29	10	Multi non causa nequítiæ non fœneráti sunt, sed fraudári gratis timuérunt.
+Si	29	11	Verúmtamen super húmilem ánimo fórtior esto, et pro eleemósyna non trahas illum.
+Si	29	12	Propter mandátum assúme páuperem, et propter inópiam eius ne dimíttas eum vácuum.
+Si	29	13	Perde pecúniam propter fratrem et amícum tuum, et non abscóndas illam sub lápide in perditiónem.
+Si	29	14	Pone thesáurum tuum in præcéptis Altíssimi, et próderit tibi magis quam aurum.
+Si	29	15	Conclúde eleemósynam in corde páuperis, et hæc pro te exorábit ab omni malo.
+Si	29	16	Super scutum poténtis
+Si	29	17	et super lánceam
+Si	29	18	advérsus inimícum tuum pugnábit.
+Si	29	19	Vir bonus fidem facit pro próximo suo : et qui perdíderit confusiónem derelínquet sibi.
+Si	29	20	Grátiam fideiussóris ne obliviscáris : dedit enim pro te ánimam suam.
+Si	29	21	Repromissórem fugit peccátor et immúndus.
+Si	29	22	Bona repromissóris sibi asscríbit peccátor : et ingrátus sensu derelínquet liberántem se.
+Si	29	23	Vir repromíttit de próximo suo : et cum perdíderit reveréntiam, derelinquétur ab eo.
+Si	29	24	Repromíssio nequíssima multos pérdidit dirigéntes, et commóvit illos quasi fluctus maris.
+Si	29	25	Viros poténtes gyrans migráre fecit, et vagáti sunt in géntibus aliénis.
+Si	29	26	Peccátor transgrédiens mandátum Dómini íncidet in promissiónem nequam : et qui conátur multa ágere íncidet in iudícium.
+Si	29	27	Recúpera próximum secúndum virtútem tuam, et atténde tibi ne íncidas.
+Si	29	28	Inítium vitæ hóminis, aqua et panis, et vestiméntum, et domus prótegens turpitúdinem.
+Si	29	29	Mélior est victus páuperis sub tégmine ásserum quam épulæ spléndidæ in péregre sine domicílio.
+Si	29	30	Mínimum pro magno pláceat tibi, et impropérium peregrinatiónis non áudies.
+Si	29	31	Vita nequam hospitándi de domo in domum : et ubi hospitábitur non fiduciáliter aget, nec apériet os.
+Si	29	32	Hospitábitur, et pascet, et potábit ingrátos, et ad hæc amára áudiet :
+Si	29	33	transi, hospes, et orna mensam, et quæ in manu habes ciba céteros.
+Si	29	34	Exi a fácie honóris amicórum meórum : necessitúdine domus meæ hospítio mihi factus est frater.
+Si	29	35	Grávia hæc hómini habénti sensum : corréptio domus, et impropérium fœneratóris.
+Si	30	1	Qui díligit fílium suum assíduat illi flagélla, ut lætétur in novíssimo suo, et non palpet proximórum óstia.
+Si	30	2	Qui docet fílium suum laudábitur in illo, et in médio domesticórum in illo gloriábitur.
+Si	30	3	Qui docet fílium suum in zelum mittit inimícum, et in médio amicórum gloriábitur in illo.
+Si	30	4	Mórtuus est pater eius, et quasi non est mórtuus : símilem enim relíquit sibi post se.
+Si	30	5	In vita sua vidit, et lætátus est in illo : in óbitu suo non est contristátus, nec confúsus est coram inimícis :
+Si	30	6	relíquit enim defensórem domus contra inimícos, et amícis reddéntem grátiam.
+Si	30	7	Pro animábus filiórum colligábit vúlnera sua, et super omnem vocem turbabúntur víscera eius.
+Si	30	8	Equus indómitus evádit durus, et fílius remíssus evádet præceps.
+Si	30	9	Lacta fílium, et pavéntem te fáciet : lude cum eo, et contristábit te.
+Si	30	10	Non corrídeas illi, ne dóleas, et in novíssimo obstupéscent dentes tui.
+Si	30	11	Non des illi potestátem in iuventúte, et ne despícias cogitátus illíus.
+Si	30	12	Curva cervícem eius in iuventúte, et tunde látera eius dum infans est, ne forte indúret, et non credat tibi, et erit tibi dolor ánimæ.
+Si	30	13	Doce fílium tuum, et operáre in illo, ne in turpitúdinem illíus offéndas.
+Si	30	14	Mélior est pauper sanus, et fortis víribus, quam dives imbecíllis et flagellátus malítia.
+Si	30	15	Salus ánimæ in sanctitáte iustítiæ mélior est omni auro et argénto : et corpus válidum quam census imménsus.
+Si	30	16	Non est census super censum salútis córporis, et non est oblectaméntum super cordis gáudium.
+Si	30	17	Mélior est mors quam vita amára, et réquies ætérna quam languor persevérans.
+Si	30	18	Bona abscóndita in ore clauso, quasi appositiónes epulárum circumpósitæ sepúlchro.
+Si	30	19	Quid próderit libátio idólo ? nec enim manducábit, nec odorábit.
+Si	30	20	Sic qui effugátur a Dómino, portans mercédes iniquitátis :
+Si	30	21	videns óculis et ingemíscens, sicut spado compléctens vírginem, et suspírans.
+Si	30	22	Tristítiam non des ánimæ tuæ, et non afflígas temetípsum in consílio tuo.
+Si	30	23	Iucúnditas cordis, hæc est vita hóminis, et thesáurus sine defectióne sanctitátis : et exsultátio viri est longǽvitas.
+Si	30	24	Miserére ánimæ tuæ placens Deo, et cóntine : cóngrega cor tuum in sanctitáte eius, et tristítiam longe repélle a te.
+Si	30	25	Multos enim occídit tristítia, et non est utílitas in illa.
+Si	30	26	Zelus et iracúndia mínuunt dies, et ante tempus senéctam addúcet cogitátus.
+Si	30	27	Spléndidum cor et bonum in épulis est : épulæ enim illíus diligénter fiunt.
+Si	31	1	Vigília honestátis tabefáciet carnes, et cogitátus illíus áuferet somnum.
+Si	31	2	Cogitátus præsciéntiæ avértit sensum, et infírmitas gravis sóbriam facit ánimam.
+Si	31	3	Laborávit dives in congregatióne substántiæ, et in réquie sua replébitur bonis suis.
+Si	31	4	Laborávit pauper in diminutióne victus, et in fine inops fit.
+Si	31	5	Qui aurum díligit non iustificábitur, et qui inséquitur consumptiónem replébitur ex ea.
+Si	31	6	Multi dati sunt in auri casus, et facta est in spécie ipsíus perdítio illórum.
+Si	31	7	Lignum offensiónis est aurum sacrificántium : væ illis qui sectántur illud ! et omnis imprúdens depériet in illo.
+Si	31	8	Beátus dives qui invéntus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecúnia et thesáuris.
+Si	31	9	Quis est hic ? et laudábimus eum : fecit enim mirabília in vita sua.
+Si	31	10	Qui probátus est in illo, et perféctus est, erit illi glória ætérna : qui pótuit tránsgredi, et non est transgréssus ; fácere mala, et non fecit.
+Si	31	11	Ideo stabilíta sunt bona illíus in Dómino, et eleemósynas illíus enarrábit omnis ecclésia sanctórum.
+Si	31	12	Supra mensam magnam sedísti ? non apérias super illam faucem tuam prior.
+Si	31	13	Non dicas sic : Multa sunt, quæ super illam sunt.
+Si	31	14	Meménto quóniam malus est óculus nequam.
+Si	31	15	Néquius óculo quid creátum est ? ídeo ab omni fácie sua lacrimábitur, cum víderit.
+Si	31	16	Ne exténdas manum tuam prior, et invídia contaminátus erubéscas.
+Si	31	17	Ne comprimáris in convívio.
+Si	31	18	Intéllige quæ sunt próximi tui ex teípso.
+Si	31	19	Utere quasi homo frugi his quæ tibi apponúntur : ne, cum mandúcas multum, ódio habeáris.
+Si	31	20	Cessa prior causa disciplínæ : et noli nímius esse, ne forte offéndas.
+Si	31	21	Et si in médio multórum sedísti, prior illis ne exténdas manum tuam, nec prior poscas bíbere.
+Si	31	22	Quam suffíciens est hómini erudítio vinum exíguum ! et in dormiéndo non laborábis ab illo, et non sénties dolórem.
+Si	31	23	Vigília, chólera et tortúra viro infruníto,
+Si	31	24	somnus sanitátis in hómine parco : dórmiet usque mane, et ánima illíus cum ipso delectábitur.
+Si	31	25	Et si coáctus fúeris in edéndo multum, surge e médio, évome, et refrigerábit te, et non addúces córpori tuo infirmitátem.
+Si	31	26	Audi me, fili, et ne spernas me, et in novíssimo invénies verba mea.
+Si	31	27	In ómnibus opéribus tuis esto velox, et omnis infírmitas non occúrret tibi.
+Si	31	28	Spléndidum in pánibus benedícent lábia multórum, et testimónium veritátis illíus fidéle.
+Si	31	29	Nequíssimo in pane murmurábit cívitas, et testimónium nequítiæ illíus verum est.
+Si	31	30	Diligéntes in vino noli provocáre : multos enim exterminávit vinum.
+Si	31	31	Ignis probat ferrum durum : sic vinum corda superbórum árguet in ebrietáte potátum.
+Si	31	32	Æqua vita homínibus vinum in sobrietáte : si bibas illud moderáte, eris sóbrius.
+Si	31	33	Quæ vita est ei qui minúitur vino ?
+Si	31	34	Quid defráudat vitam ? mors.
+Si	31	35	Vinum in iucunditátem creátum est, et non in ebrietátem ab inítio.
+Si	31	36	Exsultátio ánimæ et cordis vinum moderáte potátum.
+Si	31	37	Sánitas est ánimæ et córpori sóbrius potus.
+Si	31	38	Vinum multum potátum irritatiónem, et iram, et ruínas multas facit.
+Si	31	39	Amaritúdo ánimæ vinum multum potátum.
+Si	31	40	Ebrietátis animósitas, imprudéntis offénsio, minórans virtútem, et fáciens vúlnera.
+Si	31	41	In convívio vini non árguas próximum, et non despícias eum in iucunditáte illíus.
+Si	31	42	Verba impropérii non dicas illi, et non premas illum repeténdo.
+Si	32	1	Rectórem te posuérunt ? noli extólli : esto in illis quasi unus ex ipsis.
+Si	32	2	Curam illórum habe, et sic cónside, et omni cura tua explícita recúmbe :
+Si	32	3	ut lætéris propter illos, et ornaméntum grátiæ accípias corónam, et dignatiónem consequáris corrogatiónis.
+Si	32	4	Lóquere maior natu : decet enim te
+Si	32	5	primum verbum diligénti sciéntia, et non impédias músicam.
+Si	32	6	Ubi audítus non est, non effúndas sermónem, et importúne noli extólli in sapiéntia tua.
+Si	32	7	Gémmula carbúnculi in ornaménto auri, et comparátio musicórum in convívio vini.
+Si	32	8	Sicut in fabricatióne auri signum est smarágdi, sic númerus musicórum in iucúndo et moderáto vino.
+Si	32	9	Audi tacens, et pro reveréntia accédet tibi bona grátia.
+Si	32	10	Adoléscens, lóquere in tua causa vix.
+Si	32	11	Si bis interrogátus fúeris, hábeat caput respónsum tuum.
+Si	32	12	In multis esto quasi ínscius, et audi tacens simul et quærens.
+Si	32	13	In médio magnatórum non præsúmas : et ubi sunt senes non multum loquáris.
+Si	32	14	Ante grándinem præíbit coruscátio : et ante verecúndiam præíbit grátia, et pro reveréntia accédet tibi bona grátia.
+Si	32	15	Et hora surgéndi non te trices : præcúrre autem prior in domum tuam, et illic avocáre, et illic lude,
+Si	32	16	et age conceptiónes tuas, et non in delíctis et verbo supérbo :
+Si	32	17	et super his ómnibus benedícito Dóminum, qui fecit, et inebriántem te ab ómnibus bonis suis.
+Si	32	18	Qui timet Dóminum excípiet doctrínam eius : et qui vigiláverint ad illum invénient benedictiónem.
+Si	32	19	Qui quærit legem replébitur ab ea, et qui insidióse agit scandalizábitur in ea.
+Si	32	20	Qui timent Dóminum invénient iudícium iustum, et iustítias quasi lumen accéndent.
+Si	32	21	Peccátor homo vitábit correptiónem, et secúndum voluntátem suam invéniet comparatiónem.
+Si	32	22	Vir consílii non dispérdet intelligéntiam : aliénus et supérbus non pertiméscet timórem :
+Si	32	23	étiam postquam fecit cum eo sine consílio, et suis insectatiónibus arguétur.
+Si	32	24	Fili, sine consílio nihil fácias, et post factum non pœnitébis.
+Si	32	25	In via ruínæ non eas, et non offéndes in lápides : nec credas te viæ laboriósæ, ne ponas ánimæ tuæ scándalum.
+Si	32	26	Et a fíliis tuis cave, et a domésticis tuis atténde.
+Si	32	27	In omni ópere tuo crede ex fide ánimæ tuæ, hoc est enim conservátio mandatórum.
+Si	32	28	Qui credit Deo atténdit mandátis : et qui confídit in illo non minorábitur.
+Si	33	1	Timénti Dóminum non occúrrent mala : sed in tentatióne Deus illum conservábit, et liberábit a malis. Sápiens non odit mandáta et iustítias,
+Si	33	2	et non illidétur quasi in procélla navis.
+Si	33	3	Homo sensátus credit legi Dei, et lex illi fidélis.
+Si	33	4	Qui interrogatiónem maniféstat parábit verbum, et sic deprecátus exaudiétur : et conservábit disciplínam, et tunc respondébit.
+Si	33	5	Præcórdia fátui quasi rota carri, et quasi axis versátilis cogitátus illíus.
+Si	33	6	Equus emissárius, sic et amícus subsannátor : sub omni supra sedénte hinnit.
+Si	33	7	Quare dies diem súperat, et íterum lux lucem, et annus annum a sole ?
+Si	33	8	A Dómini sciéntia separáti sunt, facto sole, et præcéptum custodiénte.
+Si	33	9	Et immutávit témpora, et dies festos ipsórum, et in illis dies festos celebravérunt ad horam.
+Si	33	10	Ex ipsis exaltávit et magnificávit Deus, et ex ipsis pósuit in númerum diérum : et omnes hómines de solo et ex terra unde creátus est Adam.
+Si	33	11	In multitúdine disciplínæ Dóminus separávit eos, et immutávit vias eórum.
+Si	33	12	Ex ipsis benedíxit et exaltávit, et ex ipsis sanctificávit, et ad se applicávit, et ex ipsis maledíxit, et humiliávit, et convértit illos a separatióne ipsórum.
+Si	33	13	Quasi lutum fíguli in manu ipsíus, plasmáre illud et dispónere.
+Si	33	14	Omnes viæ eius secúndum dispositiónem eius : sic homo in manu illíus qui se fecit, et reddet illi secúndum iudícium suum.
+Si	33	15	Contra malum bonum est, et contra mortem vita : sic et contra virum iustum peccátor, et sic intuére in ómnia ópera Altíssimi, duo et duo, et unum contra unum.
+Si	33	16	Et ego novíssimus evigilávi, et quasi qui cólligit ácinos post vindemiatóres.
+Si	33	17	In benedictióne Dei et ipse sperávi, et quasi qui vindémiat replévi tórcular.
+Si	33	18	Respícite quóniam non mihi soli laborávi, sed ómnibus exquiréntibus disciplínam.
+Si	33	19	Audíte me, magnátes et omnes pópuli : et rectóres ecclésiæ, áuribus percípite.
+Si	33	20	Fílio et mulíeri, fratri et amíco, non des potestátem super te in vita tua : et non déderis álii possessiónem tuam, ne forte pœníteat te, et deprecéris pro illis.
+Si	33	21	Dum adhuc súperes et aspíras, non immutábit te omnis caro.
+Si	33	22	Mélius est enim ut fílii tui te rogent, quam te respícere in manus filiórum tuórum.
+Si	33	23	In ómnibus opéribus tuis præcéllens esto.
+Si	33	24	Ne déderis máculam in glória tua. In die consummatiónis diérum vitæ tuæ, et in témpore éxitus tui, distríbue hæreditátem tuam.
+Si	33	25	Cibária, et virga, et onus ásino : panis, et disciplína, et opus servo.
+Si	33	26	Operátur in disciplína, et quærit requiéscere : laxa manus illi, et quærit libertátem.
+Si	33	27	Iugum et lorum curvant collum durum, et servum inclínant operatiónes assíduæ.
+Si	33	28	Servo malévolo tortúra et cómpedes : mitte illum in operatiónem, ne vacet :
+Si	33	29	multam enim malítiam dócuit otiósitas.
+Si	33	30	In ópera constítue eum : sic enim cóndecet illum. Quod si non obaudíerit, curva illum compédibus, et non amplífices super omnem carnem : verum sine iudício nihil fácias grave.
+Si	33	31	Si est tibi servus fidélis, sit tibi quasi ánima tua : quasi fratrem sic eum tracta, quóniam in sánguine ánimæ comparásti illum.
+Si	33	32	Si lǽseris eum iniúste, in fugam convertétur :
+Si	33	33	et si extóllens discésserit, quem quæras et in qua via quæras illum nescis.
+Si	34	1	Vana spes et mendácium viro insensáto : et sómnia extóllunt imprudéntes.
+Si	34	2	Quasi qui apprehéndit umbram et perséquitur ventum, sic et qui atténdit ad visa mendácia.
+Si	34	3	Hoc secúndum hoc vísio somniórum, ante fáciem hóminis similitúdo hóminis.
+Si	34	4	Ab immúndo, quid mundábitur ? et a mendáce, quid verum dicétur ?
+Si	34	5	Divinátio erróris, et augúria mendácia, et sómnia malefaciéntium, vánitas est :
+Si	34	6	et sicut parturiéntis, cor tuum phantásias pátitur. Nisi ab Altíssimo fúerit emíssa visitátio, ne déderis in illis cor tuum :
+Si	34	7	multos enim erráre fecérunt sómnia, et excidérunt sperántes in illis.
+Si	34	8	Sine mendácio consummábitur verbum legis, et sapiéntia in ore fidélis complanábitur.
+Si	34	9	Qui non est tentátus quid scit ? vir in multis expértus cogitábit multa : et qui multa dídicit enarrábit intelléctum.
+Si	34	10	Qui non est expértus pauca recognóscit : qui autem in multis factus est, multíplicat malítiam.
+Si	34	11	Qui tentátus non est quália scit ? qui implanátus est abundábit nequítia.
+Si	34	12	Multa vidi errándo, et plúrimas verbórum consuetúdines.
+Si	34	13	Aliquóties usque ad mortem periclitátus sum horum causa, et liberátus sum grátia Dei.
+Si	34	14	Spíritus timéntium Deum quǽritur, et in respéctu illíus benedicétur.
+Si	34	15	Spes enim illórum in salvántem illos, et óculi Dei in diligéntes se.
+Si	34	16	Qui timet Dóminum nihil trepidábit : et non pavébit, quóniam ipse est spes eius.
+Si	34	17	Timéntis Dóminum, beáta est ánima eius.
+Si	34	18	Ad quem réspicit, et quis est fortitúdo eius ?
+Si	34	19	Oculi Dómini super timéntes eum : protéctor poténtiæ, firmaméntum virtútis, tégimen ardóris, et umbráculum meridiáni :
+Si	34	20	deprecátio offensiónis, et adiutórium casus : exáltans ánimam, et illúminans óculos, dans sanitátem, et vitam, et benedictiónem.
+Si	34	21	Immolántis ex iníquo oblátio est maculáta, et non sunt beneplácitæ subsannatiónes iniustórum.
+Si	34	22	Dóminus solus sustinéntibus se in via veritátis et iustítiæ.
+Si	34	23	Dona iniquórum non probat Altíssimus, nec réspicit in oblatiónes iniquórum, nec in multitúdine sacrificiórum eórum propitiábitur peccátis.
+Si	34	24	Qui offert sacrifícium ex substántia páuperum, quasi qui víctimat fílium in conspéctu patris sui.
+Si	34	25	Panis egéntium vita páuperum est : qui defráudat illum homo sánguinis est.
+Si	34	26	Qui aufert in sudóre panem, quasi qui occídit próximum suum.
+Si	34	27	Qui effúndit sánguinem, et qui fraudem facit mercenário, fratres sunt.
+Si	34	28	Unus ædíficans, et unus déstruens : quid prodest illis, nisi labor ?
+Si	34	29	Unus orans, et unus maledícens : cuius vocem exáudiet Deus ?
+Si	34	30	Qui baptizátur a mórtuo, et íterum tangit eum, quid próficit lavátio illíus ?
+Si	34	31	Sic homo qui ieiúnat in peccátis suis, et íterum éadem fáciens : quid próficit humiliándo se ? oratiónem illíus quis exáudiet ?
+Si	35	1	Qui consérvat legem multíplicat oblatiónem.
+Si	35	2	Sacrifícium salutáre est atténdere mandátis, et discédere ab omni iniquitáte.
+Si	35	3	Et propitiatiónem litáre sacrifícii super iniustítias : et deprecátio pro peccátis, recédere ab iniustítia.
+Si	35	4	Retríbuet grátiam qui offert similáginem : et qui facit misericórdiam offert sacrifícium.
+Si	35	5	Beneplácitum est Dómino recédere ab iniquitáte : et deprecátio pro peccátis recédere ab iniustítia.
+Si	35	6	Non apparébis ante conspéctum Dómini vácuus :
+Si	35	7	hæc enim ómnia propter mandátum Dei fiunt.
+Si	35	8	Oblátio iusti impínguat altáre, et odor suavitátis est in conspéctu Altíssimi.
+Si	35	9	Sacrifícium iusti accéptum est, et memóriam eius non obliviscétur Dóminus.
+Si	35	10	Bono ánimo glóriam redde Deo, et non mínuas primítias mánuum tuárum.
+Si	35	11	In omni dato hílarem fac vultum tuum, et in exsultatióne sanctífica décimas tuas.
+Si	35	12	Da Altíssimo secúndum datum eius, et in bono óculo adinventiónem fácito mánuum tuárum,
+Si	35	13	quóniam Dóminus retríbuens est, et sépties tantum reddet tibi.
+Si	35	14	Noli offérre múnera prava, non enim suscípiet illa.
+Si	35	15	Et noli inspícere sacríficum iniústum, quóniam Dóminus iudex est, et non est apud illum glória persónæ.
+Si	35	16	Non accípiet Dóminus persónam in páuperem, et deprecatiónem læsi exáudiet.
+Si	35	17	Non despíciet preces pupílli, nec víduam, si effúndat loquélam gémitus.
+Si	35	18	Nonne lácrimæ víduæ ad maxíllam descéndunt, et exclamátio eius super deducéntem eas ?
+Si	35	19	A maxílla enim ascéndunt usque ad cælum, et Dóminus exaudítor non delectábitur in illis.
+Si	35	20	Qui adórat Deum in oblectatióne suscipiétur, et deprecátio illíus usque ad nubes propinquábit.
+Si	35	21	Orátio humiliántis se nubes penetrábit, et donec propínquet non consolábitur, et non discédet donec Altíssimus aspíciat.
+Si	35	22	Et Dóminus non elongábit : et iudicábit iustos, et fáciet iudícium : et Fortíssimus non habébit in illis patiéntiam, ut contríbulet dorsum ipsórum :
+Si	35	23	et géntibus reddet vindíctam, donec tollat plenitúdinem superbórum, et sceptra iniquórum contríbulet :
+Si	35	24	donec reddat homínibus secúndum actus suos, et secúndum ópera Adæ, et secúndum præsumptiónem illíus :
+Si	35	25	donec iúdicet iudícium plebis suæ, et oblectábit iustos misericórdia sua.
+Si	35	26	Speciósa misericórdia Dei in témpore tribulatiónis, quasi nubes plúviæ in témpore siccitátis.
+Si	36	1	Miserére nostri, Deus ómnium, et réspice nos, et osténde nobis lucem miseratiónum tuárum :
+Si	36	2	et immítte timórem tuum super gentes quæ non exquisiérunt te, ut cognóscant quia non est deus nisi tu, et enárrent magnália tua.
+Si	36	3	Alleva manum tuam super gentes aliénas, ut vídeant poténtiam tuam.
+Si	36	4	Sicut enim in conspéctu eórum sanctificátus es in nobis, sic in conspéctu nostro magnificáberis in eis :
+Si	36	5	ut cognóscant te, sicut et nos cognóvimus quóniam non est deus præter te, Dómine.
+Si	36	6	Innova signa, et immúta mirabília.
+Si	36	7	Glorífica manum et bráchium dextrum.
+Si	36	8	Excita furórem, et effúnde iram.
+Si	36	9	Tolle adversárium, et afflíge inimícum.
+Si	36	10	Festína tempus, et meménto finis, ut enárrent mirabília tua.
+Si	36	11	In ira flammæ devorétur qui salvátur : et qui péssimant plebem tuam invéniant perditiónem.
+Si	36	12	Cóntere caput príncipum inimicórum, dicéntium : Non est álius præter nos.
+Si	36	13	Cóngrega omnes tribus Iacob, ut cognóscant quia non est deus nisi tu, et enárrent magnália tua, et hæreditábis eos sicut ab inítio.
+Si	36	14	Miserére plebi tuæ, super quam invocátum est nomen tuum, et Israel quem coæquísti primogénito tuo.
+Si	36	15	Miserére civitáti sanctificatiónis tuæ, Ierúsalem, civitáti requiéi tuæ.
+Si	36	16	Reple Sion inenarrabílibus verbis tuis, et glória tua pópulum tuum.
+Si	36	17	Da testimónium his qui ab inítio creatúræ tuæ sunt, et súscita prædicatiónes quas locúti sunt in nómine tuo prophétæ prióres.
+Si	36	18	Da mercédem sustinéntibus te, ut prophétæ tui fidéles inveniántur : et exáudi oratiónes servórum tuórum,
+Si	36	19	secúndum benedictiónem Aaron de pópulo tuo : et dírige nos in viam iustítiæ, et sciant omnes qui hábitant terram quia tu es Deus conspéctor sæculórum.
+Si	36	20	Omnem escam manducábit venter : et est cibus cibo mélior.
+Si	36	21	Fauces contíngunt cibum feræ, et cor sensátum verba mendácia.
+Si	36	22	Cor pravum dabit tristítiam, et homo perítus resístet illi.
+Si	36	23	Omnem másculum excípiet múlier : et est fília mélior fília.
+Si	36	24	Spécies mulíeris exhílarat fáciem viri sui, et super omnem concupiscéntiam hóminis superdúcit desidérium.
+Si	36	25	Si est lingua curatiónis, est et mitigatiónis et misericórdiæ : non est vir illíus secúndum fílios hóminum.
+Si	36	26	Qui póssidet mulíerem bonam ínchoat possessiónem : adiutórium secúndum illum est, et colúmna ut réquies.
+Si	36	27	Ubi non est sepes, diripiétur posséssio : et ubi non est múlier, ingemíscit egens.
+Si	36	28	Quis credit ei qui non habet nidum, et defléctens ubicúmque obscuráverit, quasi succínctus latro exíliens de civitáte in civitátem ?
+Si	37	1	Omnis amícus dicet : Et ego amicítiam copulávi : sed est amícus solo nómine amícus. Nonne tristítia inest usque ad mortem ?
+Si	37	2	sodális autem et amícus ad inimicítiam converténtur.
+Si	37	3	O præsúmptio nequíssima, unde creáte es cooperíre áridam malítia et dolositáte illíus ?
+Si	37	4	Sodális amíco coniucundátur in oblectatiónibus, et in témpore tribulatiónis adversárius erit.
+Si	37	5	Sodális amíco cóndolet causa ventris, et contra hostem accípiet scutum.
+Si	37	6	Non obliviscáris amíci tui in ánimo tuo, et non ímmemor sis illíus in ópibus tuis.
+Si	37	7	Noli consiliári cum eo qui tibi insidiátur, et a zelántibus te abscónde consílium.
+Si	37	8	Omnis consiliárius prodit consílium, sed est consiliárius in semetípso.
+Si	37	9	A consiliário serva ánimam tuam : prius scito quæ sit illíus necéssitas : et ipse enim ánimo suo cogitábit :
+Si	37	10	ne forte mittat sudem in terram, et dicat tibi :
+Si	37	11	Bona est via tua : et stet e contrário vidére quid tibi evéniat.
+Si	37	12	Cum viro irreligióso tracta de sanctitáte, et cum iniústo de iustítia, et cum mulíere de ea quæ æmulátur, cum tímido de bello, cum negotiatóre de traiectióne, cum emptóre de venditióne, cum viro lívido de grátiis agéndis,
+Si	37	13	cum ímpio de pietáte, cum inhonésto de honestáte, cum operário agrário de omni ópere,
+Si	37	14	cum operário annuáli de consummatióne anni, cum servo pigro de multa operatióne. Non atténdas his in omni consílio :
+Si	37	15	sed cum viro sancto assíduus esto, quemcúmque cognóveris observántem timórem Dei :
+Si	37	16	cuius ánima est secúndum ánimam tuam, et qui, cum titubáveris in ténebris, condolébit tibi.
+Si	37	17	Cor boni consílii státue tecum : non est enim tibi aliud pluris illo.
+Si	37	18	Anima viri sancti enúntiat aliquándo vera, quam septem circumspectóres sedéntes in excélso ad speculándum.
+Si	37	19	Et in his ómnibus deprecáre Altíssimum, ut dírigat in veritáte viam tuam.
+Si	37	20	Ante ómnia ópera verbum verax præcédat te, et ante omnem actum consílium stábile.
+Si	37	21	Verbum nequam immutábit cor : ex quo partes quátuor oriúntur : bonum et malum, vita et mors : et dominátrix illórum est assídua lingua. Est vir astútus multórum erudítor, et ánimæ suæ inútilis est.
+Si	37	22	Vir perítus multos erudívit, et ánimæ suæ suávis est.
+Si	37	23	Qui sophístice lóquitur odíbilis est : in omni re defraudábitur.
+Si	37	24	Non est illi data a Dómino grátia, omni enim sapiéntia defraudátus est.
+Si	37	25	Est sápiens ánimæ suæ sápiens, et fructus sensus illíus laudábilis.
+Si	37	26	Vir sápiens plebem suam érudit, et fructus sensus illíus fidéles sunt.
+Si	37	27	Vir sápiens implébitur benedictiónibus, et vidéntes illum laudábunt.
+Si	37	28	Vita viri in número diérum : dies autem Israel innumerábiles sunt.
+Si	37	29	Sápiens in pópulo hæreditábit honórem, et nomen illíus erit vivens in ætérnum.
+Si	37	30	Fili, in vita tua tenta ánimam tuam, et si fúerit nequam non des illi potestátem :
+Si	37	31	non enim ómnia ómnibus expédiunt, et non omni ánimæ omne genus placet.
+Si	37	32	Noli ávidus esse in omni epulatióne, et non te effúndas super omnem escam :
+Si	37	33	in multis enim escis erit infírmitas, et avíditas appropinquábit usque ad chóleram.
+Si	37	34	Propter crápulam multi obiérunt : qui autem ábstinens est adíciet vitam.
+Si	38	1	Honóra médicum propter necessitátem : étenim illum creávit Altíssimus.
+Si	38	2	A Deo est enim omnis medéla, et a rege accípiet donatiónem.
+Si	38	3	Disciplína médici exaltábit caput illíus, et in conspéctu magnatórum collaudábitur.
+Si	38	4	Altíssimus creávit de terra medicaménta, et vir prudens non abhorrébit illa.
+Si	38	5	Nonne a ligno indulcáta est aqua amára ?
+Si	38	6	Ad agnitiónem hóminum virtus illórum : et dedit homínibus sciéntiam Altíssimus, honorári in mirabílibus suis.
+Si	38	7	In his curans mitigábit dolórem : et unguentárius fáciet pigménta suavitátis, et unctiónes confíciet sanitátis : et non consummabúntur ópera eius.
+Si	38	8	Pax enim Dei super fáciem terræ.
+Si	38	9	Fili, in tua infirmitáte ne despícias teípsum : sed ora Dóminum, et ipse curábit te.
+Si	38	10	Avérte a delícto, et dírige manus, et ab omni delícto munda cor tuum.
+Si	38	11	Da suavitátem et memóriam similáginis, et impíngua oblatiónem, et da locum médico :
+Si	38	12	étenim illum Dóminus creávit, et non discédat a te, quia ópera eius sunt necessária.
+Si	38	13	Est enim tempus quando in manus illórum incúrras :
+Si	38	14	ipsi vero Dóminum deprecabúntur, ut dírigat réquiem eórum, et sanitátem, propter conversatiónem illórum.
+Si	38	15	Qui delínquit in conspéctu eius qui fecit eum, íncidet in manus médici.
+Si	38	16	Fili, in mórtuum produc lácrimas, et quasi dira passus íncipe ploráre : et secúndum iudícium cóntege corpus illíus, et non despícias sepultúram illíus.
+Si	38	17	Propter delatúram autem amáre fer luctum illíus uno die, et consoláre propter tristítiam :
+Si	38	18	et fac luctum secúndum méritum eius uno die, vel duóbus, propter detractiónem :
+Si	38	19	a tristítia enim festínat mors, et coóperit virtútem, et tristítia cordis flectit cervícem.
+Si	38	20	In abductióne pérmanet tristítia, et substántia ínopis secúndum cor eius.
+Si	38	21	Ne déderis in tristítia cor tuum, sed repélle eam a te, et meménto novissimórum.
+Si	38	22	Noli oblivísci, neque enim est convérsio : et huic nihil próderis, et teípsum pessimábis.
+Si	38	23	Memor esto iudícii mei : sic enim erit et tuum : mihi heri, et tibi hódie.
+Si	38	24	In réquie mórtui requiéscere fac memóriam eius, et consoláre illum in éxitu spíritus sui.
+Si	38	25	Sapiéntia scribæ in témpore vacuitátis, et qui minorátur actu sapiéntiam percípiet, qua sapiéntia replébitur.
+Si	38	26	Qui tenet arátrum, et qui gloriátur in iáculo, stímulo boves ágitat, et conversátur in opéribus eórum, et enarrátio eius in fíliis taurórum.
+Si	38	27	Cor suum dabit ad versándos sulcos, et vigília eius in sagína vaccárum.
+Si	38	28	Sic omnis faber et architéctus, qui noctem tamquam diem tránsigit : qui sculpit signácula sculptília, et assidúitas eius váriat pictúram : cor suum dabit in similitúdinem pictúræ, et vigília sua perfíciet opus.
+Si	38	29	Sic faber ferrárius sedens iuxta incúdem, et consíderans opus ferri : vapor ignis uret carnes eius, et in calóre fornácis concertátur.
+Si	38	30	Vox mállei ínnovat aurem eius, et contra similitúdinem vasis óculus eius.
+Si	38	31	Cor suum dabit in consummatiónem óperum, et vigília sua ornábit in perfectiónem.
+Si	38	32	Sic fígulus sedens ad opus suum, convértens pédibus suis rotam, qui in sollicitúdine pósitus est semper propter opus suum, et in número est omnis operátio eius.
+Si	38	33	In bráchio suo formábit lutum, et ante pedes suos curvábit virtútem suam.
+Si	38	34	Cor suum dabit ut consúmmet linitiónem, et vigília sua mundábit fornácem.
+Si	38	35	Omnes hi in mánibus suis speravérunt, et unusquísque in arte sua sápiens est.
+Si	38	36	Sine his ómnibus non ædificátur cívitas,
+Si	38	37	et non inhabitábunt, nec inambulábunt, et in ecclésiam non transílient.
+Si	38	38	Super sellam iúdicis non sedébunt, et testaméntum iudícii non intélligent, neque palam fácient disciplínam et iudícium, et in parábolis non inveniéntur :
+Si	38	39	sed creatúram ævi confirmábunt : et deprecátio illórum in operatióne artis, accomodántes ánimam suam, et conquiréntes in lege Altíssimi.
+Si	39	1	Sapiéntiam ómnium antiquórum exquíret sápiens, et in prophétis vacábit.
+Si	39	2	Narratiónem virórum nominatórum conservábit, et in versútias parabolárum simul introíbit.
+Si	39	3	Occúlta proverbiórum exquíret, et in abscónditis parabolárum conversábitur.
+Si	39	4	In médio magnatórum ministrábit, et in conspéctu prǽsidis apparébit.
+Si	39	5	In terram alienigenárum géntium pertránsiet : bona enim et mala in homínibus tentábit.
+Si	39	6	Cor suum tradet ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
+Si	39	7	Apériet os suum in oratióne, et pro delíctis suis deprecábitur.
+Si	39	8	Si enim Dóminus magnus volúerit, spíritu intelligéntiæ replébit illum :
+Si	39	9	et ipse tamquam imbres mittet elóquia sapiéntiæ suæ, et in oratióne confitébitur Dómino :
+Si	39	10	et ipse díriget consílium eius, et disciplínam, et in abscónditis suis consiliábitur.
+Si	39	11	Ipse palam fáciet disciplínam doctrínæ suæ, et in lege testaménti Dómini gloriábitur.
+Si	39	12	Collaudábunt multi sapiéntiam eius, et usque in sǽculum non delébitur.
+Si	39	13	Non recédet memória eius, et nomen eius requirétur a generatióne in generatiónem.
+Si	39	14	Sapiéntiam eius enarrábunt gentes, et laudem eius enuntiábit ecclésia.
+Si	39	15	Si permánserit, nomen derelínquet plus quam mille : et si requiéverit, próderit illi.
+Si	39	16	Adhuc consiliábor ut enárrem : ut furóre enim replétus sum.
+Si	39	17	In voce dicit : Obaudíte me, divíni fructus, et quasi rosa plantáta super rivos aquárum fructificáte.
+Si	39	18	Quasi Líbanus odórem suavitátis habéte.
+Si	39	19	Floréte flores quasi lílium : et date odórem, et frondéte in grátiam : et collaudáte cánticum, et benedícite Dóminum in opéribus suis.
+Si	39	20	Date nómini eius magnificéntiam, et confitémini illi in voce labiórum vestrórum, et in cánticis labiórum, et cítharis : et sic dicétis in confessióne :
+Si	39	21	Opera Dómini univérsa bona valde.
+Si	39	22	In verbo eius stetit aqua sicut congéries : et in sermóne oris illíus sicut exceptória aquárum :
+Si	39	23	quóniam in præcépto ipsíus placor fit, et non est minorátio in salúte ipsíus.
+Si	39	24	Opera omnis carnis coram illo, et non est quidquam abscónditum ab óculis eius.
+Si	39	25	A sǽculo usque in sǽculum réspicit, et nihil est mirábile in conspéctu eius.
+Si	39	26	Non est dícere : Quid est hoc, aut quid est istud ? ómnia enim in témpore suo quæréntur.
+Si	39	27	Benedíctio illíus quasi flúvius inundávit.
+Si	39	28	Quómodo cataclýsmus áridam inebriávit, sic ira ipsíus gentes quæ non exquisiérunt eum hæreditábit.
+Si	39	29	Quómodo convértit aquas in siccitátem, et siccáta est terra, et viæ illíus viis illórum diréctæ sunt, sic peccatóribus offensiónes in ira eius.
+Si	39	30	Bona bonis creáta sunt ab inítio : sic nequíssimis bona et mala.
+Si	39	31	Inítium necessáriæ rei vitæ hóminum, aqua, ignis, et ferrum, sal, lac, et panis similagíneus, et mel, et botrus uvæ, et óleum, et vestiméntum.
+Si	39	32	Hæc ómnia sanctis in bona, sic et ímpiis et peccatóribus in mala converténtur.
+Si	39	33	Sunt spíritus qui ad vindíctam creáti sunt, et in furóre suo confirmavérunt torménta sua.
+Si	39	34	In témpore consummatiónis effúndent virtútem, et furórem eius qui fecit illos placábunt.
+Si	39	35	Ignis, grando, fames, et mors, ómnia hæc ad vindíctam creáta sunt :
+Si	39	36	bestiárum dentes, et scórpii, et serpéntes, et rhomphǽa víndicans in extermínium ímpios.
+Si	39	37	In mandátis eius epulabúntur : et super terram in necessitátem præparabúntur, et in tempóribus suis non prætérient verbum.
+Si	39	38	Proptérea ab inítio confirmátus sum, et consiliátus sum, et cogitávi, et scripta dimísi.
+Si	39	39	Omnia ópera Dómini bona, et omne opus hora sua subministrábit.
+Si	39	40	Non est dícere : Hoc illo néquius est : ómnia enim in témpore suo comprobabúntur.
+Si	39	41	Et nunc in omni corde et ore collaudáte, et benedícite nomen Dómini.
+Si	40	1	Occupátio magna creáta est ómnibus homínibus, et iugum grave super fílios Adam, a die éxitus de ventre matris eórum usque in diem sepultúræ in matrem ómnium.
+Si	40	2	Cogitatiónes eórum, et timóres cordis, adinvéntio exspectatiónis, et dies finitiónis,
+Si	40	3	a residénte super sedem gloriósam, usque ad humiliátum in terra et cínere :
+Si	40	4	ab eo qui útitur hyacíntho et portat corónam, usque ad eum qui operítur lino crudo : furor, zelus, tumúltus, fluctuátio, et timor mortis, iracúndia persevérans, et conténtio :
+Si	40	5	et in témpore refectiónis in cubíli, somnus noctis immútat sciéntiam eius.
+Si	40	6	Módicum tamquam nihil in réquie, et ab eo in somnis, quasi in die respéctus.
+Si	40	7	Conturbátus est in visu cordis sui, tamquam qui eváserit in die belli : in témpore salútis suæ exsurréxit, et admírans ad nullum timórem :
+Si	40	8	cum omni carne, ab hómine usque ad pecus, et super peccatóres séptuplum.
+Si	40	9	Ad hæc mors, sanguis, conténtio, et rhomphǽa, oppressiónes, fames, et contrítio, et flagélla :
+Si	40	10	super iníquos creáta sunt hæc ómnia : et propter illos factus est cataclýsmus.
+Si	40	11	Omnia quæ de terra sunt in terram converténtur, et omnes aquæ in mare reverténtur.
+Si	40	12	Omne munus et iníquitas delébitur, et fides in sǽculum stabit.
+Si	40	13	Substántiæ iniustórum sicut flúvius siccabúntur, et sicut tonítruum magnum in plúvia personábunt.
+Si	40	14	In aperiéndo manus suas lætábitur : sic prævaricatóres in consummatióne tabéscent.
+Si	40	15	Nepótes impiórum non multiplicábunt ramos : et radíces immúndæ super cacúmen petræ sonant.
+Si	40	16	Super omnem aquam viríditas, et ad oram flúminis ante omne fœnum evellétur.
+Si	40	17	Grátia sicut paradísus in benedictiónibus, et misericórdia in sǽculum pérmanet.
+Si	40	18	Vita sibi sufficiéntis operárii condulcábitur, et in ea invénies thesáurum.
+Si	40	19	Fílii et ædificátio civitátis confirmábit nomen : et super hæc múlier immaculáta computábitur.
+Si	40	20	Vinum et música lætíficant cor : et super útraque diléctio sapiéntiæ.
+Si	40	21	Tíbiæ et psaltérium suavem fáciunt melódiam : et super útraque lingua suávis.
+Si	40	22	Grátiam et spéciem desiderábit óculus tuus : et super hæc vírides satiónes.
+Si	40	23	Amícus et sodális in témpore conveniéntes, et super utrósque múlier cum viro.
+Si	40	24	Fratres in adiutórium in témpore tribulatiónis : et super eos misericórdia liberábit.
+Si	40	25	Aurum et argéntum est constitútio pedum : et super utrúmque consílium beneplácitum.
+Si	40	26	Facultátes et virtútes exáltant cor, et super hæc timor Dómini.
+Si	40	27	Non est in timóre Dómini minorátio : et non est in eo inquírere adiutórium.
+Si	40	28	Timor Dómini sicut paradísus benedictiónis, et super omnem glóriam operuérunt illum.
+Si	40	29	Fili, in témpore vitæ tuæ ne indígeas : mélius est enim mori quam indigére.
+Si	40	30	Vir respíciens in mensam aliénam, non est vita eius in cogitatióne victus : alit enim ánimam suam cibis aliénis :
+Si	40	31	vir autem disciplinátus et erudítus custódiet se.
+Si	40	32	In ore imprudéntis condulcábitur inópia, et in ventre eius ignis ardébit.
+Si	41	1	O mors, quam amára est memória tua hómini pacem habénti in substántiis suis :
+Si	41	2	viro quiéto, et cuius viæ diréctæ sunt in ómnibus, et adhuc valénti accípere cibum !
+Si	41	3	O mors, bonum est iudícium tuum hómini indigénti, et qui minorátur víribus,
+Si	41	4	defécto ætáte, et cui de ómnibus cura est, et incredíbili, qui perdit patiéntiam !
+Si	41	5	Noli metúere iudícium mortis : meménto quæ ante te fuérunt, et quæ superventúra sunt tibi : hoc iudícium a Dómino omni carni.
+Si	41	6	Et quid supervéniet tibi in beneplácito Altíssimi ? sive decem, sive centum, sive mille anni :
+Si	41	7	non est enim in inférno accusátio vitæ.
+Si	41	8	Fílii abominatiónum fiunt fílii peccatórum, et qui conversántur secus domos impiórum.
+Si	41	9	Filiórum peccatórum périet hæréditas, et cum sémine illórum assidúitas oppróbrii.
+Si	41	10	De patre ímpio querúntur fílii, quóniam propter illum sunt in oppróbrio.
+Si	41	11	Væ vobis, viri ímpii, qui dereliquístis legem Dómini Altíssimi !
+Si	41	12	Et si nati fuéritis, in maledictióne nascémini : et si mórtui fuéritis, in maledictióne erit pars vestra.
+Si	41	13	Omnia quæ de terra sunt in terram converténtur : sic ímpii a maledícto in perditiónem.
+Si	41	14	Luctus hóminum in córpore ipsórum : nomen autem impiórum delébitur.
+Si	41	15	Curam habe de bono nómine : hoc enim magis permanébit tibi quam mille thesáuri pretiósi et magni.
+Si	41	16	Bonæ vitæ númerus diérum : bonum autem nomen permanébit in ævum.
+Si	41	17	Disciplínam in pace conserváte, fílii : sapiéntia enim abscóndita, et thesáurus invísus, quæ utílitas in utrísque ?
+Si	41	18	Mélior est homo qui abscóndit stultítiam suam, quam homo qui abscóndit sapiéntiam suam.
+Si	41	19	Verúmtamen reverémini in his quæ procédunt de ore meo :
+Si	41	20	non est enim bonum omnem reveréntiam observáre, et non ómnia ómnibus bene placent in fide.
+Si	41	21	Erubéscite a patre et a matre de fornicatióne : et a præsidénte et a poténte de mendácio :
+Si	41	22	a príncipe et a iúdice de delícto : a synagóga et plebe de iniquitáte :
+Si	41	23	a sócio et amíco de iniustítia, et de loco in quo hábitas :
+Si	41	24	de furto, de veritáte Dei, et testaménto : de discúbitu in pánibus, et ab obfuscatióne dati et accépti :
+Si	41	25	a salutántibus de siléntio, a respéctu mulíeris fornicáriæ, et ab aversióne vultus cognáti.
+Si	41	26	Ne avértas fáciem a próximo tuo, et ab auferéndo partem et non restituéndo.
+Si	41	27	Ne respícias mulíerem aliéni viri, et ne scrutéris ancíllam eius, neque stéteris ad lectum eius.
+Si	41	28	Ab amícis de sermónibus impropérii : et cum déderis, ne impróperes.
+Si	42	1	Non dúplices sermónem audítus de revelatióne sermónis abscónditi : et eris vere sine confusióne, et invénies grátiam in conspéctu ómnium hóminum. Ne pro his ómnibus confundáris, et ne accípias persónam ut delínquas :
+Si	42	2	de lege Altíssimi, et testaménto, et de iudício iustificáre ímpium,
+Si	42	3	de verbo sociórum et viatórum, et de datióne hæreditátis amicórum,
+Si	42	4	de æqualitáte statéræ et pónderum, de acquisitióne multórum et paucórum,
+Si	42	5	de corruptióne emptiónis et negotiatórum, et de multa disciplína filiórum, et servo péssimo latus sanguináre.
+Si	42	6	Super mulíerem nequam bonum est signum.
+Si	42	7	Ubi manus multæ sunt, claude : et quodcúmque trades, númera et appénde : datum vero et accéptum omne descríbe.
+Si	42	8	De disciplína insensáti et fátui, et de senióribus qui iudicántur ab adolescéntibus : et eris erudítus in ómnibus, et probábilis in conspéctu ómnium vivórum.
+Si	42	9	Fília patris abscóndita est vigília, et sollicitúdo eius aufert somnum : ne forte in adolescéntia sua adúlta efficiátur, et cum viro commoráta odíbilis fiat :
+Si	42	10	nequándo polluátur in virginitáte sua, et in patérnis suis grávida inveniátur : ne forte cum viro commoráta transgrediátur, aut certe stérilis efficiátur.
+Si	42	11	Super fíliam luxuriósam confírma custódiam, nequándo fáciat te in oppróbrium veníre inimícis, a detractióne in civitáte, et obiectióne plebis, et confúndat te in multitúdine pópuli.
+Si	42	12	Omni hómini noli inténdere in spécie, et in médio mulíerum noli commorári :
+Si	42	13	de vestiméntis enim procédit tínea, et a mulíere iníquitas viri.
+Si	42	14	Mélior est enim iníquitas viri quam múlier benefáciens, et múlier confúndens in oppróbrium.
+Si	42	15	Memor ero ígitur óperum Dómini, et quæ vidi annuntiábo. In sermónibus Dómini ópera eius.
+Si	42	16	Sol illúminans per ómnia respéxit, et glória Dómini plenum est opus eius.
+Si	42	17	Nonne Dóminus fecit sanctos enarráre ómnia mirabília sua, quæ confirmávit Dóminus omnípotens stabilíri in glória sua ?
+Si	42	18	Abýssum et cor hóminum investigávit, et in astútia eórum excogitávit.
+Si	42	19	Cognóvit enim Dóminus omnem sciéntiam, et inspéxit in signum ævi, annúntians quæ præteriérunt et quæ superventúra sunt, revélans vestígia occultórum.
+Si	42	20	Non prǽterit illum omnis cogitátus, et non abscóndit se ab eo ullus sermo.
+Si	42	21	Magnália sapiéntiæ suæ decorávit, qui est ante sǽculum et usque in sǽculum : neque adiéctum est,
+Si	42	22	neque minúitur, et non eget alicúius consílio.
+Si	42	23	Quam desiderabília ómnia ópera eius ! et tamquam scintílla quæ est consideráre !
+Si	42	24	Omnia hæc vivunt, et manent in sǽculum, et in omni necessitáte ómnia obáudiunt ei.
+Si	42	25	Omnia duplícia, unum contra unum, et non fecit quidquam deésse.
+Si	42	26	Uniuscuiúsque confirmávit bona : et quis satiábitur videns glóriam eius ?
+Si	43	1	Altitúdinis firmaméntum pulchritúdo eius est, spécies cæli in visióne glóriæ.
+Si	43	2	Sol in aspéctu annúntians in éxitu, vas admirábile, opus Excélsi.
+Si	43	3	In meridiáno exúrit terram, et in conspéctu ardóris eius quis póterit sustinére ? fornácem custódiens in opéribus ardóris :
+Si	43	4	triplíciter sol exúrens montes, rádios ígneos exsúfflans, et refúlgens rádiis suis obcǽcat óculos.
+Si	43	5	Magnus Dóminus qui fecit illum, et in sermónibus eius festinávit iter.
+Si	43	6	Et luna in ómnibus in témpore suo, osténsio témporis, et signum ævi.
+Si	43	7	A luna signum diéi festi : lumináre quod minúitur in consummatióne.
+Si	43	8	Mensis secúndum nomen eius est, crescens mirabíliter in consummatióne.
+Si	43	9	Vas castrórum in excélsis, in firmaménto cæli respléndens glorióse.
+Si	43	10	Spécies cæli glória stellárum : mundum illúminans in excélsis Dóminus.
+Si	43	11	In verbis Sancti stabunt ad iudícium, et non defícient in vigíliis suis.
+Si	43	12	Vide arcum, et bénedic eum qui fecit illum : valde speciósus est in splendóre suo.
+Si	43	13	Gyrávit cælum in circúitu glóriæ suæ : manus Excélsi aperuérunt illum.
+Si	43	14	Império suo accelerávit nivem, et accélerat coruscatiónes emíttere iudícii sui.
+Si	43	15	Proptérea apérti sunt thesáuri, et evolavérunt nébulæ sicut aves.
+Si	43	16	In magnitúdine sua pósuit nubes, et confrácti sunt lápides grándinis.
+Si	43	17	In conspéctu eius commovebúntur montes, et in voluntáte eius aspirábit notus.
+Si	43	18	Vox tonítrui eius verberávit terram, tempéstas aquilónis, et congregátio spíritus :
+Si	43	19	et sicut avis depónens ad sedéndum, aspérgit nivem, et sicut locústa demérgens descénsus eius.
+Si	43	20	Pulchritúdinem candóris eius admirábitur óculus, et super imbrem eius expavéscet cor.
+Si	43	21	Gelu sicut salem effúndet super terram : et dum geláverit, fiet tamquam cacúmina tríbuli.
+Si	43	22	Frígidus ventus áquilo flavit, et gelávit crystállus ab aqua : super omnem congregatiónem aquárum requiéscet, et sicut loríca índuet se aquis :
+Si	43	23	et devorábit montes, et exúret desértum, et extínguet víride, sicut igne.
+Si	43	24	Medicína ómnium in festinatióne nébulæ : et ros óbvians ab ardóre veniénti húmilem effíciet eum.
+Si	43	25	In sermóne eius síluit ventus, et cogitatióne sua placávit abýssum : et plantávit in illa Dóminus ínsulas.
+Si	43	26	Qui návigant mare enárrent perícula eius, et audiéntes áuribus nostris admirábimur.
+Si	43	27	Illic præclára ópera et mirabília, vária bestiárum génera, et ómnium pécorum, et creatúra belluárum.
+Si	43	28	Propter ipsum confirmátus est itíneris finis, et in sermóne eius compósita sunt ómnia.
+Si	43	29	Multa dicémus, et deficiémus in verbis : consummátio autem sermónum ipse est in ómnibus.
+Si	43	30	Gloriántes ad quid valébimus ? ipse enim omnípotens super ómnia ópera sua.
+Si	43	31	Terríbilis Dóminus, et magnus veheménter, et mirábilis poténtia ipsíus.
+Si	43	32	Glorificántes Dóminum quantumcúmque potuéritis, supervalébit enim adhuc : et admirábilis magnificéntia eius.
+Si	43	33	Benedicéntes Dóminum, exaltáte illum quantum potéstis : maior enim est omni laude.
+Si	43	34	Exaltántes eum, replémini virtúte, ne laborétis, non enim comprehendétis.
+Si	43	35	Quis vidébit eum et enarrábit ? et quis magnificábit eum sicut est ab inítio ?
+Si	43	36	Multa abscóndita sunt maióra his : pauca enim vídimus óperum eius.
+Si	43	37	Omnia autem Dóminus fecit, et pie agéntibus dedit sapiéntiam.
+Si	44	1	Laudémus viros gloriósos, et paréntes nostros in generatióne sua.
+Si	44	2	Multam glóriam fecit Dóminus : magnificéntia sua a sǽculo.
+Si	44	3	Dominántes in potestátibus suis, hómines magni virtúte et prudéntia sua prǽditi, nuntiántes in prophétis dignitátem prophetárum :
+Si	44	4	et imperántes in præsénti pópulo, et virtúte prudéntiæ pópulis sanctíssima verba :
+Si	44	5	in perítia sua requiréntes modos músicos, et narrántes cármina Scripturárum :
+Si	44	6	hómines dívites in virtúte, pulchritúdinis stúdium habéntes, pacificántes in dómibus suis.
+Si	44	7	Omnes isti in generatiónibus gentis suæ glóriam adépti sunt, et in diébus suis habéntur in láudibus.
+Si	44	8	Qui de illis nati sunt reliquérunt nomen narrándi laudes eórum.
+Si	44	9	Et sunt quorum non est memória : periérunt quasi qui non fúerint : et nati sunt quasi non nati, et fílii ipsórum cum ipsis.
+Si	44	10	Sed illi viri misericórdiæ sunt, quorum pietátes non defuérunt.
+Si	44	11	Cum sémine eórum pérmanent bona :
+Si	44	12	hæréditas sancta nepótes eórum, et in testaméntis stetit semen eórum :
+Si	44	13	et fílii eórum propter illos usque in ætérnum manent : semen eórum et glória eórum non derelinquétur.
+Si	44	14	Córpora ipsórum in pace sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem.
+Si	44	15	Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet ecclésia.
+Si	44	16	Enoch plácuit Deo, et translátus est in paradísum, ut det géntibus pœniténtiam.
+Si	44	17	Noe invéntus est perféctus, iustus, et in témpore iracúndiæ factus est reconciliátio.
+Si	44	18	Ideo dimíssum est réliquum terræ, cum factum est dilúvium.
+Si	44	19	Testaménta sǽculi pósita sunt apud illum, ne deléri possit dilúvio omnis caro.
+Si	44	20	Abraham magnus pater multitúdinis géntium, et non est invéntus símilis illi in glória : qui conservávit legem Excélsi, et fuit in testaménto cum illo.
+Si	44	21	In carne eius stare fecit testaméntum, et in tentatióne invéntus est fidélis.
+Si	44	22	Ideo iureiurándo dedit illi glóriam in gente sua, créscere illum quasi terræ cúmulum,
+Si	44	23	et ut stellas exaltáre semen eius, et hæreditáre illos a mari usque ad mare, et a flúmine usque ad términos terræ.
+Si	44	24	Et in Isaac eódem modo fecit, propter Abraham patrem eius.
+Si	44	25	Benedictiónem ómnium géntium dedit illi Dóminus, et testaméntum confirmávit super caput Iacob.
+Si	44	26	Agnóvit eum in benedictiónibus suis, et dedit illi hæreditátem, et divísit illi partem in tríbubus duódecim.
+Si	44	27	Et conservávit illi hómines misericórdiæ, inveniéntes grátiam in óculis omnis carnis.
+Si	45	1	Diléctus Deo et homínibus Móyses, cuius memória in benedictióne est.
+Si	45	2	Símilem illum fecit in glória sanctórum, et magnificávit eum in timóre inimicórum, et in verbis suis monstra placávit.
+Si	45	3	Glorificávit illum in conspéctu regum, et iussit illi coram pópulo suo, et osténdit illi glóriam suam.
+Si	45	4	In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne.
+Si	45	5	Audívit enim eum, et vocem ipsíus, et indúxit illum in nubem.
+Si	45	6	Et dedit illi coram præcépta, et legem vitæ et disciplínæ, docére Iacob testaméntum suum, et iudícia sua Israel.
+Si	45	7	Excélsum fecit Aaron fratrem eius, et símilem sibi, de tribu Levi.
+Si	45	8	Státuit ei testaméntum ætérnum, et dedit illi sacerdótium gentis, et beatificávit illum in glória :
+Si	45	9	et circumcínxit eum zona glóriæ, et índuit eum stolam glóriæ, et coronávit eum in vasis virtútis.
+Si	45	10	Circúmpedes, et femorália, et humerále pósuit ei : et cinxit illum tintinnábulis áureis plúrimis in gyro :
+Si	45	11	dare sónitum in incéssu suo, audítum fácere sónitum in templo in memóriam fíliis gentis suæ.
+Si	45	12	Stolam sanctam auro, et hyacíntho, et púrpura, opus téxtile viri sapiéntis, iudício et veritáte prǽditi :
+Si	45	13	torto cocco opus artíficis gemmis pretiósis figurátis in ligatúra auri, et ópere lapidárii sculptis, in memóriam secúndum númerum tríbuum Israel.
+Si	45	14	Coróna áurea super mitram eius expréssa signo sanctitátis, et glória honóris : opus virtútis, et desidéria oculórum ornáta.
+Si	45	15	Sic pulchra ante ipsum non fuérunt tália usque ad oríginem.
+Si	45	16	Non est indútus illa alienígena áliquis, sed tantum fílii ipsíus soli, et nepótes eius per omne tempus.
+Si	45	17	Sacrifícia ipsíus consúmpta sunt igne quotídie.
+Si	45	18	Complévit Móyses manus eius, et unxit illum óleo sancto.
+Si	45	19	Factum est illi in testaméntum ætérnum, et sémini eius, sicut dies cæli, fungi sacerdótio, et habére laudem, et glorificáre pópulum suum in nómine eius.
+Si	45	20	Ipsum elégit ab omni vivénte, offérre sacrifícium Deo, incénsum, et bonum odórem, in memóriam placáre pro pópulo suo :
+Si	45	21	et dedit illi in præcéptis suis potestátem, in testaméntis iudiciórum : docére Iacob testimónia, et in lege sua lucem dare Israel.
+Si	45	22	Quia contra illum stetérunt aliéni, et propter invídiam circumdedérunt illum hómines in desérto, qui erant cum Dathan et Abiron, et congregátio Core in iracúndia.
+Si	45	23	Vidit Dóminus Deus, et non plácuit illi, et consúmpti sunt in ímpetu iracúndiæ.
+Si	45	24	Fecit illis monstra, et consúmpsit illos in flamma ignis.
+Si	45	25	Et áddidit Aaron glóriam, et dedit illi hæreditátem, et primítias frugum terræ divísit illi.
+Si	45	26	Panem ipsis in primis parávit in satietátem : nam et sacrifícia Dómini edent, quæ dedit illi et sémini eius.
+Si	45	27	Céterum in terra gentes non hæreditábit, et pars non est illi in gente : ipse est enim pars eius, et hæréditas.
+Si	45	28	Phínees, fílius Eleázari, tértius in glória est, imitándo eum in timóre Dómini,
+Si	45	29	et stare in reveréntia gentis : in bonitáte et alacritáte ánimæ suæ plácuit Deo pro Israel.
+Si	45	30	Ideo státuit illi testaméntum pacis, príncipem sanctórum et gentis suæ, ut sit illi et sémini eius sacerdótii dígnitas in ætérnum.
+Si	45	31	Et testaméntum David regi fílio Iesse de tribu Iuda, hæréditas ipsi et sémini eius : ut daret sapiéntiam in cor nostrum, iudicáre gentem suam in iustítia, ne aboleréntur bona ipsórum : et glóriam ipsórum in gentem eórum ætérnam fecit.
+Si	46	1	Fortis in bello Iesus Nave, succéssor Móysi in prophétis, qui fuit magnus secúndum nomen suum,
+Si	46	2	máximus in salútem electórum Dei, expugnáre insurgéntes hostes, ut consequerétur hæreditátem Israel.
+Si	46	3	Quam glóriam adéptus est in tolléndo manus suas, et iactándo contra civitátes rhomphǽas !
+Si	46	4	Quis ante illum sic réstitit ? nam hostes ipse Dóminus perdúxit.
+Si	46	5	An non in iracúndia eius impedítus est sol, et una dies facta est quasi duo ?
+Si	46	6	Invocávit Altíssimum poténtem, in oppugnándo inimícos úndique : et audívit illum magnus et sanctus Deus, in saxis grándinis virtútis valde fortis.
+Si	46	7	Impetum fecit contra gentem hostílem, et in descénsu pérdidit contrários :
+Si	46	8	ut cognóscant gentes poténtiam eius, quia contra Deum pugnáre non est fácile. Et secútus est a tergo poténtis :
+Si	46	9	et in diébus Móysi misericórdiam fecit, ipse, et Caleb fílius Iéphone, stare contra hostem, et prohibére gentem a peccátis, et perfríngere murmur malítiæ.
+Si	46	10	Et ipsi duo constitúti a perículo liberáti sunt a número sexcentórum míllium péditum, indúcere illos in hæreditátem, in terram quæ manat lac et mel.
+Si	46	11	Et dedit Dóminus ipsi Caleb fortitúdinem, et usque in senectútem permánsit illi virtus, ut ascénderet in excélsum terræ locum, et semen ipsíus obtínuit hæreditátem,
+Si	46	12	ut vidérent omnes fílii Israel quia bonum est óbsequi sancto Deo.
+Si	46	13	Et iúdices sínguli suo nómine, quorum non est corrúptum cor, qui non avérsi sunt a Dómino,
+Si	46	14	ut sit memória illórum in benedictióne, et ossa eórum púllulent de loco suo :
+Si	46	15	et nomen eórum permáneat in ætérnum, pérmanens ad fílios illórum, sanctórum virórum glória.
+Si	46	16	Diléctus a Dómino Deo suo Sámuel, prophéta Dómini, renovávit impérium, et unxit príncipes in gente sua.
+Si	46	17	In lege Dómini congregatiónem iudicávit, et vidit Deus Iacob : et in fide sua probátus est prophéta,
+Si	46	18	et cógnitus est in verbis suis fidélis, quia vidit Deum lucis.
+Si	46	19	Et invocávit Dóminum omnipoténtem, in oppugnándo hostes circumstántes úndique, in oblatióne agni invioláti.
+Si	46	20	Et intónuit de cælo Dóminus, et in sónitu magno audítam fecit vocem suam :
+Si	46	21	et contrívit príncipes Tyriórum, et omnes duces Philísthiim :
+Si	46	22	et ante tempus finis vitæ suæ et sǽculi, testimónium prǽbuit in conspéctu Dómini et christi : pecúnias et usque ad calceaménta ab omni carne non accépit, et non accusávit illum homo.
+Si	46	23	Et post hoc dormívit : et notum fecit regi, et osténdit illi finem vitæ suæ : et exaltávit vocem suam de terra in prophetía, delére impietátem gentis.
+Si	47	1	Post hæc surréxit Nathan, prophéta in diébus David.
+Si	47	2	Et quasi adeps separátus a carne, sic David a fíliis Israel.
+Si	47	3	Cum leónibus lusit quasi cum agnis, et in ursis simíliter fecit sicut in agnis óvium, in iuventúte sua.
+Si	47	4	Numquid non occídit gigántem, et ábstulit oppróbrium de gente ?
+Si	47	5	In tolléndo manum, saxo fundæ deiécit exsultatiónem Golíæ :
+Si	47	6	nam invocávit Dóminum omnipoténtem, et dedit in déxtera eius tóllere hóminem fortem in bello, et exaltáre cornu gentis suæ.
+Si	47	7	Sic in decem míllibus glorificávit eum : et laudávit eum in benedictiónibus Dómini, in offeréndo illi corónam glóriæ :
+Si	47	8	contrívit enim inimícos úndique, et extirpávit Philísthiim contrários usque in hodiérnum diem : contrívit cornu ipsórum usque in ætérnum.
+Si	47	9	In omni ópere dedit confessiónem Sancto, et Excélso in verbo glóriæ.
+Si	47	10	De omni corde suo laudávit Dóminum : et diléxit Deum, qui fecit illum, et dedit illi contra inimícos poténtiam :
+Si	47	11	et stare fecit cantóres contra altáre, et in sono eórum dulces fecit modos.
+Si	47	12	Et dedit in celebratiónibus decus, et ornávit témpora usque ad consummatiónem vitæ, ut laudárent nomen sanctum Dómini, et amplificárent mane Dei sanctitátem.
+Si	47	13	Dóminus purgávit peccáta ipsíus, et exaltávit in ætérnum cornu eius : et dedit illi testaméntum regni, et sedem glóriæ in Israel.
+Si	47	14	Post ipsum surréxit fílius sensátus, et propter illum deiécit omnem poténtiam inimicórum.
+Si	47	15	Sálomon imperávit in diébus pacis, cui subiécit Deus omnes hostes, ut cónderet domum in nómine suo, et paráret sanctitátem in sempitérnum. Quemádmodum erudítus es in iuventúte tua,
+Si	47	16	et implétus es, quasi flumen, sapiéntia, et terram retéxit ánima tua.
+Si	47	17	Et replésti in comparatiónibus ænígmata : ad ínsulas longe divulgátum est nomen tuum, et diléctus es in pace tua.
+Si	47	18	In cantilénis, et provérbiis, et comparatiónibus, et interpretatiónibus, mirátæ sunt terræ :
+Si	47	19	et in nómine Dómini Dei, cui est cognómen Deus Israel.
+Si	47	20	Collegísti quasi aurichálcum aurum, et ut plumbum complésti argéntum :
+Si	47	21	et inclinásti fémora tua muliéribus : potestátem habuísti in córpore tuo.
+Si	47	22	Dedísti máculam in glória tua, et profanásti semen tuum, indúcere iracúndiam ad líberos tuos, et incitári stultítiam tuam :
+Si	47	23	ut fáceres impérium bipartítum, et ex Ephraim imperáre impérium durum.
+Si	47	24	Deus autem non derelínquet misericórdiam suam : et non corrúmpet, nec delébit ópera sua, neque perdet a stirpe nepótes elécti sui, et semen eius qui díligit Dóminum non corrúmpet.
+Si	47	25	Dedit autem réliquum Iacob, et David de ipsa stirpe.
+Si	47	26	Et finem hábuit Sálomon cum pátribus suis.
+Si	47	27	Et derelíquit post se de sémine suo, gentis stultítiam,
+Si	47	28	et imminútum a prudéntia, Róboam, qui avértit gentem consílio suo :
+Si	47	29	et Ieróboam fílium Nabat, qui peccáre fecit Israel, et dedit viam peccándi Ephraim : et plúrima redundavérunt peccáta ipsórum.
+Si	47	30	Valde avertérunt illos a terra sua.
+Si	47	31	Et quæsívit omnes nequítias, usque dum perveníret ad illos defénsio, et ab ómnibus peccátis liberávit eos.
+Si	48	1	Et surréxit Elías prophéta quasi ignis, et verbum ipsíus quasi fácula ardébat.
+Si	48	2	Qui indúxit in illos famem : et irritántes illum invídia sua pauci facti sunt : non enim póterant sustinére præcépta Dómini.
+Si	48	3	Verbo Dómini contínuit cælum, et deiécit de cælo ignem ter.
+Si	48	4	Sic amplificátus est Elías in mirabílibus suis. Et quis potest simíliter sic gloriári tibi ?
+Si	48	5	qui sustulísti mórtuum ab ínferis de sorte mortis, in verbo Dómini Dei :
+Si	48	6	qui deiecísti reges ad pernícem, et confregísti fácile poténtiam ipsórum, et gloriósos de lecto suo :
+Si	48	7	qui audis in Sina iudícium, et in Horeb iudícia defensiónis :
+Si	48	8	qui ungis reges ad pœniténtiam, et prophétas facis successóres post te :
+Si	48	9	qui recéptus es in túrbine ignis, in curru equórum igneórum :
+Si	48	10	qui scriptus es in iudíciis témporum, leníre iracúndiam Dómini, conciliáre cor patris ad fílium, et restitúere tribus Iacob.
+Si	48	11	Beáti sunt qui te vidérunt, et in amicítia tua decoráti sunt.
+Si	48	12	Nam nos vita vívimus tantum : post mortem autem non erit tale nomen nostrum.
+Si	48	13	Elías quidem in túrbine tectus est, et in Eliséo complétus est spíritus eius : in diébus suis non pertímuit príncipem, et poténtia nemo vicit illum :
+Si	48	14	nec superávit illum verbum áliquod, et mórtuum prophetávit corpus eius.
+Si	48	15	In vita sua fecit monstra, et in morte mirabília operátus est.
+Si	48	16	In ómnibus istis non pœnítuit pópulus, et non recessérunt a peccátis suis, usque dum eiécti sunt de terra sua, et dispérsi sunt in omnem terram :
+Si	48	17	et relícta est gens perpáuca, et princeps in domo David.
+Si	48	18	Quidam ipsórum fecérunt quod placéret Deo : álii autem multa commisérunt peccáta.
+Si	48	19	Ezechías munívit civitátem suam, et indúxit in médium ipsíus aquam : et fodit ferro rupem, et ædificávit ad aquam púteum.
+Si	48	20	In diébus ipsíus ascéndit Sennácherib, et misit Rábsacen, et sústulit manum suam contra illos : et éxtulit manum suam in Sion, et supérbus factus est poténtia sua.
+Si	48	21	Tunc mota sunt corda et manus ipsórum : et doluérunt quasi parturiéntes mulíeres.
+Si	48	22	Et invocavérunt Dóminum misericórdem, et expandéntes manus suas extulérunt ad cælum : et Sanctus, Dóminus Deus, audívit cito vocem ipsórum.
+Si	48	23	Non est commemorátus peccatórum illórum, neque dedit illos inimícis suis : sed purgávit eos in manu Isaíæ sancti prophétæ.
+Si	48	24	Deiécit castra Assyriórum, et contrívit illos ángelus Dómini :
+Si	48	25	nam fecit Ezechías quod plácuit Deo, et fórtiter ivit in via David patris sui, quam mandávit illi Isaías, prophéta magnus, et fidélis in conspéctu Dei.
+Si	48	26	In diébus ipsíus retro rédiit sol, et áddidit regi vitam.
+Si	48	27	Spíritu magno vidit última, et consolátus est lugéntes in Sion usque in sempitérnum.
+Si	48	28	Osténdit futúra, et abscóndita ántequam evenírent.
+Si	49	1	Memória Iosíæ in compositiónem odóris facta opus pigmentárii.
+Si	49	2	In omni ore quasi mel indulcábitur eius memória, et ut música in convívio vini.
+Si	49	3	Ipse est diréctus divínitus in pœniténtiam gentis, et tulit abominatiónes impietátis.
+Si	49	4	Et gubernávit ad Dóminum cor ipsíus, et in diébus peccatórum corroborávit pietátem.
+Si	49	5	Præter David et Ezechíam et Iosíam, omnes peccátum commisérunt :
+Si	49	6	nam reliquérunt legem Altíssimi reges Iuda, et contempsérunt timórem Dei.
+Si	49	7	Dedérunt enim regnum suum áliis, et glóriam suam alienígenæ genti.
+Si	49	8	Incendérunt eléctam sanctitátis civitátem, et desértas fecérunt vias ipsíus in manu Ieremíæ.
+Si	49	9	Nam male tractavérunt illum qui a ventre matris consecrátus est prophéta, evértere, et erúere, et pérdere, et íterum ædificáre, et renováre :
+Si	49	10	Ezéchiel, qui vidit conspéctum glóriæ quam osténdit illi in curru chérubim.
+Si	49	11	Nam commemorátus est inimicórum in imbre, benefácere illis qui ostendérunt rectas vias.
+Si	49	12	Et duódecim prophetárum ossa púllulent de loco suo : nam corroboravérunt Iacob, et redemérunt se in fide virtútis.
+Si	49	13	Quómodo amplificémus Zoróbabel ? nam et ipse quasi signum in déxtera manu :
+Si	49	14	sic et Iesum fílium Iósedec, qui in diébus suis ædificavérunt domum, et exaltavérunt templum sanctum Dómino, parátum in glóriam sempitérnam.
+Si	49	15	Et Nehémias in memóriam multi témporis, qui eréxit nobis muros evérsos, et stare fecit portas et seras, qui eréxit domos nostras.
+Si	49	16	Nemo natus est in terra qualis Henoch, nam et ipse recéptus est a terra :
+Si	49	17	neque ut Ioseph, qui natus est homo princeps fratrum, firmaméntum gentis, rector fratrum, stabiliméntum pópuli :
+Si	49	18	et ossa ipsíus visitáta sunt, et post mortem prophetavérunt.
+Si	49	19	Seth et Sem apud hómines glóriam adépti sunt, et super omnem ánimam in orígine Adam.
+Si	50	1	Simon, Oníæ fílius, sacérdos magnus, qui in vita sua suffúlsit domum, et in diébus suis corroborávit templum.
+Si	50	2	Templi étiam altitúdo ab ipso fundáta est, duplex ædificátio, et excélsi paríetes templi.
+Si	50	3	In diébus ipsíus emanavérunt pútei aquárum, et quasi mare adimpléti sunt supra modum.
+Si	50	4	Qui curávit gentem suam, et liberávit eam a perditióne :
+Si	50	5	qui præváluit amplificáre civitátem, qui adéptus est glóriam in conversatióne gentis, et ingréssum domus et átrii amplificávit.
+Si	50	6	Quasi stella matutína in médio nébulæ, et quasi luna plena, in diébus suis lucet :
+Si	50	7	et quasi sol refúlgens, sic ille effúlsit in templo Dei.
+Si	50	8	Quasi arcus refúlgens inter nébulas glóriæ, et quasi flos rosárum in diébus vernis, et quasi lília quæ sunt in tránsitu aquæ, et quasi thus rédolens in diébus æstátis :
+Si	50	9	quasi ignis effúlgens, et thus ardens in igne :
+Si	50	10	quasi vas auri sólidum, ornátum omni lápide pretióso :
+Si	50	11	quasi olíva púllulans, et cypréssus in altitúdinem se extóllens, in accipiéndo ipsum stolam glóriæ, et vestíri eum in consummatiónem virtútis.
+Si	50	12	In ascénsu altáris sancti glóriam dedit sanctitátis amíctum.
+Si	50	13	In accipiéndo autem partes de manu sacerdótum, et ipse stans iuxta aram : et circa illum coróna fratrum : quasi plantátio cedri in monte Líbano,
+Si	50	14	sic circa illum stetérunt quasi rami palmæ : et omnes fílii Aaron in glória sua.
+Si	50	15	Oblátio autem Dómini in mánibus ipsórum coram omni synagóga Israel : et consummatióne fungens in ara, amplificáre oblatiónem excélsi Regis,
+Si	50	16	porréxit manum suam in libatióne, et libávit de sánguine uvæ.
+Si	50	17	Effúdit in fundaménto altáris odórem divínum excélso Príncipi.
+Si	50	18	Tunc exclamavérunt fílii Aaron, in tubis productílibus sonuérunt : et audítam fecérunt vocem magnam in memóriam coram Deo.
+Si	50	19	Tunc omnis pópulus simul properavérunt, et cecidérunt in fáciem super terram, adoráre Dóminum Deum suum, et dare preces omnipoténti Deo excélso.
+Si	50	20	Et amplificavérunt psalléntes in vócibus suis, et in magna domo auctus est sonus suavitátis plenus.
+Si	50	21	Et rogávit pópulus Dóminum excélsum in prece, usque dum perféctus est honor Dómini, et munus suum perfecérunt.
+Si	50	22	Tunc descéndens, manus suas éxtulit in omne congregatiónem filiórum Israel, dare glóriam Deo a lábiis suis, et in nómine ipsíus gloriári :
+Si	50	23	et iterávit oratiónem suam, volens osténdere virtútem Dei.
+Si	50	24	Et nunc oráte Deum ómnium, qui magna fecit in omni terra, qui auxit dies nostros a ventre matris nostræ, et fecit nobíscum secúndum suam misericórdiam :
+Si	50	25	det nobis iucunditátem cordis, et fíeri pacem in diébus nostris in Israel per dies sempitérnos :
+Si	50	26	crédere Israel nobíscum esse Dei misericórdiam, ut líberet nos in diébus suis.
+Si	50	27	Duas gentes odit ánima mea : tértia autem non est gens quam óderim :
+Si	50	28	qui sedent in monte Seir, et Philísthiim, et stultus pópulus qui hábitat in Síchimis.
+Si	50	29	Doctrínam sapiéntiæ et disciplínæ scripsit in códice isto Iesus, fílius Sirach, Ierosolymíta, qui renovávit sapiéntiam de corde suo.
+Si	50	30	Beátus qui in istis versátur bonis : qui ponit illa in corde suo, sápiens erit semper.
+Si	50	31	Si enim hæc fécerit, ad ómnia valébit, quia lux Dei vestígium eius est.
+Si	51	1	[Orátio Iesu fílii Sirach.] Confitébor tibi, Dómine rex, et collaudábo te Deum salvatórem meum.
+Si	51	2	Confitébor nómini tuo, quóniam adiútor et protéctor factus es mihi,
+Si	51	3	et liberásti corpus meum a perditióne : a láqueo linguæ iníquæ, et a lábiis operántium mendácium : et in conspéctu asstántium factus es mihi adiútor.
+Si	51	4	Et liberásti me, secúndum multitúdinem misericórdiæ nóminis tui, a rugiéntibus præparátis ad escam :
+Si	51	5	de mánibus quæréntium ánimam meam, et de portis tribulatiónum quæ circumdedérunt me ;
+Si	51	6	a pressúra flammæ quæ circúmdedit me, et in médio ignis non sum æstuátus ;
+Si	51	7	de altitúdine ventris ínferi, et a lingua coinquináta, et a verbo mendácii, a rege iníquo, et a lingua iniústa.
+Si	51	8	Laudábit usque ad mortem ánima mea Dóminum,
+Si	51	9	et vita mea appropínquans erat in inférno deórsum.
+Si	51	10	Circumdedérunt me úndique, et non erat qui adiuváret : respíciens eram ad adiutórium hóminum, et non erat.
+Si	51	11	Memorátus sum misericórdiæ tuæ Dómine, et operatiónis tuæ, quæ a sǽculo sunt :
+Si	51	12	quóniam éruis sustinéntes te, Dómine, et líberas eos de mánibus géntium.
+Si	51	13	Exaltásti super terram habitatiónem meam, et pro morte defluénte deprecátus sum.
+Si	51	14	Invocávi Dóminum patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, et in témpore superbórum, sine adiutório.
+Si	51	15	Laudábo nomen tuum assídue, et collaudábo illud in confessióne : et exaudíta est orátio mea,
+Si	51	16	et liberásti me de perditióne, et eripuísti me de témpore iníquo.
+Si	51	17	Proptérea confitébor, et laudem dicam tibi, et benedícam nómini Dómini.
+Si	51	18	Cum adhuc iúnior essem, priúsquam oberrárem, quæsívi sapiéntiam palam in oratióne mea.
+Si	51	19	Ante templum postulábam pro illis, et usque in novíssimis inquíram eam : et efflóruit tamquam præcox uva.
+Si	51	20	Lætátum est cor meum in ea : ambulávit pes meus iter rectum : a iuventúte mea investigábam eam.
+Si	51	21	Inclinávi módico aurem meam, et excépi illam.
+Si	51	22	Multam invéni in meípso sapiéntiam, et multum proféci in ea.
+Si	51	23	Danti mihi sapiéntiam dabo glóriam :
+Si	51	24	consiliátus sum enim ut fácerem illam. Zelátus sum bonum, et non confúndar.
+Si	51	25	Colluctáta est ánima mea in illa, et in faciéndo eam confirmátus sum.
+Si	51	26	Manus meas exténdi in altum, et insipiéntiam eius luxi ;
+Si	51	27	ánimam meam diréxi ad illam, et in agnitióne invéni eam.
+Si	51	28	Possédi cum ipsa cor ab inítio : propter hoc, non derelínquar.
+Si	51	29	Venter meus conturbátus est quæréndo illam : proptérea bonam possidébo possessiónem.
+Si	51	30	Dedit mihi Dóminus linguam mercédem meam, et in ipsa laudábo eum.
+Si	51	31	Appropiáte ad me, indócti, et congregáte vos in domum disciplínæ.
+Si	51	32	Quid adhuc retardátis ? et quid dícitis in his ? ánimæ vestræ sítiunt veheménter.
+Si	51	33	Apérui os meum, et locútus sum : Comparáte vobis sine argénto,
+Si	51	34	et collum vestrum subícite iugo : et suscípiat ánima vestra disciplínam : in próximo est enim inveníre eam.
+Si	51	35	Vidéte óculis vestris, quia módicum laborávi, et invéni mihi multam réquiem.
+Si	51	36	Assúmite disciplínam in multo número argénti, et copiósum aurum possidéte in ea.
+Si	51	37	Lætétur ánima vestra in misericórdia eius, et non confundémini in laude ipsíus.
+Si	51	38	Operámini opus vestrum ante tempus, et dabit vobis mercédem vestram in témpore suo.
 Is	1	1	Vísio Isaíæ, fílii Amos, quam vidit super Iudam et Ierúsalem, in diébus Ozíæ, Ióathan, Achaz, et Ezechíæ, regum Iuda.
 Is	1	2	Audíte, cæli, et áuribus pércipe, terra, quóniam Dóminus locútus est. Fílios enutrívi, et exaltávi ; ipsi autem sprevérunt me.
 Is	1	3	Cognóvit bos possessórem suum, et ásinus præsépe dómini sui ; Israel autem me non cognóvit, et pópulus meus non intelléxit.
@@ -16885,25 +18477,25 @@ Mal	4	6	Et convértet cor patrum ad fílios, et cor filiórum ad patres eórum :
 2 Ma	1	15	Cumque proposuíssent eas sacerdótes Nanéæ, et ipse cum paucis ingréssus esset intra ámbitum fani, clausérunt templum,
 2 Ma	1	16	cum intrásset Antíochus : apertóque occúlto áditu templi, mitténtes lápides percussérunt ducem et eos qui cum eo erant : et divisérunt membrátim, et capítibus amputátis foras proiecérunt.
 2 Ma	1	17	Per ómnia benedíctus Deus, qui trádidit ímpios.
-2 Ma	1	18	Factúri ígitur quinta et vigésima die mensis Casleu purificatiónem templi, necessárium dúximus significáre vobis : ut et vos quoque agátis diem scenopégiæ, et diem ignis, qui datus est quando Nehémias ædificáto templo et altári óbtulit sacrifícia.
+2 Ma	1	18	Factúri ígitur quinta et vigésima die mensis Casleu purificatiónem templi, necessárium dúximus significáre vobis : ut et vos quoque agátis diem scenopégiæ, et diem ignis, qui datus est quando Nehemías ædificáto templo et altári óbtulit sacrifícia.
 2 Ma	1	19	Nam cum in Pérsidem duceréntur patres nostri, sacerdótes qui tunc cultóres Dei erant, accéptum ignem de altári occúlte abscondérunt in valle, ubi erat púteus altus et siccus, et in eo contutáti sunt eum, ita ut ómnibus ignótus esset locus.
-2 Ma	1	20	Cum autem præteríssent anni multi, et plácuit Deo ut mitterétur Nehémias a rege Pérsidis, nepótes sacerdótum illórum qui abscónderant, misit ad requiréndum ignem : et sicut narravérunt nobis, non invenérunt ignem, sed aquam crassam.
-2 Ma	1	21	Et iussit eos hauríre, et afférre sibi : et sacrifícia quæ impósita erant, iussit sacérdos Nehémias aspérgi ipsa aqua : et ligna, et quæ erant superpósita.
+2 Ma	1	20	Cum autem præteríssent anni multi, et plácuit Deo ut mitterétur Nehemías a rege Pérsidis, nepótes sacerdótum illórum qui abscónderant, misit ad requiréndum ignem : et sicut narravérunt nobis, non invenérunt ignem, sed aquam crassam.
+2 Ma	1	21	Et iussit eos hauríre, et afférre sibi : et sacrifícia quæ impósita erant, iussit sacérdos Nehemías aspérgi ipsa aqua : et ligna, et quæ erant superpósita.
 2 Ma	1	22	Utque hoc factum est, et tempus áffuit quo sol refúlsit, qui prius erat in núbilo, accénsus est ignis magnus, ita ut omnes miraréntur.
 2 Ma	1	23	Oratiónem autem faciébant omnes sacerdótes, dum consummarétur sacrifícium, Iónatha inchoánte, céteris autem respondéntibus.
-2 Ma	1	24	Et Nehémiæ erat orátio hunc habens modum : Dómine Deus ómnium creátor, terríbilis et fortis, iustus et miséricors, qui solus est bonus rex,
+2 Ma	1	24	Et Nehemíæ erat orátio hunc habens modum : Dómine Deus ómnium creátor, terríbilis et fortis, iustus et miséricors, qui solus est bonus rex,
 2 Ma	1	25	solus præstans, solus iustus et omnípotens et ætérnus, qui líberas Israel de omni malo ; qui fecísti patres eléctos, et sanctificásti eos :
 2 Ma	1	26	áccipe sacrifícium pro univérso pópulo tuo Israel, et custódi partem tuam, et sanctífica.
 2 Ma	1	27	Cóngrega dispersiónem nostram, líbera eos qui sérviunt géntibus, et contémptos et abominátos réspice, ut sciant gentes quia tu es Deus noster.
 2 Ma	1	28	Afflíge oppriméntes nos, et contuméliam faciéntes in supérbia.
 2 Ma	1	29	Constítue pópulum tuum in loco sancto tuo, sicut dixit Móyses.
 2 Ma	1	30	Sacerdótes autem psallébant hymnos úsquequo consúmptum esset sacrifícium.
-2 Ma	1	31	Cum autem consúmptum esset sacrifícium, ex resídua aqua Nehémias iussit lápides maióres perfúndi.
+2 Ma	1	31	Cum autem consúmptum esset sacrifícium, ex resídua aqua Nehemías iussit lápides maióres perfúndi.
 2 Ma	1	32	Quod ut factum est, ex eis flamma accénsa est : sed ex lúmine quod refúlsit ab altári, consúmpta est.
-2 Ma	1	33	Ut vero manifestáta est res, renuntiátum est regi Persárum quod in loco in quo ignem abscónderent hi qui transláti fúerant sacerdótes, aqua appáruit, de qua Nehémias, et qui cum eo erant, purificavérunt sacrifícia.
+2 Ma	1	33	Ut vero manifestáta est res, renuntiátum est regi Persárum quod in loco in quo ignem abscónderent hi qui transláti fúerant sacerdótes, aqua appáruit, de qua Nehemías, et qui cum eo erant, purificavérunt sacrifícia.
 2 Ma	1	34	Consíderans autem rex, et rem diligénter exáminans, fecit ei templum, ut probáret quod factum erat :
 2 Ma	1	35	et cum probásset, sacerdótibus donávit multa bona, et ália atque ália múnera : et accípiens manu sua, tribuébat eis.
-2 Ma	1	36	Appellávit autem Nehémias hunc locum Nephthar, quod interpretátur Purificátio : vocátur autem apud plures Nephi.
+2 Ma	1	36	Appellávit autem Nehemías hunc locum Nephthar, quod interpretátur Purificátio : vocátur autem apud plures Nephi.
 2 Ma	2	1	Invenítur autem in descriptiónibus Ieremíæ prophétæ, quod iussit eos ignem accípere qui transmigrábant, ut significátum est, et ut mandávit transmigrátis.
 2 Ma	2	2	Et dedit illis legem, ne oblivisceréntur præcépta Dómini, et non exerrárent méntibus, vidéntes simulácra áurea et argéntea, et ornaménta eórum.
 2 Ma	2	3	Et ália huiúsmodi dicens, hortabátur ne legem amovérent a corde suo.
@@ -16916,7 +18508,7 @@ Mal	4	6	Et convértet cor patrum ad fílios, et cor filiórum ad patres eórum :
 2 Ma	2	10	Sicut et Móyses orábat ad Dóminum, et descéndit ignis de cælo et consúmpsit holocáustum, sic et Sálomon orávit, et descéndit ignis de cælo et consúmpsit holocáustum.
 2 Ma	2	11	Et dixit Móyses : Eo quod non sit coméstum quod erat pro peccáto, consúmptum est.
 2 Ma	2	12	Simíliter et Sálomon octo diébus celebrávit dedicatiónem.
-2 Ma	2	13	Inferebántur autem in descriptiónibus et commentáriis Nehémiæ hæc éadem : et ut cónstruens bibliothécam congregávit de regiónibus libros et prophetárum et David, et epístolas regum, et de donáriis.
+2 Ma	2	13	Inferebántur autem in descriptiónibus et commentáriis Nehemíæ hæc éadem : et ut cónstruens bibliothécam congregávit de regiónibus libros et prophetárum et David, et epístolas regum, et de donáriis.
 2 Ma	2	14	Simíliter autem et Iudas ea quæ decíderant per bellum quod nobis accíderat, congregávit ómnia, et sunt apud nos.
 2 Ma	2	15	Si ergo desiderátis hæc, míttite qui pérferant vobis.
 2 Ma	2	16	Actúri ítaque purificatiónem scrípsimus vobis : bene ergo faciétis, si egéritis hos dies.
@@ -24988,7 +26580,7 @@ Ap	1	11	dicéntis : Quod vides, scribe in libro : et mitte septem ecclésiis, qu
 Ap	1	12	Et convérsus sum ut vidérem vocem, quæ loquebátur mecum : et convérsus vidi septem candelábra áurea :
 Ap	1	13	et in médio septem candelabrórum aureórum, símilem Fílio hóminis vestítum podére, et præcínctum ad mamíllas zona áurea :
 Ap	1	14	caput autem eius, et capílli erant cándidi tamquam lana alba, et tamquam nix, et óculi eius tamquam flamma ignis :
-Ap	1	15	et pedes eius símiles auricálco, sicut in camíno ardénti, et vox illíus tamquam vox aquárum multárum :
+Ap	1	15	et pedes eius símiles aurichálco, sicut in camíno ardénti, et vox illíus tamquam vox aquárum multárum :
 Ap	1	16	et habébat in déxtera sua stellas septem : et de ore eius gládius utráque parte acútus exíbat : et fácies eius sicut sol lucet in virtúte sua.
 Ap	1	17	Et cum vidíssem eum, cécidi ad pedes eius tamquam mórtuus. Et pósuit déxteram suam super me, dicens : Noli timére : ego sum primus, et novíssimus,
 Ap	1	18	et vivus, et fui mórtuus, et ecce sum vivens in sǽcula sæculórum : et hábeo claves mortis, et inférni.
@@ -25011,7 +26603,7 @@ Ap	2	14	Sed hábeo advérsus te pauca : quia habes illic tenéntes doctrínam B�
 Ap	2	15	ita habes et tu tenéntes doctrínam Nicolaitárum.
 Ap	2	16	Simíliter pœniténtiam age : si quóminus véniam tibi cito, et pugnábo cum illis in gládio oris mei.
 Ap	2	17	Qui habet aurem, áudiat quid Spíritus dicat ecclésiis : Vincénti dabo manna abscónditum, et dabo illi cálculum cándidum : et in cálculo nomen novum scriptum, quod nemo scit, nisi qui áccipit.
-Ap	2	18	Et ángelo Thyatíræ ecclésiæ scribe : Hæc dicit Fílius Dei, qui habet óculos tamquam flammam ignis, et pedes eius símiles auricálco :
+Ap	2	18	Et ángelo Thyatíræ ecclésiæ scribe : Hæc dicit Fílius Dei, qui habet óculos tamquam flammam ignis, et pedes eius símiles aurichálco :
 Ap	2	19	Novi ópera tua, et fidem, et caritátem tuam, et ministérium, et patiéntiam tuam, et ópera tua novíssima plura prióribus.
 Ap	2	20	Sed hábeo advérsus te pauca : quia permíttis mulíerem Iézabel, quæ se dicit prophéten, docére, et sedúcere servos meos, fornicári, et manducáre de idolóthytis.
 Ap	2	21	Et dedi illi tempus ut pœniténtiam ágeret : et non vult pœnitére a fornicatióne sua.
