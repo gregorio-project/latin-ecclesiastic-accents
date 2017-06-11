@@ -2643,7 +2643,7 @@ Ex	38	11	Æque ad septentrionálem plagam tentória colúmnæ, basésque et cáp
 Ex	38	12	In ea vero plaga, quæ ad occidéntem réspicit, fuérunt tentória cubitórum quinquagínta, colúmnæ decem cum básibus suis ǽneæ, et cápita columnárum, et tota óperis cælatúra, argéntea.
 Ex	38	13	Porro contra oriéntem quinquagínta cubitórum parávit tentória :
 Ex	38	14	e quibus, quíndecim cúbitos columnárum trium, cum básibus suis, unum tenébat latus :
-Ex	38	15	et in parte áltera (quia inter utráque intróitum tabernáculi fecit) quíndecim æque cubitórum erant tentória, columnǽque tres, et bases tótidem.
+Ex	38	15	et in parte áltera (quia inter útraque intróitum tabernáculi fecit) quíndecim æque cubitórum erant tentória, columnǽque tres, et bases tótidem.
 Ex	38	16	Cuncta átrii tentória byssus retórta texúerat.
 Ex	38	17	Bases columnárum fuére ǽneæ, cápita autem eárum cum cunctis cælatúris suis argéntea : sed et ipsas colúmnas átrii vestívit argénto.
 Ex	38	18	Et in intróitu eius ópere plumário fecit tentórium ex hyacíntho, púrpura, vermículo, ac bysso retórta, quod habébat vigínti cúbitos in longitúdine, altitúdo vero quinque cubitórum erat iuxta mensúram, quam cuncta átrii tentória habébant.
@@ -9357,7 +9357,7 @@ Qo	4	2	et laudávi magis mórtuos quam vivéntes ;
 Qo	4	3	et feliciórem utróque iudicávi qui necdum natus est, nec vidit mala quæ sub sole fiunt.
 Qo	4	4	Rursum contemplátus sum omnes labóres hóminum, et indústrias animadvérti patére invídiæ próximi ; et in hoc ergo vánitas et cura supérflua est.
 Qo	4	5	Stultus cómplicat manus suas, et cómedit carnes suas, dicens :
-Qo	4	6	Mélior est pugíllus cum réquie, quam plena utráque manus cum labóre et afflictióne ánimi.
+Qo	4	6	Mélior est pugíllus cum réquie, quam plena útraque manus cum labóre et afflictióne ánimi.
 Qo	4	7	Consíderans, réperi et áliam vanitátem sub sole.
 Qo	4	8	Unus est, et secúndum non habet, non fílium, non fratrem, et tamen laboráre non cessat, nec satiántur óculi eius divítiis ; nec recógitat, dicens : Cui labóro, et fraudo ánimam meam bonis ? In hoc quoque vánitas est et afflíctio péssima.
 Qo	4	9	Mélius est ergo duos esse simul quam unum ; habent enim emoluméntum societátis suæ.
@@ -9948,7 +9948,7 @@ Sap	14	26	Dei immemorátio, animárum inquinátio, nativitátis immutátio, nupt
 Sap	14	27	Infandórum enim idolórum cultúra omnis mali causa est, et inítium et finis.
 Sap	14	28	Aut enim dum lætántur insániunt, aut certe vaticinántur falsa, aut vivunt iniúste, aut péierant cito.
 Sap	14	29	Dum enim confídunt in idólis quæ sine ánima sunt, male iurántes nocéri se non sperant.
-Sap	14	30	Utráque ergo illis evénient digne, quóniam male sensérunt de Deo, attendéntes idólis, et iuravérunt iniúste, in dolo contemnéntes iustítiam.
+Sap	14	30	Utraque ergo illis evénient digne, quóniam male sensérunt de Deo, attendéntes idólis, et iuravérunt iniúste, in dolo contemnéntes iustítiam.
 Sap	14	31	Non enim iuratórum virtus, sed peccántium pœna, perámbulat semper iniustórum prævaricatiónem.
 Sap	15	1	Tu autem, Deus noster, suávis et verus es, pátiens, et in misericórdia dispónens ómnia.
 Sap	15	2	Etenim si peccavérimus, tui sumus, sciéntes magnitúdinem tuam ; et si non peccavérimus, scimus quóniam apud te sumus computáti.
