@@ -1024,10 +1024,10 @@ Gn	35	12	terrámque quam dedi Abraham et Isaac, dabo tibi et sémini tuo post te
 Gn	35	13	Et recéssit ab eo.
 Gn	35	14	Ille vero eréxit títulum lapídeum in loco quo locútus fúerat ei Deus : libans super eum libámina, et effúndens óleum :
 Gn	35	15	vocánsque nomen loci illíus Bethel.
-Gn	35	16	Egréssus autem inde, venit verno témpore ad terram quæ ducit Ephrátam : in qua cum parturíret Rachel,
+Gn	35	16	Egréssus autem inde, venit verno témpore ad terram quæ ducit Ephratam : in qua cum parturíret Rachel,
 Gn	35	17	ob difficultátem partus periclitári cœpit. Dixítque ei óbstetrix : Noli timére, quia et hunc habébis fílium.
 Gn	35	18	Egrediénte autem ánima præ dolóre, et imminénte iam morte, vocávit nomen fílii sui Bénoni, id est, Fílius dolóris mei : pater vero appellávit eum Béniamin, id est, Fílius dextræ.
-Gn	35	19	Mórtua est ergo Rachel, et sepúlta est in via quæ ducit Ephrátam, hæc est Béthlehem.
+Gn	35	19	Mórtua est ergo Rachel, et sepúlta est in via quæ ducit Ephratam, hæc est Béthlehem.
 Gn	35	20	Erexítque Iacob títulum super sepúlchrum eius : hic est títulus monuménti Rachel, usque in præséntem diem.
 Gn	35	21	Egréssus inde, fixit tabernáculum trans Turrem gregis.
 Gn	35	22	Cumque habitáret in illa regióne, ábiit Ruben, et dormívit cum Bala concubína patris sui : quod illum mínime látuit. Erant autem fílii Iacob duódecim.
@@ -1455,7 +1455,7 @@ Gn	48	3	Et ingrésso ad se ait : Deus omnípotens appáruit mihi in Luza, quæ e
 Gn	48	4	et ait : Ego te augébo et multiplicábo, et fáciam te in turbas populórum : dabóque tibi terram hanc, et sémini tuo post te in possessiónem sempitérnam.
 Gn	48	5	Duo ergo fílii tui, qui nati sunt tibi in terra Ægýpti ántequam huc venírem ad te, mei erunt : Ephraim et Manásses, sicut Ruben et Símeon reputabúntur mihi.
 Gn	48	6	Réliquos autem quos genúeris post eos, tui erunt, et nómine fratrum suórum vocabúntur in possessiónibus suis.
-Gn	48	7	Mihi enim, quando veniébam de Mesopotámia, mórtua est Rachel in terra Chánaan in ipso itínere, erátque vernum tempus : et ingrediébar Ephrátam, et sepelívi eam iuxta viam Ephrátæ, quæ álio nómine appellátur Béthlehem.
+Gn	48	7	Mihi enim, quando veniébam de Mesopotámia, mórtua est Rachel in terra Chánaan in ipso itínere, erátque vernum tempus : et ingrediébar Ephratam, et sepelívi eam iuxta viam Ephratæ, quæ álio nómine appellátur Béthlehem.
 Gn	48	8	Videns autem fílios eius dixit ad eum : Qui sunt isti ?
 Gn	48	9	Respóndit : Fílii mei sunt, quos donávit mihi Deus in hoc loco. Adduc, inquit, eos ad me, ut benedícam illis.
 Gn	48	10	Oculi enim Israel caligábant præ nímia senectúte, et clare vidére non póterat. Applicitósque ad se, deosculátus et circumpléxus eos,
