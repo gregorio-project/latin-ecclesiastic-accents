@@ -611,7 +611,7 @@ Gn	24	19	Cumque ille bibísset, adiécit : Quin et camélis tuis háuriam aquam,
 Gn	24	20	Effundénsque hýdriam in canálibus, recúrrit ad púteum ut hauríret aquam : et haustam ómnibus camélis dedit.
 Gn	24	21	Ipse autem contemplabátur eam tácitus, scire volens utrum prósperum iter suum fecísset Dóminus, an non.
 Gn	24	22	Postquam autem bibérunt caméli, prótulit vir ináures áureas, appendéntes siclos duos, et armíllas tótidem pondo siclórum decem.
-Gn	24	23	Dixítque ad eam : Cuius es fília ? indíca mihi, est in domo patris tui locus ad manéndum ?
+Gn	24	23	Dixítque ad eam : Cuius es fília ? índica mihi, est in domo patris tui locus ad manéndum ?
 Gn	24	24	Quæ respóndit : Fília sum Bathuélis, fílii Melchæ, quem péperit ipsi Nachor.
 Gn	24	25	Et áddidit, dicens : Paleárum quoque et fœni plúrimum est apud nos, et locus spatiósus ad manéndum.
 Gn	24	26	Inclinávit se homo, et adorávit Dóminum,
@@ -1096,7 +1096,7 @@ Gn	37	12	Cumque fratres illíus in pascéndis grégibus patris moraréntur in Si
 Gn	37	13	dixit ad eum Israel : Fratres tui pascunt oves in Síchimis : veni, mittam te ad eos. Quo respondénte,
 Gn	37	14	Præsto sum, ait ei : Vade, et vide si cuncta próspera sint erga fratres tuos, et pécora : et renúntia mihi quid agátur. Missus de valle Hebron, venit in Sichem :
 Gn	37	15	invenítque eum vir errántem in agro, et interrogávit quid quǽreret.
-Gn	37	16	At ille respóndit : Fratres meos quæro : indíca mihi ubi pascant greges.
+Gn	37	16	At ille respóndit : Fratres meos quæro : índica mihi ubi pascant greges.
 Gn	37	17	Dixítque ei vir : Recessérunt de loco isto : audívi autem eos dicéntes : Eámus in Dóthain. Perréxit ergo Ioseph post fratres suos, et invénit eos in Dóthain.
 Gn	37	18	Qui cum vidíssent eum procul, ántequam accéderet ad eos, cogitavérunt illum occídere :
 Gn	37	19	et mútuo loquebántur : Ecce somniátor venit :
@@ -5989,7 +5989,7 @@ Jos	7	15	Et quicúmque ille in hoc facínore fúerit deprehénsus, comburétur i
 Jos	7	16	Surgens ítaque Iósue mane, applícuit Israel per tribus suas, et invénta est tribus Iuda.
 Jos	7	17	Quæ cum iuxta famílias suas esset obláta, invénta est família Zare. Illam quoque per domos ófferens, réperit Zabdi :
 Jos	7	18	cuius domum in síngulos dívidens viros, invénit Achan fílium Charmi fílii Zabdi fílii Zare de tribu Iuda.
-Jos	7	19	Et ait Iósue ad Achan : Fili mi, da glóriam Dómino Deo Israel, et confitére, atque indíca mihi quid féceris, ne abscóndas.
+Jos	7	19	Et ait Iósue ad Achan : Fili mi, da glóriam Dómino Deo Israel, et confitére, atque índica mihi quid féceris, ne abscóndas.
 Jos	7	20	Respondítque Achan Iósue, et dixit ei : Vere ego peccávi Dómino Deo Israel, et sic et sic feci.
 Jos	7	21	Vidi enim inter spólia pállium coccíneum valde bonum, et ducéntos siclos argénti, regulámque áuream quinquagínta siclórum : et concupíscens ábstuli, et abscóndi in terra contra médium tabernáculi mei, argentúmque fossa humo opérui.
 Jos	7	22	Misit ergo Iósue minístros : qui curréntes ad tabernáculum illíus, reperérunt cuncta abscóndita in eódem loco, et argéntum simul.
@@ -12674,7 +12674,7 @@ Is	19	8	Et mœrébunt piscatóres, et lugébunt omnes mitténtes in flumen hamum
 Is	19	9	Confundéntur qui operabántur linum, pecténtes et texéntes subtília.
 Is	19	10	Et erunt irrígua eius flaccéntia : omnes qui faciébant lacúnas ad capiéndos pisces.
 Is	19	11	Stulti príncipes Táneos, sapiéntes consiliárii Pharaónis dedérunt consílium insípiens. Quómodo dicétis Pharaóni : Fílius sapiéntium ego, fílius regum antiquórum ?
-Is	19	12	Ubi nunc sunt sapiéntes tui ? annúntient tibi, et indícent quid cogitáverit Dóminus exercítuum super Ægýptum.
+Is	19	12	Ubi nunc sunt sapiéntes tui ? annúntient tibi, et índicent quid cogitáverit Dóminus exercítuum super Ægýptum.
 Is	19	13	Stulti facti sunt príncipes Táneos, emarcuérunt príncipes Mémpheos ; decepérunt Ægýptum, ángulum populórum eius.
 Is	19	14	Dóminus míscuit in médio eius spíritum vertíginis ; et erráre fecérunt Ægýptum in omni ópere suo, sicut errat ébrius et vomens.
 Is	19	15	Et non erit Ægýpto opus quod fáciat caput et caudam, incurvántem et refrenántem.
@@ -17080,7 +17080,7 @@ Dn	13	46	et exclamávit voce magna : Mundus ego sum a sánguine huius.
 Dn	13	47	Et convérsus omnis pópulus ad eum, dixit : Quis est iste sermo, quem tu locútus es ?
 Dn	13	48	Qui cum staret in médio eórum, ait : Sic fátui fílii Israel, non iudicántes, neque quod verum est cognoscéntes, condemnástis fíliam Israel ?
 Dn	13	49	revertímini ad iudícium, quia falsum testimónium locúti sunt advérsus eam.
-Dn	13	50	Revérsus est ergo pópulus cum festinatióne, et dixérunt ei senes : Veni, et sede in médio nostrum, et indíca nobis : quia tibi Deus dedit honórem senectútis.
+Dn	13	50	Revérsus est ergo pópulus cum festinatióne, et dixérunt ei senes : Veni, et sede in médio nostrum, et índica nobis : quia tibi Deus dedit honórem senectútis.
 Dn	13	51	Et dixit ad eos Dániel : Separáte illos ab ínvicem procul, et diiudicábo eos.
 Dn	13	52	Cum ergo divísi essent alter ab áltero, vocávit unum de eis, et dixit ad eum : Inveteráte diérum malórum, nunc venérunt peccáta tua, quæ operabáris prius :
 Dn	13	53	iúdicans iudícia iniústa, innocéntes ópprimens, et dimíttens nóxios, dicénte Dómino : Innocéntem et iustum non interfícies.
