@@ -7120,6 +7120,91 @@ Jdc	21	21	Cumque vidéritis fílias Silo ad ducéndos choros ex more procédere,
 Jdc	21	22	Cumque vénerint patres eárum, ac fratres, et advérsum vos queri cœ́perint atque iurgári, dicémus eis : Miserémini eórum : non enim rapuérunt eas iure bellántium atque victórum : sed rogántibus ut accíperent, non dedístis, et a vestra parte peccátum est.
 Jdc	21	23	Fecerúntque fílii Béniamin ut sibi fúerat imperátum : et iuxta númerum suum, rapuérunt sibi de his quæ ducébant choros, uxóres síngulas : abierúntque in possessiónem suam ædificántes urbes, et habitántes in eis.
 Jdc	21	24	Fílii quoque Israel revérsi sunt per tribus et famílias in tabernácula sua. In diébus illis non erat rex in Israel : sed unusquísque quod sibi rectum videbátur, hoc faciébat.
+Ru	1	1	In diébus uníus iúdicis, quando iúdices prǽerant, facta est fames in terra. Abiítque homo de Béthlehem Iuda, ut peregrinarétur in regióne Moabítide cum uxóre sua ac duóbus líberis.
+Ru	1	2	Ipse vocabátur Elímelech, et uxor eius Nóemi : et duo fílii, alter Máhalon, et alter Chélion, Ephrathǽi de Béthlehem Iuda. Ingressíque regiónem Moabítidem, morabántur ibi.
+Ru	1	3	Et mórtuus est Elímelech marítus Nóemi : remansítque ipsa cum fíliis.
+Ru	1	4	Qui accepérunt uxóres Moabítidas, quarum una vocabátur Orpha, áltera vero Ruth. Manserúntque ibi decem annis,
+Ru	1	5	et ambo mórtui sunt, Máhalon vidélicet et Chélion : remansítque múlier orbáta duóbus líberis ac maríto.
+Ru	1	6	Et surréxit ut in pátriam pérgeret cum utráque nuru sua de regióne Moabítide : audíerat enim quod respexísset Dóminus pópulum suum, et dedísset eis escas.
+Ru	1	7	Egréssa est ítaque de loco peregrinatiónis suæ, cum utráque nuru : et iam in via reverténdi pósita in terram Iuda,
+Ru	1	8	dixit ad eas : Ite in domum matris vestræ : fáciat vobíscum Dóminus misericórdiam, sicut fecístis cum mórtuis, et mecum.
+Ru	1	9	Det vobis inveníre réquiem in dómibus virórum quos sortitúræ estis. Et osculáta est eas. Quæ eleváta voce flere cœpérunt,
+Ru	1	10	et dícere : Tecum pergémus ad pópulum tuum.
+Ru	1	11	Quibus illa respóndit : Revertímini, fíliæ meæ, cur venítis mecum ? num ultra hábeo fílios in útero meo, ut viros ex me speráre possítis ?
+Ru	1	12	Revertímini, fíliæ meæ, et abíte : iam enim senectúte confécta sum, nec apta vínculo coniugáli : etiámsi possem hac nocte concípere, et párere fílios,
+Ru	1	13	si eos expectáre velítis donec crescant, et annos pubertátis ímpleant, ante éritis vétulæ quam nubátis. Nolíte, quæso, fíliæ meæ : quia vestra angústia magis me premit, et egréssa est manus Dómini contra me.
+Ru	1	14	Eleváta ígitur voce, rursum flere cœpérunt : Orpha osculáta est socrum, ac revérsa est ; Ruth adhǽsit sócrui suæ :
+Ru	1	15	cui dixit Nóemi : En revérsa est cognáta tua ad pópulum suum, et ad deos suos, vade cum ea.
+Ru	1	16	Quæ respóndit : Ne adverséris mihi ut relínquam te et ábeam : quocúmque enim perréxeris, pergam, et ubi moráta fúeris, et ego páriter morábor. Pópulus tuus pópulus meus, et Deus tuus Deus meus.
+Ru	1	17	Quæ te terra moriéntem suscéperit, in ea móriar : ibíque locum accípiam sepultúræ. Hæc mihi fáciat Dóminus, et hæc addat, si non sola mors me et te separáverit.
+Ru	1	18	Videns ergo Nóemi quod obstináto ánimo Ruth decrevísset secum pérgere, adversári nóluit, nec ad suos ultra réditum persuadére :
+Ru	1	19	profectǽque sunt simul, et venérunt in Béthlehem. Quibus urbem ingréssis, velox apud cunctos fama percrébruit : dicebántque mulíeres : Hæc est illa Nóemi.
+Ru	1	20	Quibus ait : Ne vocétis me Nóemi (id est, pulchram), sed vocáte me Mara (id est, amáram), quia amaritúdine valde replévit me Omnípotens.
+Ru	1	21	Egréssa sum plena, et vácuam redúxit me Dóminus. Cur ergo vocátis me Nóemi, quam Dóminus humiliávit, et afflíxit Omnípotens ?
+Ru	1	22	Venit ergo Nóemi cum Ruth Moabítide nuru sua, de terra peregrinatiónis suæ : ac revérsa est in Béthlehem, quando primum hórdea metebántur.
+Ru	2	1	Erat autem viro Elímelech consanguíneus, homo potens, et magnárum opum, nómine Booz.
+Ru	2	2	Dixítque Ruth Moabítis ad socrum suam : Si iubes, vadam in agrum, et cólligam spicas quæ fúgerint manus meténtium, ubicúmque cleméntis in me patrisfamílias repérero grátiam. Cui illa respóndit : Vade, fília mea.
+Ru	2	3	Abiit ítaque et colligébat spicas post terga meténtium. Accidit autem ut ager ille habéret dóminum nómine Booz, qui erat de cognatióne Elímelech.
+Ru	2	4	Et ecce, ipse veniébat de Béthlehem, dixítque messóribus : Dóminus vobíscum. Qui respondérunt ei : Benedícat tibi Dóminus.
+Ru	2	5	Dixítque Booz iúveni, qui messóribus prǽerat : Cuius est hæc puélla ?
+Ru	2	6	Cui respóndit : Hæc est Moabítis, quæ venit cum Nóemi, de regióne Moabítide,
+Ru	2	7	et rogávit ut spicas collígeret remanéntes, sequens messórum vestígia : et de mane usque nunc stat in agro, et ne ad moméntum quidem domum revérsa est.
+Ru	2	8	Et ait Booz ad Ruth : Audi, fília, ne vadas in álterum agrum ad colligéndum, nec recédas ab hoc loco : sed iúngere puéllis meis,
+Ru	2	9	et ubi messúerint, séquere. Mandávi enim púeris meis, ut nemo moléstus sit tibi : sed étiam si sitíeris, vade ad sarcínulas, et bibe aquas, de quibus et púeri bibunt.
+Ru	2	10	Quæ cadens in fáciem suam et adórans super terram, dixit ad eum : Unde mihi hoc, ut invenírem grátiam ante óculos tuos, et nosse me dignaréris peregrínam mulíerem ?
+Ru	2	11	Cui ille respóndit : Nuntiáta sunt mihi ómnia quæ féceris sócrui tuæ post mortem viri tui : et quod relíqueris paréntes tuos, et terram in qua nata es, et véneris ad pópulum, quem ántea nesciébas.
+Ru	2	12	Reddat tibi Dóminus pro ópere tuo, et plenam mercédem recípias a Dómino Deo Israel, ad quem venísti, et sub cuius confugísti alas.
+Ru	2	13	Quæ ait : Invéni grátiam apud óculos tuos, dómine mi, qui consolátus es me, et locútus es ad cor ancíllæ tuæ, quæ non sum símilis uníus puellárum tuárum.
+Ru	2	14	Dixítque ad eam Booz : Quando hora vescéndi fúerit, veni huc, et cómede panem, et intínge buccéllam tuam in acéto. Sedit ítaque ad messórum latus, et congéssit poléntam sibi, comedítque et saturáta est, et tulit relíquias.
+Ru	2	15	Atque inde surréxit, ut spicas ex more collígeret. Præcépit autem Booz púeris suis, dicens : Etiámsi vobíscum métere volúerit, ne prohibeátis eam :
+Ru	2	16	et de vestris quoque manípulis proícite de indústria, et remanére permíttite, ut absque rubóre cólligat, et colligéntem nemo corrípiat.
+Ru	2	17	Collégit ergo in agro usque ad vésperam : et quæ collégerat virga cædens et excútiens, invénit hórdei quasi ephi mensúram, id est, tres módios.
+Ru	2	18	Quos portans revérsa est in civitátem, et osténdit sócrui suæ : ínsuper prótulit, et dedit ei de relíquiis cibi sui, quo saturáta fúerat.
+Ru	2	19	Dixítque ei socrus sua : Ubi hódie collegísti, et ubi fecísti opus ? sit benedíctus qui misértus est tui. Indicavítque ei apud quem fuísset operáta : et nomen dixit viri, quod Booz vocarétur.
+Ru	2	20	Cui respóndit Nóemi : Benedíctus sit a Dómino : quóniam eámdem grátiam, quam præbúerat vivis, servávit et mórtuis. Rursúmque ait : Propínquus noster est homo.
+Ru	2	21	Et ait Ruth : Hoc quoque, inquit, præcépit mihi, ut támdiu messóribus eius iúngerer, donec omnes ségetes meteréntur.
+Ru	2	22	Cui dixit socrus : Mélius est, fília mea, ut cum puéllis eius éxeas ad meténdum, ne in aliéno agro quíspiam resístat tibi.
+Ru	2	23	Iuncta est ítaque puéllis Booz : et támdiu cum eis méssuit, donec hórdea et tríticum in hórreis conderéntur.
+Ru	3	1	Postquam autem revérsa est ad socrum suam, audívit ab ea : Fília mea, quæram tibi réquiem, et providébo ut bene sit tibi.
+Ru	3	2	Booz iste, cuius puéllis in agro iuncta es, propínquus noster est, et hac nocte áream hórdei véntilat.
+Ru	3	3	Laváre ígitur, et úngere, et indúere cultióribus vestiméntis, et descénde in áream : non te vídeat homo, donec esum potúmque finíerit.
+Ru	3	4	Quando autem íerit ad dormiéndum, nota locum in quo dórmiat : veniésque et discoopéries pállium, quo operítur a parte pedum, et proícies te, et ibi iacébis : ipse autem dicet quid ágere débeas.
+Ru	3	5	Quæ respóndit : Quidquid præcéperis, fáciam.
+Ru	3	6	Descendítque in áream, et fecit ómnia quæ sibi imperáverat socrus.
+Ru	3	7	Cumque comedísset Booz, et bibísset, et factus esset hilárior, issétque ad dormiéndum iuxta acérvum manipulórum, venit abscóndite, et discoopérto pállio, a pédibus eius se proiécit.
+Ru	3	8	Et ecce, nocte iam média expávit homo, et conturbátus est : vidítque mulíerem iacéntem ad pedes suos,
+Ru	3	9	et ait illi : Quæ es ? Illáque respóndit : Ego sum Ruth ancílla tua : expánde pállium tuum super fámulam tuam, quia propínquus es.
+Ru	3	10	Et ille : Benedícta, inquit, es a Dómino, fília, et priórem misericórdiam posterióre superásti : quia non est secúta iúvenes, páuperes sive dívites.
+Ru	3	11	Noli ergo metúere, sed quidquid díxeris mihi, fáciam tibi. Scit enim omnis pópulus, qui hábitat intra portas urbis meæ, mulíerem te esse virtútis.
+Ru	3	12	Nec ábnuo me propínquum, sed est álius me propínquior.
+Ru	3	13	Quiésce hac nocte : et facto mane, si te volúerit propinquitátis iure retinére, bene res acta est : sin autem ille nolúerit, ego te absque ulla dubitatióne suscípiam, vivit Dóminus. Dormi usque mane.
+Ru	3	14	Dormívit ítaque ad pedes eius, usque ad noctis abscéssum. Surréxit ítaque ántequam hómines se cognóscerent mútuo, et dixit Booz : Cave ne quis nóverit quod huc véneris.
+Ru	3	15	Et rursum : Expánde, inquit, pállium tuum, quo operíris, et tene utráque manu. Qua extendénte, et tenénte, mensus est sex módios hórdei, et pósuit super eam. Quæ portans ingréssa est civitátem,
+Ru	3	16	et venit ad socrum suam. Quæ dixit ei : Quid egísti, fília ? Narravítque ei ómnia, quæ sibi fecísset homo.
+Ru	3	17	Et ait : Ecce sex módios hórdei dedit mihi, et ait : Nolo vácuam te revérti ad socrum tuam.
+Ru	3	18	Dixítque Nóemi : Expécta, fília, donec videámus quem res éxitum hábeat : neque enim cessábit homo, nisi compléverit quod locútus est.
+Ru	4	1	Ascéndit ergo Booz ad portam, et sedit ibi. Cumque vidísset propínquum præteríre, de quo prius sermo hábitus est, dixit ad eum : Declína paulísper, et sede hic : vocans eum nómine suo. Qui divértit, et sedit.
+Ru	4	2	Tollens autem Booz decem viros de senióribus civitátis, dixit ad eos : Sedéte hic.
+Ru	4	3	Quibus sedéntibus, locútus est ad propínquum : Partem agri fratris nostri Elímelech vendet Nóemi, quæ revérsa est de regióne Moabítide :
+Ru	4	4	quod audíre te vólui, et tibi dícere coram cunctis sedéntibus, et maióribus natu de pópulo meo. Si vis possidére iure propinquitátis, eme, et pósside : sin autem dísplicet tibi, hoc ipsum índica mihi, ut sciam quid fácere débeam : nullus enim est propínquus, excépto te, qui prior es, et me, qui secúndus sum. At ille respóndit : Ego agrum emam.
+Ru	4	5	Cui dixit Booz : Quando émeris agrum de manu mulíeris, Ruth quoque Moabítidem, quæ uxor defúncti fuit, debes accípere : ut súscites nomen propínqui tui in hæreditáte sua.
+Ru	4	6	Qui respóndit : Cedo iuri propinquitátis : neque enim posteritátem famíliæ meæ delére débeo : tu meo útere privilégio, quo me libénter carére profíteor.
+Ru	4	7	Hic autem erat mos antíquitus in Israel inter propínquos, ut si quándo alter álteri suo iuri cedébat, ut esset firma concéssio, solvébat homo calceaméntum suum, et dabat próximo suo : hoc erat testimónium cessiónis in Israel.
+Ru	4	8	Dixit ergo propínquo suo Booz : Tolle calceaméntum tuum. Quod statim solvit de pede suo.
+Ru	4	9	At ille maióribus natu, et univérso pópulo : Testes vos, inquit, estis hódie, quod posséderim omnis quæ fuérunt Elímelech, et Chélion, et Máhalon, tradénte Nóemi ;
+Ru	4	10	et Ruth Moabítidem, uxórem Máhalon, in coniúgium súmpserim, ut súscitem nomen defúncti in hæreditáte sua, ne vocábulum eius de família sua ac frátribus et pópulo deleátur. Vos, inquam, huius rei testes estis.
+Ru	4	11	Respóndit omnis pópulus, qui erat in porta, et maióres natu : Nos testes sumus : fáciat Dóminus hanc mulíerem, quæ ingréditur domum tuam, sicut Rachel et Liam, quæ ædificavérunt domum Israel : ut sit exémplum virtútis in Ephratha, et hábeat célebre nomen in Béthlehem :
+Ru	4	12	fiátque domus tua sicut domus Phares, quem Thamar péperit Iudæ, de sémine quod tibi déderit Dóminus ex hac puélla.
+Ru	4	13	Tulit ítaque Booz Ruth, et accépit uxórem : ingressúsque est ad eam, et dedit illi Dóminus ut concíperet, et páreret fílium.
+Ru	4	14	Dixerúntque mulíeres ad Nóemi : Benedíctus Dóminus, qui non est passus ut defíceret succéssor famíliæ tuæ, et vocarétur nomen eius in Israel :
+Ru	4	15	et hábeas qui consolétur ánimam tuam, et enútriat senectútem : de nuru enim tua natus est, quæ te díligit, et multo tibi mélior est, quam si septem habéres fílios.
+Ru	4	16	Susceptúmque Nóemi púerum pósuit in sinu suo, et nutrícis ac gérulæ fungebátur offício.
+Ru	4	17	Vicínæ autem mulíeris congratulántes ei, et dicéntes : Natus est fílius Nóemi : vocavérunt nomen eius Obed : hic est pater Isai, patris David.
+Ru	4	18	Hæ sunt generatiónes Phares : Phares génuit Esron,
+Ru	4	19	Esron génuit Aram, Aram génuit Amínadab,
+Ru	4	20	Amínadab génuit Nahásson, Nahásson génuit Salmon,
+Ru	4	21	Salmon génuit Booz, Booz génuit Obed,
+Ru	4	22	Obed génuit Isai, Isai génuit David.
 Ps	1	1	Beátus vir qui non ábiit in consílio impiórum, et in via peccatórum non stetit, et in cáthedra pestiléntiæ non sedit ;
 Ps	1	2	sed in lege Dómini volúntas eius, et in lege eius meditábitur die ac nocte.
 Ps	1	3	Et erit tamquam lignum quod plantátum est secus decúrsus aquárum, quod fructum suum dabit in témpore suo : et fólium eius non défluet ; et ómnia quæcúmque fáciet prosperabúntur.
