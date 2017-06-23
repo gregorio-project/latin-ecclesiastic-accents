@@ -2,7 +2,7 @@ Here you have an accented version of the old Vulgate.
 
 At this date (2017-06-20), these Books are available:
 
-Vetus Testamentum: Gn, Ex, Lev, Num, Dt, Jos, Jdc, Ru, 1-4 Reg, Ps, Pr, Qo, Ct, Sap, Si, Is, Jer, Lam, Ba, Ez, Dn, Os, Jl, Am, Ab, Jon, Mi, Na, Ha, So, Ag, Za, Mal, 1-2 Ma
+Vetus Testamentum: Gn, Ex, Lev, Num, Dt, Jos, Jdc, Ru, 1-4 Reg, 1 Par, Ps, Pr, Qo, Ct, Sap, Si, Is, Jer, Lam, Ba, Ez, Dn, Os, Jl, Am, Ab, Jon, Mi, Na, Ha, So, Ag, Za, Mal, 1-2 Ma
 
 Novum Testamentum: omnia (Mt, Mc, Lc, Jn, Ac, Rm, 1-2 Co, Ga, Ep, Ph, Col, 1-2 Th, 1-2 Tim, Tit, Phm, He, Ja, 1-2 Pe, 1-3 Jo, Judæ, Ap).
 
