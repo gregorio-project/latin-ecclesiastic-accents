@@ -49,6 +49,9 @@ Iózabad, Iézabad
 • -ath, -eth, -ith seem to make short the penultimate, so accent the antepenultimate:
 Básemath, Iósabeth, Sálomith
 
+• -im, -oth (hebrew plural forms) make short the penultimate, so accent the antepenultimate:
+Séraphim, Láomim, Sábaoth, Lápidoth
+
 
 ####################
 
