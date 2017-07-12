@@ -146,7 +146,7 @@ The Goelzer dictionary gives, actually, the form 'charismáta', but the common p
 
 ## Rules for the latin accentuation of hebrew proper names.
 
-See also the list of all proper names of 3 syllables or more in the Vulgate.
+*(See also the list of all proper names of 3 syllables or more in the Vulgate [here](https://github.com/gregorio-project/latin-ecclesiatic-accents/blob/master/corpus/vulgate_with_accents/vulgate_proper_names.txt).)*
 
 
 #### • -ia, -ias (in the sense of "the Lord"):
