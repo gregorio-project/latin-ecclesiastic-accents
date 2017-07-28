@@ -542,7 +542,6 @@ Azaría
 Azaríæ
 Azaríam
 Azarías
-Azárias
 Azarícam
 Azau
 Azéca
@@ -1216,7 +1215,6 @@ Ezechíæ
 Ezéchiæ
 Ezechíam
 Ezechías
-Ezéchias
 Ezéchiel
 Ezechiélem
 Ezechiélis
@@ -2382,7 +2380,6 @@ Neheléscol
 Nehemía
 Nehemíæ
 Nehemías
-Nehémias
 Néhiel
 Neoméniam
 Néphthali
@@ -2458,10 +2455,8 @@ Omrai
 Onésimo
 Onesíphori
 Onía
-Oniæ
 Oníæ
 Oníam
-Onias
 Onías
 Oóliab
 Oóliba
