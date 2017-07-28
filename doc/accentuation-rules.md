@@ -32,7 +32,7 @@ Accents cannot be determined automatically for verses (which is not specific to 
 - so called "common" or "neuter" vowels may be short or long according to the metrics, for instance tenébræ in most hymns, while ténebræ in prose
 - hymns are usually written in vulgar Latin, where vowel length and diphtongues are not the same as in classical Latin, for instance *cui* is a diphtongue in most hymns while composed of two syllables in prose
 
-For this reason, accentuating hymns can only be made by refering to an accentuated hymns corpora, like the one this repository is trying to make available.
+For this reason, accentuating hymns can only be made by refering to an accentuated hymns corpus, like the one this repository is trying to make available.
 
 
 ## Rules for noting the accent
@@ -53,6 +53,8 @@ Please remember that we are talking here exclusively about accent notation, not 
 If the word ends with an enclitic (*-que*, *-ne* or *-ve*), then the penultimate is accentuated.
 
 Ex: *rŏsăquĕ* → *rosáque*.
+
+NB: This is the current rule but not the only one. For example, in ancient breviaries you can find *decóraque* (Ps 146, 1 in the Vulgate), which corresponds to a different rule: "The enclitic doesn't change the quantity of the penultimate".
 
 
 #### Rule 3
@@ -219,6 +221,8 @@ The 'a' is short, so accent the antepenultimate:
 #### • -ai : ? (*Thólmai, Adonái, Berzellái*, several names in Esd ch. 2).
 
 #### • Abi- : ? (*Abiron, Abísag*).
+
+#### • -ia in one syllabe? (*Banáias, Ióiada, Ióiarib*).
 
 
 
