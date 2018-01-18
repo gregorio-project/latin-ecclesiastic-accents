@@ -1,21 +1,49 @@
 body{
     background-color: rgb(250, 230, 210);
-    width: 95%;
+    width: 95%
+}
+
+h1, h2{
+    color: grey;
+    font-family: verdana;
+}
+
+h1{
+    font-size: 18pt;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-size: 12pt;
+    margin-bottom: 60px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+#accentuate{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#button_accent{
+    margin: 20px;
 }
 
 #page{
-    align-items: flex-start;
-    display: flex;
-    flex-direction: row;
-    height: auto;
-    justify-content: center;
-    width: 100%;
-}
-
-#before, #after{
     align-items: center;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
+    padding: 25px;
+    width: 100%;
+}
+
+.text_area{
+    font-family: Arial, Garamond;
+    font-size: 10pt;
+    height: 500px;
+    width: 400px;
 }
 
