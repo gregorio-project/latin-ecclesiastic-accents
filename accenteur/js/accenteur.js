@@ -1,3 +1,5 @@
 $("document").ready(function(){
-    console.log(lemmes_json["falsus"]);
+    $("#input").keyup(function(e){
+        $("#output").val(e.target.value);
+    });
 });
