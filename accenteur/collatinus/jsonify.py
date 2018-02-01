@@ -51,45 +51,125 @@ this_file.close()
 
 ####################################    
 
-# Lemmes :
-lemmes = read_this_file(this_dir + "/lemmes.la")
-lemmes_dict = dict()
-lemmes_lines = lemmes.split("\n")
-for l in lemmes_lines:
-    if(l.startswith("!") == False):
-        key = atone(l.split("|")[0])
-        if("=" in key):
-            key = key.split("=")[0]
-        lemmes_dict[key] = l
-
-# Write lemmes.js = create a JS Object from the Collatinus lemmes:
-json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
-json_path.write("var lemmes_json = ");
-json_path.write(json.JSONEncoder(ensure_ascii = False).encode(lemmes_dict))
-json_path.write(";\n\n");
-json_path.close()
-
-
-####################################    
-
-# Models :
+# Reading of modeles.la :
 models = read_this_file(this_dir + "/modeles.la")
-models_dict = dict()
 models_lines = models.split("\n")
-for l in models_lines:
-    if(l.startswith("!") == False):
-        key = l.split("|")[0]
-        models_dict[key] = l
 
-# Write models.js = create a JS Object from the Collatinus templates:
+models = dict()
+roots = dict()
+terminations = dict()
+common_terminations = dict()
+key = ""
+father = ""
+for l in models_lines:
+    if not(l.startswith("!")):
+        # Common terminations, which will be reused later:
+        if(l.startswith("$")):
+            key_common = l.split("=")[0][0:]
+            common_terminations[key_common] = l.split("=")[1].split(";")
+
+        # Name of the model:
+        elif(l.startswith("modele:")):
+            key = l.split(":")[1]
+
+        # Father:
+        elif(l.startswith("pere:")):
+            father = l.split(":")[1]
+            roots = models[father]["roots"].copy() # Roots inherited from the father.
+            terminations = models[father]["terminations"].copy() # Term. inherited from the father.
+        
+        # Roots (roots[num of the root] = [characters to delete, characters to add]):
+        elif(l.startswith("R:")):
+            roots[l.split(":")[1]] = l.split(":")[2].split(",")
+        
+        # Terminations (terminations[num] = [num_rad, termination]):
+        elif(l.startswith("des") or l.startswith("abs")):
+            add_term = True if l.startswith("des+") else False
+            rm_term = True if l.startswith("abs") else False
+            terms_range = l.split(":")[1]
+            if(len(l.split(":")) > 2): # If not a "abs:" line.
+                terms_root = l.split(":")[2]
+                terms_list = l.split(":")[3].split(";")
+                terms_list_repl = terms_list.copy()
+                for t in terms_list:
+                    match = re.search(r"([\w]*)(\$[\w]*)", t)
+                    if match:
+                        comm_terms = common_terminations[match.group(2)].copy()
+                        terms_list_repl.remove(t)
+                        for ct in comm_terms:
+                            ct = match.group(1) + ct
+                            terms_list_repl.append(ct)
+                terms_list = terms_list_repl.copy()
+            subranges = terms_range.split(",")
+            i = 0
+            for s in subranges:
+                if("-" in s):
+                    for t in range(int(s.split("-")[0]), int(s.split("-")[1]) + 1): # for t in range(1, 6): (if range = "1,5").
+                        if not(add_term):
+                            terminations[str(t)] = dict() # If the model doesn't inherit from a father, we create a termination.
+                        if(rm_term):
+                            del terminations[str(t)]
+                        else:
+                            if(terms_list[0] == "-"):
+                                terminations[str(t)][terms_root] = "-" # No termination.
+                            else:
+                                terminations[str(t)][terms_root] = terms_list[i] # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
+                        i += 1
+                else:
+                    if not(add_term):
+                        terminations[s] = dict() # If the model doesn't inherit from a father, we create a termination.
+                    if(rm_term):
+                        del terminations[s]
+                    else:
+                        if(terms_list[0] == "-"):
+                            terminations[s][terms_root] = "-" # No termination.
+                        else:
+                            terminations[s][terms_root] = terms_list[i] # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
+                    i += 1
+
+        # If we find an empty line, then we make the synthesis of the model
+        # and we reinitialize the data:
+        elif(l == "") and (key != ""):
+            models[key] = dict(roots = roots.copy(), terminations = terminations.copy())
+            key = ""
+            father = ""
+            terminations.clear()
+            roots.clear()
+
+# Insert models into data.js:
 json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
-json_path.write("var models_json = ");
-json_path.write(json.JSONEncoder(ensure_ascii = False).encode(models_dict))
+json_path.write("var models = ");
+json_path.write(json.JSONEncoder(ensure_ascii = False).encode(models))
 json_path.write(";\n\n");
 json_path.close()
 
 
-
-
-
-
+# Reading of lemmes.la:
+#lemmes = read_this_file(this_dir + "/lemmes.la")
+#lemmes_lines = lemmes.split("\n")
+#
+# Roots:
+#roots = dict()
+#for l in lemmes_lines:
+#    if not(l.startswith("!")) and not(l == ""):
+#        splinters = l.split("|")
+#        for s in splinters[0].split("="):
+#            roots[atone(s)] = dict(root = s, model = splinters[1], num_root = 0)
+#        for i in range(2, 4):
+#            s = splinters[i]
+#            roots[atone(s)] = dict(root = s, model = splinters[1], num_root = i)
+#
+#
+## Insert roots into data.js::
+#json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
+#json_path.write("var roots = ");
+#json_path.write(json.JSONEncoder(ensure_ascii = False).encode(roots))
+#json_path.write(";\n\n");
+#json_path.close()
+#
+#
+#
+#
+#
+#
+#
