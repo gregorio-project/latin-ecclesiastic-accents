@@ -1,0 +1,2 @@
+- Syllabes communes non remplacées dans jsonify.py au début.
+- Enclitiques -que, -ve etc.
