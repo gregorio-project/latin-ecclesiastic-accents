@@ -5,6 +5,7 @@
 
 import os
 import re 
+import unicodedata
 import json 
 
 def read_this_file(file_path):
@@ -14,43 +15,43 @@ def read_this_file(file_path):
     return(file_contents)
 
 def atone(this_string):
-    # Long, common, breve.
+    # Long, breve, common (common = (vowel + long) + breve).
     this_string = re.sub("ā", "a", this_string)
-    this_string = re.sub("ā̆", "a", this_string)
     this_string = re.sub("ă", "a", this_string)
+    this_string = re.sub("ā\u0306", "a", this_string)
     this_string = re.sub("ē", "e", this_string)
-    this_string = re.sub("ē̆", "e", this_string)
     this_string = re.sub("ĕ", "e", this_string)
+    this_string = re.sub("ē\u0306", "e", this_string)
     this_string = re.sub("ī", "i", this_string)
-    this_string = re.sub("ī̆", "i", this_string)
     this_string = re.sub("ĭ", "i", this_string)
+    this_string = re.sub("ī\u0306", "i", this_string)
     this_string = re.sub("ō", "o", this_string)
-    this_string = re.sub("ō̆", "o", this_string)
     this_string = re.sub("ŏ", "o", this_string)
+    this_string = re.sub("ō\u0306", "o", this_string)
     this_string = re.sub("ū", "u", this_string)
-    this_string = re.sub("ū̆", "u", this_string)
     this_string = re.sub("ŭ", "u", this_string)
+    this_string = re.sub("ū\u0306", "u", this_string)
     this_string = re.sub("ȳ", "y", this_string)
-    this_string = re.sub("ȳ̆", "y", this_string)
     this_string = re.sub("ў", "y", this_string)
+    this_string = re.sub("ȳ\u0306", "y", this_string)
     this_string = re.sub("Ā", "A", this_string)
-    this_string = re.sub("Ā̆", "A", this_string)
     this_string = re.sub("Ă", "A", this_string)
+    this_string = re.sub("Ā\u0306", "A", this_string)
     this_string = re.sub("Ē", "E", this_string)
-    this_string = re.sub("Ē̆", "E", this_string)
     this_string = re.sub("Ĕ", "E", this_string)
+    this_string = re.sub("Ē\u0306", "E", this_string)
     this_string = re.sub("Ī", "I", this_string)
-    this_string = re.sub("Ī̆", "I", this_string)
     this_string = re.sub("Ĭ", "I", this_string)
+    this_string = re.sub("Ī\u0306", "I", this_string)
     this_string = re.sub("Ō", "O", this_string)
-    this_string = re.sub("Ō̆", "O", this_string)
     this_string = re.sub("Ŏ", "O", this_string)
+    this_string = re.sub("Ō\u0306", "O", this_string)
     this_string = re.sub("Ū", "U", this_string)
-    this_string = re.sub("Ū̆", "U", this_string)
     this_string = re.sub("Ŭ", "U", this_string)
+    this_string = re.sub("Ū\u0306", "U", this_string)
     this_string = re.sub("Ȳ", "Y", this_string)
-    this_string = re.sub("Ȳ̆", "Y", this_string)
     this_string = re.sub("Ў", "Y", this_string)
+    this_string = re.sub("Ȳ\u0306", "Y", this_string)
     return(this_string)
 
 # Path to "collatinus" directory:
