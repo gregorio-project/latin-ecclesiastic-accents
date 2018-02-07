@@ -1,4 +1,6 @@
-- Syllabes communes non remplacées dans jsonify.py au début.
 - Enclitiques -que, -ve etc.
 - Problème des majuscules.
-- Roots : dicts qui se réécrivent les uns sur les autres (domin- de dominus, dominor etc. n'en font qu'un).
+- Formes bis (populus2).
+- vos
+- propterea
+

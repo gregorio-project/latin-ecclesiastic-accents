@@ -189,7 +189,7 @@ lemmes = read_this_file(this_dir + "/lemmes.la")
 lemmes_lines = lemmes.split("\n")
 
 
-# Roots (roots[root] = {"model": model, "rate": rate}):
+# Roots (roots[root] = [root, model, num_root, rate]):
 roots = dict()
 for l in lemmes_lines:
     if not(l.startswith("!") or l == ""):
@@ -207,24 +207,19 @@ for l in lemmes_lines:
                     root0 = c[0:-int(model["roots"][num_root][0])] if model["roots"][num_root][0] != "0" else c
                     if not(atone(root0) in roots or atone(root0) == ""):
                         roots[atone(root0)] = []
-                    # Append a new root ([root, model, num_root, rate]):
+                    # Append a new root:
                     if(atone(root0) != ""):
                         roots[atone(root0)].append([root0, splinters[1], num_root, rate])
 
-        """
+        # Roots 1 and 2:
         if(splinters[2] != ''):
-            roots[atone(splinters[2])] = dict()
-            roots[atone(splinters[2])]["quantified"] = splinters[2]
-            roots[atone(splinters[2])]["num_root"] = 1
-            roots[atone(splinters[2])]["model"] = splinters[1]
-            roots[atone(splinters[2])]["rate"] = splinters[5]
+            if not(atone(splinters[2]) in roots or atone(splinters[2]) == ""):
+                roots[atone(splinters[2])] = []
+            roots[atone(splinters[2])].append([splinters[2], splinters[1], 1, rate])
         if(splinters[3] != ''):
-            roots[atone(splinters[3])] = dict()
-            roots[atone(splinters[3])]["quantified"] = splinters[3]
-            roots[atone(splinters[3])]["num_root"] = 2
-            roots[atone(splinters[3])]["model"] = splinters[1]
-            roots[atone(splinters[3])]["rate"] = splinters[5]
-        """
+            if not(atone(splinters[3]) in roots or atone(splinters[3]) == ""):
+                roots[atone(splinters[3])] = []
+            roots[atone(splinters[3])].append([splinters[3], splinters[1], 2, rate])
 
 
 # Write roots and terminations in data.js::
