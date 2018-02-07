@@ -11,7 +11,7 @@ $("document").ready(function(){
 });
 
 function accentify(word){
-    for(var i = 1; i < word.length; i++){
+    for(var i = 1; i <= word.length; i++){
         var root = word.substring(0, i);
         var term = word.substring(i, word.length);
         if(roots[root] != null && terminations[term] != null){
@@ -23,10 +23,15 @@ function accentify(word){
                 var model = r[1];
                 var num_root = r[2];
                 var rate = r[3];
-                for(var sub_t in terminations[term]){
-                    t = terminations[term][sub_t]
-                    if(t[0] == model && t[1] == num_root){
-                        word = r_quantified + t[2];
+                if(model == "inv"){
+                    word = r_quantified;
+                }
+                else{
+                    for(var sub_t in terminations[term]){
+                        t = terminations[term][sub_t]
+                        if(t[0] == model && t[1] == num_root){
+                            word = r_quantified + t[2];
+                        }
                     }
                 }
             }

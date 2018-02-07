@@ -107,9 +107,9 @@ for l in models_lines:
             elif(l.split(":")[2] == "-"):
                 roots[int(l.split(":")[1])] = "-"
             elif(len(l.split(":")[2].split(",")) == 1):
-                roots[int(l.split(":")[1])] = [int(l.split(":")[2].split(",")[0]), 0]
+                roots[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], "0"]
             else:
-                roots[int(l.split(":")[1])] = [int(l.split(":")[2].split(",")[0]), l.split(":")[2].split(",")[1]]
+                roots[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], l.split(":")[2].split(",")[1]]
 
         # Terminations (terms[num] = [num_rad, termination]):
         elif(l.startswith("des") or l.startswith("abs")):
@@ -181,6 +181,7 @@ for m in models:
                     terminations[atone(sub_term[1])].append([m, sub_term[0], sub_term[1]])
                 
 
+
 #######################################################################################
 
 # Reading of lemmes.la to create a dict of roots:
@@ -203,7 +204,7 @@ for l in lemmes_lines:
                 elif(model["roots"][num_root][0] == "-"):
                     c = c # TODO.
                 else:
-                    root0 = c[0:-model["roots"][num_root][0]]
+                    root0 = c[0:-int(model["roots"][num_root][0])] if model["roots"][num_root][0] != "0" else c
                     if not(atone(root0) in roots or atone(root0) == ""):
                         roots[atone(root0)] = []
                     # Append a new root ([root, model, num_root, rate]):
