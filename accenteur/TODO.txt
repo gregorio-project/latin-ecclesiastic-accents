@@ -1,6 +1,13 @@
+À faire avant merge into master:
+
+- Majuscules.
+- Mots non reconnus : italique rouge.
+
+
+----------------
+
 - Enclitiques -que, -ve etc.
-- Problème des majuscules.
 - Formes bis (populus2).
 - vos
 - propterea
-
+- filio
