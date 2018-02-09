@@ -1,27 +1,63 @@
+var vowels = ["a", "e", "i", "o", "u", "y", "A", "E", "I", "O", "U", "Y"];
+var consonants = ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "x", "z"];
+var longs = ["ā", "ē", "ī", "ō", "ū", "ȳ", "Ā", "Ē", "Ī", "Ō", "Ū", "Ȳ"];
+var breves = ["ă", "ĕ", "ĭ", "ŏ", "ŭ", "ў", "Ă", "Ĕ", "Ĭ", "Ŏ", "Ŭ", "Ў"];
+var accented = ["á", "é", "í", "ó", "ú", "ý"];
+var uppercase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "X", "Y", "Z"];
+var lowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "x", "y", "z"];
+
 $("document").ready(function(){
     $("#input").keyup(function(e){
         var words = e.target.outerText.split(/\b/);
+        var is_uppercase = false;
         for(var i = 0; i < words.length; i++) {
             if(words[i].length > 2){
-                words[i] = accentify(words[i]);
+                if(uppercase.indexOf(words[i].charAt(0)) != -1){ // Proper name of beginning of sentence.
+                    is_uppercase = true;
+                }
+                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>||</span>");
             }
         }
         $("#output").html(words.join('').replace(/\n/g, "</br>"));
     });
 });
 
-function accentify(word){
-    // We split the word into 2 splinters, like this:
+function accentify(word, is_uppercase){
+    var found = search_quantified(word);
+    if(found.length == 0){
+        if(is_uppercase){
+            found = search_quantified(to_lowercase(word)); // We lowercase and retry.
+            for(var f in found){
+                found[f] = to_uppercase(found[f]);
+            }
+        }
+    }
+    if(found.length == 0){
+        if(word.search(/[!?:;]/) == -1){
+            found.push("<span class='red'>" + word + "</span>");
+        }
+        else{
+            found.push(word);
+        }
+    }
+    else{
+        for(var f in found){
+            found[f] = qty_to_accent(word, found[f]);
+        }
+    }
+    return(reduce(found));
+}
+
+function search_quantified(word){
+    // We successively split the word into 2 splinters, like this:
     // 1|2345, then 12|345, then 123|45, then 1234|5, then 12345,
     // and each time we search if we find these 2 splinters
     // in our roots' and terminations' Objects:
-    var accented_word = word;
-    var found = false;
+    var found = [];
     for(var i = 1; i <= word.length; i++){
         var root = word.substring(0, i);
         var term = word.substring(i, word.length);
         if(roots[root] != null && terminations[term] != null){
-            found = true;
             for(var sub_root in roots[root]){
                 r = roots[root][sub_root]
                 var quantified = r[0];
@@ -29,33 +65,23 @@ function accentify(word){
                 var num_root = r[2];
                 var rate = r[3];
                 if(model == "inv"){
-                    accented_word = qty_to_accent(word, quantified);
+                    found.push(quantified);
                 }
                 else{
                     for(var sub_t in terminations[term]){
                         t = terminations[term][sub_t]
                         if(t[0] == model && t[1] == num_root){
-                            accented_word = qty_to_accent(word, quantified + t[2]);
+                            found.push(quantified + t[2]);
                         }
                     }
                 }
             }
         }
     }
-    if(found){
-        return(accented_word);
-    }
-    else{
-        return("<span class='unknown'>" + accented_word + "</span>");
-    }
+    return(found);
 }
 
 function qty_to_accent(plain, quantified){
-    var vowels = ["a", "e", "i", "o", "u", "y", "A", "E", "I", "O", "U", "Y"];
-    var longs = ["ā", "ē", "ī", "ō", "ū", "ȳ", "Ā", "Ē", "Ī", "Ō", "Ū", "Ȳ"];
-    var breves = ["ă", "ĕ", "ĭ", "ŏ", "ŭ", "ў", "Ă", "Ĕ", "Ĭ", "Ŏ", "Ŭ", "Ў"];
-    var accented = ["á", "é", "í", "ó", "ú", "ý"];
-    var consonants = ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "x", "z"];
     var quantities = [quantified.length];
     var num_syllables = 0;
     var with_accents = plain;
@@ -95,8 +121,27 @@ function qty_to_accent(plain, quantified){
     return(with_accents);
 }
 
+function to_lowercase(word){
+    word_split = word.split("");
+    word_split[0] = lowercase[uppercase.indexOf(word[0])];
+    return(word_split.join(""));
+}
 
+function to_uppercase(word){
+    word_split = word.split("");
+    word_split[0] = uppercase[lowercase.indexOf(word[0])];
+    return(word_split.join(""));
+}
 
+function reduce(this_array){ // Eliminates redundancy in this_array.
+    var result = [];
+    for(var i in this_array){
+        if(result.indexOf(this_array[i]) == -1){
+            result.push(this_array[i]);
+        }
+    }
+    return(result);
+}
 
 
 

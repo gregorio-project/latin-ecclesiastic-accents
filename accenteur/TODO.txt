@@ -1,7 +1,7 @@
 À faire avant merge into master:
 
-- Majuscules.
-- Mots non reconnus : italique rouge.
+- Texte qui dépasse du output : mettre un ascenseur.
+- Retours à la ligne à restituer dans le output.
 
 
 ----------------
@@ -11,3 +11,7 @@
 - vos
 - propterea
 - filio
+- Extension du lexique.
+- tuæ
+- fœderis
+- Faire en sorte que les ponctuations ne soient pas considérés comme des mots.

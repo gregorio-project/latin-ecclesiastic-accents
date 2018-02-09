@@ -57,12 +57,12 @@ h2{
     height: 500px;
     margin: 20px;
     margin-top: 0px;
+    overflow: scroll;
     width: 400px;
 }
 
-.unknown{
+.red{
     color: red;
-    font-weight: bold;
 }
 
 
