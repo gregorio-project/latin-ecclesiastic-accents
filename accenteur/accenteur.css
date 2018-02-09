@@ -31,6 +31,15 @@ h2{
     margin: 20px;
 }
 
+#input{
+    font-family: Arial, Garamond;
+    font-size: 12pt;
+    height: 500px;
+    margin: 20px;
+    margin-top: 0px;
+    width: 400px;
+}
+
 #page{
     align-items: center;
     display: flex;
@@ -41,11 +50,20 @@ h2{
 }
 
 .text_area{
+    background-color: white;
+    border: 1px solid grey;
     font-family: Arial, Garamond;
-    font-size: 10pt;
+    font-size: 12pt;
     height: 500px;
     margin: 20px;
     margin-top: 0px;
     width: 400px;
 }
+
+.unknown{
+    color: red;
+    font-weight: bold;
+}
+
+
 

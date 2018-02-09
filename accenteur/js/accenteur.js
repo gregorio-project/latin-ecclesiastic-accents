@@ -1,12 +1,12 @@
 $("document").ready(function(){
     $("#input").keyup(function(e){
-        var words = e.target.value.split(/\b/);
+        var words = e.target.outerText.split(/\b/);
         for(var i = 0; i < words.length; i++) {
             if(words[i].length > 2){
                 words[i] = accentify(words[i]);
             }
         }
-        $("#output").val(words.join(''));
+        $("#output").html(words.join(''));
     });
 });
 
@@ -46,7 +46,7 @@ function accentify(word){
         return(accented_word);
     }
     else{
-        return("$$$" + accented_word + "$$$");
+        return("<span class='unknown'>" + accented_word + "</span>");
     }
 }
 
