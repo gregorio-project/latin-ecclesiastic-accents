@@ -6,7 +6,7 @@ $("document").ready(function(){
                 words[i] = accentify(words[i]);
             }
         }
-        $("#output").html(words.join(''));
+        $("#output").html(words.join('').replace(/\n/g, "</br>"));
     });
 });
 
