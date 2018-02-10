@@ -1,4 +1,5 @@
 ## Accenteur
 
-Web app in Javascript to accentuate latin texts.
-Algorithms and data are adaptated from [Collatinus](https://github.com/biblissima/collatinus).
+Accenteur is a web app written in Javascript to accentuate latin texts.
+
+Algorithms and data were adaptated from [Collatinus](https://github.com/biblissima/collatinus).

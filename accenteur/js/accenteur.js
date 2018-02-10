@@ -8,20 +8,21 @@ var lowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 
 $("document").ready(function(){
     $("#input").keyup(function(e){
-        var words = e.target.outerText.split(/\b/);
+        var words = e.target.outerText.split(/\b/); // Returns an array of all the words of the input box.
         var is_uppercase = false;
         for(var i = 0; i < words.length; i++) {
             if(words[i].length > 2){
                 if(uppercase.indexOf(words[i].charAt(0)) != -1){ // Proper name of beginning of sentence.
                     is_uppercase = true;
                 }
-                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>||</span>");
+                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>||</span>"); // Returns each word accentified.
             }
         }
         $("#output").html(words.join('').replace(/\n/g, "</br>"));
     });
 });
 
+// Returns the accentified version(s) of word:
 function accentify(word, is_uppercase){
     var found = search_quantified(word);
     if(found.length == 0){
@@ -48,6 +49,7 @@ function accentify(word, is_uppercase){
     return(reduce(found));
 }
 
+// Returns an array of all the combinations of roots and terminations that can give word:
 function search_quantified(word){
     // We successively split the word into 2 splinters, like this:
     // 1|2345, then 12|345, then 123|45, then 1234|5, then 12345,
@@ -81,6 +83,7 @@ function search_quantified(word){
     return(found);
 }
 
+// Converts a quantified word into an accented one:
 function qty_to_accent(plain, quantified){
     var quantities = [quantified.length];
     var num_syllables = 0;
@@ -121,19 +124,22 @@ function qty_to_accent(plain, quantified){
     return(with_accents);
 }
 
+// Word => word:
 function to_lowercase(word){
     word_split = word.split("");
     word_split[0] = lowercase[uppercase.indexOf(word[0])];
     return(word_split.join(""));
 }
 
+// word => Word:
 function to_uppercase(word){
     word_split = word.split("");
     word_split[0] = uppercase[lowercase.indexOf(word[0])];
     return(word_split.join(""));
 }
 
-function reduce(this_array){ // Eliminates redundancy in this_array.
+// Eliminates all the redundances in an array of accented words:
+function reduce(this_array){
     var result = [];
     for(var i in this_array){
         if(result.indexOf(this_array[i]) == -1){

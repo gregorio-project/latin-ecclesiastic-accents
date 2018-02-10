@@ -1,6 +1,8 @@
 À faire avant merge into master:
 
--ae, oe.
+- ae, oe
+- readme
+- commentaries
 
 ----------------
 
