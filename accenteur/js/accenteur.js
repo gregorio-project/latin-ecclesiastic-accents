@@ -12,13 +12,18 @@ $("document").ready(function(){
         var is_uppercase = false;
         for(var i = 0; i < words.length; i++) {
             if(words[i].length > 2){
-                if(uppercase.indexOf(words[i].charAt(0)) != -1){ // Proper name of beginning of sentence.
+                if(uppercase.indexOf(words[i].charAt(0)) != -1){ // Proper name or beginning of sentence.
                     is_uppercase = true;
                 }
+                words[i] = words[i].replace(/æ/g, 'ae');
+                words[i] = words[i].replace(/œ/g, 'oe');
+                console.log(words[i]);
                 words[i] = accentify(words[i], is_uppercase).join("<span class='red'>||</span>"); // Returns each word accentified.
             }
         }
-        $("#output").html(words.join('').replace(/\n/g, "</br>"));
+        var output = words.join('');
+        output = output.replace(/\n/g, "</br>").replace(/áe/g, "\u01FD").replace(/óe/g, "œ\u0301").replace(/ae/g, "æ").replace(/oe/g, "œ");
+        $("#output").html(output);
     });
 });
 
