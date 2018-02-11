@@ -102,12 +102,16 @@ function qty_to_accent(plain, quantified){
             quantities[i] = "-";
             num_syllables ++;
         }
+        else if(c == "\u0306"){ // Combining breve => the previous syllable was common!
+            quantities[i - 1] = "-";
+            quantities[i] = "0";
+        }
         else{
             quantities[i] = "0";
         }
     }
     if(num_syllables > 2){
-        var count_vowels = 0; // To count the 3 last syllables (antepenult., penult., ult.).
+        var count_vowels = 0; // Will count the 3 last syllables (antepenult., penult., ult.).
         var accent_pos = 0; // Will contain the position of accent.
         for(var i in quantities){
             var q = quantities[quantities.length -1 - i];
