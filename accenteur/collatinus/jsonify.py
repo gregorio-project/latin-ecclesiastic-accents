@@ -189,37 +189,34 @@ lemmes = read_this_file(this_dir + "/lemmes.la")
 lemmes_lines = lemmes.split("\n")
 
 
-# Roots (roots[root] = [root, model, num_root, rate]):
+# Roots (roots[root] = [root, model, num_root]):
 roots = dict()
 for l in lemmes_lines:
     if not(l.startswith("!") or l == ""):
         splinters = l.split("|")
         model = models[splinters[1]]
-        rate = re.sub("\([0-9][0-9]*\).*", "\1", splinters[5])
         canonical = splinters[0].split("=")[1] if "=" in splinters[0] else splinters[0]
         for c in canonical.split(","): # The canonical form can have two words ('vultur,voltur').
             for num_root in model["roots"]:
                 if(model["roots"][num_root][0] == "K"):
-                    c = c # TODO.
-                elif(model["roots"][num_root][0] == "-"):
-                    c = c # TODO.
+                    root0 = c
                 else:
                     root0 = c[0:-int(model["roots"][num_root][0])] if model["roots"][num_root][0] != "0" else c
-                    if not(atone(root0) in roots or atone(root0) == ""):
-                        roots[atone(root0)] = []
-                    # Append a new root:
-                    if(atone(root0) != ""):
-                        roots[atone(root0)].append([root0, splinters[1], num_root, rate])
+                if not(atone(root0) in roots or atone(root0) == ""):
+                    roots[atone(root0)] = []
+                # Append a new root:
+                if(atone(root0) != ""):
+                    roots[atone(root0)].append([root0, splinters[1], num_root])
 
         # Roots 1 and 2:
         if(splinters[2] != ''):
             if not(atone(splinters[2]) in roots or atone(splinters[2]) == ""):
                 roots[atone(splinters[2])] = []
-            roots[atone(splinters[2])].append([splinters[2], splinters[1], 1, rate])
+            roots[atone(splinters[2])].append([splinters[2], splinters[1], 1])
         if(splinters[3] != ''):
             if not(atone(splinters[3]) in roots or atone(splinters[3]) == ""):
                 roots[atone(splinters[3])] = []
-            roots[atone(splinters[3])].append([splinters[3], splinters[1], 2, rate])
+            roots[atone(splinters[3])].append([splinters[3], splinters[1], 2])
 
 
 # Write roots and terminations in data.js::
