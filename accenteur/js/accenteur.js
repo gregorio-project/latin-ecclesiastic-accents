@@ -17,7 +17,7 @@ $("document").ready(function(){
                 }
                 words[i] = words[i].replace(/æ/g, 'ae');
                 words[i] = words[i].replace(/œ/g, 'oe');
-                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>||</span>"); // Returns each word accentified.
+                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>|</span>"); // Returns each word accentified.
             }
         }
         var output = words.join('');
