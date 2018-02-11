@@ -83,10 +83,11 @@ for l in models_lines:
         elif(l.startswith("pere:")):
             father = l.split(":")[1]
             models[key] = dict()
- # Roots and terminations inherited from the father.
+            # Roots and terminations inherited from the father.
             models[key]["roots"] = models[father]["roots"].copy()
             models[key]["terms"] = models[father]["terms"].copy()
             terms = models[key]["terms"].copy() 
+            roots = models[key]["roots"].copy()
 
         # Roots (roots[num of the root] = [characters to delete, characters to add]):
         elif(l.startswith("R:")):
@@ -188,6 +189,8 @@ for l in lemmes_lines:
             for num_root in model["roots"]:
                 if(model["roots"][num_root][0] == "K"):
                     root0 = c
+                elif(model["roots"][num_root][0] == "-"):
+                    root0 = c
                 else:
                     root0 = c[0:-int(model["roots"][num_root][0])] if model["roots"][num_root][0] != "0" else c
                 if not(atone(root0) in roots or atone(root0) == ""):
@@ -219,7 +222,6 @@ json_path.write("var terminations = ");
 json_path.write(json.JSONEncoder(ensure_ascii = False).encode(terminations))
 json_path.write(";\n\n");
 json_path.close()
-
 
 
 
