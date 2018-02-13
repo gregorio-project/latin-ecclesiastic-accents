@@ -60,7 +60,6 @@ this_file.close()
 models = read_this_file(this_dir + "/modeles.la")
 models_lines = models.split("\n")
 
-
 # Models (model: {{roots}, {terminations}}):
 models = dict()
 roots = dict()
@@ -83,7 +82,7 @@ for l in models_lines:
         elif(l.startswith("pere:")):
             father = l.split(":")[1]
             models[key] = dict()
-            # Roots and terminations inherited from the father.
+            # Roots and terminations inherited from the father:
             models[key]["roots"] = models[father]["roots"].copy()
             models[key]["terms"] = models[father]["terms"].copy()
             terms = models[key]["terms"].copy() 
@@ -161,14 +160,15 @@ terminations = dict()
 for m in models:
     terms_model = models[m]["terms"]
     for t in terms_model.values():
-        for sub_term in t:
-            if(sub_term != "-"):
-                if(atone(sub_term[1]) in terminations):
-                    terminations[atone(sub_term[1])].append([m, sub_term[0], sub_term[1]])
-                else:
-                    terminations[atone(sub_term[1])] = []
-                    terminations[atone(sub_term[1])].append([m, sub_term[0], sub_term[1]])
-                
+        for sub_term in t: # Returns a list of [num_root, term(s)] (or "-").
+            if sub_term != "-":
+                for sub_sub_term in sub_term[1].split(","):
+                    if atone(sub_sub_term) in terminations:
+                        terminations[atone(sub_sub_term)].append([m, sub_term[0], sub_sub_term])
+                    else:
+                        terminations[atone(sub_sub_term)] = []
+                        terminations[atone(sub_sub_term)].append([m, sub_term[0], sub_sub_term])
+
 
 
 #######################################################################################
@@ -177,38 +177,40 @@ for m in models:
 lemmes = read_this_file(this_dir + "/lemmes.la")
 lemmes_lines = lemmes.split("\n")
 
-
 # Roots (roots[root] = [root, model, num_root]):
 roots = dict()
 for l in lemmes_lines:
-    if not(l.startswith("!") or l == ""):
+    if not (l.startswith("!") or l == ""):
         splinters = l.split("|")
         model = models[splinters[1]]
         canonical = splinters[0].split("=")[1] if "=" in splinters[0] else splinters[0]
         for c in canonical.split(","): # The canonical form can have two words ('vultur,voltur').
             for num_root in model["roots"]:
-                if(model["roots"][num_root][0] == "K"):
+                if splinters[1] == "inv":
                     root0 = c
-                elif(model["roots"][num_root][0] == "-"):
+                elif model["roots"][num_root][0] == "K":
+                    root0 = c
+                elif model["roots"][num_root][0] == "-":
                     root0 = c
                 else:
-                    root0 = c[0:-int(model["roots"][num_root][0])] if model["roots"][num_root][0] != "0" else c
-                if not(atone(root0) in roots or atone(root0) == ""):
+                    del_part = int(model["roots"][num_root][0])
+                    add_part = model["roots"][num_root][1]
+                    root0 = c[0:-int(del_part)] + (add_part if add_part != "0" else "")
+                if not (atone(root0) in roots or atone(root0) == ""):
                     roots[atone(root0)] = []
                 # Append a new root:
-                if(atone(root0) != ""):
+                if atone(root0) != "":
                     roots[atone(root0)].append([root0, splinters[1], num_root])
 
         # Roots 1 and 2:
-        if(splinters[2] != ''):
-            if not(atone(splinters[2]) in roots or atone(splinters[2]) == ""):
+        if splinters[2] != '':
+            if not (atone(splinters[2]) in roots or atone(splinters[2]) == ""):
                 roots[atone(splinters[2])] = []
             roots[atone(splinters[2])].append([splinters[2], splinters[1], 1])
-        if(splinters[3] != ''):
-            if not(atone(splinters[3]) in roots or atone(splinters[3]) == ""):
+        if splinters[3] != '':
+            if not (atone(splinters[3]) in roots or atone(splinters[3]) == ""):
                 roots[atone(splinters[3])] = []
             roots[atone(splinters[3])].append([splinters[3], splinters[1], 2])
-
 
 # Write roots and terminations in data.js::
 json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
