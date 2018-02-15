@@ -197,11 +197,10 @@ for l in lemmes_lines:
                     del_part = int(model["roots"][num_root][0])
                     add_part = model["roots"][num_root][1]
                     root0 = (c[0:-int(del_part)] if del_part != 0 else c) + (add_part if add_part != "0" else "")
-                if not (atone(root0) in roots or atone(root0) == ""):
+                if not (atone(root0) in roots):
                     roots[atone(root0)] = []
                 # Append a new root:
-                if atone(root0) != "":
-                    roots[atone(root0)].append([root0, splinters[1], num_root])
+                roots[atone(root0)].append([root0, splinters[1], num_root])
 
         # Roots 1 and 2:
         if splinters[2] != '':
