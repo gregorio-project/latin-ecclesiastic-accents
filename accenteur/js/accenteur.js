@@ -17,11 +17,10 @@ $("document").ready(function(){
                 }
                 words[i] = words[i].replace(/æ/g, 'ae');
                 words[i] = words[i].replace(/œ/g, 'oe');
-                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>|</span>"); // Returns each word accentified.
+                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>/</span>"); // Returns each word accentified.
             }
         }
         var output = words.join('');
-        output = output.replace(/\n/g, "</br>").replace(/áe/g, "\u01FD").replace(/óe/g, "œ\u0301").replace(/ae/g, "æ").replace(/oe/g, "œ");
         $("#output").html(output);
     });
 });
@@ -31,7 +30,7 @@ function accentify(word, is_uppercase){
     var found = search_quantified(word);
     if(found.length == 0){
         if(is_uppercase){
-            found = search_quantified(to_lowercase(word)); // We lowercase and retry.
+            found = search_quantified(to_lowercase(word)); // If uppercase, we lowercase and retry.
             for(var f in found){
                 found[f] = to_uppercase(found[f]);
             }
@@ -48,6 +47,7 @@ function accentify(word, is_uppercase){
     else{
         for(var f in found){
             found[f] = qty_to_accent(word, found[f]);
+            //output = output.replace(/\n/g, "</br>").replace(/áe/g, "\u01FD").replace(/óe/g, "œ\u0301").replace(/ae/g, "æ").replace(/oe/g, "œ");
         }
     }
     return(reduce(found));
@@ -69,8 +69,7 @@ function search_quantified(word){
                 var quantified = r[0];
                 var model = r[1];
                 var num_root = r[2];
-                var rate = r[3];
-                if(model == "inv"){
+                if(root == word){
                     found.push(quantified);
                 }
                 else{
@@ -89,28 +88,11 @@ function search_quantified(word){
 
 // Converts a quantified word into an accented one:
 function qty_to_accent(plain, quantified){
-    var quantities = [quantified.length];
-    var num_syllables = 0;
     var with_accents = plain;
-    for(var i in quantified){
-        var c = quantified[i];
-        if(longs.indexOf(c) != -1){
-            quantities[i] = "+";
-            num_syllables ++;
-        }
-        else if(breves.indexOf(c) != -1){
-            quantities[i] = "-";
-            num_syllables ++;
-        }
-        else if(c == "\u0306"){ // Combining breve => the previous syllable was common!
-            quantities[i - 1] = "-";
-            quantities[i] = "0";
-        }
-        else{
-            quantities[i] = "0";
-        }
-    }
-    if(num_syllables > 2){
+    var count_qt = count_syllables(quantified);
+    var num_syllables = count_qt[0];
+    var quantities = count_qt[1];
+    if(num_syllables > 2){ // Ignore words of less than 3 syllables (never accented).
         var count_vowels = 0; // Will count the 3 last syllables (antepenult., penult., ult.).
         var accent_pos = 0; // Will contain the position of accent.
         for(var i in quantities){
@@ -125,9 +107,11 @@ function qty_to_accent(plain, quantified){
                 }
             }
         }
-        plain_split = plain.split("");
-        plain_split[accent_pos - 1] = accented[vowels.indexOf(plain[accent_pos - 1])];
-        with_accents = plain_split.join("");
+        if(vowels.indexOf(plain[accent_pos - 1]) < 6){ // Never accentify an uppercase.
+            plain_split = plain.split("");
+            plain_split[accent_pos - 1] = accented[vowels.indexOf(plain[accent_pos - 1])];
+            with_accents = plain_split.join("");
+        }
     }
     return(with_accents);
 }
@@ -156,6 +140,36 @@ function reduce(this_array){
     }
     return(result);
 }
+
+// Count syllables and return quantities of each one of them:
+function count_syllables(quantified){
+    var quantities = [quantified.length];
+    var num_syllables = 0;
+    for(var i in quantified){
+        var c = quantified[i];
+        if(longs.indexOf(c) != -1){
+            quantities[i] = "+";
+            num_syllables ++;
+        }
+        else if(breves.indexOf(c) != -1){
+            quantities[i] = "-";
+            num_syllables ++;
+        }
+        else if(c == "\u0306"){ // Combining breve => the previous syllable was common!
+            quantities[i - 1] = "-";
+            quantities[i] = "0";
+        }
+        else{
+            quantities[i] = "0";
+        }
+    }
+    return([num_syllables, quantities]);
+}
+
+
+
+
+
 
 
 

@@ -5,6 +5,7 @@
 
 import os
 import re 
+from copy import deepcopy # For copying compound objects.
 import unicodedata
 import json 
 
@@ -62,8 +63,8 @@ models_lines = models.split("\n")
 
 # Models (model: {{roots}, {terminations}}):
 models = dict()
-roots = dict()
-terms = dict()
+roots_tmp= dict()
+terms_tmp= dict()
 common_terms = dict()
 key = ""
 father = ""
@@ -83,21 +84,21 @@ for l in models_lines:
             father = l.split(":")[1]
             models[key] = dict()
             # Roots and terminations inherited from the father:
-            models[key]["roots"] = models[father]["roots"].copy()
-            models[key]["terms"] = models[father]["terms"].copy()
-            terms = models[key]["terms"].copy() 
-            roots = models[key]["roots"].copy()
+            models[key]["roots"] = deepcopy(models[father]["roots"])
+            models[key]["terms"] = deepcopy(models[father]["terms"])
+            roots_tmp = deepcopy(models[key]["roots"])
+            terms_tmp = deepcopy(models[key]["terms"]) 
 
         # Roots (roots[num of the root] = [characters to delete, characters to add]):
         elif(l.startswith("R:")):
             if(l.split(":")[2] == "K"):
-                roots[int(l.split(":")[1])] = "K"
+                roots_tmp[int(l.split(":")[1])] = "K"
             elif(l.split(":")[2] == "-"):
-                roots[int(l.split(":")[1])] = "-"
+                roots_tmp[int(l.split(":")[1])] = "-"
             elif(len(l.split(":")[2].split(",")) == 1):
-                roots[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], "0"]
+                roots_tmp[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], "0"]
             else:
-                roots[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], l.split(":")[2].split(",")[1]]
+                roots_tmp[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], l.split(":")[2].split(",")[1]]
 
         # Terminations (terms[num] = [num_rad, termination]):
         elif(l.startswith("des") or l.startswith("abs")):
@@ -108,16 +109,16 @@ for l in models_lines:
                 terms_root = l.split(":")[2]
                 terms_list = l.split(":")[3].split(";")
                 # We append common terminations ($uita, $lupus etc.):
-                terms_list_common = terms_list.copy()
+                terms_list_common = deepcopy(terms_list)
                 for t in terms_list:
-                    match = re.search(r"([\w]*)(\$[\w]*)", t)
+                    match = re.search(r"([\w]*)(\$[\w]*)", t) # For ex. "issim$lupus".
                     if match:
-                        comm_terms = common_terms[match.group(2)].copy()
+                        comm_terms = deepcopy(common_terms[match.group(2)])
                         terms_list_common.remove(t)
                         for ct in comm_terms:
                             ct = match.group(1) + ct
                             terms_list_common.append(ct)
-                terms_list = terms_list_common.copy()
+                terms_list = deepcopy(terms_list_common)
 
             subranges = terms_range.split(",")
             i = 0
@@ -125,35 +126,35 @@ for l in models_lines:
                 if("-" in s):
                     for t in range(int(s.split("-")[0]), int(s.split("-")[1]) + 1): # "for t in range(1, 6)" (if range = "1,5").
                         if not(add_term):
-                            terms[str(t)] = [] # If the model doesn't inherit from a father, we create a terminations' list.
+                            terms_tmp[str(t)] = [] # If the model doesn't inherit from a father, we create a terminations' list.
                         if(rm_term):
-                            del terms[str(t)]
+                            del terms_tmp[str(t)]
                         else:
                             if(terms_list[0] == "-"):
-                                terms[str(t)].append("-") # No termination.
+                                terms_tmp[str(t)].append("-") # No termination.
                             else:
-                                terms[str(t)].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
+                                terms_tmp[str(t)].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
                         i += 1
                 else:
                     if not(add_term):
-                        terms[s] = [] # If the model doesn't inherit from a father, we create a terminations' list.
+                        terms_tmp[s] = [] # If the model doesn't inherit from a father, we create a terminations' list.
                     if(rm_term):
-                        del terms[s]
+                        del terms_tmp[s]
                     else:
                         if(terms_list[0] == "-"):
-                            terms[s].append("-") # No termination.
+                            terms_tmp[s].append("-") # No termination.
                         else:
-                            terms[s].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
+                            terms_tmp[s].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
                     i += 1
 
         # If we find an empty line, then we make the synthesis of the model
         # and we reinitialize the data:
         elif(l == "") and (key != ""):
-            models[key] = dict(roots = roots.copy(), terms = terms.copy())
+            models[key] = dict(roots = deepcopy(roots_tmp), terms = deepcopy(terms_tmp))
             key = ""
             father = ""
-            terms.clear()
-            roots.clear()
+            terms_tmp.clear()
+            roots_tmp.clear()
 
 # Terminations (terminations[term]: {[model, num_root]: quantified, …}: 
 terminations = dict()
@@ -195,7 +196,7 @@ for l in lemmes_lines:
                 else:
                     del_part = int(model["roots"][num_root][0])
                     add_part = model["roots"][num_root][1]
-                    root0 = c[0:-int(del_part)] + (add_part if add_part != "0" else "")
+                    root0 = (c[0:-int(del_part)] if del_part != 0 else c) + (add_part if add_part != "0" else "")
                 if not (atone(root0) in roots or atone(root0) == ""):
                     roots[atone(root0)] = []
                 # Append a new root:
