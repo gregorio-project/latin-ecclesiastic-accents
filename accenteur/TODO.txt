@@ -4,5 +4,4 @@
 - propterea
 - filio
 - tuæ
-- Meilleure présentation des modèles, des terminaisons et des radicaux : classement alphabétique pour insertion facile.
-- Supprimer les rate.
+- Meilleure présentation des modèles, des terminaisons et des radicaux : classement alphabétique pour insertion facile ? Retours à la ligne après chaque entrée ? (Oui mais JS pourra-t-il les lire ?)
