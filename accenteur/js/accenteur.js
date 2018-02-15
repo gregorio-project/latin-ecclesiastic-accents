@@ -22,7 +22,7 @@ $("document").ready(function(){
             }
         }
         var output = words.join('');
-        output = output.replace(/\s\s*/g, " "); // Remove multiple-spaces.
+        output = output.replace(/\s\s*/g, " ").replace(/\n/g, "</br>").replace(/ae/g, "æ").replace(/oe/g, "œ"); // Multiple spaces, inebreaks etc.
         $("#output").html(output);
     });
 });
@@ -48,7 +48,7 @@ function accentify(word, is_uppercase){
     }
     else{
         for(var f in found){
-            found[f] = qty_to_accent(word, found[f]);
+            found[f] = qty_to_accent(word, found[f])[1];
         }
     }
     return(reduce(found));
@@ -90,7 +90,8 @@ function search_quantified(word){
 // Converts a quantified word into an accented one:
 function qty_to_accent(plain, quantified){
     var with_accents = plain;
-    var quantities = [quantified.length]; // Will contains something like ["0", "+", "-", "0", "0", "-", "-"].
+    var accentable = false;
+    var quantities = [quantified.length]; // Will contains something like ["0", "+", "0", "0", "-", "-"].
     var num_syllables = 0;
     for(var i in quantified){
         var c = quantified[i];
@@ -102,15 +103,19 @@ function qty_to_accent(plain, quantified){
             quantities[i] = "-";
             num_syllables ++;
         }
-        else if(c == "\u0306"){ // Combining breve => the previous syllable was common!
+        else if(c == "\u0306"){ // Combining breve => there are two quantities, and we set the 1st to "breve".
             quantities[i - 1] = "-";
-            quantities[i] = "0";
+            quantities[i] = "c";
         }
         else{
             quantities[i] = "0";
         }
     }
+    var quantities = quantities.filter(function(item){ // We remove the combining breve characters.
+        return item != "c";
+    });
     if(num_syllables > 2){ // Ignore words of less than 3 syllables (never accented).
+        accentable = true;
         var count_vowels = 0; // Will count the 3 last syllables (antepenult., penult., ult.).
         var accent_pos = 0; // Will contain the position of accent.
         for(var i in quantities){
@@ -128,11 +133,20 @@ function qty_to_accent(plain, quantified){
         if(vowels.indexOf(plain[accent_pos - 1]) < 6){ // Never accentify an uppercase.
             plain_split = plain.split("");
             plain_split[accent_pos - 1] = accented[vowels.indexOf(plain[accent_pos - 1])];
+            // áe (if e has no quantity):
+            if(plain_split[accent_pos - 1] == "á" && quantified.split('')[accent_pos] == "e"){
+                plain_split[accent_pos - 1] = "\u01FD";
+                plain_split[accent_pos] = "";
+            }
+            // óe (if e has no quantity):
+            if(plain_split[accent_pos - 1] == "ó" && quantified.split('')[accent_pos] == "e"){
+                plain_split[accent_pos - 1] = "œ\u0301";
+                plain_split[accent_pos] = "";
+            }
             with_accents = plain_split.join("");
         }
     }
-    //output = output.replace(/\n/g, "</br>").replace(/áe/g, "\u01FD").replace(/óe/g, "œ\u0301").replace(/ae/g, "æ").replace(/oe/g, "œ");
-    return(with_accents);
+    return([accentable, with_accents]);
 }
 
 // Word => word:
