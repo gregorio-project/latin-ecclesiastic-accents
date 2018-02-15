@@ -22,7 +22,7 @@ $("document").ready(function(){
             }
         }
         var output = words.join('');
-        output = output.replace(/\s\s*/g, " ").replace(/\n/g, "</br>").replace(/ae/g, "æ").replace(/oe/g, "œ"); // Multiple spaces, inebreaks etc.
+        output = output.replace(/\n/g, "</br>").replace(/\s\s*/g, " "); // Linebreaks, multiple spaces.
         $("#output").html(output);
     });
 });
@@ -95,7 +95,11 @@ function qty_to_accent(plain, quantified){
     var num_syllables = 0;
     for(var i in quantified){
         var c = quantified[i];
-        if(longs.indexOf(c) != -1){
+        if(vowels.indexOf(c) != -1 && i == quantified.length - 1){ // Final vowel without quantity is considered as a breve.
+            quantities[i] = "-";
+            num_syllables ++;
+        }
+        else if(longs.indexOf(c) != -1){
             quantities[i] = "+";
             num_syllables ++;
         }
@@ -143,8 +147,19 @@ function qty_to_accent(plain, quantified){
                 plain_split[accent_pos - 1] = "œ\u0301";
                 plain_split[accent_pos] = "";
             }
-            with_accents = plain_split.join("");
         }
+        // ae and oe => æ and œ (if e has no quantity):
+        for(var i = 0; i < plain_split.length; i++){
+            if(plain_split[i] == "a" && quantified.split('')[i + 1] == "e"){
+                plain_split[i] = "æ";
+                plain_split[i + 1] = "";
+            }
+            if(plain_split[i] == "o" && quantified.split('')[i + 1] == "e"){
+                plain_split[i] = "œ";
+                plain_split[i + 1] = "";
+            }
+        }
+        with_accents = plain_split.join("");
     }
     return([accentable, with_accents]);
 }
