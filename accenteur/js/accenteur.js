@@ -16,11 +16,13 @@ $("document").ready(function(){
                     is_uppercase = true;
                 }
                 words[i] = words[i].replace(/æ/g, 'ae');
+                words[i] = words[i].replace(/Æ/g, 'Ae');
                 words[i] = words[i].replace(/œ/g, 'oe');
                 words[i] = accentify(words[i], is_uppercase).join("<span class='red'>/</span>"); // Returns each word accentified.
             }
         }
         var output = words.join('');
+        output = output.replace(/\s\s*/g, " "); // Remove multiple-spaces.
         $("#output").html(output);
     });
 });
@@ -47,7 +49,6 @@ function accentify(word, is_uppercase){
     else{
         for(var f in found){
             found[f] = qty_to_accent(word, found[f]);
-            //output = output.replace(/\n/g, "</br>").replace(/áe/g, "\u01FD").replace(/óe/g, "œ\u0301").replace(/ae/g, "æ").replace(/oe/g, "œ");
         }
     }
     return(reduce(found));
@@ -56,11 +57,11 @@ function accentify(word, is_uppercase){
 // Returns an array of all the combinations of roots and terminations that can give word:
 function search_quantified(word){
     // We successively split the word into 2 splinters, like this for a word of five letters:
-    // 1|2345, then 12|345, then 123|45, then 1234|5, then 12345,
+    // |12345, then 1|2345, then 12|345, then 123|45, then 1234|5, then 12345,
     // and each time we search if we find these 2 splinters
     // in our roots' and terminations' Objects:
     var found = [];
-    for(var i = 1; i <= word.length; i++){
+    for(var i = 0; i <= word.length; i++){
         var root = word.substring(0, i);
         var term = word.substring(i, word.length);
         if(roots[root] != null && terminations[term] != null){
@@ -89,9 +90,26 @@ function search_quantified(word){
 // Converts a quantified word into an accented one:
 function qty_to_accent(plain, quantified){
     var with_accents = plain;
-    var count_qt = count_syllables(quantified);
-    var num_syllables = count_qt[0];
-    var quantities = count_qt[1];
+    var quantities = [quantified.length]; // Will contains something like ["0", "+", "-", "0", "0", "-", "-"].
+    var num_syllables = 0;
+    for(var i in quantified){
+        var c = quantified[i];
+        if(longs.indexOf(c) != -1){
+            quantities[i] = "+";
+            num_syllables ++;
+        }
+        else if(breves.indexOf(c) != -1){
+            quantities[i] = "-";
+            num_syllables ++;
+        }
+        else if(c == "\u0306"){ // Combining breve => the previous syllable was common!
+            quantities[i - 1] = "-";
+            quantities[i] = "0";
+        }
+        else{
+            quantities[i] = "0";
+        }
+    }
     if(num_syllables > 2){ // Ignore words of less than 3 syllables (never accented).
         var count_vowels = 0; // Will count the 3 last syllables (antepenult., penult., ult.).
         var accent_pos = 0; // Will contain the position of accent.
@@ -113,6 +131,7 @@ function qty_to_accent(plain, quantified){
             with_accents = plain_split.join("");
         }
     }
+    //output = output.replace(/\n/g, "</br>").replace(/áe/g, "\u01FD").replace(/óe/g, "œ\u0301").replace(/ae/g, "æ").replace(/oe/g, "œ");
     return(with_accents);
 }
 
@@ -139,31 +158,6 @@ function reduce(this_array){
         }
     }
     return(result);
-}
-
-// Count syllables and return quantities of each one of them:
-function count_syllables(quantified){
-    var quantities = [quantified.length];
-    var num_syllables = 0;
-    for(var i in quantified){
-        var c = quantified[i];
-        if(longs.indexOf(c) != -1){
-            quantities[i] = "+";
-            num_syllables ++;
-        }
-        else if(breves.indexOf(c) != -1){
-            quantities[i] = "-";
-            num_syllables ++;
-        }
-        else if(c == "\u0306"){ // Combining breve => the previous syllable was common!
-            quantities[i - 1] = "-";
-            quantities[i] = "0";
-        }
-        else{
-            quantities[i] = "0";
-        }
-    }
-    return([num_syllables, quantities]);
 }
 
 
