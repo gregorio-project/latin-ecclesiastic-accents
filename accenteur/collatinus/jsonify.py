@@ -185,6 +185,7 @@ for l in lemmes_lines:
         splinters = l.split("|")
         model = models[splinters[1]]
         canonical = splinters[0].split("=")[1] if "=" in splinters[0] else splinters[0]
+        canonical = canonical[0:-1] if canonical.endswith("2") else canonical
         for c in canonical.split(","): # The canonical form can have two words ('vultur,voltur').
             for num_root in model["roots"]:
                 if splinters[1] == "inv":
