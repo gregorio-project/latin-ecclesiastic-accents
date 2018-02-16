@@ -90,13 +90,22 @@ function search_quantified(word){
 // Converts a quantified word into an accented one:
 function qty_to_accent(plain, quantified){
     var with_accents = plain;
+    var plain_split = plain.split("");
+    var quantified_split = quantified.split("");
     var accentable = false;
     var quantities = [quantified.length]; // Will contains something like ["0", "+", "0", "0", "-", "-"].
     var num_syllables = 0;
+
+    // We note the quantities of all the vowels of the word:
     for(var i in quantified){
         var c = quantified[i];
-        if(vowels.indexOf(c) != -1 && i == quantified.length - 1){ // Final vowel without quantity is considered as a breve.
-            quantities[i] = "-";
+        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve.
+            if(i == quantified.length - 1){ // … unless it is the final letter of the word.
+                quantities[i] = "0";
+            }
+            else{
+                quantities[i] = "-";
+            }
             num_syllables ++;
         }
         else if(longs.indexOf(c) != -1){
@@ -115,9 +124,16 @@ function qty_to_accent(plain, quantified){
             quantities[i] = "0";
         }
     }
-    var quantities = quantities.filter(function(item){ // We remove the combining breve characters.
+
+    // We remove the combining breve characters:
+    var quantities = quantities.filter(function(item){
         return item != "c";
     });
+    var quantified_split = quantified_split.filter(function(item){
+        return item != "\u0306";
+    });
+
+    // Then we accentify:
     if(num_syllables > 2){ // Ignore words of less than 3 syllables (never accented).
         accentable = true;
         var count_vowels = 0; // Will count the 3 last syllables (antepenult., penult., ult.).
@@ -135,32 +151,32 @@ function qty_to_accent(plain, quantified){
             }
         }
         if(vowels.indexOf(plain[accent_pos - 1]) < 6){ // Never accentify an uppercase.
-            plain_split = plain.split("");
             plain_split[accent_pos - 1] = accented[vowels.indexOf(plain[accent_pos - 1])];
             // áe (if e has no quantity):
-            if(plain_split[accent_pos - 1] == "á" && quantified.split('')[accent_pos] == "e"){
+            if(plain_split[accent_pos - 1] == "á" && quantified_split[accent_pos] == "e"){
                 plain_split[accent_pos - 1] = "\u01FD";
                 plain_split[accent_pos] = "";
             }
             // óe (if e has no quantity):
-            if(plain_split[accent_pos - 1] == "ó" && quantified.split('')[accent_pos] == "e"){
+            if(plain_split[accent_pos - 1] == "ó" && quantified_split[accent_pos] == "e"){
                 plain_split[accent_pos - 1] = "œ\u0301";
                 plain_split[accent_pos] = "";
             }
         }
-        // ae and oe => æ and œ (if e has no quantity):
-        for(var i = 0; i < plain_split.length; i++){
-            if(plain_split[i] == "a" && quantified.split('')[i + 1] == "e"){
-                plain_split[i] = "æ";
-                plain_split[i + 1] = "";
-            }
-            if(plain_split[i] == "o" && quantified.split('')[i + 1] == "e"){
-                plain_split[i] = "œ";
-                plain_split[i + 1] = "";
-            }
-        }
-        with_accents = plain_split.join("");
     }
+
+    // ae and oe => æ and œ (if e has no quantity):
+    for(var i = 0; i < plain_split.length; i++){
+        if(plain_split[i] == "a" && quantified_split[i + 1] == "e"){
+            plain_split[i] = "æ";
+            plain_split[i + 1] = "";
+        }
+        if(plain_split[i] == "o" && quantified_split[i + 1] == "e"){
+            plain_split[i] = "œ";
+            plain_split[i + 1] = "";
+        }
+    }
+    with_accents = plain_split.join("");
     return([accentable, with_accents]);
 }
 
