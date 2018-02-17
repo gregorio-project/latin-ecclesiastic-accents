@@ -1,14 +1,6 @@
-- dicebat.
-- j/i (Jacobum)
-- Maria/Maria
+- j/i (Jacobum) => prendre tous les radicaux, y compris avant le =, et ajouter des communes là où il n'y a rien (sauf si oe et ae).
 - coepit
-- dicebat
-- Ioseph avec I
-- tuæ
-
 
 - Enclitiques -que, -ve etc.
-- Formes bis (populus2).
-
 
 - Meilleure présentation des modèles, des terminaisons et des radicaux : classement alphabétique pour insertion facile ? Retours à la ligne après chaque entrée ? (Oui mais JS pourra-t-il les lire ?)
