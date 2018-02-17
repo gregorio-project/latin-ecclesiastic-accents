@@ -184,24 +184,25 @@ for l in lemmes_lines:
     if not (l.startswith("!") or l == ""):
         splinters = l.split("|")
         model = models[splinters[1]]
-        canonical = splinters[0].split("=")[1] if "=" in splinters[0] else splinters[0]
-        canonical = canonical[0:-1] if canonical.endswith("2") else canonical
-        for c in canonical.split(","): # The canonical form can have two words ('vultur,voltur').
-            for num_root in model["roots"]:
-                if splinters[1] == "inv":
-                    root0 = c
-                elif model["roots"][num_root][0] == "K":
-                    root0 = c
-                elif model["roots"][num_root][0] == "-":
-                    root0 = c
-                else:
-                    del_part = int(model["roots"][num_root][0])
-                    add_part = model["roots"][num_root][1]
-                    root0 = (c[0:-int(del_part)] if del_part != 0 else c) + (add_part if add_part != "0" else "")
-                if not (atone(root0) in roots):
-                    roots[atone(root0)] = []
-                # Append a new root:
-                roots[atone(root0)].append([root0, splinters[1], num_root])
+        canonicals = splinters[0].split("=") # The canonical form can have two words ('vĭtellus=vĭtēllus').
+        for canonical in canonicals:
+            canonical = canonical[0:-1] if canonical.endswith("2") else canonical
+            for c in canonical.split(","): # The sub-canonical form can have two words too ('vultur=vūltŭr,vōltŭr').
+                for num_root in model["roots"]:
+                    if splinters[1] == "inv":
+                        root0 = c
+                    elif model["roots"][num_root][0] == "K":
+                        root0 = c
+                    elif model["roots"][num_root][0] == "-":
+                        root0 = c
+                    else:
+                        del_part = int(model["roots"][num_root][0])
+                        add_part = model["roots"][num_root][1]
+                        root0 = (c[0:-int(del_part)] if del_part != 0 else c) + (add_part if add_part != "0" else "")
+                    if not (atone(root0) in roots):
+                        roots[atone(root0)] = []
+                    # Append a new root:
+                    roots[atone(root0)].append([root0, splinters[1], num_root])
 
         # Roots 1 and 2:
         if splinters[2] != '':
