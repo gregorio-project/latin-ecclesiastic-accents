@@ -150,7 +150,7 @@ function qty_to_accent(plain, quantified){
                 }
             }
         }
-        if(vowels.indexOf(plain[accent_pos - 1]) < 6){ // Never accentify an uppercase.
+        if(vowels.indexOf(plain[accent_pos - 1]) < 6 && num_syllables > 3){ // Never accentify an uppercase, nor a word of less than 3 syllables (elsewhere, for ex., coepit will be accented on 'oe')..
             plain_split[accent_pos - 1] = accented[vowels.indexOf(plain[accent_pos - 1])];
             // áe (if e has no quantity):
             if(plain_split[accent_pos - 1] == "á" && quantified_split[accent_pos] == "e"){
