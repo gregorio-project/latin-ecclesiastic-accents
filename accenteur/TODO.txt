@@ -1,6 +1,9 @@
-- j/i (Jacobum) => prendre tous les radicaux, y compris avant le =, et ajouter des communes là où il n'y a rien (sauf si oe et ae).
-- coepit
+- J/I:
+  • injicio, abjicio etc.
+  • iniuriam
+  • convert j to i and retry.
+  • convert i to j and retry.
 
-- Enclitiques -que, -ve etc.
+- Enclitics -que, -ve etc.
 
-- Meilleure présentation des modèles, des terminaisons et des radicaux : classement alphabétique pour insertion facile ? Retours à la ligne après chaque entrée ? (Oui mais JS pourra-t-il les lire ?)
+- Cleanest appearence of the roots and terminations in data.js: alphabetical sorting? Linebreak after each entry? Will JS be able to read that?
