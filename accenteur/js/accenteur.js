@@ -200,7 +200,16 @@ function to_lowercase(word){
 // word => Word:
 function to_uppercase(word){
     word_split = word.split("");
-    word_split[0] = uppercase[lowercase.indexOf(word[0])];
+    
+    // Case of an initial "A" which becomes a long or a breve "a":
+    if(longs.indexOf(word_split[0]) != -1){
+        word_split[0] = vowels[longs.indexOf(word_split[0])];
+    }
+    if(breves.indexOf(word_split[0]) != -1){
+        word_split[0] = vowels[breves.indexOf(word_split[0])];
+    }
+
+    word_split[0] = uppercase[lowercase.indexOf(word_split[0])];
     return(word_split.join(""));
 }
 
