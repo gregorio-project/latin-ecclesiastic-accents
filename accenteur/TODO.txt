@@ -3,10 +3,8 @@
   • iniuriam
   • convert j to i and retry.
   • convert i to j and retry.
-- peccatrix
-- saeculum
-- alterius
 
+- perfects and 2d roots (audivi, audistis, sepelierunt etc.)
 
 - Enclitics -que, -ve etc.
 

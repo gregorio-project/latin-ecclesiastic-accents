@@ -99,27 +99,39 @@ function qty_to_accent(plain, quantified){
     // We note the quantities of all the vowels of the word:
     for(var i in quantified){
         var c = quantified[i];
-        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve…
-            if(i == quantified.length - 1){ // … unless it is the final letter of the word.
-                quantities[i] = "0";
+        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, unless it is the final letter of the word (but not after an other vowel, except a final "ae").
+            if(i == quantified.length - 1){
+                if(vowels.indexOf(plain[plain.length - 2]) != -1 && (c == "e" && plain[plain.length - 2] == "a") == false){
+                    quantities[i] = "-";
+                }
+                else{
+                    quantities[i] = "0";
+                }
             }
+
             else{
                 quantities[i] = "-";
             }
-            num_syllables ++;
+            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "A", "E"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe".
+                num_syllables ++;
+            }
         }
+
         else if(longs.indexOf(c) != -1){
             quantities[i] = "+";
             num_syllables ++;
         }
+
         else if(breves.indexOf(c) != -1){
             quantities[i] = "-";
             num_syllables ++;
         }
+
         else if(c == "\u0306"){ // Combining breve => there are two quantities, and we set the 1st to "breve".
             quantities[i - 1] = "-";
             quantities[i] = "c";
         }
+
         else{
             quantities[i] = "0";
         }
@@ -146,7 +158,7 @@ function qty_to_accent(plain, quantified){
                     accent_pos = quantities.length - i;
                 }
                 else if(count_vowels == 3 && accent_pos == 0){ // Antepenult. accented.
-                    if(["e", "u"].indexOf(plain_split[quantities.length - 1 - i]) != -1 && ["a", "o"].indexOf(plain_split[quantities.length - 2 - i]) != -1){ // "ae", "oe", "au": accent on the first letter.
+                    if(["e", "u"].indexOf(plain_split[quantities.length - 1 - i]) != -1 && ["a", "e", "o", "A", "E", "U"].indexOf(plain_split[quantities.length - 2 - i]) != -1){ // "ae", "oe", "au": accent on the first letter.
                         accent_pos = quantities.length - i - 1;
                     }
                     else{
@@ -155,7 +167,8 @@ function qty_to_accent(plain, quantified){
                 }
             }
         }
-        if(vowels.indexOf(plain[accent_pos - 1]) < 6 && num_syllables > 2){ // Never accentify an uppercase, nor a word of less than 3 syllables (elsewhere, for ex., coepit will be accented on 'oe')..
+
+        if(vowels.indexOf(plain[accent_pos - 1]) < 6 && num_syllables > 2){ // Never accentify an uppercase, nor a word of less than 3 syllables (elsewhere, for ex., coepit will be accented on 'oe').
             plain_split[accent_pos - 1] = accented[vowels.indexOf(plain[accent_pos - 1])];
 
             // áe (if e has no quantity):
@@ -167,10 +180,6 @@ function qty_to_accent(plain, quantified){
             if(plain_split[accent_pos - 1] == "ó" && quantified_split[accent_pos] == "e"){
                 plain_split[accent_pos - 1] = "œ\u0301";
                 plain_split[accent_pos] = "";
-            }
-            // áu: don't accentify:
-            if(plain_split[accent_pos - 1] == "á" && quantified_split[accent_pos] == "u"){
-                plain_split[accent_pos - 1] = "a";
             }
         }
     }
