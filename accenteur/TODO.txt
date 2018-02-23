@@ -3,7 +3,16 @@
   • iniuriam
   • convert j to i and retry.
   • convert i to j and retry.
+- peccatrix
+- saeculum
+- alterius
+
 
 - Enclitics -que, -ve etc.
 
-- Cleanest appearence of the roots and terminations in data.js: alphabetical sorting? Linebreak after each entry? Will JS be able to read that?
+- Doesn't work on Firefox.
+
+- Cleanest appearence of the roots and terminations in data.js: alphabetical sorting? linebreak after each entry? Will JS be able to read that?
+
+
+
