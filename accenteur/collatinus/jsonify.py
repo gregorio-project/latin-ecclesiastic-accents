@@ -176,7 +176,7 @@ for m in models:
 
 # Reading of lemmes.la to create a dict of roots:
 lemmes = read_this_file(this_dir + "/lemmes.la")
-lemmes_lines = lemmes.split("\n")
+lemmes_lines = lemmes.split("\n") # Lemmes' lines look like this: "canonical form | model | root2 | root3 | terminations | rate. Only the 4 first fields interest us.
 
 # Roots (roots[root] = [root, model, num_root]):
 roots = dict()
@@ -184,10 +184,13 @@ for l in lemmes_lines:
     if not (l.startswith("!") or l == ""):
         splinters = l.split("|")
         model = models[splinters[1]]
-        canonicals = splinters[0].split("=") # The canonical form can have two words ('vĭtellus=vĭtēllus').
+        # The canonical form can be something like this: "ā=ā,ăb,ābs". In this case, we prefer the word on the right side of the "=" sign and we remove the left-positionned one if their plain forms are the same (because the right one is more quantified), and we conserve all the words separated by comma.
+        canonicals = splinters[0].split("=")
+        if len(canonicals) > 1 and atone(canonicals[0]) == atone(canonicals[1].split(",")[0]):
+            canonicals.pop(0)
         for canonical in canonicals:
             canonical = canonical[0:-1] if canonical.endswith("2") else canonical
-            for c in canonical.split(","): # The sub-canonical form can have two words too ('vultur=vūltŭr,vōltŭr').
+            for c in canonical.split(","):
                 for num_root in model["roots"]:
                     if splinters[1] == "inv":
                         root0 = c
