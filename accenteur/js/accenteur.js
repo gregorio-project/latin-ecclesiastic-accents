@@ -71,7 +71,7 @@ function search_quantified(word){
                 var quantified = r[0];
                 var model = r[1];
                 var num_root = r[2];
-                if(root == word){
+                if(root == word && model == "inv"){
                     found.push(quantified);
                 }
                 else{
