@@ -32,13 +32,42 @@ $("document").ready(function(){
 function accentify(word, is_uppercase){
     var found = search_quantified(word);
     if(found.length == 0){
+        // If uppercase, we lowercase and retry:
         if(is_uppercase){
-            found = search_quantified(to_lowercase(word)); // If uppercase, we lowercase and retry.
+            found = search_quantified(to_lowercase(word));
             for(var f in found){
                 found[f] = to_uppercase(found[f]);
             }
         }
     }
+
+    // If enclitics, remove enclitic and retry:
+    // -que:
+    if(word.indexOf("que") == word.length - 3){
+        var sub_word = word.substring(0, word.length - 3);
+        var sub_found = search_quantified(sub_word);
+        if(sub_found.length != 0){
+            found.push(last_long(sub_word) + "quĕ");
+        }
+    }
+    // -ne:
+    if(word.indexOf("ne") == word.length - 2){
+        var sub_word = word.substring(0, word.length - 2);
+        var sub_found = search_quantified(sub_word);
+        console.log(sub_found);
+        if(sub_found.length != 0){
+            found.push(last_long(sub_word) + "nĕ");
+        }
+    }
+    // -ve:
+    if(word.indexOf("ve") == word.length - 2){
+        var sub_word = word.substring(0, word.length - 2);
+        var sub_found = search_quantified(sub_word);
+        if(sub_found.length != 0){
+            found.push(last_long(sub_word) + "vĕ");
+        }
+    }
+
     if(found.length == 0){
         if(word.search(/[!?:;]/) == -1 && count_vowels(word) > 2){
             found.push("<span class='red'>" + word + "</span>");
@@ -259,7 +288,11 @@ function reduce(this_array){
     return(result);
 }
 
-
+// Returns a word with his last vowel long (useful with enclitics):
+function last_long(word){
+    /(\S*)([aeiouy])([bcdfghjklmnpqrstvxz]*)/.exec(word)
+    return(RegExp.$1 + longs[vowels.indexOf(RegExp.$2)] + RegExp.$3);
+}
 
 
 

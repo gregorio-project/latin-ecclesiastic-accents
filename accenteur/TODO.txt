@@ -4,9 +4,13 @@
   • convert j to i and retry.
   • convert i to j and retry.
 
-- perfects and 2d roots (audivi, audistis, sepelierunt etc.)
+- unius, ullius, totius etc.
 
-- Enclitics -que, -ve etc.
+- Ægyptum
+
+- Change picture accenteur and presentation of the bird.
+
+- Models: fix problem of uncomplete list of terms (repeat the last).
 
 - Doesn't work on Firefox.
 
