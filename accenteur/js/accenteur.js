@@ -40,7 +40,7 @@ function accentify(word, is_uppercase){
         }
     }
     if(found.length == 0){
-        if(word.search(/[!?:;]/) == -1){
+        if(word.search(/[!?:;]/) == -1 && count_vowels(word) > 2){
             found.push("<span class='red'>" + word + "</span>");
         }
         else{
@@ -198,6 +198,17 @@ function qty_to_accent(plain, quantified){
     }
     with_accents = plain_split.join("");
     return([accentable, with_accents]);
+}
+
+// Counts the number of vowels in a word:
+function count_vowels(word){
+    var num_v = 0;
+    for(var i in word){
+        if(vowels.indexOf(word[i]) != -1){
+            num_v ++;
+        }
+    }
+    return(num_v);
 }
 
 // Word => word:
