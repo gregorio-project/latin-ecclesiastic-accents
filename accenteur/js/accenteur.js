@@ -18,7 +18,7 @@ $("document").ready(function(){
                 if(uppercase.indexOf(words[i].charAt(0)) != -1){ // Proper name or beginning of sentence.
                     is_uppercase = true;
                 }
-                words[i] = accentify(words[i], is_uppercase).join("<span class='red'>/</span>"); // Returns each word accentified.
+                words[i] = accentify(words[i], is_uppercase).join("<span class='red' style='font-weight:bold'>|</span>"); // Returns each word accentified.
                 words[i] = words[i].replace(/Ae/g, 'Æ');
             }
         }
