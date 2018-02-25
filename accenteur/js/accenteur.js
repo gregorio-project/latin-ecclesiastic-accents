@@ -110,7 +110,7 @@ function qty_to_accent(plain, quantified){
     // We note the quantities of all the vowels of the word:
     for(var i in quantified){
         var c = quantified[i];
-        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, unless it is the final letter of the word (but not after an other vowel, except a final "ae").
+        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, unless it is the final letter of the word (but not after an other vowel, except a final "ae") or 'u' after 'q'.
             if(i == quantified.length - 1){
                 if(vowels.indexOf(plain[plain.length - 2]) != -1 && (c == "e" && plain[plain.length - 2] == "a") == false){
                     quantities[i] = "-";
@@ -119,11 +119,15 @@ function qty_to_accent(plain, quantified){
                     quantities[i] = "0";
                 }
             }
-
             else{
-                quantities[i] = "-";
+                if(plain[i] == "u" && plain[i - 1] == "q"){
+                    quantities[i] = "0";
+                }
+                else{
+                    quantities[i] = "-";
+                }
             }
-            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "A", "E"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe".
+            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "A", "E", "q"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe", "qu".
                 num_syllables ++;
             }
         }
