@@ -1,5 +1,3 @@
-- Separate Javascripts : accenteur_utils.js, accenteur_core.js.
-
 - J/I:
   • injicio, abjicio etc.
   • iniuriam
@@ -7,10 +5,21 @@
   • convert i to j and retry.
 
 - unius, ullius, totius etc.
-
 - Ægyptum
-
-- Change picture accenteur and presentation of the bird.
+- itane
+- Dicúnt
+- Mulier
+- Hæc
+- Illá
+- Magister
+- Dicít
+- Deum
+- Qúia
+- mihí
+- capút
+- Nisí
+- Spíritum
+- una
 
 - Models: fix problem of uncomplete list of terms (repeat the last).
 
