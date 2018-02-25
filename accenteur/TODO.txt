@@ -1,3 +1,5 @@
+- Separate Javascripts : accenteur_utils.js, accenteur_core.js.
+
 - J/I:
   • injicio, abjicio etc.
   • iniuriam

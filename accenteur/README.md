@@ -4,7 +4,7 @@ Accenteur is a web app written in Javascript to accentuate latin texts according
 
 Its algorithms and data were adaptated from [Collatinus](https://github.com/biblissima/collatinus).
 
-Its name comes from the french name of a little mountain bird: the Alpine Accentor (*Prunella collaris*).
+Its name comes from the french name of a little bird: the Dunnock (*Prunella modularis*).
 
 
 # Thanks
