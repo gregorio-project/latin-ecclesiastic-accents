@@ -176,7 +176,7 @@ for m in models:
 
 # Reading of lemmes.la to create a dict of roots:
 lemmes = read_this_file(this_dir + "/lemmes.la")
-lemmes_lines = lemmes.split("\n") # Lemmes' lines look like this: "canonical form | model | root2 | root3 | terminations | rate. Only the 4 first fields interest us.
+lemmes_lines = lemmes.split("\n") # Lemmes' lines look like this: "canonical form | model | root1 | root2 | terminations | rate. Only the 4 first fields interest us.
 
 # Roots (roots[root] = [root, model, num_root]):
 roots = dict()
@@ -209,13 +209,15 @@ for l in lemmes_lines:
 
         # Roots 1 and 2:
         if splinters[2] != '':
-            if not (atone(splinters[2]) in roots or atone(splinters[2]) == ""):
-                roots[atone(splinters[2])] = []
-            roots[atone(splinters[2])].append([splinters[2], splinters[1], 1])
+            for splinter in splinters[2].split(","):
+                if not (atone(splinter) in roots):
+                    roots[atone(splinter)] = []
+                roots[atone(splinter)].append([splinter, splinters[1], 1])
         if splinters[3] != '':
-            if not (atone(splinters[3]) in roots or atone(splinters[3]) == ""):
-                roots[atone(splinters[3])] = []
-            roots[atone(splinters[3])].append([splinters[3], splinters[1], 2])
+            for splinter in splinters[3].split(","):
+                if not (atone(splinter) in roots):
+                    roots[atone(splinter)] = []
+                roots[atone(splinter)].append([splinter, splinters[1], 2])
 
 # Write roots and terminations in data.js::
 json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
