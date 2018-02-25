@@ -58,29 +58,36 @@ this_file.close()
 #######################################################################################
 
 # Reading of modeles.la to create dicts of models and terminations:
+# Models in modeles.la are of the form:
+# modele:deus // Name of the model.
+# pere:lupus  // Father.
+# R:2:3,0     // Root:num:delete,add.
+# des:2:1:ŭs  // Terminations:num_term:num_root:term.
+# des+:7,8,11,12:2:ĭī,ī;ĭī,ī;ĭīs,īs;ĭīs,īs // Terminations added to the father.
+
 models = read_this_file(this_dir + "/modeles.la")
 models_lines = models.split("\n")
 
 # Models (model: {{roots}, {terminations}}):
 models = dict()
-roots_tmp= dict()
-terms_tmp= dict()
+roots_tmp = dict()
+terms_tmp = dict()
 common_terms = dict()
 key = ""
 father = ""
 for l in models_lines:
     if not(l.startswith("!")):
         # Common terms, which will be reused later:
-        if(l.startswith("$")):
+        if l.startswith("$"):
             key_common = l.split("=")[0][0:]
             common_terms[key_common] = l.split("=")[1].split(";")
 
         # Name of the model:
-        elif(l.startswith("modele:")):
+        elif l.startswith("modele:"):
             key = l.split(":")[1]
 
         # Father:
-        elif(l.startswith("pere:")):
+        elif l.startswith("pere:"):
             father = l.split(":")[1]
             models[key] = dict()
             # Roots and terminations inherited from the father:
@@ -90,22 +97,22 @@ for l in models_lines:
             terms_tmp = deepcopy(models[key]["terms"]) 
 
         # Roots (roots[num of the root] = [characters to delete, characters to add]):
-        elif(l.startswith("R:")):
-            if(l.split(":")[2] == "K"):
+        elif l.startswith("R:"):
+            if l.split(":")[2] == "K":
                 roots_tmp[int(l.split(":")[1])] = "K"
-            elif(l.split(":")[2] == "-"):
+            elif l.split(":")[2] == "-":
                 roots_tmp[int(l.split(":")[1])] = "-"
-            elif(len(l.split(":")[2].split(",")) == 1):
+            elif len(l.split(":")[2].split(",")) == 1:
                 roots_tmp[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], "0"]
             else:
                 roots_tmp[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], l.split(":")[2].split(",")[1]]
 
         # Terminations (terms[num] = [num_rad, termination]):
-        elif(l.startswith("des") or l.startswith("abs")):
+        elif l.startswith("des") or l.startswith("abs"):
             add_term = True if l.startswith("des+") else False
             rm_term = True if l.startswith("abs") else False
             terms_range = l.split(":")[1]
-            if(len(l.split(":")) > 2): # If not an "abs:" line.
+            if len(l.split(":")) > 2: # If not an "abs:" line.
                 terms_root = l.split(":")[2]
                 terms_list = l.split(":")[3].split(";")
                 # We append common terminations ($uita, $lupus etc.):
@@ -123,14 +130,14 @@ for l in models_lines:
             subranges = terms_range.split(",")
             i = 0
             for s in subranges:
-                if("-" in s):
+                if "-" in s:
                     for t in range(int(s.split("-")[0]), int(s.split("-")[1]) + 1): # "for t in range(1, 6)" (if range = "1,5").
                         if not(add_term):
                             terms_tmp[str(t)] = [] # If the model doesn't inherit from a father, we create a terminations' list.
-                        if(rm_term):
+                        if rm_term:
                             del terms_tmp[str(t)]
                         else:
-                            if(terms_list[0] == "-"):
+                            if terms_list[0] == "-":
                                 terms_tmp[str(t)].append("-") # No termination.
                             else:
                                 terms_tmp[str(t)].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
@@ -138,10 +145,10 @@ for l in models_lines:
                 else:
                     if not(add_term):
                         terms_tmp[s] = [] # If the model doesn't inherit from a father, we create a terminations' list.
-                    if(rm_term):
+                    if rm_term:
                         del terms_tmp[s]
                     else:
-                        if(terms_list[0] == "-"):
+                        if terms_list[0] == "-":
                             terms_tmp[s].append("-") # No termination.
                         else:
                             terms_tmp[s].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
@@ -149,7 +156,7 @@ for l in models_lines:
 
         # If we find an empty line, then we make the synthesis of the model
         # and we reinitialize the data:
-        elif(l == "") and (key != ""):
+        elif l == "" and key != "":
             models[key] = dict(roots = deepcopy(roots_tmp), terms = deepcopy(terms_tmp))
             key = ""
             father = ""
