@@ -8,11 +8,11 @@ var accented = ["á", "é", "í", "ó", "ú", "ý"];
 var uppercase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "X", "Y", "Z"];
 var lowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "x", "y", "z"];
 
-function accentify(word, is_uppercase){
+function accentify(word, uppercase){
     var found = search_quantified(word);
     if(found.length == 0){
         // If uppercase, lowercase and retry:
-        if(is_uppercase){
+        if(uppercase){
             found = search_quantified(to_lowercase(word));
             for(var f in found){
                 if(f != ""){
@@ -31,7 +31,7 @@ function accentify(word, is_uppercase){
             found.push(last_long(sub_word) + "quĕ");
         }
         // If uppercase, lowercase and retry:
-        else if(is_uppercase){
+        else if(uppercase){
             sub_found = search_quantified(to_lowercase(sub_word));
             if(sub_found.length != 0){
                 found.push(last_long(sub_word) + "quĕ");
@@ -46,7 +46,7 @@ function accentify(word, is_uppercase){
             found.push(last_long(sub_word) + "nĕ");
         }
         // If uppercase, lowercase and retry:
-        else if(is_uppercase){
+        else if(uppercase){
             sub_found = search_quantified(to_lowercase(sub_word));
             if(sub_found.length != 0){
                 found.push(last_long(sub_word) + "nĕ");
@@ -61,7 +61,7 @@ function accentify(word, is_uppercase){
             found.push(last_long(sub_word) + "vĕ");
         }
         // If uppercase, lowercase and retry:
-        else if(is_uppercase){
+        else if(uppercase){
             sub_found = search_quantified(to_lowercase(sub_word));
             if(sub_found.length != 0){
                 found.push(last_long(sub_word) + "vĕ");
@@ -249,6 +249,11 @@ function count_vowels(word){
         }
     }
     return(num_v);
+}
+
+// Returns true if the first letter of 'word' is uppercase:
+function is_uppercase(word){
+    return(uppercase.indexOf(word.charAt(0)) != -1 ? true : false);
 }
 
 // Word => word:
