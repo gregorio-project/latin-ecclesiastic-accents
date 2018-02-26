@@ -5,23 +5,9 @@
   • convert i to j and retry.
 
 - unius, ullius, totius etc.
-- Ægyptum
-- itane
-- Dicúnt
-- Mulier
-- Hæc
-- Illá
-- Magister
-- Dicít
-- Deum
-- Qúia
-- mihí
-- capút
-- Nisí
-- Spíritum
-- una
+- Ægyptum: problem of the lemmes 2, 3, 4 etc. which can be less quantified than the lemme 1.
 
-- Models: fix problem of uncomplete list of terms (repeat the last).
+- Models: fix problem of uncomplete list of "des:" (repeat the last).
 
 - Doesn't work on Firefox.
 

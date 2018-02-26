@@ -49,7 +49,7 @@ def atone(this_string):
 this_dir = os.path.abspath("/Users/frromain/Doc/Langues/Latin/latin-ecclesiastic-accents/accenteur/collatinus/")
 
 # Delete the contents of data.js:
-this_file = open(this_dir + "/../js/data.js", "w", encoding="utf-8")
+this_file = open(this_dir + "/../accenteur_data.js", "w", encoding="utf-8")
 this_file.write("// This script has been written by collatinus/jsonify.py and creates JS Objects from the Collatinus' data.\n\n");
 this_file.close()
 
@@ -170,12 +170,12 @@ for m in models:
     for t in terms_model.values():
         for sub_term in t: # Returns a list of [num_root, term(s)] (or "-").
             if sub_term != "-":
-                for sub_sub_term in sub_term[1].split(","):
-                    if atone(sub_sub_term) in terminations:
-                        terminations[atone(sub_sub_term)].append([m, sub_term[0], sub_sub_term])
+                for term_quantified in sub_term[1].split(","):
+                    if atone(term_quantified) in terminations:
+                        terminations[atone(term_quantified)].append([term_quantified, m, int(sub_term[0])])
                     else:
-                        terminations[atone(sub_sub_term)] = []
-                        terminations[atone(sub_sub_term)].append([m, sub_term[0], sub_sub_term])
+                        terminations[atone(term_quantified)] = []
+                        terminations[atone(term_quantified)].append([term_quantified, m, int(sub_term[0])])
 
 
 

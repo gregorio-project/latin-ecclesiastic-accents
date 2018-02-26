@@ -16,7 +16,7 @@ function accentify(word, uppercase){
             found = search_quantified(to_lowercase(word));
             for(var f in found){
                 if(f != ""){
-                    found.push(to_uppercase(last_long(sub_word)));
+                    found.push(to_uppercase(found[f]));
                 }
             }
         }
@@ -101,14 +101,14 @@ function search_quantified(word){
                 var quantified = r[0];
                 var model = r[1];
                 var num_root = r[2];
-                if(root == word && model == "inv"){
+                if(root == word && (model == "inv" || models[model]["roots"][num_root] == "K")){
                     found.push(quantified);
                 }
                 else{
                     for(var sub_t in terminations[term]){
                         t = terminations[term][sub_t]
-                        if(t[0] == model && t[1] == num_root){
-                            found.push(quantified + t[2]);
+                        if(t[1] == model && t[2] == num_root){
+                            found.push(quantified + t[0]);
                         }
                     }
                 }
@@ -117,11 +117,11 @@ function search_quantified(word){
     }
 
     // A word in "-sti" ("-stis") can be a syncopated form ("amasti" for "amavisti"):
-    if(word.indexOf("sti") == word.length - 3){
+    if(word.indexOf("sti") == word.length - 3 && word.length > 3){
         /(\S*)([aeiou])sti/.exec(word);
         found.push(RegExp.$1 + longs[vowels.indexOf(RegExp.$2)] + "stī");
     }
-    if(word.indexOf("stis") == word.length - 4){
+    if(word.indexOf("stis") == word.length - 4 && word.length > 4){
         /(\S*)([aeiou])stis/.exec(word);
         found.push(RegExp.$1 + longs[vowels.indexOf(RegExp.$2)] + "stĭs");
     }
@@ -150,7 +150,7 @@ function qty_to_accent(plain, quantified){
                 }
             }
             else{
-                if(plain[i] == "u" && plain[i - 1] == "q"){
+                if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1){
                     quantities[i] = "0";
                 }
                 else{
