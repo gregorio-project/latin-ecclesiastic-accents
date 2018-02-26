@@ -3,12 +3,11 @@
   • iniuriam
   • convert j to i and retry.
   • convert i to j and retry.
-- peccatrix
-- saeculum
-- alterius
 
+- unius, ullius, totius etc.
+- Ægyptum: problem of the lemmes 2, 3, 4 etc. which can be less quantified than the lemme 1.
 
-- Enclitics -que, -ve etc.
+- Models: fix problem of uncomplete list of "des:" (repeat the last).
 
 - Doesn't work on Firefox.
 

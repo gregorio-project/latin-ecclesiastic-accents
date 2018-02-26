@@ -49,7 +49,7 @@ def atone(this_string):
 this_dir = os.path.abspath("/Users/frromain/Doc/Langues/Latin/latin-ecclesiastic-accents/accenteur/collatinus/")
 
 # Delete the contents of data.js:
-this_file = open(this_dir + "/../js/data.js", "w", encoding="utf-8")
+this_file = open(this_dir + "/../accenteur_data.js", "w", encoding="utf-8")
 this_file.write("// This script has been written by collatinus/jsonify.py and creates JS Objects from the Collatinus' data.\n\n");
 this_file.close()
 
@@ -58,29 +58,36 @@ this_file.close()
 #######################################################################################
 
 # Reading of modeles.la to create dicts of models and terminations:
+# Models in modeles.la are of the form:
+# modele:deus // Name of the model.
+# pere:lupus  // Father.
+# R:2:3,0     // Root:num:delete,add.
+# des:2:1:ŭs  // Terminations:num_term:num_root:term.
+# des+:7,8,11,12:2:ĭī,ī;ĭī,ī;ĭīs,īs;ĭīs,īs // Terminations added to the father.
+
 models = read_this_file(this_dir + "/modeles.la")
 models_lines = models.split("\n")
 
 # Models (model: {{roots}, {terminations}}):
 models = dict()
-roots_tmp= dict()
-terms_tmp= dict()
+roots_tmp = dict()
+terms_tmp = dict()
 common_terms = dict()
 key = ""
 father = ""
 for l in models_lines:
     if not(l.startswith("!")):
         # Common terms, which will be reused later:
-        if(l.startswith("$")):
+        if l.startswith("$"):
             key_common = l.split("=")[0][0:]
             common_terms[key_common] = l.split("=")[1].split(";")
 
         # Name of the model:
-        elif(l.startswith("modele:")):
+        elif l.startswith("modele:"):
             key = l.split(":")[1]
 
         # Father:
-        elif(l.startswith("pere:")):
+        elif l.startswith("pere:"):
             father = l.split(":")[1]
             models[key] = dict()
             # Roots and terminations inherited from the father:
@@ -90,22 +97,22 @@ for l in models_lines:
             terms_tmp = deepcopy(models[key]["terms"]) 
 
         # Roots (roots[num of the root] = [characters to delete, characters to add]):
-        elif(l.startswith("R:")):
-            if(l.split(":")[2] == "K"):
+        elif l.startswith("R:"):
+            if l.split(":")[2] == "K":
                 roots_tmp[int(l.split(":")[1])] = "K"
-            elif(l.split(":")[2] == "-"):
+            elif l.split(":")[2] == "-":
                 roots_tmp[int(l.split(":")[1])] = "-"
-            elif(len(l.split(":")[2].split(",")) == 1):
+            elif len(l.split(":")[2].split(",")) == 1:
                 roots_tmp[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], "0"]
             else:
                 roots_tmp[int(l.split(":")[1])] = [l.split(":")[2].split(",")[0], l.split(":")[2].split(",")[1]]
 
         # Terminations (terms[num] = [num_rad, termination]):
-        elif(l.startswith("des") or l.startswith("abs")):
+        elif l.startswith("des") or l.startswith("abs"):
             add_term = True if l.startswith("des+") else False
             rm_term = True if l.startswith("abs") else False
             terms_range = l.split(":")[1]
-            if(len(l.split(":")) > 2): # If not an "abs:" line.
+            if len(l.split(":")) > 2: # If not an "abs:" line.
                 terms_root = l.split(":")[2]
                 terms_list = l.split(":")[3].split(";")
                 # We append common terminations ($uita, $lupus etc.):
@@ -123,14 +130,14 @@ for l in models_lines:
             subranges = terms_range.split(",")
             i = 0
             for s in subranges:
-                if("-" in s):
+                if "-" in s:
                     for t in range(int(s.split("-")[0]), int(s.split("-")[1]) + 1): # "for t in range(1, 6)" (if range = "1,5").
                         if not(add_term):
                             terms_tmp[str(t)] = [] # If the model doesn't inherit from a father, we create a terminations' list.
-                        if(rm_term):
+                        if rm_term:
                             del terms_tmp[str(t)]
                         else:
-                            if(terms_list[0] == "-"):
+                            if terms_list[0] == "-":
                                 terms_tmp[str(t)].append("-") # No termination.
                             else:
                                 terms_tmp[str(t)].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
@@ -138,10 +145,10 @@ for l in models_lines:
                 else:
                     if not(add_term):
                         terms_tmp[s] = [] # If the model doesn't inherit from a father, we create a terminations' list.
-                    if(rm_term):
+                    if rm_term:
                         del terms_tmp[s]
                     else:
-                        if(terms_list[0] == "-"):
+                        if terms_list[0] == "-":
                             terms_tmp[s].append("-") # No termination.
                         else:
                             terms_tmp[s].append([terms_root, terms_list[i]]) # Be careful: sometimes last term is missing in some models ("ibus" once for both dat. and abl. plur.).
@@ -149,7 +156,7 @@ for l in models_lines:
 
         # If we find an empty line, then we make the synthesis of the model
         # and we reinitialize the data:
-        elif(l == "") and (key != ""):
+        elif l == "" and key != "":
             models[key] = dict(roots = deepcopy(roots_tmp), terms = deepcopy(terms_tmp))
             key = ""
             father = ""
@@ -163,12 +170,12 @@ for m in models:
     for t in terms_model.values():
         for sub_term in t: # Returns a list of [num_root, term(s)] (or "-").
             if sub_term != "-":
-                for sub_sub_term in sub_term[1].split(","):
-                    if atone(sub_sub_term) in terminations:
-                        terminations[atone(sub_sub_term)].append([m, sub_term[0], sub_sub_term])
+                for term_quantified in sub_term[1].split(","):
+                    if atone(term_quantified) in terminations:
+                        terminations[atone(term_quantified)].append([term_quantified, m, int(sub_term[0])])
                     else:
-                        terminations[atone(sub_sub_term)] = []
-                        terminations[atone(sub_sub_term)].append([m, sub_term[0], sub_sub_term])
+                        terminations[atone(term_quantified)] = []
+                        terminations[atone(term_quantified)].append([term_quantified, m, int(sub_term[0])])
 
 
 
@@ -176,7 +183,7 @@ for m in models:
 
 # Reading of lemmes.la to create a dict of roots:
 lemmes = read_this_file(this_dir + "/lemmes.la")
-lemmes_lines = lemmes.split("\n") # Lemmes' lines look like this: "canonical form | model | root2 | root3 | terminations | rate. Only the 4 first fields interest us.
+lemmes_lines = lemmes.split("\n") # Lemmes' lines look like this: "canonical form | model | root1 | root2 | terminations | rate. Only the 4 first fields interest us.
 
 # Roots (roots[root] = [root, model, num_root]):
 roots = dict()
@@ -209,16 +216,21 @@ for l in lemmes_lines:
 
         # Roots 1 and 2:
         if splinters[2] != '':
-            if not (atone(splinters[2]) in roots or atone(splinters[2]) == ""):
-                roots[atone(splinters[2])] = []
-            roots[atone(splinters[2])].append([splinters[2], splinters[1], 1])
+            for splinter in splinters[2].split(","):
+                if not (atone(splinter) in roots):
+                    roots[atone(splinter)] = []
+                roots[atone(splinter)].append([splinter, splinters[1], 1])
         if splinters[3] != '':
-            if not (atone(splinters[3]) in roots or atone(splinters[3]) == ""):
-                roots[atone(splinters[3])] = []
-            roots[atone(splinters[3])].append([splinters[3], splinters[1], 2])
+            for splinter in splinters[3].split(","):
+                if not (atone(splinter) in roots):
+                    roots[atone(splinter)] = []
+                roots[atone(splinter)].append([splinter, splinters[1], 2])
 
-# Write roots and terminations in data.js::
-json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
+# Write models, roots and terminations in data.js::
+json_path = open(this_dir + "/../accenteur_data.js", "a", encoding="utf-8")
+json_path.write("var models = ");
+json_path.write(json.JSONEncoder(ensure_ascii = False).encode(models))
+json_path.write(";\n\n");
 json_path.write("var roots = ");
 json_path.write(json.JSONEncoder(ensure_ascii = False).encode(roots))
 json_path.write(";\n\n");
