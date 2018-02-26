@@ -226,8 +226,11 @@ for l in lemmes_lines:
                     roots[atone(splinter)] = []
                 roots[atone(splinter)].append([splinter, splinters[1], 2])
 
-# Write roots and terminations in data.js::
-json_path = open(this_dir + "/../js/data.js", "a", encoding="utf-8")
+# Write models, roots and terminations in data.js::
+json_path = open(this_dir + "/../accenteur_data.js", "a", encoding="utf-8")
+json_path.write("var models = ");
+json_path.write(json.JSONEncoder(ensure_ascii = False).encode(models))
+json_path.write(";\n\n");
 json_path.write("var roots = ");
 json_path.write(json.JSONEncoder(ensure_ascii = False).encode(roots))
 json_path.write(";\n\n");
