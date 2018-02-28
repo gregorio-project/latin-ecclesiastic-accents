@@ -7,8 +7,9 @@ The goal is to have some documentation about accentuation for prose, and a corpu
 
 ## Resources
 
-- [doc/accentuation-rules.md](doc/accentuation-rules.md) contains the rules for accentuating prose
-- [corpus/](corpus) contains a corpus of accentuated texts
+- [doc/accentuation-rules.md](doc/accentuation-rules.md) contains the rules for accentuating prose.
+- [corpus/](corpus) contains a corpus of accentuated texts.
+- [accenteur/](accenteur) is a little web application to accent a latin text.
 
 
 ## Bibliography
@@ -27,6 +28,7 @@ This work would not have been possible without the following persons/institution
 - M. Philippe Verkerk and M. Yves Ouvrard, for helping us directly and through [collatinus](http://outils.biblissima.fr/collatinus/)
 - Jakub Jelinek, for his great help on corpus treatment
 - the Abbey of Le Barroux (FR)
+- the team of [Collatinus](https://github.com/biblissima/collatinus)
 
 
 ## Licence
