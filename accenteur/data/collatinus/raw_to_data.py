@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# This script converts the Collatinus data files (lemmes.la, modeles.la etc.)
+# This script converts the Collatinus data files (lemmes.la and modeles.la)
 # into JSON Objects in the global data file 'data.txt'.
 
 import os
@@ -242,12 +242,11 @@ for l in lemmes_lines:
 
 #######################################################################################
 
-# Finally, we write (models,) roots and terminations in the data file as JSON Objects:
+# Finally, we write models, roots and terminations in the data file as JSON Objects:
 json_path = open(this_dir + "/data.txt", "a", encoding="utf-8")
-# Uncomment the following lines if you want to write the models into data.txt (useful for debugging only):
-#json_path.write("##### Models #####\n\n");
-#json_path.write(json.JSONEncoder(ensure_ascii = False).encode(models))
-#json_path.write("\n\n\n");
+json_path.write("##### Models #####\n\n");
+json_path.write(json.JSONEncoder(ensure_ascii = False).encode(models))
+json_path.write("\n\n\n");
 json_path.write("##### Roots #####\n\n");
 json_path.write(json.JSONEncoder(ensure_ascii = False).encode(roots))
 json_path.write("\n\n\n");

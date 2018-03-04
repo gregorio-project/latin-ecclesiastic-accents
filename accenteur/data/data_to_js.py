@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# This script pasts the data files (roots.txt, terminations.txt)
+# This script pasts the data files (models.txt, roots.txt, terminations.txt)
 # in 'accenteur/accenteur_data.js' as JS-readable Objects.
 # It must be launched after every modification of the data files.
 
@@ -10,6 +10,10 @@ import re
 this_dir = os.path.abspath(".")
 
 # Read the source files:
+this_file = open(this_dir + "/models.txt", "r", encoding="utf-8")
+models = re.sub("\n\n", "", this_file.read());
+this_file.close()
+
 this_file = open(this_dir + "/roots.txt", "r", encoding="utf-8")
 roots = re.sub("\n\n", "", this_file.read());
 this_file.close()
@@ -25,7 +29,9 @@ json_path.close()
 
 # Write the target file:
 json_path = open(this_dir + "/../accenteur_data.js", "a", encoding="utf-8")
-json_path.write("var roots = {");
+json_path.write("var models = {");
+json_path.write(models)
+json_path.write("};\n\n");json_path.write("var roots = {");
 json_path.write(roots)
 json_path.write("};\n\n");
 json_path.write("var terminations = {");
