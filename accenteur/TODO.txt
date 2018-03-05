@@ -1,3 +1,5 @@
+- Doesn't work on Firefox.
+
 - J/I:
   • injicio, abjicio etc.
   • iniuriam
@@ -7,11 +9,4 @@
 - unius, ullius, totius etc.
 - Ægyptum: problem of the lemmes 2, 3, 4 etc. which can be less quantified than the lemme 1.
 
-- Models: fix problem of uncomplete list of "des:" (repeat the last).
-
-- Doesn't work on Firefox.
-
-- Cleanest appearence of the roots and terminations in data.js: alphabetical sorting? linebreak after each entry? Will JS be able to read that?
-
-
-
+- Models in collatinus: fix problem of uncomplete list of "des:" (repeat the last).

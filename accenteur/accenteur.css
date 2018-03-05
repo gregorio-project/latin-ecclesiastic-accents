@@ -3,18 +3,27 @@ body{
     width: 95%
 }
 
-h1, h2{
+h1, h2, h3{
     color: grey;
-    font-family: verdana;
 }
 
 h1{
-    font-size: 18pt;
+    font-family: serif;
+    font-size: 24pt;
     margin-bottom: 30px;
 }
 
 h2{
-    font-size: 12pt;
+    font-family: verdana;
+    font-size: 24pt;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+h3{
+    font-family: serif;
+    font-size: 14pt;
     margin-bottom: 60px;
     margin-top: 0px;
     text-align: center;
@@ -31,15 +40,6 @@ h2{
     margin: 20px;
 }
 
-#input{
-    font-family: Arial, Garamond;
-    font-size: 12pt;
-    height: 500px;
-    margin: 20px;
-    margin-top: 0px;
-    width: 400px;
-}
-
 #page{
     align-items: center;
     display: flex;
@@ -52,13 +52,13 @@ h2{
 .text_area{
     background-color: white;
     border: 1px solid grey;
-    font-family: Arial, Garamond;
-    font-size: 12pt;
-    height: 500px;
+    font-family: garamond;
+    font-size: 16pt;
+    height: 600px;
     margin: 20px;
     margin-top: 0px;
     overflow: scroll;
-    width: 400px;
+    width: 450px;
 }
 
 .red{
