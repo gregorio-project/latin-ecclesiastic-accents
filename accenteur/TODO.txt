@@ -1,12 +1,16 @@
-- Doesn't work on Firefox.
-
 - J/I:
   • injicio, abjicio etc.
   • iniuriam
   • convert j to i and retry.
   • convert i to j and retry.
 
-- unius, ullius, totius etc.
-- Ægyptum: problem of the lemmes 2, 3, 4 etc. which can be less quantified than the lemme 1.
+- illius, istius, unius, ullius, totius etc.
+
+- Ægyptum: problem of the lemmes 2, 3, 4 etc. which can be less quantified than the lemme 1: accentify by position (in conversion from collatinus to js, or in the javascript core?).
+
+- dilectus (same pb?).
 
 - Models in collatinus: fix problem of uncomplete list of "des:" (repeat the last).
+
+- Overlay "please wait" for big texts.
+
