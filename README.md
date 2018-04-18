@@ -1,4 +1,4 @@
-# latin-ecclesiatic-accents
+# latin-ecclesiastic-accents
 
 This repository contains resources for ecclesiastic accentuation.
 
