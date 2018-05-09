@@ -4,8 +4,6 @@
   • convert j to i and retry.
   • convert i to j and retry.
 
-- illius, istius, unius, ullius, totius etc.
-
 - Models in collatinus: fix problem of uncomplete list of "des:" (repeat the last).
 
 - Overlay "please wait" for big texts.

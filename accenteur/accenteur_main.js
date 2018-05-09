@@ -19,6 +19,9 @@ $("document").ready(function(){
             else if(words[i] == "totius"){
                 words[i] = "totíus";
             }
+            else if(words[i] == "solius"){
+                words[i] = "solíus";
+            }
             else if(words[i].length > 2){
                 words[i] = words[i].replace(/æ/g, 'ae');
                 words[i] = words[i].replace(/œ/g, 'oe');
