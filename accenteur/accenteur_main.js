@@ -3,8 +3,10 @@
 $("document").ready(function(){
     $("#input").on({
         click: function(){
-            $('#input').html('');
-            $('#input').css({color: 'black'});
+            if($(this).text() == 'Hic scribe textum tuum…'){
+                $('#input').html('');
+                $('#input').css({color: 'black'});
+            }
         },
 
         keyup: function(e){
