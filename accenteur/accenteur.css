@@ -40,6 +40,10 @@ h3{
     margin: 20px;
 }
 
+#input{
+    color: grey;
+}
+
 #page{
     align-items: center;
     display: flex;
