@@ -72,7 +72,7 @@ def long_by_position(word):
     return word
 
 # Path to the main directory:
-accenteur_dir = os.path.abspath("/home/frromain/Documents/Langues/Latin/latin-ecclesiastic-accents/accenteur")
+accenteur_dir = os.path.abspath("/media/fr_romain/FR_ROMAIN/Documents/Langues/Latin/latin-ecclesiastic-accents/accenteur")
 
 # Delete the contents of accenteur_data.js:
 this_file = open(accenteur_dir + "/accenteur_data.js", "w", encoding="utf-8")
