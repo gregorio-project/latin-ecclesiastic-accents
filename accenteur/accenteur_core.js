@@ -157,7 +157,7 @@ function qty_to_accent(plain, quantified){
                     quantities[i] = "-";
                 }
             }
-            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "A", "E", "q"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe", "qu".
+            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "A", "E", "q", "g"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe", "qu", "gu".
                 num_syllables ++;
             }
         }
