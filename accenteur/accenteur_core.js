@@ -140,14 +140,9 @@ function qty_to_accent(plain, quantified){
     // We note the quantities of all the vowels of the word:
     for(var i in quantified){
         var c = quantified[i];
-        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, unless it is the final letter of the word (but not after an other vowel, except a final "ae") or 'u' after 'q'.
+        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, except 'u' after 'q'.
             if(i == quantified.length - 1){
-                if(vowels.indexOf(plain[plain.length - 2]) != -1 && (c == "e" && plain[plain.length - 2] == "a") == false){
-                    quantities[i] = "-";
-                }
-                else{
-                    quantities[i] = "0";
-                }
+                quantities[i] = "-";
             }
             else{
                 if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1){
