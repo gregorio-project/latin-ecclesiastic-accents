@@ -57,8 +57,8 @@ def atone(this_string):
 # Rule:
 # If a vowel is followed by two consonantics, it is long by position.
 # Exception:
-# If the 1st consonantic is a 'begadkefat' (hebrew mnemonic), i.e. is in "bgdcpt",
-# and the 2d one is a 'liquid', i.e. is in "lr", then the vowel is common (and thus treated as breve in ecclesiastic context).
+# If the 1st consonantic is a 'begadkefat' (hebrew mnemonic), i.e. is in [bgdcpt],
+# and the 2d one is a 'liquid', i.e. is in [lr], then the vowel is common (and thus treated as breve in ecclesiastic context).
 def long_by_position(word):
     vowels = ["a", "e", "i", "o", "u", "y"]
     longs = ["ā", "ē", "ī", "ō", "ū", "ȳ"]
@@ -68,7 +68,8 @@ def long_by_position(word):
     for c in range(len(word) - 2):
         if word[c] in vowels:
             if (word[c + 1] in consonantics and word[c + 2] in consonantics) and not (word[c + 1] in begadkefat and word[c + 2] in liquids):
-                word = word[:c] + longs[vowels.index(word[c])] + word[c + 1:]
+                if not ((word[c] == "e") and (word[c - 1] in ["ā", "ō"])): #If "āe" or "ōe", don't set "e" long.
+                    word = word[:c] + longs[vowels.index(word[c])] + word[c + 1:]
     return word
 
 # Path to the main directory:

@@ -141,16 +141,11 @@ function qty_to_accent(plain, quantified){
     for(var i in quantified){
         var c = quantified[i];
         if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, except 'u' after 'q'.
-            if(i == quantified.length - 1){
-                quantities[i] = "-";
+            if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1){
+                quantities[i] = "0";
             }
             else{
-                if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1){
-                    quantities[i] = "0";
-                }
-                else{
-                    quantities[i] = "-";
-                }
+                quantities[i] = "-";
             }
             if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "o", "A", "E", "q", "g"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe", "qu", "gu".
                 num_syllables ++;

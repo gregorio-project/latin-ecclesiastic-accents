@@ -10,8 +10,3 @@
 
 - If input accented, only check.
 
-- Errors:
-praesta
-cœli
-coeli
-
