@@ -6,19 +6,12 @@
 
 - Overlay "please wait" for big texts.
 
+- From the usability POV, it would be nice if for the words where there are two possibilities of accent one could make a choice once for all such words in the text, e.g. in the psalms there are hundreds of occurrences of Domine where one wants to use Dómine all the time, never Domíne.
+
+- If input accented, only check.
+
+- Errors:
 praesta
-holocaustum
 cœli
 coeli
-Austro
-
-From the usability POV, it would be nice if for the words where there are two possibilities of accent one could make a choice once for all such words in the text, e.g. in the psalms there are hundreds of occurrences of Domine where one wants to use Dómine all the time, never Domíne.
-
-If input accented, only check.
-
-Scission from Collatinus:
-- rename 'collatinus' => 'sources' etc. (readme)
-- 3 champs au lieu de 5
-- ordre alphabétique
-(- Models in collatinus: fix problem of uncomplete list of "des:" (repeat the last).) du coup laisser tomber
 

@@ -190,10 +190,7 @@ function qty_to_accent(plain, quantified){
             var q = quantities[quantities.length -1 - i];
             if(q != "0"){ // Not a consonantic.
                 count_vowels ++;
-                if(count_vowels == 2 && q == "+"){ // Penult. accented.
-                    accent_pos = quantities.length - i;
-                }
-                else if(count_vowels == 3 && accent_pos == 0){ // Antepenult. accented.
+                if((count_vowels == 2 && q == "+") || (count_vowels == 3 && accent_pos == 0)){
                     if(["e", "u"].indexOf(plain_split[quantities.length - 1 - i]) != -1 && ["a", "e", "o", "A", "E", "U"].indexOf(plain_split[quantities.length - 2 - i]) != -1){ // "ae", "oe", "au": accent on the first letter.
                         accent_pos = quantities.length - i - 1;
                     }
