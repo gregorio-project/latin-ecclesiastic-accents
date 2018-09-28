@@ -141,7 +141,7 @@ function qty_to_accent(plain, quantified){
     for(var i in quantified){
         var c = quantified[i];
         if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, except 'u' after 'q'.
-            if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1){
+            if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1 || vowels.indexOf(plain[plain.length - 2]) != -1 && (c == "e" && plain[plain.length - 2] == "a")){
                 quantities[i] = "0";
             }
             else{
