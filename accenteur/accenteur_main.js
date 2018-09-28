@@ -18,6 +18,9 @@ $('document').ready(function(){
                 else if(words[i] == 'illius'){
                     words[i] = 'illíus';
                 }
+                else if(words[i] == 'unius'){
+                    words[i] = 'uníus';
+                }
                 else if(words[i] == 'ullius'){
                     words[i] = 'ullíus';
                 }

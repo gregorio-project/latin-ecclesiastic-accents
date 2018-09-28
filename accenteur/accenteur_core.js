@@ -140,24 +140,14 @@ function qty_to_accent(plain, quantified){
     // We note the quantities of all the vowels of the word:
     for(var i in quantified){
         var c = quantified[i];
-        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, unless it is the final letter of the word (but not after an other vowel, except a final "ae") or 'u' after 'q'.
-            if(i == quantified.length - 1){
-                if(vowels.indexOf(plain[plain.length - 2]) != -1 && (c == "e" && plain[plain.length - 2] == "a") == false){
-                    quantities[i] = "-";
-                }
-                else{
-                    quantities[i] = "0";
-                }
+        if(vowels.indexOf(c) != -1){ // Vowel without quantity is considered as a breve, except 'u' after 'q'.
+            if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1 || vowels.indexOf(plain[plain.length - 2]) != -1 && (c == "e" && plain[plain.length - 2] == "a")){
+                quantities[i] = "0";
             }
             else{
-                if(plain[i] == "u" && ["Q", "q"].indexOf(plain[i - 1]) != -1){
-                    quantities[i] = "0";
-                }
-                else{
-                    quantities[i] = "-";
-                }
+                quantities[i] = "-";
             }
-            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "A", "E", "q"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe", "qu".
+            if((["e", "u"].indexOf(plain[i]) != -1 && ["a", "e", "o", "A", "E", "q", "g"].indexOf(plain[i - 1]) != -1) == false){ // If c is not the second letter of "au", "eu", "ae", "oe", "qu", "gu".
                 num_syllables ++;
             }
         }
@@ -195,10 +185,7 @@ function qty_to_accent(plain, quantified){
             var q = quantities[quantities.length -1 - i];
             if(q != "0"){ // Not a consonantic.
                 count_vowels ++;
-                if(count_vowels == 2 && q == "+"){ // Penult. accented.
-                    accent_pos = quantities.length - i;
-                }
-                else if(count_vowels == 3 && accent_pos == 0){ // Antepenult. accented.
+                if((count_vowels == 2 && q == "+") || (count_vowels == 3 && accent_pos == 0)){
                     if(["e", "u"].indexOf(plain_split[quantities.length - 1 - i]) != -1 && ["a", "e", "o", "A", "E", "U"].indexOf(plain_split[quantities.length - 2 - i]) != -1){ // "ae", "oe", "au": accent on the first letter.
                         accent_pos = quantities.length - i - 1;
                     }
