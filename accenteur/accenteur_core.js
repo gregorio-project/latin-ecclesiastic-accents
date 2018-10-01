@@ -163,7 +163,7 @@ function qty_to_accent(plain, quantified){
         // 1. Vowels without quantities:
         if(vowels.indexOf(c) != -1){
             // Vowel without quantity is considered as a breve, except 'u' after 'q' and 'e' after 'ā' (because 'sāeculum' is different of 'āĕris'):
-            if((plain[i] == 'u' && ['Q', 'q'].indexOf(plain[i - 1]) != -1) || (c == 'e' && quantified[i - 1] == 'ā')){
+            if((plain[i] == 'u' && ['Q', 'q'].indexOf(plain[i - 1]) != -1) || (c == 'e' && plain[i - 1] == 'a')){
                 quantities[i] = '0';
             }
             else{
