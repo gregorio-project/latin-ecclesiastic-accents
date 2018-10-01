@@ -10,14 +10,34 @@ var lowercase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm'
 
 function accentify(word, uppercase){
     var found = search_quantified(word);
-    if(found.length == 0){
-        // If uppercase, lowercase and retry:
-        if(uppercase){
-            found = search_quantified(to_lowercase(word));
-            for(var f in found){
-                if(f != ''){
-                    found.push(to_uppercase(found[f]));
-                }
+    
+    // If fail, try something else:
+    // If uppercase, lowercase and retry:
+    if(found.length == 0 && uppercase){
+        var sub_found = search_quantified(to_lowercase(word));
+        for(var s in sub_found){
+            if(s != ''){
+                found.push(to_uppercase(sub_found[s]));
+            }
+        }
+    }
+
+    // If word begins with 'ex-', it can be a secondary form ('expecto' for 'exspecto'):
+    if(found.length == 0 && word.indexOf('ex') == 0){
+        var sub_found = search_quantified(word.replace(/^ex/g, 'exs'));
+        for(var s in sub_found){
+            if(s != ''){
+                found.push(sub_found[s].replace(/^([ēĕ])xs/g, '$1x'));
+            }
+        }
+    }
+
+    // If word begins with 'aff-', it can be a secondary form ('affero' for 'adfero'):
+    if(found.length == 0 && word.indexOf('aff') == 0){
+        var sub_found = search_quantified(word.replace(/^aff/g, 'adf'));
+        for(var s in sub_found){
+            if(s != ''){
+                found.push(sub_found[s].replace(/^([āă])df/g, '$1ff'));
             }
         }
     }
