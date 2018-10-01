@@ -211,21 +211,23 @@ function qty_to_accent(plain, quantified){
         var accent_pos = 0; // Will contain the position of accent.
         for(var i in quantities){
             var qty = quantities[quantities.length -i - 1];
-            var prev_qty = quantities[quantities.length -i - 2];
             if(qty != '0'){ // Not a consonantic.
                 nb_vowels ++;
                 if((nb_vowels == 2 && qty == '+') || (nb_vowels == 3 && accent_pos == 0)){
-                    if(['e', 'u'].indexOf(plain_split[quantities.length - i - 1]) != -1 && ['a', 'e', 'o', 'A', 'E', 'U'].indexOf(plain_split[quantities.length - i - 2]) != -1){ // 'ae', 'oe', 'au': accent on the first letter (except diphtongs).
-                        if(qty == '-' && prev_qty == '+'){
-                            accent_pos = quantities.length - i;
-                        }
-                        else if(qty == '0' && prev_qty == '-'){
-                            accent_pos = quantities.length - i;
-                        }
-                        else{
+                    // Case of 'ae':
+                    if(plain_split[quantities.length - i - 1] == 'e' && plain_split[quantities.length - i - 2] == 'a'){
+                        if(qty == '0'){ // 'āe' like in 'sǽculum'.
                             accent_pos = quantities.length - i - 1;
                         }
+                        else if(qty == '-'){ // 'āĕ' like in 'áeris'.
+                            accent_pos = quantities.length - i;
+                        }
                     }
+                    // Cases of 'oe', 'au', 'eu': accent on the first letter (except if the second letter is long):
+                    else if(['e', 'u'].indexOf(plain_split[quantities.length - i - 1]) != -1 && ['a', 'e', 'o', 'A', 'E', 'U'].indexOf(plain_split[quantities.length - i - 2]) != -1 && qty != '+'){
+                        accent_pos = quantities.length - i - 1;
+                    }
+                    // Other cases:
                     else{
                         accent_pos = quantities.length - i;
                     }
