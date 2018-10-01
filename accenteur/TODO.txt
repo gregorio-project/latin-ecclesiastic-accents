@@ -10,6 +10,9 @@
 
 - If input accented, only check.
 
+- Problem in case of words with 'æ': will be replaced by 'ae' in accenteur_main.js (before accentuation), and thus will give two possibilities for some words like 'ærem' (which has no more than one possible accentuation).
+
+
 --------------------
-En cas de modifs dans le code au niveau des diphtongues, mots à tester : aerius aerem saeculum auferas Boetius foederis saeculorum foenera eucharis eunuchus eundum.
+En cas de modifs dans le code au niveau des diphtongues, mots à tester : aerius aerem saeculum auferas Boetius foederis saeculorum foenera eucharis eunuchus eundum aereum.
 
