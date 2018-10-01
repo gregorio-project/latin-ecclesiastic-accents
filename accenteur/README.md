@@ -10,7 +10,7 @@ Its name comes from the french name of a little bird: the Dunnock (*Prunella mod
 # Data
 The file `accenteur/accenteur_data.js` contains all the data necessary to accentify a latin word (models, roots and terminations).
 
-The folder `accenteur/collatinus/` contains the raw data files extracted from Collatinus (`models.la` and `lemmes.la`) and a script to convert them into JS Objects and write these Objects in the file `accenteur/accenteur_data.js`.
+The folder `accenteur/sources/` contains the raw data files extracted from Collatinus (`models.la` and `lemmes.la`) and a script to convert them into JS Objects and write these Objects in the file `accenteur/accenteur_data.js`.
 
 
 # Algorithm
