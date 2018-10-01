@@ -10,3 +10,6 @@
 
 - If input accented, only check.
 
+--------------------
+En cas de modifs dans le code au niveau des diphtongues, mots à tester : aerius aerem saeculum auferas Boetius foederis saeculorum foenera eucharis eunuchus eundum.
+
