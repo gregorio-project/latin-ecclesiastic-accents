@@ -178,7 +178,7 @@ IV. Quæ sunt instruménta bonórum óperum
 47 Mortem cotídie ante óculos suspéctam habére.
 48 Actus vitæ suæ omni hora custodíre.
 49 In omni loco Deum se respícere pro certo scire.
-50 Cogitatiónes malas cordi suo adveniéntes mox ad Christum adlídere, et senióri spiritáli patefácere.
+50 Cogitatiónes malas cordi suo adveniéntes mox ad Christum allídere, et senióri spiritáli patefácere.
 51 Os suum a malo vel pravo elóquio custodíre.
 52 Multum loqui non amáre.
 53 Verba vana aut rísui apta non loqui.
@@ -244,7 +244,7 @@ VII. De humilitáte
 2 Cum hæc ergo dicit, osténdit nobis omnem exaltatiónem genus esse supérbiæ.
 3 Quod se cavére prophéta índicat dicens: Dómine, non est exaltátum cor meum neque eláti sunt óculi mei, neque ambulávi in magnis neque in mirabílibus super me.
 4 Sed quid si non humíliter sentiébam, si exaltávi ánimam meam? – sicut ablactátum super matrem suam, ita retríbues in ánimam meam.
-5 Unde, fratres, si summæ humilitátis vólumus culmen adtíngere et ad exaltatiónem illam cæléstem ad quam per præséntis vitæ humilitátem ascénditur vólumus velóciter perveníre,
+5 Unde, fratres, si summæ humilitátis vólumus culmen attíngere et ad exaltatiónem illam cæléstem ad quam per præséntis vitæ humilitátem ascénditur vólumus velóciter perveníre,
 6 áctibus nostris ascendéntibus scala illa erigénda est quæ in sómnio Iacob appáruit, per quam ei descendéntes et ascendéntes ángeli monstrabántur.
 7 Non aliud sine dúbio descénsus ille et ascénsus a nobis intellégitur nisi exaltatióne descéndere et humilitáte ascéndere.
 8 Scala vero ipsa erécta nostra est vita in sǽculo, quæ humiliáto corde a Dómino erigátur ad cælum.
@@ -424,13 +424,13 @@ XVIII. Quo órdine ipsi psalmi dicéndi sunt
 20 Dispósito órdine psalmódiæ diúrnæ, réliqui omnes psalmi qui supérsunt æquáliter dividántur in septem nóctium Vigílias,
 21 partiéndo scílicet qui inter eos prolixióres sunt psalmi et duódecim per unamquámque constítuens noctem.
 22 Hoc præcípue commonéntes ut, si cui forte hæc distribútio psalmórum displicúerit, órdinet si mélius áliter iudicáverit,
-23 dum omni modis id adténdat ut omni hebdómada psaltérium ex íntegro número centum quinquagínta psalmórum psallántur, et domínico die semper a caput reprehendátur ad Vigílias.
+23 dum omni modis id atténdat ut omni hebdómada psaltérium ex íntegro número centum quinquagínta psalmórum psallántur, et domínico die semper a caput reprehendátur ad Vigílias.
 24 Quia nimis inértem devotiónis suæ servítium osténdunt mónachi qui minus a psaltério cum cánticis consuetudináriis per septimánæ círculum psallunt,
 25 dum quando legámus sanctos Patres nostros uno die hoc strénue implésse, quod nos tépidi útinam septimána íntegra persolvámus.
 
 XIX. De disciplína psalléndi
 1 Ubíque crédimus divínam esse præséntiam et óculos Dómini in omni loco speculári bonos et malos,
-2 máxime tamen hoc sine áliqua dubitatióne credámus cum ad opus divínum adsístimus.
+2 máxime tamen hoc sine áliqua dubitatióne credámus cum ad opus divínum assístimus.
 3 Ideo semper mémores simus quod ait prophéta: Servíte Dómino in timóre,
 4 et íterum: Psállite sapiénter,
 5 et: In conspéctu angelórum psallam tibi.
@@ -498,7 +498,7 @@ XXVII. Quáliter débeat abbas sollícitus esse circa excommunicátos
 4 sed, sicut ait item Apóstolus, confirmétur in eo cáritas et orétur pro eo ab ómnibus.
 5 Magnópere enim debet sollicitúdinem gérere abbas et omni sagacitáte et indústria cúrrere, ne áliquam de óvibus sibi créditis perdat.
 6 Nóverit enim se infirmárum curam suscepísse animárum, non super sanas tyránnidem;
-7 et métuat prophétæ comminatiónem per quam dicit Deus: Quod crassum videbátis adsumebátis et quod débile erat proiciebátis.
+7 et métuat prophétæ comminatiónem per quam dicit Deus: Quod crassum videbátis assumebátis et quod débile erat proiciebátis.
 8 Et pastóris boni pium imitétur exémplum, qui, relíctis nonagínta novem óvibus in móntibus, ábiit unam ovem quæ erráverat quǽrere;
 9 cuius infirmitáti in tantum compássus est, ut eam in sacris húmeris suis dignarétur impónere et sic reportáre ad gregem.
 
@@ -546,7 +546,7 @@ XXXI. De cellerário monastérii, qualis sit
 XXXII. De ferraméntis vel rebus monastérii
 1 Substántia monastérii in ferraméntis vel véstibus seu quibúslibet rebus prævídeat abbas fratres de quorum vita et móribus secúrus sit,
 2 et eis síngula, ut útile iudicáverit, consígnet custodiénda atque recolligénda.
-3 Ex quibus abbas brevem téneat, ut dum sibi in ipsa adsignáta fratres vicíssim succédunt, sciat quid dat aut quid récipit.
+3 Ex quibus abbas brevem téneat, ut dum sibi in ipsa assignáta fratres vicíssim succédunt, sciat quid dat aut quid récipit.
 4 Si quis autem sórdide aut neglegénter res monastérii tractáverit, corripiátur;
 5 si non emendáverit, disciplínæ regulári subiáceat.
 
@@ -662,7 +662,7 @@ XLII. Ut post Completórium nemo loquátur
 4 non autem Heptatéucum aut Regum, quia infírmis intelléctibus non erit útile illa hora hanc Scriptúram audíre, áliis vero horis legántur.
 5 Si autem ieiúnii dies fúerit, dicta véspera parvo intervállo mox accédant ad lectiónem Collatiónum, ut díximus.
 6 Et lectis quáttuor aut quinque fóliis vel quantum hora permíttit,
-7 ómnibus in unum occurréntibus per hanc moram lectiónis, si qui forte in adsignáto sibi commísso fuit occupátus,
+7 ómnibus in unum occurréntibus per hanc moram lectiónis, si qui forte in assignáto sibi commísso fuit occupátus,
 8 omnes ergo in unum pósiti cómpleant et, exeúntes a Completóriis, nulla sit licéntia dénuo cuiquam loqui áliquid
 9 – quod si invéntus fúerit quisquam prævaricáre hanc taciturnitátis régulam, gravi vindíctæ subiáceat –
 10 excépto si necéssitas hóspitum supervénerit aut forte abbas álicui áliquid iússerit,
@@ -773,7 +773,7 @@ LI. De frátribus qui non longe satis proficiscúntur
 LII. De oratório monastérii
 1 Oratórium hoc sit quod dícitur, nec ibi quicquam aliud gerátur aut condátur.
 2 Expléto ópere Dei, omnes cum summo siléntio éxeant, et habeátur reveréntia Deo,
-3 ut frater qui forte sibi peculiáriter vult oráre non impediátur alteríus improbitáte.
+3 ut frater qui forte sibi peculiáriter vult oráre non impediátur altérius improbitáte.
 4 Sed et si áliter vult sibi forte secrétius oráre, simplíciter intret et oret, non in clamósa voce, sed in lácrimis et intentióne cordis.
 5 Ergo qui símile opus non facit, non permittátur explícito ópere Dei remorári in oratório, sicut dictum est, ne álius impediméntum patiátur.
 
@@ -798,7 +798,7 @@ LIII. De hospítibus suscipiéndis
 18 Quibus, ut índigent, solácia administréntur, ut absque murmuratióne sérviant, et íterum, quando occupatiónem minórem habent, éxeant ubi eis imperátur in ópera.
 19 Et non solum ipsis, sed et in ómnibus offíciis monastérii ista sit considerátio,
 20 ut quando índigent solácia adcommodéntur eis, et íterum quando vacant obœ́diant imperátis.
-21 Item et cellam hóspitum hábeat adsignátam frater cuius ánimam timor Dei póssidet;
+21 Item et cellam hóspitum hábeat assignátam frater cuius ánimam timor Dei póssidet;
 22 ubi sint lecti strati sufficiénter. Et domus Dei a sapiéntibus et sapiénter administrétur.
 23 Hospítibus autem cui non præcípitur nullátenus sociétur neque conloquátur;
 24 sed si obviáverit aut víderit, salutátis humíliter, ut díximus, et petíta benedictióne pertránseat, dicens sibi non licére cólloqui cum hóspite.
@@ -898,7 +898,7 @@ LX. De sacerdótibus qui forte volúerint in monastério habitáre
 4 Concedátur ei tamen post abbátem stare et benedícere aut missas tenére, si tamen iússerit ei abbas;
 5 sin álias, nullátenus áliqua præsúmat, sciens se disciplínæ regulári súbditum, et magis humilitátis exémpla ómnibus det.
 6 Et si forte ordinatiónis aut alicúius rei causa fúerit in monastério,
-7 illum locum adténdat quando ingréssus est in monastério, non illum qui ei pro reveréntia sacerdótii concéssus est.
+7 illum locum atténdat quando ingréssus est in monastério, non illum qui ei pro reveréntia sacerdótii concéssus est.
 8 Clericórum autem si quis eódem desidério monastério sociári volúerit, loco medíocri collocéntur;
 9 et ipsi tamen si promíttunt de observatióne régulæ vel própria stabilitáte.
 
@@ -923,7 +923,7 @@ LXII. De sacerdótibus monastérii
 2 Ordinátus autem cáveat elatiónem aut supérbiam,
 3 nec quicquam præsúmat nisi quod ei ab abbáte præcípitur, sciens se multo magis disciplínæ regulári subdéndum.
 4 Nec occasióne sacerdótii obliviscátur régulæ obœdiéntiam et disciplínam, sed magis ac magis in Deum profíciat.
-5 Locum vero illum semper adténdat quod ingréssus est in monastério,
+5 Locum vero illum semper atténdat quod ingréssus est in monastério,
 6 præter offícium altáris, et si forte eléctio congregatiónis et volúntas abbátis pro vitæ mérito eum promovére volúerint.
 7 Qui tamen régulam decánis vel præpósitis constitútam sibi serváre sciat.
 8 Quod si áliter præsúmpserit, non sacérdos sed rebéllio iudicétur.
@@ -978,7 +978,7 @@ LXIV. De ordinándo abbáte
 
 LXV. De præpósito monastérii
 1 Sǽpius quidem cóntigit ut per ordinatiónem præpósiti scándala grávia in monastériis oriántur,
-2 dum sint áliqui malígno spíritu supérbiæ infláti et æstimántes se secúndos esse abbátes, adsuméntes sibi tyránnidem, scándala nútriunt et dissensiónes in congregatiónes fáciunt,
+2 dum sint áliqui malígno spíritu supérbiæ infláti et æstimántes se secúndos esse abbátes, assuméntes sibi tyránnidem, scándala nútriunt et dissensiónes in congregatiónes fáciunt,
 3 et máxime in illis locis ubi ab eódem sacerdóte vel ab eis abbátibus qui abbátem órdinant, ab ipsis étiam et præpósitus ordinátur.
 4 Quod quam sit absúrdum fácile advértitur, quia ab ipso inítio ordinatiónis matéria ei datur superbiéndi,
 5 dum ei suggéritur a cogitatiónibus suis exútum eum esse a potestáte abbátis sui,
