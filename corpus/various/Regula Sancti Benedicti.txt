@@ -630,7 +630,7 @@ XXXIX. De mensúra cibi
 7 remóta præ ómnibus crápula, et ut numquam surrípiat mónacho indigéries;
 8 quia nihil sic contrárium est omni christiáno quómodo crápula,
 9 sicut ait Dóminus noster: Vidéte ne gravéntur corda vestra crápula.
-10 Púeris vero minóre ætáte non éadem servétur quántitas, sed minor quam maióribus, serváta in ómnibus parcitáte.
+10 Púeris vero minóri ætáte non éadem servétur quántitas, sed minor quam maióribus, serváta in ómnibus parcitáte.
 11 Cárnium vero quadrúpedum omnímodo ab ómnibus abstineátur coméstio, præter omníno débiles ægrótos.
 
 XL. De mensúra potus
@@ -813,83 +813,83 @@ LIV. Si débeat mónachus lítteras vel eulógias suscípere
 LV. De vestiário vel calciário fratrum
 1 Vestiménta frátribus secúndum locórum qualitátem ubi hábitant vel áerum tempériem dentur,
 2 quia in frígidis regiónibus ámplius indigétur, in cálidis vero minus.
-3 hæc ergo considerátio penes abbátem est.
-4 Nos tamen mediócribus locis suffícere crédimus mónachis per síngulos cucúllam et túnicam –
-5 cucúllam in híeme villósam, in æstáte puram aut vetústam –
-6 et scapuláre propter ópera, induménta pedum pedúles et cáligas.
-7 De quarum rerum ómnium colóre aut grossitúdine non causéntur mónachi, sed quales inveníri possunt in província qua degunt aut quod vílius comparári possit.
-8 Abbas autem de mensúra provídeat ut non sint curta ipsa vestiménta uténtibus ea, sed mensuráta.
-9 Accipiéntes nova, vétera semper reddant in præsénti reponénda in vestiário propter páuperes.
+3 Hæc ergo considerátio penes abbátem est.
+4 Nos tamen mediócribus locis suffícere crédimus mónachis per síngulos cucúllam et túnicam,
+5 cucúllam in híeme villósam, in æstáte puram aut vetústam,
+6 et scapulárem propter ópera, induménta pedum, pedúles et cáligas.
+7 De quarum rerum ómnium colóre aut grossitúdine non causéntur mónachi, sed quales inveníri possunt in província qua degunt, aut quod vílius comparári possit.
+8 Abbas autem de mensúra provídeat, ut non sint curta ipsa vestiménta uténtibus ea, sed mensuráta.
+9 Accipiéntes nova, vétera semper reddant in præsénti, reponénda in vestiário propter páuperes.
 10 Súfficit enim mónacho duas túnicas et duas cucúllas habére propter noctes et propter laváre ipsas res;
-11 iam quod supra fúerit supérfluum est, amputári debet.
-12 Et pedúles et quodcúmque est vétere reddant dum accípiunt novum.
+11 iam quod supra fúerit, supérfluum est, amputári debet.
+12 Et pedúles, et quodcúmque est vétere, reddant dum accípiunt novum.
 13 Femorália hi qui in via dirigúntur de vestiário accípiant, quæ reverténtes lota ibi restítuant.
-14 Et cucúllæ et túnicæ sint aliquánto a sólito quas habent módice melióres; quas exeúntes in via accípiant de vestiário et reverténtes restítuant.
-15 Straménta autem lectórum suffíciant matta, sagum et lena, et capitále.
-16 Quæ tamen lecta frequénter ab abbáte scrutinánda sunt propter opus peculiáre, ne inveniátur;
-17 et si cui invéntum fúerit quod ab abbáte non accépit, gravíssimæ disciplínæ subiáceat.
-18 Et ut hoc vítium peculiáris radícitus amputétur, dentur ab abbáte ómnia quæ sunt necessária,
-19 id est cucúlla, túnica, pedúles, cáligas, bracíle, cultéllum, gráphium, acum, máppula, tábulas, ut omnis auferátur necessitátis excusátio.
-20 A quo tamen abbáte semper considerétur illa senténtia Actuum Apostolórum, quia dabátur síngulis prout cuíque opus erat.
-21 Ita ergo et abbas consíderet infirmitátes indigéntium, non malum voluntátem invidéntium;
-22 in ómnibus tamen iudíciis suis Dei retributiónem cógitet.
+14 Et cucúllæ et túnicæ sint aliquánto a sólito quas habent módice melióres; quas exeúntes in via accípiant de vestiário, et reverténtes restítuant.
+15 Straménta autem lectórum suffíciant matta, sagum et lena et capitále.
+16 Quæ tamen lecta frequénter ab abbáte scrutinánda sunt propter opus peculiáre, ne inveniátur.
+17 Et si cui invéntum fúerit quod ab abbáte non accépit, gravíssimæ disciplínæ subiáceat.
+18 Et ut hoc vítium peculiáris radícitus amputétur, dentur ab abbáte ómnia quæ sunt necessária:
+19 id est, cucúlla, túnica, pedúles, cáligas, bracíle, cultéllum, gráphium, acum, máppula, tábulas, ut omnis auferátur necessitátis excusátio.
+20 A quo tamen abbáte semper considerétur illa senténtia Actuum Apostolórum quia dabátur síngulis prout cuíque opus erat.
+21 Ita ergo et abbas consíderet infirmitátes indigéntium, non malam voluntátem invidéntium.
+22 In ómnibus tamen iudíciis suis Dei retributiónem cógitet.
 
 LVI. De mensa abbátis
 1 Mensa abbátis cum hospítibus et peregrínis sit semper.
-2 Quótiens tamen minus sunt hóspites, quos vult de frátribus vocáre in ipsíus sit potestáte.
-3 Seniórem tamen unum aut duo semper cum frátribus dimitténdum propter disciplínam.
+2 Quótiens tamen minus sunt hóspites, quos vult de frátribus vocáre in ipsíus sit potestáte;
+3 seniórem tamen unum aut duo semper cum frátribus dimitténdum propter disciplínam.
 
 LVII. De artifícibus monastérii
-1 Artífices si sunt in monastério cum omni humilitáte fáciant ipsas artes, si permíserit abbas.
+1 Artífices si sunt in monastério, cum omni humilitáte fáciant ipsas artes, si permíserit abbas.
 2 Quod si áliquis ex eis extóllitur pro sciéntia artis suæ, eo quod videátur áliquid conférre monastério,
 3 hic talis erigátur ab ipsa arte et dénuo per eam non tránseat, nisi forte humiliáto ei íterum abbas iúbeat.
-4 Si quid vero ex opéribus artíficum venumdándum est, vídeant ipsi per quorum manus transigénda sint ne áliquam fraudem præsúmant.
-5 Memoréntur semper Ananíæ et Saphíræ, ne forte mortem quam illi in córpore pertulérunt,
-6 hanc isti vel omnes qui áliquam fraudem de rebus monastérii fécerint in ánima patiántur.
+4 Si quid vero ex opéribus artíficum venumdándum est, vídeant ipsi per quorum manus transigénda sint, ne áliquam fraudem præsúmant.
+5 Memoréntur semper Ananíæ et Sapphíræ, ne forte mortem quam illi in córpore pertulérunt,
+6 hanc isti vel omnes qui áliquam fraudem de rebus monastérii fécerint, in ánima patiántur.
 7 In ipsis autem prétiis non surrípiat avarítiæ malum,
 8 sed semper aliquántulum vílius detur quam ab áliis sæculáribus dari potest,
 9 ut in ómnibus glorificétur Deus.
 
 LVIII. De disciplína suscipiendórum fratrum
-1 Nóviter véniens quis ad conversatiónem, non ei fácilis tribuátur ingréssus,
-2 sed sicut ait Apóstolus: Probáte spíritus si ex Deo sunt.
-3 Ergo si véniens perseveráverit pulsans et illátas sibi iniúrias et difficultátem ingréssus post quáttuor aut quinque dies visus fúerit patiénter portáre et persístere petitióni suæ,
-4 adnuátur ei ingréssus et sit in cella hóspitum paucis diébus.
-5 Póstea autem sit in cella noviciórum ubi méditent et mandúcent et dórmiant.
-6 Et sénior eis talis deputétur qui aptus sit ad lucrándas ánimas, qui super eos omníno curíose inténdat.
-7 Et sollicitúdo sit si revéra Deum quærit, si sollícitus est ad opus Dei, ad obœdiéntiam, ad oppróbria.
+1 Nóviter véniens quis ad conversatiónem, non ei fácilis tribuátur ingréssus;
+2 sed sicut ait Apóstolus: Probáte spíritus, si ex Deo sunt.
+3 Ergo si véniens perseveráverit pulsans, et illátas sibi iniúrias et difficultátem ingréssus post quáttuor aut quinque dies visus fúerit patiénter portáre, et persístere petitióni suæ,
+4 annuátur ei ingréssus, et sit in cella hóspitum paucis diébus.
+5 Póstea autem sit in cella noviciórum, ubi méditent et mandúcent et dórmiant.
+6 Et sénior eis talis deputétur qui aptus sit ad lucrándas ánimas, qui super eos omníno curióse inténdat.
+7 Et sollicitúdo sit, si revéra Deum quærit, si sollícitus est ad Opus Dei, ad obœdiéntiam, ad oppróbria.
 8 Prædicéntur ei ómnia dura et áspera per quæ itur ad Deum.
-9 Si promíserit de stabilitáte sua perseverántiam, post duórum ménsuum círculum legátur ei hæc régula per órdinem
+9 Si promíserit de stabilitátis suæ perseverántia, post duórum ménsium círculum legátur ei hæc Régula per órdinem,
 10 et dicátur ei: «Ecce lex sub qua militáre vis; si potes observáre, ingrédere; si vero non potes, liber discéde.»
 11 Si adhuc stéterit, tunc ducátur in supradíctam cellam noviciórum et íterum probétur in omni patiéntia.
-12 Et post sex ménsium circúitum legátur ei régula, ut sciat ad quod ingréditur.
-13 Et si adhuc stat, post quáttuor menses íterum relegátur ei éadem régula.
-14 Et si hábita secum deliberatióne promíserit se ómnia custodíre et cuncta sibi imperáta serváre, tunc suscipiátur in congregatióne,
-15 sciens et lege régulæ constitútum quod ei ex illa die non líceat égredi de monastério,
-16 nec collum excútere de sub iugo régulæ quem sub tam morósam deliberatiónem lícuit aut excusáre aut suscípere.
+12 Et post sex ménsium circúitum legátur ei Régula, ut sciat ad quod ingréditur.
+13 Et si adhuc stat, post quáttuor menses íterum relegátur ei éadem Régula.
+14 Et si, hábita secum deliberatióne, promíserit se ómnia custodíre et cuncta sibi imperáta serváre, tunc suscipiátur in congregatióne,
+15 sciens et lege Régulæ constitútum, quod ei ex illa die non líceat égredi de monastério,
+16 nec collum excútere de sub iugo Régulæ, quem sub tam morósa deliberatióne lícuit aut excusáre aut suscípere.
 17 Suscipiéndus autem in oratório coram ómnibus promíttat de stabilitáte sua et conversatióne morum suórum et obœdiéntia,
-18 coram Deo et sanctis eius, ut si aliquándo áliter fécerit, ab eo se damnándum sciat quem irrídit.
-19 De qua promissióne sua fáciat petitiónem ad nomen sanctórum quorum relíquiæ ibi sunt et abbátis præséntis.
-20 Quam petitiónem manu sua scribat, aut certe, si non scit lítteras, alter ab eo rogátus scribat et ille novícius signum fáciat et manu sua eam super altáre ponat.
-21 Quam dum imposúerit, incípiat ipse novícius mox hunc versum: Súscipe me, Dómine, secúndum elóquium tuum et vivam, et ne confúndas me ab exspectatióne mea.
-22 Quem versum omnis congregátio tértio respóndeat, adiungéntes glória Patri.
-23 Tunc ille frater novícius prosternátur singulórum pédibus ut orent pro eo, et iam ex illa die in congregatióne reputétur.
-24 Res, si quas habet, aut éroget prius paupéribus aut facta sollémniter donatióne cónferat monastério, nihil sibi resérvans ex ómnibus,
+18 coram Deo et Sanctis eius, ut si aliquándo áliter fécerit, ab eo se damnándum sciat quem irrídit.
+19 De qua promissióne sua fáciat petitiónem ad nomen Sanctórum quorum relíquiæ ibi sunt, et abbátis præséntis.
+20 Quam petitiónem manu sua scribat, aut certe si non scit lítteras, alter ab eo rogátus scribat, et ille novícius signum fáciat; et manu sua eam super altáre ponat.
+21 Quam dum imposúerit, incípiat ipse novícius mox hunc versum: Súscipe me, Dómine, secúndum elóquium tuum, et vivam; et ne confúndas me ab exspectatióne mea.
+22 Quem versum omnis congregátio tértio respóndeat, adiungéntes: Glória Patri.
+23 Tunc ille frater novícius prosternátur singulórum pédibus, ut orent pro eo; et iam ex illa die in congregatióne reputétur.
+24 Res si quas habet, aut éroget prius paupéribus, aut facta sollémniter donatióne cónferat monastério, nihil sibi resérvans ex ómnibus;
 25 quippe qui ex illo die nec próprii córporis potestátem se habitúrum scit.
-26 Mox ergo in oratório exuátur rebus própriis quibus vestítus est et induátur rebus monastérii.
-27 Illa autem vestiménta quibus exútus est reponántur in vestiário conservánda,
-28 ut si aliquándo suadénti diábolo consénserit ut egrediátur de monastério – quod absit – tunc exútus rebus monastérii proiciátur.
+26 Mox ergo in oratório exuátur rebus própriis quibus vestítus est, et induátur rebus monastérii.
+27 Illa autem vestiménta quibus exútus est, reponántur in vestiário conservánda;
+28 ut si aliquándo suadénti diábolo consénserit ut egrediátur de monastério, quod absit, tunc exútus rebus monastérii proiciátur.
 29 Illam tamen petitiónem eius, quam désuper altáre abbas tulit, non recípiat, sed in monastério reservétur.
 
-LIX. De fíliis nobílium aut páuperum qui offerúntur
-1 Si quis forte de nobílibus offert fílium suum Deo in monastério, si ipse puer minor ætáte est, paréntes eius fáciant petitiónem quam supra díximus
+LIX. De fíliis nobílium vel páuperum qui offerúntur
+1 Si quis forte de nobílibus ófferit fílium suum Deo in monastério, si ipse puer minóri ætáte est, paréntes eius fáciant petitiónem quam supra díximus;
 2 et cum oblatióne ipsam petitiónem et manum púeri invólvant in palla altáris, et sic eum ófferant.
-3 De rebus autem suis, aut in præsénti petitióne promíttant sub iureiurándo quia numquam per se, numquam per sufféctam persónam nec quólibet modo ei aliquándo áliquid dant aut tríbuunt occasiónem habéndi;
-4 vel certe si hoc fácere nolúerint et áliquid offérre volunt in elemósinam monastério pro mercéde sua,
-5 fáciant ex rebus quas dare volunt monastério donatiónem, reserváto sibi, si ita volúerint, usufrúctu.
-6 Atque ita ómnia obstruántur ut nulla suspício remáneat púero per quam decéptus períre possit – quod absit – quod experiménto didícimus.
+3 De rebus autem suis aut in præsénti petitióne promíttant sub iureiurándo, quia numquam per se, numquam per sufféctam persónam, nec quólibet modo, ei aliquándo áliquid dant, aut tríbuunt occasiónem habéndi;
+4 vel certe, si hoc fácere nolúerint, et áliquid offérre volunt in eleemósynam monastério pro mercéde sua,
+5 fáciant ex rebus quas dare volunt monastério donatiónem, reserváto sibi, si ita volúerint, usum fructum.
+6 Atque ita ómnia obstruántur, ut nulla suspício remáneat púero, per quam decéptus períre possit, quod absit; quod experiménto didícimus.
 7 Simíliter autem et pauperióres fáciant.
-8 Qui vero ex toto nihil habent, simplíciter petitiónem fáciant et cum oblatióne ófferant fílium suum coram téstibus.
+8 Qui vero ex toto nihil habent, simplíciter petitiónem fáciant, et cum oblatióne ófferant fílium suum coram téstibus.
 
 LX. De sacerdótibus qui forte volúerint in monastério habitáre
 1 Si quis de órdine sacerdótum in monastério se súscipi rogáverit, non quidem cítius ei assentiátur.
