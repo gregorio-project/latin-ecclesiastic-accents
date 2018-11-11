@@ -355,7 +355,8 @@ abs:13-48,85-120
 
 modele:unus
 pere:doctus
-des:16,28,40:0:ī̆ŭs;ī̆ŭs;ī̆ŭs
+!des:16,28,40:0:ī̆ŭs;ī̆ŭs;ī̆ŭs
+des:16,28,40:0:īŭs;īŭs;īŭs
 des:17,29,41:0:ī;ī;ī
 abs:49-120
 
@@ -363,6 +364,7 @@ modele:alter
 pere:unus
 R:0:0,0
 des:13,14:0:-
+des:16,28,40:0:ī̆ŭs;ī̆ŭs;ī̆ŭs
 
 modele:unusquisque
 pere:unus
