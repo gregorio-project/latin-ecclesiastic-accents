@@ -43,48 +43,21 @@ function accentify(word, uppercase){
     }
 
     // If enclitics, remove enclitic and retry:
-    // -que:
-    if(word.indexOf('que') == word.length - 3){
-        var sub_word = word.substring(0, word.length - 3);
-        var sub_found = search_quantified(sub_word);
-        if(sub_found.length != 0){
-            found.push(last_long(sub_word) + 'quĕ');
-        }
-        // If uppercase, lowercase and retry:
-        else if(uppercase){
-            sub_found = search_quantified(to_lowercase(sub_word));
+    var encl = ["que", "ne", "ve", "dam", "quam", "libet"];
+    for(var i = 0, nb = encl.length; i < nb; i++){
+        var e = encl[i];
+        if(word.indexOf(e) == word.length - e.length){
+            var sub_word = word.substring(0, word.length - e.length);
+            var sub_found = search_quantified(sub_word);
             if(sub_found.length != 0){
-                found.push(last_long(sub_word) + 'quĕ');
+                found.push(last_long(sub_word) + e);
             }
-        }
-    }
-    // -ne:
-    if(word.indexOf('ne') == word.length - 2){
-        var sub_word = word.substring(0, word.length - 2);
-        var sub_found = search_quantified(sub_word);
-        if(sub_found.length != 0){
-            found.push(last_long(sub_word) + 'nĕ');
-        }
-        // If uppercase, lowercase and retry:
-        else if(uppercase){
-            sub_found = search_quantified(to_lowercase(sub_word));
-            if(sub_found.length != 0){
-                found.push(last_long(sub_word) + 'nĕ');
-            }
-        }
-    }
-    // -ve:
-    if(word.indexOf('ve') == word.length - 2){
-        var sub_word = word.substring(0, word.length - 2);
-        var sub_found = search_quantified(sub_word);
-        if(sub_found.length != 0){
-            found.push(last_long(sub_word) + 'vĕ');
-        }
-        // If uppercase, lowercase and retry:
-        else if(uppercase){
-            sub_found = search_quantified(to_lowercase(sub_word));
-            if(sub_found.length != 0){
-                found.push(last_long(sub_word) + 'vĕ');
+            // If uppercase, lowercase and retry:
+            else if(uppercase){
+                sub_found = search_quantified(to_lowercase(sub_word));
+                if(sub_found.length != 0){
+                    found.push(last_long(sub_word) + e);
+                }
             }
         }
     }
@@ -323,11 +296,4 @@ function last_long(word){
     /(\S*)([aeiouy])([bcdfghjklmnpqrstvxz]*)/.exec(word)
     return(RegExp.$1 + longs[vowels.indexOf(RegExp.$2)] + RegExp.$3);
 }
-
-
-
-
-
-
-
 
