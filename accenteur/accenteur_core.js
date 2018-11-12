@@ -62,6 +62,43 @@ function accentify(word, uppercase){
         }
     }
 
+    // If the word begins with a 'i' (or 'I') + vowel, or contains a 'i' between 2 vowels, then replace it with 'j' (or 'J') and retry:
+    var new_word = word;
+    var regex_i = /^i([aeiouy])/g;
+    new_word = new_word.replace(regex_i, 'j$1');
+    var regex_I = /^I([aeiouy])/g;
+    new_word = new_word.replace(regex_I, 'J$1');
+    var regex = /([aeiouy])i([aeiouy])/g;
+    new_word = new_word.replace(regex, '$1j$2');
+    console.log(new_word);
+    if(new_word != word){
+        var sub_found = search_quantified(new_word);
+        if(sub_found.length != 0){
+            for(var i = 0; i < sub_found.length; i++){
+                s = sub_found[i];
+                if(s != ''){
+                    s = s.replace('j', 'i');
+                    s = s.replace('J', 'I');
+                    found.push(s);
+                }
+            }
+        }
+        // If uppercase, lowercase and retry:
+        else if(uppercase){
+            sub_found = search_quantified(to_lowercase(new_word));
+            if(sub_found.length != 0){
+                for(var i = 0; i < sub_found.length; i++){
+                    s = sub_found[i];
+                    if(s != ''){
+                        s = s.replace('j', 'i');
+                        s = s.replace('J', 'I');
+                        found.push(s);
+                    }
+                }
+            }
+        }
+    }
+
     if(found.length == 0){
         if(word.search(/[!?:;]/) == -1 && count_vowels(word) > 2){
             found.push('<span class="red">' + word + '</span>');
