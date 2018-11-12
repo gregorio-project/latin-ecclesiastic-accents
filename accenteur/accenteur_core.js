@@ -15,9 +15,10 @@ function accentify(word, uppercase){
     // If uppercase, lowercase and retry:
     if(found.length == 0 && uppercase){
         var sub_found = search_quantified(to_lowercase(word));
-        for(var s in sub_found){
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
             if(s != ''){
-                found.push(to_uppercase(sub_found[s]));
+                found.push(to_uppercase(s));
             }
         }
     }
@@ -25,7 +26,8 @@ function accentify(word, uppercase){
     // If word begins with 'ex-', it can be a secondary form ('expecto' for 'exspecto'):
     if(found.length == 0 && word.indexOf('ex') == 0){
         var sub_found = search_quantified(word.replace(/^ex/g, 'exs'));
-        for(var s in sub_found){
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
             if(s != ''){
                 found.push(sub_found[s].replace(/^([ēĕ])xs/g, '$1x'));
             }
@@ -35,7 +37,8 @@ function accentify(word, uppercase){
     // If word begins with 'aff-', it can be a secondary form ('affero' for 'adfero'):
     if(found.length == 0 && word.indexOf('aff') == 0){
         var sub_found = search_quantified(word.replace(/^aff/g, 'adf'));
-        for(var s in sub_found){
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
             if(s != ''){
                 found.push(sub_found[s].replace(/^([āă])df/g, '$1ff'));
             }
@@ -43,8 +46,8 @@ function accentify(word, uppercase){
     }
 
     // If enclitics, remove enclitic and retry:
-    var encl = ["que", "ne", "ve", "dam", "quam", "libet"];
-    for(var i = 0, nb = encl.length; i < nb; i++){
+    var encl = ['que', 'ne', 've', 'dam', 'quam', 'libet'];
+    for(var i = 0; i < encl.length; i++){
         var e = encl[i];
         if(word.indexOf(e) == word.length - e.length){
             var sub_word = word.substring(0, word.length - e.length);
@@ -108,8 +111,8 @@ function accentify(word, uppercase){
         }
     }
     else{
-        for(var f in found){
-            found[f] = qty_to_accent(word, found[f])[1];
+        for(var i = 0; i < found.length; i++){
+            found[i] = qty_to_accent(word, found[i])[1];
         }
     }
     return(reduce(found));
@@ -126,8 +129,8 @@ function search_quantified(word){
         var root = word.substring(0, i);
         var term = word.substring(i, word.length);
         if(roots[root] != null && terminations[term] != null){
-            for(var sub_root in roots[root]){
-                r = roots[root][sub_root]
+            for(var j = 0; j < roots[root].length; j++){
+                r = roots[root][j];
                 var quantified = r[0];
                 var model = r[1];
                 var num_root = r[2];
@@ -135,8 +138,8 @@ function search_quantified(word){
                     found.push(quantified);
                 }
                 else{
-                    for(var sub_t in terminations[term]){
-                        t = terminations[term][sub_t]
+                    for(var k = 0; k < terminations[term].length; k++){
+                        t = terminations[term][k]
                         if(t[1] == model && t[2] == num_root){
                             found.push(quantified + t[0]);
                         }
@@ -219,27 +222,27 @@ function qty_to_accent(plain, quantified){
         accentable = true;
         var nb_vowels = 0; // Will count the 3 last syllables (antepenult., penult., ult.).
         var accent_pos = 0; // Will contain the position of accent.
-        for(var i in quantities){
-            var qty = quantities[quantities.length -i - 1];
+        for(var j = 0; j < quantities.length; j++){
+            var qty = quantities[quantities.length - j - 1];
             if(qty != '0'){ // Not a consonantic.
                 nb_vowels ++;
                 if((nb_vowels == 2 && qty == '+') || (nb_vowels == 3 && accent_pos == 0)){
                     // Case of 'ae':
-                    if(plain_split[quantities.length - i - 1] == 'e' && plain_split[quantities.length - i - 2] == 'a'){
+                    if(plain_split[quantities.length - j - 1] == 'e' && plain_split[quantities.length - j - 2] == 'a'){
                         if(qty == '0'){ // 'āe' like in 'sǽculum'.
-                            accent_pos = quantities.length - i - 1;
+                            accent_pos = quantities.length - j - 1;
                         }
                         else if(qty == '-'){ // 'āĕ' like in 'áeris'.
-                            accent_pos = quantities.length - i;
+                            accent_pos = quantities.length - j;
                         }
                     }
                     // Cases of 'oe', 'au', 'eu': accent on the first letter (except if the second letter is long):
-                    else if(['e', 'u'].indexOf(plain_split[quantities.length - i - 1]) != -1 && ['a', 'e', 'o', 'A', 'E', 'U'].indexOf(plain_split[quantities.length - i - 2]) != -1 && qty != '+'){
-                        accent_pos = quantities.length - i - 1;
+                    else if(['e', 'u'].indexOf(plain_split[quantities.length - j - 1]) != -1 && ['a', 'e', 'o', 'A', 'E', 'U'].indexOf(plain_split[quantities.length - j - 2]) != -1 && qty != '+'){
+                        accent_pos = quantities.length - j - 1;
                     }
                     // Other cases:
                     else{
-                        accent_pos = quantities.length - i;
+                        accent_pos = quantities.length - j;
                     }
                 }
             }
@@ -262,14 +265,14 @@ function qty_to_accent(plain, quantified){
     }
 
     // ae and oe => æ and œ (if e has no quantity):
-    for(var i = 0; i < plain_split.length; i++){
-        if(plain_split[i] == 'a' && quantified_split[i + 1] == 'e'){
-            plain_split[i] = 'æ';
-            plain_split[i + 1] = '';
+    for(var j = 0; j < plain_split.length; j++){
+        if(plain_split[j] == 'a' && quantified_split[j + 1] == 'e'){
+            plain_split[j] = 'æ';
+            plain_split[j + 1] = '';
         }
-        if(plain_split[i] == 'o' && quantified_split[i + 1] == 'e'){
-            plain_split[i] = 'œ';
-            plain_split[i + 1] = '';
+        if(plain_split[j] == 'o' && quantified_split[j + 1] == 'e'){
+            plain_split[j] = 'œ';
+            plain_split[j + 1] = '';
         }
     }
     with_accents = plain_split.join('');
@@ -279,7 +282,7 @@ function qty_to_accent(plain, quantified){
 // Counts the number of vowels in a word:
 function count_vowels(word){
     var num_v = 0;
-    for(var i in word){
+    for(var i = 0; i < word.length; i++){
         if(vowels.indexOf(word[i]) != -1){
             if(!(word[i] == 'u'  && ['q', 'g'].indexOf(word[i - 1]) != -1)){
                 num_v ++;
@@ -320,7 +323,7 @@ function to_uppercase(word){
 // Eliminates all the redundances in an array of accented words:
 function reduce(this_array){
     var result = [];
-    for(var i in this_array){
+    for(var i = 0; i < this_array.length; i++){
         if(result.indexOf(this_array[i]) == -1){
             result.push(this_array[i]);
         }
