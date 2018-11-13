@@ -12,92 +12,72 @@ function accentify(word, uppercase){
     var found = search_quantified(word);
     
     // If fail, try something else:
-    // If uppercase, lowercase and retry:
-    if(found.length == 0 && uppercase){
-        var sub_found = search_quantified(to_lowercase(word));
-        for(var i = 0; i < sub_found.length; i++){
-            s = sub_found[i];
-            if(s != ''){
-                found.push(to_uppercase(s));
+    if(found.length == 0){
+        var new_word = word;
+        var prefix = '';
+        var enclitic = '';
+        var with_j = false;
+
+        // Uppercase? Set to lowercase:
+        if(uppercase){
+            new_word = to_lowercase(new_word);
+        }
+
+        // Prefix? Replace it:
+        if(new_word.indexOf('ex') == 0){
+            prefix = 'ex';
+            new_word = new_word.replace(/^ex/g, 'exs');
+        }
+        if(new_word.indexOf('aff') == 0){
+            prefix = 'aff';
+            new_word = new_word.replace(/^aff/g, 'adf');
+        }
+        // Enclitic? Delete it:
+        var encl = ['que', 'ne', 've', 'dam', 'quam', 'libet'];
+        for(var i = 0; i < encl.length; i++){
+            var e = encl[i];
+            if(new_word.indexOf(e) == new_word.length - e.length){
+                enclitic = e;
+                new_word = new_word.substring(0, new_word.length - e.length);
             }
         }
-    }
-
-    // If word begins with 'ex-', it can be a secondary form ('expecto' for 'exspecto'):
-    if(found.length == 0 && word.indexOf('ex') == 0){
-        var sub_found = search_quantified(word.replace(/^ex/g, 'exs'));
-        for(var i = 0; i < sub_found.length; i++){
-            s = sub_found[i];
-            if(s != ''){
-                found.push(sub_found[s].replace(/^([ēĕ])xs/g, '$1x'));
-            }
+        // J? If the word begins with a 'i' (or 'I') + vowel, or contains a 'i' between 2 vowels, then replace it with 'j' (or 'J'):
+        var new_word_origin = new_word;
+        var regex_i = /^i([aeiouy])/g;
+        new_word = new_word.replace(regex_i, 'j$1');
+        var regex_I = /^I([aeiouy])/g;
+        new_word = new_word.replace(regex_I, 'J$1');
+        var regex = /([aeiouy])i([aeiouy])/g;
+        new_word = new_word.replace(regex, '$1j$2');
+        if(new_word != new_word_origin){
+            with_j = true;
         }
-    }
 
-    // If word begins with 'aff-', it can be a secondary form ('affero' for 'adfero'):
-    if(found.length == 0 && word.indexOf('aff') == 0){
-        var sub_found = search_quantified(word.replace(/^aff/g, 'adf'));
-        for(var i = 0; i < sub_found.length; i++){
-            s = sub_found[i];
-            if(s != ''){
-                found.push(sub_found[s].replace(/^([āă])df/g, '$1ff'));
-            }
-        }
-    }
-
-    // If enclitics, remove enclitic and retry:
-    var encl = ['que', 'ne', 've', 'dam', 'quam', 'libet'];
-    for(var i = 0; i < encl.length; i++){
-        var e = encl[i];
-        if(word.indexOf(e) == word.length - e.length){
-            var sub_word = word.substring(0, word.length - e.length);
-            var sub_found = search_quantified(sub_word);
-            if(sub_found.length != 0){
-                found.push(last_long(sub_word) + e);
-            }
-            // If uppercase, lowercase and retry:
-            else if(uppercase){
-                sub_found = search_quantified(to_lowercase(sub_word));
-                if(sub_found.length != 0){
-                    found.push(last_long(sub_word) + e);
-                }
-            }
-        }
-    }
-
-    // If the word begins with a 'i' (or 'I') + vowel, or contains a 'i' between 2 vowels, then replace it with 'j' (or 'J') and retry:
-    var new_word = word;
-    var regex_i = /^i([aeiouy])/g;
-    new_word = new_word.replace(regex_i, 'j$1');
-    var regex_I = /^I([aeiouy])/g;
-    new_word = new_word.replace(regex_I, 'J$1');
-    var regex = /([aeiouy])i([aeiouy])/g;
-    new_word = new_word.replace(regex, '$1j$2');
-    console.log(new_word);
-    if(new_word != word){
+        // Finally, retry:
         var sub_found = search_quantified(new_word);
-        if(sub_found.length != 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ''){
-                    s = s.replace('j', 'i');
-                    s = s.replace('J', 'I');
-                    found.push(s);
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
+            if(s != ''){
+                if(uppercase){
+                    s = to_uppercase(s);
                 }
-            }
-        }
-        // If uppercase, lowercase and retry:
-        else if(uppercase){
-            sub_found = search_quantified(to_lowercase(new_word));
-            if(sub_found.length != 0){
-                for(var i = 0; i < sub_found.length; i++){
-                    s = sub_found[i];
-                    if(s != ''){
-                        s = s.replace('j', 'i');
-                        s = s.replace('J', 'I');
-                        found.push(s);
+                if(prefix != ''){
+                    switch(prefix){
+                        case 'ex':
+                            s = s.replace(/^([ēĕ])xs/g, '$1x');
+                        break;
+                        case 'aff':
+                            s = s.replace(/^([āă])df/g, '$1ff');
+                        break;
                     }
                 }
+                if(enclitic != ''){
+                    s = last_long(s) + enclitic;
+                }
+                if(with_j){
+                    s = s.replace('j', 'i').replace('J', 'I');
+                }
+                found.push(s);
             }
         }
     }
