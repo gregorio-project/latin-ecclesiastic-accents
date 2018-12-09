@@ -21,7 +21,7 @@ $("document").ready(function(){
                     words[i] = words[i].replace(/œ/g, "oe");
                     words[i] = words[i].replace(/Æ/g, "Ae");
                     var uppercase = is_uppercase(words[i]);
-                    words[i] = accentify(words[i], uppercase).join("<span class='red' style='font-weight:bold'>|</span>"); // Returns each word accentified.
+                    words[i] = accentify(words[i], uppercase).join("<span class='red' style='cursor: pointer;' title='Elige formam.'>?</span>"); // Returns each word accentified.
                     words[i] = words[i].replace(/Ae/g, "Æ");
                 }
             }
@@ -29,12 +29,29 @@ $("document").ready(function(){
             output = output.replace(/\n/g, "</br>").replace(/\s\s*/g, " "); // Linebreaks, multiple spaces.
             $("#output").html(output);
 
+            // On hover on multiple choice, propose a choice:
             $("span.red").on({
-                hover: function(){
-                    console.log("OK", $(this));
-                },
+                mouseenter: function(e){
+                    $("#choice_dialog").dialog({
+                        autoOpen: false,
+                        position: {my: "left top", at: "left bottom", of: e.target},
+                        title: "Elige tibi formam:",
+                    });
+                    $("#choice_dialog").html(choice_html("Mot1", "Mot2"));
+                    $("#choice_dialog").dialog("open");
+                }
             });
         }
     });
 });
+
+function choice_html(word1, word2){
+    var html = "";
+    html = html + word1 + "<br>";
+    html = html + word2 + "<br>";
+    html = html + "<br>";
+    html = html + "Ibi tantum<br>";
+    html = html + "Ubique in hoc textu.";
+    return(html);
+}
 
