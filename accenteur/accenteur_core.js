@@ -11,74 +11,77 @@ var lowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 function accentify(word, uppercase){
     var found = search_quantified(word);
     
-    // If fail, try something else:
-    if(found.length == 0){
-        var new_word = word;
-        var prefix = "";
-        var enclitic = "";
-        var with_j = false;
-
-        // Uppercase? Set to lowercase:
-        if(uppercase){
-            new_word = to_lowercase(new_word);
+    // Try other possibilities:
+    var new_word = word;
+    var prefix = "";
+    var enclitic = "";
+    var with_j = false;
+    // Uppercase? Set to lowercase:
+    if(uppercase){
+        new_word = to_lowercase(new_word);
+    }
+    // Prefix? Replace it:
+    if(new_word.indexOf("aff") == 0){
+        prefix = "aff";
+        new_word = new_word.replace(/^aff/g, "adf");
+    }
+    if(new_word.indexOf("agg") == 0){
+        prefix = "agg";
+        new_word = new_word.replace(/^agg/g, "adg");
+    }
+    if(new_word.indexOf("arr") == 0){
+        prefix = "arr";
+        new_word = new_word.replace(/^arr/g, "adr");
+    }
+    if(new_word.indexOf("ex") == 0){
+        prefix = "ex";
+        new_word = new_word.replace(/^ex/g, "exs");
+    }
+    // Enclitic? Delete it:
+    var encl = ["que", "ne", "ve", "dam", "quam", "libet"];
+    for(var i = 0; i < encl.length; i++){
+        var e = encl[i];
+        if(new_word.length > e.length && new_word.indexOf(e) == new_word.length - e.length){
+            var enclitic = e;
+            new_word = new_word.substring(0, new_word.indexOf(e));
         }
-
-        // Prefix? Replace it:
-        if(new_word.indexOf("ex") == 0){
-            prefix = "ex";
-            new_word = new_word.replace(/^ex/g, "exs");
-        }
-        if(new_word.indexOf("aff") == 0){
-            prefix = "aff";
-            new_word = new_word.replace(/^aff/g, "adf");
-        }
-        // Enclitic? Delete it:
-        var encl = ["que", "ne", "ve", "dam", "quam", "libet"];
-        for(var i = 0; i < encl.length; i++){
-            var e = encl[i];
-            if(new_word.indexOf(e) == new_word.length - e.length){
-                enclitic = e;
-                new_word = new_word.substring(0, new_word.length - e.length);
+    }
+    // J? If the word begins with a "i" (or "I") + vowel, or contains a "i" between 2 vowels, then replace it with "j" (or "J"):
+    var new_word_origin = new_word;
+    var regex_i = /^i([aeiouy])/g;
+    new_word = new_word.replace(regex_i, "j$1");
+    var regex_I = /^I([aeiouy])/g;
+    new_word = new_word.replace(regex_I, "J$1");
+    var regex = /([aeiouy])i([aeiouy])/g;
+    new_word = new_word.replace(regex, "$1j$2");
+    if(new_word != new_word_origin){
+        with_j = true;
+    }
+    // Finally, retry:
+    var sub_found = search_quantified(new_word);
+    for(var i = 0; i < sub_found.length; i++){
+        s = sub_found[i];
+        if(s != ""){
+            if(uppercase){
+                s = to_uppercase(s);
             }
-        }
-        // J? If the word begins with a "i" (or "I") + vowel, or contains a "i" between 2 vowels, then replace it with "j" (or "J"):
-        var new_word_origin = new_word;
-        var regex_i = /^i([aeiouy])/g;
-        new_word = new_word.replace(regex_i, "j$1");
-        var regex_I = /^I([aeiouy])/g;
-        new_word = new_word.replace(regex_I, "J$1");
-        var regex = /([aeiouy])i([aeiouy])/g;
-        new_word = new_word.replace(regex, "$1j$2");
-        if(new_word != new_word_origin){
-            with_j = true;
-        }
-
-        // Finally, retry:
-        var sub_found = search_quantified(new_word);
-        for(var i = 0; i < sub_found.length; i++){
-            s = sub_found[i];
-            if(s != ""){
-                if(uppercase){
-                    s = to_uppercase(s);
+            if(prefix != ""){
+                switch(prefix){
+                    case "ex":
+                        s = s.replace(/^([ēĕ])xs/g, "$1x");
+                    break;
+                    case "aff":
+                        s = s.replace(/^([āă])df/g, "$1ff");
+                    break;
                 }
-                if(prefix != ""){
-                    switch(prefix){
-                        case "ex":
-                            s = s.replace(/^([ēĕ])xs/g, "$1x");
-                        break;
-                        case "aff":
-                            s = s.replace(/^([āă])df/g, "$1ff");
-                        break;
-                    }
-                }
-                if(enclitic != ""){
-                    s = last_long(s) + enclitic;
-                }
-                if(with_j){
-                    s = s.replace("j", "i").replace("J", "I");
-                }
-                found.push(s);
             }
+            if(enclitic != ""){
+                s = last_long(s) + enclitic;
+            }
+            if(with_j){
+                s = s.replace("j", "i").replace("J", "I");
+            }
+            found.push(s);
         }
     }
 
