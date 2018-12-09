@@ -33,7 +33,7 @@ function accentify(word, uppercase){
         prefix = "arr";
         new_word = new_word.replace(/^arr/g, "adr");
     }
-    if(new_word.indexOf("ex") == 0){
+    if(new_word.indexOf("ex") == 0 && new_word.indexOf("s") != 2){
         prefix = "ex";
         new_word = new_word.replace(/^ex/g, "exs");
     }
@@ -67,11 +67,17 @@ function accentify(word, uppercase){
             }
             if(prefix != ""){
                 switch(prefix){
-                    case "ex":
-                        s = s.replace(/^([ēĕ])xs/g, "$1x");
-                    break;
                     case "aff":
                         s = s.replace(/^([āă])df/g, "$1ff");
+                    break;
+                    case "agg":
+                        s = s.replace(/^([āă])dg/g, "$1gg");
+                    break;
+                    case "arr":
+                        s = s.replace(/^([āă])dr/g, "$1rr");
+                    break;
+                    case "ex":
+                        s = s.replace(/^([ēĕ])xs/g, "$1x");
                     break;
                 }
             }
