@@ -1,6 +1,10 @@
 // This module splits the input into words and return the accented version of the text.
 
 $("document").ready(function(){
+    setInterval(function(){
+        $("#overlay").css("display", "none");
+    }, 2000);
+
     $("#input").on({
         click: function(){
             if($(this).text() == "Hic scribe textum tuum…"){
