@@ -21,7 +21,7 @@ $("document").ready(function(){
                     words[i] = words[i].replace(/œ/g, "oe");
                     words[i] = words[i].replace(/Æ/g, "Ae");
                     var uppercase = is_uppercase(words[i]);
-                    words[i] = accentify(words[i], uppercase).join("<span class='red' style='cursor: pointer;' title='Elige formam.'>?</span>"); // Returns each word accentified.
+                    words[i] = accentify(words[i], uppercase).join("<span class='red' style='cursor: pointer;'>?</span>"); // Returns each word accentified.
                     words[i] = words[i].replace(/Ae/g, "Æ");
                 }
             }
@@ -47,11 +47,16 @@ $("document").ready(function(){
 
 function choice_html(word1, word2){
     var html = "";
-    html = html + word1 + "<br>";
-    html = html + word2 + "<br>";
+    html = html + "<input type='radio' name='word' id='word1' value='' checked>";
+    html = html + "<label for='word1'>" + word1 + "</label><br>";
+    html = html + "<input type='radio' name='word' id='word2' value=''>";
+    html = html + "<label for='word2'>" + word2 + "</label><br>";
     html = html + "<br>";
-    html = html + "Ibi tantum<br>";
-    html = html + "Ubique in hoc textu.";
+    html = html + "<input type='radio' name='where' id='ibi' value='' checked>";
+    html = html + "<label for='ibi'>Ibi tantum</label><br>";
+    html = html + "<input type='radio' name='where' id='ubique' value=''>";
+    html = html + "<label for='ubique'>Ubique in hoc textu</label><br><br>";
+    html = html + "<input type='button' id='validate_choice' value='Valida'></input>";
     return(html);
 }
 

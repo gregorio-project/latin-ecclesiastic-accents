@@ -72,6 +72,10 @@ h3{
     width: 100%;
 }
 
+#validate_choice{
+    margin-left: 180px;
+}
+
 .text_area{
     background-color: white;
     border: 1px solid grey;
