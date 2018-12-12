@@ -21,7 +21,13 @@ $("document").ready(function(){
                     words[i] = words[i].replace(/œ/g, "oe");
                     words[i] = words[i].replace(/Æ/g, "Ae");
                     var uppercase = is_uppercase(words[i]);
-                    words[i] = accentify(words[i], uppercase).join("<span class='red' style='cursor: pointer;'>?</span>"); // Returns each word accentified.
+                    words[i] = accentify(words[i], uppercase);
+                    if(words[i].length == 2){
+                        words[i] = "<span class='double'>" + words[i].join("<span class='red' style='cursor: pointer;'>?</span>") + "</span>";
+                    }
+                    else{
+                        words[i] = words[i][0];
+                    }
                     words[i] = words[i].replace(/Ae/g, "Æ");
                 }
             }
@@ -29,32 +35,70 @@ $("document").ready(function(){
             output = output.replace(/\n/g, "</br>").replace(/\s\s*/g, " "); // Linebreaks, multiple spaces.
             $("#output").html(output);
 
-            // On hover on multiple choice, propose a choice:
+            // On hover on multiple choice, propose to choose:
             $("span.red").on({
-                mouseenter: function(e){
+                mouseover: function(e){
                     $("#choice_dialog").dialog({
                         autoOpen: false,
                         position: {my: "left top", at: "left bottom", of: e.target},
                         title: "Elige tibi formam:",
                     });
-                    $("#choice_dialog").html(choice_html("Mot1", "Mot2"));
+                    var span_choice = $(this).parent();
+                    var word_left = span_choice.text().split("?")[0];
+                    var word_right = span_choice.text().split("?")[1];
+                    $("#choice_dialog").html(choice_html(word_left, word_right));
                     $("#choice_dialog").dialog("open");
+
+                    // On validation of choice:
+                    $("#validate_choice").click(function(){
+                        var word_left = $("#choice_dialog").find("#word_left").val();
+                        var word_right = $("#choice_dialog").find("#word_right").val();
+                        var choice = $(":checked[name='word']").attr("id");
+                        var word = $(":checked[name='word']").val();
+                        var where = $(":checked[name='where']").val();
+                        var regex = new RegExp("(" + word_left + ")\\?(" + word_right + ")", "g");
+                        if(where == "ibi"){
+                            if(choice == "word_left"){
+                                span_choice.text(span_choice.text().replace(regex, "$1"));
+                            }
+                            else{
+                                span_choice.text(span_choice.text().replace(regex, "$2"));
+                            }
+                        }
+                        else{
+                            if(choice == "word_left"){
+                                $("span.double").each(function(){
+                                    if(regex.test($(this).text())){
+                                        $(this).text($(this).text().replace(regex, "$1"));
+                                    }
+                                });
+                            }
+                            else{
+                                $("span.double").each(function(){
+                                    if(regex.test($(this).text())){
+                                        $(this).text($(this).text().replace(regex, "$2"));
+                                    }
+                                });
+                            }
+                        }
+                        $("#choice_dialog").dialog("destroy");
+                    });
                 }
             });
         }
     });
 });
 
-function choice_html(word1, word2){
+function choice_html(word_left, word_right){
     var html = "";
-    html = html + "<input type='radio' name='word' id='word1' value='' checked>";
-    html = html + "<label for='word1'>" + word1 + "</label><br>";
-    html = html + "<input type='radio' name='word' id='word2' value=''>";
-    html = html + "<label for='word2'>" + word2 + "</label><br>";
+    html = html + "<input type='radio' name='word' id='word_left' value='" + word_left + "' checked>";
+    html = html + "<label for='word_left'>" + word_left + "</label><br>";
+    html = html + "<input type='radio' name='word' id='word_right' value='" + word_right + "'>";
+    html = html + "<label for='word_right'>" + word_right + "</label><br>";
     html = html + "<br>";
-    html = html + "<input type='radio' name='where' id='ibi' value='' checked>";
+    html = html + "<input type='radio' name='where' id='ibi' value='ibi' checked>";
     html = html + "<label for='ibi'>Ibi tantum</label><br>";
-    html = html + "<input type='radio' name='where' id='ubique' value=''>";
+    html = html + "<input type='radio' name='where' id='ubique' value='ubique'>";
     html = html + "<label for='ubique'>Ubique in hoc textu</label><br><br>";
     html = html + "<input type='button' id='validate_choice' value='Valida'></input>";
     return(html);
