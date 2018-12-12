@@ -3,7 +3,7 @@
 $("document").ready(function(){
     setInterval(function(){
         $("#overlay").css("display", "none");
-    }, 1000);
+    }, 500);
 
     $("#input").on({
         click: function(){
