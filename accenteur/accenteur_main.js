@@ -100,7 +100,7 @@ function choice_html(word_left, word_right){
     html = html + "<label for='ibi'>Ibi tantum</label><br>";
     html = html + "<input type='radio' name='where' id='ubique' value='ubique'>";
     html = html + "<label for='ubique'>Ubique in hoc textu</label><br><br>";
-    html = html + "<input type='button' id='validate_choice' value='Valida'></input>";
+    html = html + "<input type='button' id='validate_choice' value='Confirma'></input>";
     return(html);
 }
 
