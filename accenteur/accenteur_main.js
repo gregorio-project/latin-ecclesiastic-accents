@@ -28,6 +28,8 @@ $("document").ready(function(){
                     else{
                         words[i] = words[i][0];
                     }
+                    words[i] = words[i].replace(/ae/g, "æ");
+                    words[i] = words[i].replace(/oe/g, "œ");
                     words[i] = words[i].replace(/Ae/g, "Æ");
                 }
             }
