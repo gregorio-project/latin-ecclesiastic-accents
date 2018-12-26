@@ -82,7 +82,7 @@ $("document").ready(function(){
                                     });
                                 }
                             }
-                            $("#choice_dialog").dialog("destroy");
+                            $("#choice_dialog").dialog("close");
                         });
                     }
                 }
