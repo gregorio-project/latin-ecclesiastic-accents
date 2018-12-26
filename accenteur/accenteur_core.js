@@ -11,7 +11,7 @@ var lowercase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 function accentify(word, uppercase){
     var found = search_quantified(word);
     
-    // Try other possibilities:
+    // Try other possibilities, first separately and then together:
     var new_word = word;
     var prefix = "";
     var enclitic = "";
