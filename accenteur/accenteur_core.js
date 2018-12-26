@@ -13,12 +13,14 @@ function accentify(word, uppercase){
     
     // Try other possibilities, first separately and then together:
     var new_word = word;
+    var new_word_all = word;
     var prefix = "";
     var enclitic = "";
     var with_j = false;
     // Uppercase? Set to lowercase:
     if(uppercase){
-        new_word = to_lowercase(new_word);
+        new_word = to_lowercase(word);
+        new_word_all = to_lowercase(new_word_all);
         var sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
             s = sub_found[i];
@@ -29,9 +31,10 @@ function accentify(word, uppercase){
         }
     }
     // Prefix? Replace it:
-    if(new_word.indexOf("aff") == 0){
+    if(word.indexOf("aff") == 0){
         prefix = "aff";
-        new_word = new_word.replace(/^aff/g, "adf");
+        new_word = word.replace(/^aff/g, "adf");
+        new_word_all = new_word_all.replace(/^aff/g, "adf");
         var sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
             s = sub_found[i];
@@ -41,9 +44,10 @@ function accentify(word, uppercase){
             found.push(s);
         }
     }
-    if(new_word.indexOf("agg") == 0){
+    if(word.indexOf("agg") == 0){
         prefix = "agg";
-        new_word = new_word.replace(/^agg/g, "adg");
+        new_word = word.replace(/^agg/g, "adg");
+        new_word_all = new_word_all.replace(/^agg/g, "adg");
         var sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
             s = sub_found[i];
@@ -53,9 +57,10 @@ function accentify(word, uppercase){
             found.push(s);
         }
     }
-    if(new_word.indexOf("arr") == 0){
+    if(word.indexOf("arr") == 0){
         prefix = "arr";
-        new_word = new_word.replace(/^arr/g, "adr");
+        new_word = word.replace(/^arr/g, "adr");
+        new_word_all = new_word_all.replace(/^arr/g, "adr");
         var sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
             s = sub_found[i];
@@ -65,9 +70,10 @@ function accentify(word, uppercase){
             found.push(s);
         }
     }
-    if(new_word.indexOf("ex") == 0 && new_word.indexOf("s") != 2){
+    if(word.indexOf("ex") == 0 && word.indexOf("s") != 2){
         prefix = "ex";
-        new_word = new_word.replace(/^ex/g, "exs");
+        new_word = word.replace(/^ex/g, "exs");
+        new_word_all = new_word_all.replace(/^ex/g, "exs");
         var sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
             s = sub_found[i];
@@ -81,9 +87,10 @@ function accentify(word, uppercase){
     var encl = ["que", "ne", "ve", "dam", "quam", "libet"];
     for(var i = 0; i < encl.length; i++){
         var e = encl[i];
-        if(new_word.length > e.length && new_word.indexOf(e) == new_word.length - e.length){
+        if(word.length > e.length && word.indexOf(e) == word.length - e.length){
             var enclitic = e;
-            new_word = new_word.substring(0, new_word.indexOf(e));
+            new_word = word.substring(0, word.indexOf(e));
+            new_word_all = new_word_all.substring(0, new_word_all.indexOf(e));
             var sub_found = search_quantified(new_word);
             for(var i = 0; i < sub_found.length; i++){
                 s = sub_found[i];
@@ -95,14 +102,17 @@ function accentify(word, uppercase){
         }
     }
     // J? If the word begins with a "i" (or "I") + vowel, or contains a "i" between 2 vowels, then replace it with "j" (or "J"):
-    var new_word_origin = new_word;
-    var regex_i = /^i([aeiouy])/g;
-    new_word = new_word.replace(regex_i, "j$1");
-    var regex_I = /^I([aeiouy])/g;
-    new_word = new_word.replace(regex_I, "J$1");
+    var new_word = word;
+    var regex = /^i([aeiouy])/g;
+    new_word = new_word.replace(regex, "j$1");
+    new_word_all = new_word_all.replace(regex, "j$1");
+    var regex = /^I([aeiouy])/g;
+    new_word = new_word.replace(regex, "J$1");
+    new_word_all = new_word_all.replace(regex, "J$1");
     var regex = /([aeiouy])i([aeiouy])/g;
     new_word = new_word.replace(regex, "$1j$2");
-    if(new_word != new_word_origin){
+    new_word_all = new_word_all.replace(regex, "$1j$2");
+    if(new_word != word){
         with_j = true;
         var sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
@@ -114,7 +124,7 @@ function accentify(word, uppercase){
         }
     }
     // Finally, retry with all the possibilities together:
-    var sub_found = search_quantified(new_word);
+    var sub_found = search_quantified(new_word_all);
     for(var i = 0; i < sub_found.length; i++){
         s = sub_found[i];
         if(s != ""){
