@@ -172,6 +172,14 @@ function accentify(word, uppercase){
             }
         }
     }
+    // Words in "-cumque":
+    if(/..*cumque/.test(word)){
+        found.push(word.replace("cumque", "cūmque"));
+    }
+    // Words in "-emetips-":
+    if(/..*emetips..*/.test(word)){
+        found.push(word.replace("emetips", "emetīps"));
+    }
 
     if(found.length == 0){
         if(word.search(/[!?:;]/) == -1 && count_vowels(word) > 2){
