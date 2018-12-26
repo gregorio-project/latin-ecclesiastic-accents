@@ -17,19 +17,18 @@ function accentify(word, uppercase){
     var prefix = "";
     var enclitic = "";
     var with_j = false;
+    var sub_found = [];
     // Uppercase? Set to lowercase:
     if(uppercase){
         new_word = to_lowercase(word);
         new_word_all = to_lowercase(new_word_all);
-        var sub_found = search_quantified(new_word);
-        if(sub_found.length > 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ""){
-                    s = to_uppercase(s);
-                }
-                found.push(s);
+        sub_found = search_quantified(new_word);
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
+            if(s != ""){
+                s = to_uppercase(s);
             }
+            found.push(s);
         }
     }
     // Prefix? Replace it:
@@ -37,60 +36,52 @@ function accentify(word, uppercase){
         prefix = "aff";
         new_word = word.replace(/^aff/g, "adf");
         new_word_all = new_word_all.replace(/^aff/g, "adf");
-        var sub_found = search_quantified(new_word);
-        if(sub_found.length > 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ""){
-                    s = s.replace(/^([āă])df/g, "$1ff");
-                }
-                found.push(s);
+        sub_found = search_quantified(new_word);
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
+            if(s != ""){
+                s = s.replace(/^([āă])df/g, "$1ff");
             }
+            found.push(s);
         }
     }
     if(word.indexOf("agg") == 0){
         prefix = "agg";
         new_word = word.replace(/^agg/g, "adg");
         new_word_all = new_word_all.replace(/^agg/g, "adg");
-        var sub_found = search_quantified(new_word);
-        if(sub_found.length > 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ""){
-                    s = s.replace(/^([āă])dg/g, "$1gg");
-                }
-                found.push(s);
+        sub_found = search_quantified(new_word);
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
+            if(s != ""){
+                s = s.replace(/^([āă])dg/g, "$1gg");
             }
+            found.push(s);
         }
     }
     if(word.indexOf("arr") == 0){
         prefix = "arr";
         new_word = word.replace(/^arr/g, "adr");
         new_word_all = new_word_all.replace(/^arr/g, "adr");
-        var sub_found = search_quantified(new_word);
-        if(sub_found.length > 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ""){
-                    s = s.replace(/^([āă])dr/g, "$1rr");
-                }
-                found.push(s);
+        sub_found = search_quantified(new_word);
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
+            if(s != ""){
+                s = s.replace(/^([āă])dr/g, "$1rr");
             }
+            found.push(s);
         }
     }
     if(word.indexOf("ex") == 0 && word.indexOf("s") != 2){
         prefix = "ex";
         new_word = word.replace(/^ex/g, "exs");
         new_word_all = new_word_all.replace(/^ex/g, "exs");
-        var sub_found = search_quantified(new_word);
-        if(sub_found.length > 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ""){
-                    s = s.replace(/^([ēĕ])xs/g, "$1x");
-                }
-                found.push(s);
+        sub_found = search_quantified(new_word);
+        for(var i = 0; i < sub_found.length; i++){
+            s = sub_found[i];
+            if(s != ""){
+                s = s.replace(/^([ēĕ])xs/g, "$1x");
             }
+            found.push(s);
         }
     }
     // Enclitic? Delete it:
@@ -101,15 +92,13 @@ function accentify(word, uppercase){
             var enclitic = e;
             new_word = word.substring(0, word.indexOf(e));
             new_word_all = new_word_all.substring(0, new_word_all.indexOf(e));
-            var sub_found = search_quantified(new_word);
-            if(sub_found.length > 0){
-                for(var i = 0; i < sub_found.length; i++){
-                    s = sub_found[i];
-                    if(s != ""){
-                        s = last_long(s) + enclitic;
-                    }
-                    found.push(s);
+            sub_found = search_quantified(new_word);
+            for(var j = 0; j < sub_found.length; j++){
+                s = sub_found[j];
+                if(s != ""){
+                    s = last_long(s) + enclitic;
                 }
+                found.push(s);
             }
         }
     }
@@ -126,50 +115,46 @@ function accentify(word, uppercase){
     new_word_all = new_word_all.replace(regex, "$1j$2");
     if(new_word != word){
         with_j = true;
-        var sub_found = search_quantified(new_word);
-        if(sub_found.length > 0){
-            for(var i = 0; i < sub_found.length; i++){
-                s = sub_found[i];
-                if(s != ""){
-                    s = s.replace("j", "i").replace("J", "I");
-                }
-                found.push(s);
-            }
-        }
-    }
-    // Finally, retry with all the possibilities together:
-    var sub_found = search_quantified(new_word_all);
-    if(sub_found.length > 0){
+        sub_found = search_quantified(new_word);
         for(var i = 0; i < sub_found.length; i++){
             s = sub_found[i];
             if(s != ""){
-                if(uppercase){
-                    s = to_uppercase(s);
-                }
-                if(prefix != ""){
-                    switch(prefix){
-                        case "aff":
-                            s = s.replace(/^([āă])df/g, "$1ff");
-                        break;
-                        case "agg":
-                            s = s.replace(/^([āă])dg/g, "$1gg");
-                        break;
-                        case "arr":
-                            s = s.replace(/^([āă])dr/g, "$1rr");
-                        break;
-                        case "ex":
-                            s = s.replace(/^([ēĕ])xs/g, "$1x");
-                        break;
-                    }
-                }
-                if(enclitic != ""){
-                    s = last_long(s) + enclitic;
-                }
-                if(with_j){
-                    s = s.replace("j", "i").replace("J", "I");
-                }
-                found.push(s);
+                s = s.replace("j", "i").replace("J", "I");
             }
+            found.push(s);
+        }
+    }
+    // Finally, retry with all the possibilities together:
+    sub_found = search_quantified(new_word_all);
+    for(var i = 0; i < sub_found.length; i++){
+        s = sub_found[i];
+        if(s != ""){
+            if(uppercase){
+                s = to_uppercase(s);
+            }
+            if(prefix != ""){
+                switch(prefix){
+                    case "aff":
+                        s = s.replace(/^([āă])df/g, "$1ff");
+                    break;
+                    case "agg":
+                        s = s.replace(/^([āă])dg/g, "$1gg");
+                    break;
+                    case "arr":
+                        s = s.replace(/^([āă])dr/g, "$1rr");
+                    break;
+                    case "ex":
+                        s = s.replace(/^([ēĕ])xs/g, "$1x");
+                    break;
+                }
+            }
+            if(enclitic != ""){
+                s = last_long(s) + enclitic;
+            }
+            if(with_j){
+                s = s.replace("j", "i").replace("J", "I");
+            }
+            found.push(s);
         }
     }
     // Words in "-cumque":
