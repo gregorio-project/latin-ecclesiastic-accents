@@ -125,6 +125,9 @@ Ex:
 - *thēsaurizō* → *thesaurízo*
 - *exstinguō* → *exstínguo*
 - *călăthus* → *cálathus*
+- *hărŭ-spēx* → *harúspex*
+- *āntĕ-stō̆* → *antésto*
+- *āntĭ-stēs* → *antístes*
 
 Option 3 is usually taken for prose accentuation (ex. *génitrix*, *séptuplum*, *ónagri*, *vólucres*), but inconsistenly in hymns (ex. *intégrum*, *tenébræ* in hymns).
 
