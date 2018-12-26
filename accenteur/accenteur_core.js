@@ -165,6 +165,10 @@ function accentify(word, uppercase){
     if(/..*emetips..*/.test(word)){
         found.push(word.replace("emetips", "emetīps"));
     }
+    // Words in "-familias":
+    if(/..*familias/.test(word)){
+        found.push(word.replace("familias", "familĭas"));
+    }
 
     if(found.length == 0){
         if(word.search(/[!?:;]/) == -1 && count_vowels(word) > 2){
