@@ -38,51 +38,53 @@ $("document").ready(function(){
             // On hover on multiple choice, propose to choose:
             $("span.red").on({
                 mouseover: function(e){
-                    $("#choice_dialog").dialog({
-                        autoOpen: false,
-                        position: {my: "left top", at: "left bottom", of: e.target},
-                        title: "Elige tibi formam:",
-                    });
-                    var span_choice = $(this).parent();
-                    var word_left = span_choice.text().split("?")[0];
-                    var word_right = span_choice.text().split("?")[1];
-                    $("#choice_dialog").html(choice_html(word_left, word_right));
-                    $("#choice_dialog").dialog("open");
+                    if($(this).text().indexOf("?") != -1){
+                        $("#choice_dialog").dialog({
+                            autoOpen: false,
+                            position: {my: "left top", at: "left bottom", of: e.target},
+                            title: "Elige tibi formam:",
+                        });
+                        var span_choice = $(this).parent();
+                        var word_left = span_choice.text().split("?")[0];
+                        var word_right = span_choice.text().split("?")[1];
+                        $("#choice_dialog").html(choice_html(word_left, word_right));
+                        $("#choice_dialog").dialog("open");
 
-                    // On validation of choice:
-                    $("#validate_choice").click(function(){
-                        var word_left = $("#choice_dialog").find("#word_left").val();
-                        var word_right = $("#choice_dialog").find("#word_right").val();
-                        var choice = $(":checked[name='word']").attr("id");
-                        var word = $(":checked[name='word']").val();
-                        var where = $(":checked[name='where']").val();
-                        var regex = new RegExp("(" + word_left + ")\\?(" + word_right + ")", "g");
-                        if(where == "ibi"){
-                            if(choice == "word_left"){
-                                span_choice.text(span_choice.text().replace(regex, "$1"));
+                        // On validation of choice:
+                        $("#validate_choice").click(function(){
+                            var word_left = $("#choice_dialog").find("#word_left").val();
+                            var word_right = $("#choice_dialog").find("#word_right").val();
+                            var choice = $(":checked[name='word']").attr("id");
+                            var word = $(":checked[name='word']").val();
+                            var where = $(":checked[name='where']").val();
+                            var regex = new RegExp("(" + word_left + ")\\?(" + word_right + ")", "g");
+                            if(where == "ibi"){
+                                if(choice == "word_left"){
+                                    span_choice.text(span_choice.text().replace(regex, "$1"));
+                                }
+                                else{
+                                    span_choice.text(span_choice.text().replace(regex, "$2"));
+                                }
                             }
                             else{
-                                span_choice.text(span_choice.text().replace(regex, "$2"));
+                                if(choice == "word_left"){
+                                    $("span.double").each(function(){
+                                        if(regex.test($(this).text())){
+                                            $(this).text($(this).text().replace(regex, "$1"));
+                                        }
+                                    });
+                                }
+                                else{
+                                    $("span.double").each(function(){
+                                        if(regex.test($(this).text())){
+                                            $(this).text($(this).text().replace(regex, "$2"));
+                                        }
+                                    });
+                                }
                             }
-                        }
-                        else{
-                            if(choice == "word_left"){
-                                $("span.double").each(function(){
-                                    if(regex.test($(this).text())){
-                                        $(this).text($(this).text().replace(regex, "$1"));
-                                    }
-                                });
-                            }
-                            else{
-                                $("span.double").each(function(){
-                                    if(regex.test($(this).text())){
-                                        $(this).text($(this).text().replace(regex, "$2"));
-                                    }
-                                });
-                            }
-                        }
-                        $("#choice_dialog").dialog("destroy");
-                    });
+                            $("#choice_dialog").dialog("destroy");
+                        });
+                    }
                 }
             });
         }
