@@ -9,13 +9,13 @@ The goal is to have some documentation about accentuation for prose, and a corpu
 
 - [doc/accentuation-rules.md](doc/accentuation-rules.md) contains the rules for accentuating prose.
 - [corpus/](corpus) contains a corpus of accentuated texts.
-- [accenteur/](accenteur) is a little web application to accent a latin text.
 
 
-## Bibliography
+## Bibliography and links
 
 - *Te Decet Hymnus* by Anselmo Lentini, 1984, which is the primary and official source for post-Vatican II hymns
 - *The Hymns of the Breviary and Missal* by Matthew Britt, 1922, availble on [archive.org](https://archive.org/details/HymnsOfTheBreviaryAndMissal)
+- [Accenteur](https://github.com/BrRoman/accenteur): a simple Javascript webpage to automatically accentuate latin texts ([demo](https://brroman.github.io/accenteur/)).
 
 
 ## Thanks
@@ -28,7 +28,6 @@ This work would not have been possible without the following persons/institution
 - M. Philippe Verkerk and M. Yves Ouvrard, for helping us directly and through [collatinus](http://outils.biblissima.fr/collatinus/)
 - Jakub Jelinek, for his great help on corpus treatment
 - the Abbey of Le Barroux (FR)
-- the team of [Collatinus](https://github.com/biblissima/collatinus)
 
 
 ## Licence
