@@ -215,7 +215,7 @@ The 'a' is short, so accent the antepenultimate:
 
 
 #### • -im, -oth (hebrew plural forms) make short the penultimate, so accent the antepenultimate:
-*Séraphim, Láomim, Sábaoth, Lápidoth*
+*Séraphim, Láomim, Sábaoth, Lápidoth, Anathoth*
 
 
 ### Rules not yet certain:
