@@ -225,8 +225,7 @@ The 'a' is short, so accent the antepenultimate:
 
 #### • Abi- : ? (*Abiron, Abísag*).
 
+#### • -bee : always -bée? (*Bersabée, Arbée*).
+
 #### • -ia in one syllabe? (*Banáias, Ióiada, Ióiarib*).
-
-
-
 
