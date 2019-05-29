@@ -197,7 +197,7 @@ The 'a' of 'aim' is short, so accent the antepenultimate:
 
 #### • -ezer (in the sense of "help"):
 The first 'e' is long, so accent the penultimate:
-*Eliézer*
+*Eliézer, Ahiézer*
 
 
 #### • -ee:
