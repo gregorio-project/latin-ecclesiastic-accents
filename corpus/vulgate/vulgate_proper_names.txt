@@ -466,7 +466,7 @@ Ascalónis
 Ascalonítas
 Ascenez
 Asébaim
-Asédoth
+Asedoth
 Asemóna
 Asena
 Asénaphar
@@ -2307,7 +2307,7 @@ Morásthi
 Morasthíten
 Mória
 Moséra
-Moséroth
+Móseroth
 Mosóbab
 Mosóllam
 Mosollamía
@@ -2710,7 +2710,6 @@ Rógelim
 Rogómmelech
 Rohobía
 Rohobíæ
-Rohóboth
 Róhoboth
 Románi
 Románis
