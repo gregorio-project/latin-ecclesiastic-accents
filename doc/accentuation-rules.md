@@ -211,8 +211,7 @@ The 'a' is short, so accent the antepenultimate:
 
 
 #### • -ath, -eth, -ith seem to make short the penultimate, so accent the antepenultimate:
-*Básemath, Iósabeth, Sálomith*
-Exception (?): *Hevílath*
+*Básemath, Iósabeth, Sálomith, Hévilath*
 
 
 #### • -im, -oth (hebrew plural forms) make short the penultimate, so accent the antepenultimate:
