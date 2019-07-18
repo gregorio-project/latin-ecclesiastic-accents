@@ -230,11 +230,13 @@ The 'i' of 'iel' is short, so accent the antepenultimate:
 *Melchíram*
 
 
+### Exceptions(?):
+*Bahúrim*
 
 ### Rules not yet certain:
 
 
-#### • -ai : ? (*Thólmai, Adonái, Berzellái*, several names in Esd ch. 2).
+#### • -ai : ? (*Thólmai, Adonái, Berzellái, Ethai, Chúsai*, several names in Esd ch. 2).
 
 #### • -bee : always -bée? (*Bersabée, Arbée*).
 
