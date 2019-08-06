@@ -490,7 +490,7 @@ Assuéri
 Assuéro
 Assuérum
 Assuérus
-Assúrim
+Assurim
 Assýrii
 Assýriis
 Assýrio
@@ -2192,7 +2192,6 @@ Médiæ
 Médiam
 Medórum
 Meétabel
-Méetabel
 Megphías
 Méhusim
 Meiárcon
