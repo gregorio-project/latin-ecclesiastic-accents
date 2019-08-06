@@ -20,7 +20,7 @@ Following W.S. Allen and R. Morisset, we distinguish the length of a vowels from
 
 #### General considerations
 
-Placing accents on a text is not an easy task. It depends on syllable quantities, depending on vowel length; and vowel length are not the same accross regions and periods. So a particular text may use vowel length differing from those one can find in a dictionnary such as the *Dictionnaire Illustré Latin-Français* by Félix Gaffiot or the Lewis & Short *A Latin Dictionary*. 
+Placing accents on a text is not an easy task. It depends on syllable quantities, depending on vowel length; and vowel length are not the same accross regions and periods. So a particular text may use vowel length differing from those one can find in a dictionnary such as the *Dictionnaire Illustré Latin-Français* by Félix Gaffiot or the Lewis & Short *A Latin Dictionary*.
 
 As an example of such discrepancy, the word *Moyses* is given with a diphtongue *oy* in *L&S*, while in liturgical texts it is a long *o* followed by a short *y* in two different syllables. In this case, there would be no accents according to *L&S* (because the word is two syllables only), and it would be accented *Móyses* in a liturgical book.
 
@@ -41,7 +41,7 @@ The following rules describe the way to note accents once we know for sure the s
 
 #### Rule 1
 
-Words of one or two syllables have no accent. 
+Words of one or two syllables have no accent.
 
 Please remember that we are talking here exclusively about accent notation, not the way to prononce Latin, in which words of two syllables are accentuated on the first syllable.
 
@@ -119,7 +119,7 @@ If the syllable does not contain a long vowel or a dipthongue, then if its last 
 
 then the syllable is long by position.
 
-Ex: 
+Ex:
 - *crŭcīfīxus* → *crucifíxus*
 - *alicúius*
 - *thēsaurizō* → *thesaurízo*
@@ -136,7 +136,7 @@ Option 3 is usually taken for prose accentuation (ex. *génitrix*, *séptuplum*,
 
 If a syllable does not fit in any other rule, then it is short.
 
-Ex: 
+Ex:
 - *dēsīdĕrō* → *desídero*
 - *dēsŭpĕr* → *désuper*
 - *cōnfĭtĕor* → *confíteor*
@@ -185,6 +185,11 @@ The 'a' of 'aim' is short, so accent the antepenultimate:
 
 #### • -ath, -eth, -ith seem to make short the penultimate, so accent the antepenultimate:
 *Básemath, Hévilath, Iósabeth, Sálomith*
+
+
+#### • Ben- (in the sense of "son"):
+If the 'e' is the antepenultimate, 'Beth-' seems to attract the accent on the 'e' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
+*Bénadad, Béniamin*
 
 
 #### • Beth- (in the sense of "house"):
@@ -240,5 +245,5 @@ The 'i' of 'iel' is short, so accent the antepenultimate:
 
 #### • -bee : always -bée? (*Bersabée, Arbée*).
 
-#### • -ia in one syllabe? (*Banáias, Ióiada, Ióiarib*).
+#### • -ia in one syllabe? (*Banáias, Ióiada, Ióiarib, Béniamin*).
 
