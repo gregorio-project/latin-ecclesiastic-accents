@@ -115,7 +115,6 @@ Adónai
 Adonía
 Adoníæ
 Adoníam
-Adoniámque
 Adonías
 Adoníbezec
 Adónicam
@@ -301,7 +300,6 @@ Anámim
 Anani
 Ananía
 Ananíæ
-Ananiǽque
 Ananíam
 Ananías
 Anathoth
@@ -430,7 +428,6 @@ Aroer
 Arorítes
 Arphasachǽi
 Arpháxad
-Arreptísque
 Arsacem
 Arsaces
 Arsáci
@@ -487,7 +484,6 @@ Asrael
 Asriel
 Asrielitárum
 Assedim
-Assensíque
 Assidǽi
 Assidæórum
 Assuéri
@@ -859,7 +855,6 @@ Cenezǽum
 Cenezǽus
 Cénneroth
 Cephíra
-Cepítque
 Cerethǽos
 Ceréthi
 Ceseléththabor
@@ -895,7 +890,6 @@ Chananǽo
 Chananæórum
 Chananǽos
 Chananǽum
-Chananæúmque
 Chananǽus
 Chánani
 Chananítide
@@ -1491,7 +1485,6 @@ Hevǽi
 Hevǽis
 Hevǽos
 Hevǽum
-Hevæúmque
 Hevǽus
 Hevíla
 Hévilath
@@ -1911,7 +1904,6 @@ Iósue
 Ióta
 Iovem
 Iovis
-Iovísque
 Iózabad
 Iózabed
 Isaac
@@ -1942,7 +1934,6 @@ Ismahélis
 Ismahelítæ
 Ismahelítes
 Ismiel
-Isque
 Israel
 Israélem
 Israéli
@@ -1990,7 +1981,6 @@ Iudáico
 Iudaicórum
 Iudaísmo
 Iudam
-Iudámque
 Iudas
 Iudi
 Iudícia
@@ -3183,7 +3173,6 @@ Týchicus
 Typhónem
 Týrii
 Týriis
-Tyriísque
 Týrio
 Tyriórum
 Týrius
