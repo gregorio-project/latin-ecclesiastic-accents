@@ -165,17 +165,13 @@ The 'a' is short, so accent the antepenultimate:
 
 
 #### • Abi- (in the sense of "father of" or "my father is"):
-- If the 'i' is the antepenultimate, 'Abi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
+If the 'i' is the antepenultimate, 'Abi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Abínoem, Abísue*
-- If the 'i' is the penultimate, it is long. In this case accent the penultimate:
-*Abíron, Abísag*
 
 
 #### • Achi-, Ahi- (in the sense of "brother of"):
-- If the 'i' is the antepenultimate, 'Ahi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
+If the 'i' is the antepenultimate, 'Ahi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Ahíalon, Achítophel*
-- If the 'i' is the penultimate, it is long. In this case accent the penultimate:
-*Ahíra*
 
 
 #### • -aim:
@@ -203,10 +199,8 @@ The first 'e' is long, so accent the penultimate:
 
 
 #### • Eli- (in the sense of "my God"):
-- If the 'i' is the antepenultimate, 'Eli-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
+If the 'i' is the antepenultimate, 'Eli-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Elímelech, Elísabeth, Elíada, Elíacim*
-- If the 'i' is the penultimate, it is long. In this case accent the penultimate:
-*Elísa*
 
 
 #### • -ezer (in the sense of "help"):
@@ -240,10 +234,14 @@ The 'i' of 'iel' is short, so accent the antepenultimate:
 
 ### Rules not yet certain:
 
+#### • Abi-, Achi-, Ahi-, Eli-.
+If the 'i' is the penultimate (else see above), sometimes it is short:
+*Abiel, Achitob, Eliel*
+And sometimes it is long:
+*Ahíra, Abíron, Abísag, Elísa*
 
 #### • -ai : ? (*Thólmai, Adonái, Berzellái, Ethai, Chúsai*, several names in Esd ch. 2).
 
 #### • -bee : always -bée? (*Bersabée, Arbée*).
 
-#### • -ia in one syllabe? (*Banáias, Ióiada, Ióiarib, Béniamin*).
-
+#### • -ia: is sometime one syllabe and sometime not? (*Banáias, Ióiada, Ióiarib, Béniamin*).
