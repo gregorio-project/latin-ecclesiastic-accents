@@ -170,8 +170,10 @@ If the 'i' is the antepenultimate, 'Abi-' seems to attract the accent on the 'i'
 
 
 #### • Achi-, Ahi- (in the sense of "brother of"):
+If the 'i' is the penultimate, the 'i' is breve. So accent the antepenultimate:
+*Achitob, Ahicam*
 If the 'i' is the antepenultimate, 'Ahi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
-*Ahíalon, Achítophel*
+*Achítophel, Ahíalon*
 
 
 #### • -aim:
