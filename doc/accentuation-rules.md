@@ -165,6 +165,9 @@ The 'a' is short, so accent the antepenultimate:
 
 
 #### • Abi- (in the sense of "father of" or "my father is"):
+If the 'i' is the penultimate, the 'i' is breve. So accent the antepenultimate:
+*Abisag, Abiud*
+
 If the 'i' is the antepenultimate, 'Abi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Abínoem, Abísue*
 
@@ -172,6 +175,7 @@ If the 'i' is the antepenultimate, 'Abi-' seems to attract the accent on the 'i'
 #### • Achi-, Ahi- (in the sense of "brother of"):
 If the 'i' is the penultimate, the 'i' is breve. So accent the antepenultimate:
 *Achitob, Ahicam*
+
 If the 'i' is the antepenultimate, 'Ahi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Achítophel, Ahíalon*
 
@@ -227,6 +231,7 @@ The 'i' of 'iel' is short, so accent the antepenultimate:
 #### • Melchi- (in the sense of "king of" or "my king is"):
 - If the 'i' is the antepenultimate, 'Melchi-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Melchísedech, Melchísua*
+
 - If the 'i' is the penultimate, it is long. In this case accent the penultimate:
 *Melchíram*
 
@@ -235,12 +240,6 @@ The 'i' of 'iel' is short, so accent the antepenultimate:
 *Bahúrim*
 
 ### Rules not yet certain:
-
-#### • Abi-, Achi-, Ahi-, Eli-.
-If the 'i' is the penultimate (else see above), sometimes it is short:
-*Abiel, Achitob, Eliel*
-And sometimes it is long:
-*Ahíra, Abíron, Abísag, Elísa*
 
 #### • -ai : ? (*Thólmai, Adonái, Berzellái, Ethai, Chúsai*, several names in Esd ch. 2).
 
