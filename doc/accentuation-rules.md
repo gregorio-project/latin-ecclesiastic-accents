@@ -204,6 +204,10 @@ The first 'e' is long, so accent the penultimate:
 *Bersabée, Gabée*
 
 
+#### • -el:
+See '-iel'.
+
+
 #### • Eli- (in the sense of "my God"):
 If the 'i' is the antepenultimate, 'Eli-' seems to attract the accent on the 'i' (or to make short the penultimate, which boils down to the same thing). So accent the antepenultimate:
 *Elímelech, Elísabeth, Elíada, Elíacim*
@@ -221,7 +225,7 @@ Accent the penultimate:
 
 #### • -iel (in the sense of "of God"):
 The 'i' of 'iel' is short, so accent the antepenultimate:
-*Gábriel, Dániel, Ariel*
+*Gábriel, Dániel, Ariel, Eliel*
 
 
 #### • -im, -oth (hebrew plural forms) make short the penultimate, so accent the antepenultimate:
