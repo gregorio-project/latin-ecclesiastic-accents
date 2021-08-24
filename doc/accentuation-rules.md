@@ -245,4 +245,4 @@ The 'i' of 'iel' is short, so accent the antepenultimate:
 
 #### • -bee : always -bée? (*Bersabée, Arbée*).
 
-#### • -ia: is sometime one syllabe and sometime not? (*Banáias, Ióiada, Ióiarib, Béniamin*).
+#### • -ia: is sometimes one syllable and sometimes not? (*Banáias, Ióiada, Ióiarib, Béniamin*).
