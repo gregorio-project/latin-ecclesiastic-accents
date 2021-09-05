@@ -9,7 +9,7 @@ The goal is to have some documentation about accentuation for prose, and a corpu
 
 - [doc/accentuation-rules.md](doc/accentuation-rules.md) contains the rules for accentuating prose.
 - [corpus/](corpus) contains a corpus of accentuated texts.
-- [accenteur/](accenteur): a simple Javascript webpage to automatically accentuate latin texts ([demo here](https://brroman.github.io/accenteur/)).
+- [accenteur/](https://github.com/BrRoman/accenteur/tree/91823fe07b269189e8c0dd87a39caefdc1052c7d): a simple Javascript webpage to automatically accentuate latin texts ([demo here](https://brroman.github.io/accenteur/)).
 
 
 ## Bibliography and links
