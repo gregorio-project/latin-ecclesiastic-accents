@@ -1,0 +1,3 @@
+[submodule "accenteur"]
+	path = accenteur
+	url = https://github.com/BrRoman/accenteur
