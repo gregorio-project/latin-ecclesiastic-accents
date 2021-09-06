@@ -1,3 +1,6 @@
 [submodule "accenteur"]
 	path = accenteur
 	url = https://github.com/BrRoman/accenteur
+[submodule "corpus/de_imitatione_christi"]
+	path = corpus/de_imitatione_christi
+	url = https://github.com/BrRoman/de_imitatione_christi
