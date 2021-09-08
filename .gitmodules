@@ -4,3 +4,6 @@
 [submodule "corpus/de_imitatione_christi"]
 	path = corpus/de_imitatione_christi
 	url = https://github.com/BrRoman/de_imitatione_christi
+[submodule "corpus/vulgate"]
+	path = corpus/vulgate
+	url = https://github.com/BrRoman/vulgate
